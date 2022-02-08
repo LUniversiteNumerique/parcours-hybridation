@@ -167,15 +167,15 @@ years:
           volume: 
           url: "https://unisciel.org/r/221.2470/65/ch_ensembles.pdf"
         - name: "Logique, ensembles, raisonnements"
-          type: "TP, exercices, test de positionnement"
+          type: "TP, excercice, quiz"
           volume: 
           url: "https://unisciel.org/r/221.2470/29/fic00002.pdf"
         - name: "Logique, ensembles raisonnements (exercices et corrections filmées)"
-          type: "TP, exercices, test de positionnement"
+          type: "TP, excercice, quiz"
           volume: 
           url: "https://unisciel.org/r/2www.17-u.tv/themes/sciences_fondamentales/6/algebre/logique_ensemble_raisonnement_exercices"
         - name: "Dénombrement"
-          type: "TP, exercices, test de positionnement"
+          type: "TP, excercice, quiz"
           volume: 
           url: "https://unisciel.org/r/221.2470/29/fic00005.pdf"
     - name: "Algèbre linéaire"
@@ -197,23 +197,23 @@ years:
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
         - name: "Matrices"
-          type: "TP, exercices, quiz"
+          type: "TP, exercice, quiz "
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
         - name: "Réductions des endomorphismes"
-          type: "TP, exercices, quiz"
+          type: "TP, exercice, quiz "
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
         - name: "Réduction des endomorphismes"
-          type: "TP, exercices, quiz"
+          type: "TP, exercice, quiz "
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/14_Reduction_des_endomorphismes/co/14_Reduction_des_endomorphismes_web.html"
         - name: "Systèmes linéaires à coefficients constants"
-          type: "TP, exercices, quiz"
+          type: "TP, exercice, quiz "
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
         - name: "Systèmes linéaires"
-          type: "TP, exercices, quiz"
+          type: "TP, exercice, quiz "
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
     - name: "Nombres complexes"
@@ -336,15 +336,15 @@ years:
       resources: 
         - name: "Méthodologie de travail universitaire pour étudiant"
           type: "Module"
-          volume: 
+          volume: "3h"
           url: "https://unisciel.org/r/3socles3.4/11/12.php0id=144"
         - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
           type: "Module"
-          volume: 
+          volume: "3h"
           url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
         - name: "Appui pour apprendre à apprendre"
           type: "Module"
-          volume: 
+          volume: "26h – 33 modules"
           url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
     - name: "Orthographe scientifique"
       resources: 
@@ -406,7 +406,7 @@ years:
     - name: "Systèmes d’exploitation"
       resources: 
         - name: "À quoi sert un système d’exploitation ?"
-          type: "Grain ou éléments de cours"
+          type: "Grain ou élément de cours"
           volume: "2h30"
           url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6769"
         - name: "Systèmes d’Exploitation : des concepts à la programmation"
@@ -426,7 +426,7 @@ years:
     - name: "Génie logiciel"
       resources: 
         - name: "La naissance du génie logiciel"
-          type: "Grain ou éléments de cours"
+          type: "Grain ou élément de cours"
           volume: "/"
           url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6819"
         - name: "Génie Logiciel : architectures, Composants et Services"
@@ -645,7 +645,7 @@ years:
           url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
         - name: "Lexico"
           type: "Grain ou élément de cours"
-          volume: 
+          volume: "60h"
           url: "https://unisciel.org/r/248.4/"
 
 - name: "3ère année"
@@ -729,7 +729,7 @@ years:
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/65_2a_ece/res/chap3_2010.pdf"
         - name: "OEF Chaînes de Markov"
-          type: "TP, exercices, quiz"
+          type: "TP, exercice, quiz "
           volume: 
           url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/proba/oefmarkov70"
     - name: "Calcul Différentiel"
