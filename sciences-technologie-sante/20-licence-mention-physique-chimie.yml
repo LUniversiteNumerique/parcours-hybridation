@@ -41,7 +41,7 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "OEF Petits tests de programmation"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
   - name: "Suites et séries"
@@ -101,15 +101,15 @@ years:
         volume: 
         url: "https://unisciel.org/r/221.2470/65/ch_ensembles.pdf"
       - name: "Logique, ensembles, raisonnements"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/221.2470/29/fic00002.pdf"
       - name: "Logique, ensembles raisonnements (exercices et corrections filmées)"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2www.17-u.tv/themes/sciences_fondamentales/6/algebre/logique_ensemble_raisonnement_exercices"
       - name: "Dénombrement"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/221.2470/29/fic00005.pdf"
   - name: "Algèbre linéaire"
@@ -131,23 +131,23 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
       - name: "Matrices"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
       - name: "Réductions des endomorphismes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
       - name: "Réduction des endomorphismes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
       - name: "Systèmes linéaires à coefficients constants"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
       - name: "Systèmes linéaires"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
   - name: "Nombres complexes"
@@ -165,23 +165,23 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/43/43_ch09/co/apprendre_ch9_05.html"
       - name: "Nombres complexes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/221.2470/29/fic00001.pdf"
       - name: "Exercices sur les nombres complexes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/iel/exo_complexe/28.html"
       - name: "Ensemble des nombres complexes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/06_Nombres_complexes/co/06_Nombres_complexes_web.html"
       - name: "Exercices d’algèbre"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_algebre/co/27.html"
       - name: "Exercices d’algèbre"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_ecs/co/27.html"
   - name: "Equations différentielles"
@@ -199,23 +199,23 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch01/co/56_ch01.html"
       - name: "Équations différentielles"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/221.2470/29/fic00016.pdf"
       - name: "Travaux pratiques : une équation linéaire du premier ordre"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_03.html"
       - name: "Travaux pratiques : Une équation linéaire du second ordre"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_04.html"
       - name: "Équations différentielles"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/66/13_Equations_differentielles/co/13_Equations_differentielles_web.html"
       - name: "Exercices de calcul différentiel"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/co/27.html"
   - name: "Géométrie"
@@ -245,11 +245,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie du plan"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_geometrie/co/27.html"
       - name: "Sous-variétés"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
   - name: "Optique géométrique"
@@ -279,7 +279,7 @@ years:
         volume: 
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_Couleur.xml"
       - name: "OEF optique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H5/physics/oefoptics70"
   - name: "Mécanique du point"
@@ -313,11 +313,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mécanique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mesure d’un moment d’inertie"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
@@ -325,7 +325,7 @@ years:
         volume: 
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
       - name: "Mécanique des solides"
-        type: "Grains ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "La Physique animée"
@@ -347,11 +347,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Etat de la matière"
@@ -365,11 +365,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/15/51/51/co/51.html"
       - name: "Connaissances de bases en chimie"
-        type: "Grains ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/25.4/38/15/savoir-base/co/Bloc1_15_web.html"
       - name: "Structures chimiques carbonées"
-        type: "Grains ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/25.4/38/15/structure-carbone/co/Bloc_2_15_web.html"
   - name: "Chimie des solutions"
@@ -395,46 +395,42 @@ years:
         volume: 
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=12"
       - name: "Exercices relatifs au calcul de pH des solutions aqueuses"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_16.html"
       - name: "Exercices dédiés aux complexes en solution aqueuse"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_23.html"
       - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
-        type: "Grains ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/23chem"
   - name: "Anglais scientifique"
     resources: 
       - name: "Lexico"
-        type: "Grains ou éléments de cours"
-        volume: 
+        type: "Grain ou élément de cours"
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
   - name: "Méthodologie"
     resources: 
       - name: "Méthodologie de travail universitaire pour étudiant"
         type: "Module"
-        volume: 
+        volume: "3h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=144"
       - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
         type: "Module"
-        volume: 
-        url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
-      - name: ""
-        type: "Module"
-        volume: 
+        volume: "3h"
         url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
       - name: "Appui pour apprendre à apprendre"
-        type: 
-        volume: 
+        type: "Module"
+        volume: "26h"
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
   - name: "Orthographe scientifique"
     resources: 
       - name: "Orthographe scientifique"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "https://unisciel.org/r/2orthographe.4/"
 
 - name: "2ère année"
@@ -580,19 +576,19 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/25/02/cristallo/atlas.pdf"
       - name: "Travaux pratiques de cristallographie 1 : « structure cubique simple du polonium »"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://ressources.unisciel.fr/cristallo/tp1-cubiquesimple/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 2 : « structure cubique centrée du fer »"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://ressources.unisciel.fr/cristallo/tp2-cubiquecentre/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 3 : « structure cubique à face centrée du cuivre »"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://ressources.unisciel.fr/cristallo/tp3-cubiquefacecentree/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 4 : « structure hexagonale compacte du Cobalt »"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://ressources.unisciel.fr/cristallo/tp4-hexagonalcompact/co/module_Cristallographie.html"
       - name: "La chimie par le web – Cristallographie"
@@ -618,7 +614,7 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/25/meca/meca_ch09/co/apprendre_01.html"
       - name: "Oscillateurs"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/ondes_mecaniques/res/osc-couples.pdf"
   - name: "Programmation"
@@ -631,7 +627,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
   - name: "Outils mathématiques"
     resources: 
@@ -687,11 +683,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/25/interf/interf/co/interf.html"
       - name: "Optique ondulatoire"
-        type: "Grains ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/optique_ondulatoire_2a_pcetoile/co/ch00_27_web.html"
       - name: "Ondes et interférences"
-        type: "Grains ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_DVDmichelson.xml"
   - name: "Mécanique des fluides"
@@ -770,7 +766,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
   - name: "Outils mathématiques"
     resources: 
