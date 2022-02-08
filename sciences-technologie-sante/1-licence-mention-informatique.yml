@@ -47,7 +47,7 @@ years:
           volume: 
           url: "https://unisciel.org/r/2e-5.9-avignon70/assembleur/co/65_webUnisciel.html"
         - name: "Apprendre à programmer avec des cartes"
-          type: "Module + TP exercices, quiz"
+          type: "Module + TP exercice, quiz"
           volume: 
           url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
     - name: "Internet et outils"
