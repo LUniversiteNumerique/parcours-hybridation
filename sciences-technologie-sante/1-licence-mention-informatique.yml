@@ -11,7 +11,7 @@ years:
     - name: "Algorithmique et programmation"
       resources: 
         - name: "Socle en informatique"
-          type: "Cours complet ou MOOC**"
+          type: "Cours complet ou MOOC **"
           volume: "33h"
           url: "https://www.fun-campus.fr/fr/cours/socle-en-informatique/"
         - name: "Cfacile : Introduction au langage C"
@@ -47,7 +47,7 @@ years:
           volume: 
           url: "https://unisciel.org/r/2e-5.9-avignon70/assembleur/co/65_webUnisciel.html"
         - name: "Apprendre à programmer avec des cartes"
-          type: "Module + TP exercice, quiz"
+          type: "Module"
           volume: 
           url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
     - name: "Internet et outils"
@@ -65,7 +65,7 @@ years:
           volume: "12h"
           url: "http://www.iutenligne.net/ressources/animation-d-une-page-web-avec-javascript-et-svg.html"
         - name: "Les moteurs de recherche"
-          type: "Grain ou éléments de cours"
+          type: "Grain ou élément de cours"
           volume: "30min"
           url: "https://www.canal-u.tv/producteurs/unittv/les_moteurs_de_recherche"
     - name: "Base de données 1"
@@ -81,7 +81,7 @@ years:
     - name: "Systèmes d’exploitation"
       resources: 
         - name: "À quoi sert un système d’exploitation ?"
-          type: "Grain ou éléments de cours"
+          type: "Grain ou élément de cours"
           volume: "/"
           url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6769"
         - name: "Systèmes d’Exploitation : des concepts à la programmation"
@@ -91,11 +91,11 @@ years:
     - name: "Calculs et mathématiques"
       resources: 
         - name: "Mathématiques : préparation à l’entrée dans l’enseignement supérieur (pour remise à niveau éventuelle)"
-          type: "Cours complet ou MOOC"
+          type: "Cours complet ou MOOC **"
           volume: "25h"
           url: "https://www.fun-campus.fr/fr/cours/mathematiques-preparation-lentree-dans-lenseignement-superieur-s/"
         - name: "Socle en mathématiques"
-          type: "Cours complet ou MOOC"
+          type: "Cours complet ou MOOC **"
           volume: "40h"
           url: "https://www.fun-campus.fr/fr/cours/socle-en-mathematiques/"
         - name: "Fonctions de Plusieurs Variables"
@@ -131,7 +131,7 @@ years:
     - name: "Logique et raisonnement"
       resources: 
         - name: "Introduction à la logique informatique – Partie 1 : calcul propositionnel"
-          type: "Cours complet ou MOOC"
+          type: "Cours complet ou MOOC **"
           volume: "12h"
           url: "https://www.fun-campus.fr/fr/cours/introduction-la-logique-informatique-partie-1-calcul-proposition/"
         - name: "Cours de logique"
@@ -167,15 +167,15 @@ years:
           volume: 
           url: "https://unisciel.org/r/221.2470/65/ch_ensembles.pdf"
         - name: "Logique, ensembles, raisonnements"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, test de positionnement"
           volume: 
           url: "https://unisciel.org/r/221.2470/29/fic00002.pdf"
         - name: "Logique, ensembles raisonnements (exercices et corrections filmées)"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, test de positionnement"
           volume: 
           url: "https://unisciel.org/r/2www.17-u.tv/themes/sciences_fondamentales/6/algebre/logique_ensemble_raisonnement_exercices"
         - name: "Dénombrement"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, test de positionnement"
           volume: 
           url: "https://unisciel.org/r/221.2470/29/fic00005.pdf"
     - name: "Algèbre linéaire"
@@ -197,23 +197,23 @@ years:
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
         - name: "Matrices"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, quiz"
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
         - name: "Réductions des endomorphismes"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, quiz"
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
         - name: "Réduction des endomorphismes"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, quiz"
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/14_Reduction_des_endomorphismes/co/14_Reduction_des_endomorphismes_web.html"
         - name: "Systèmes linéaires à coefficients constants"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, quiz"
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
         - name: "Systèmes linéaires"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, quiz"
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
     - name: "Nombres complexes"
@@ -291,7 +291,7 @@ years:
     - name: "Géométrie"
       resources: 
         - name: "Géométrie analytique"
-          type: "Modules"
+          type: "Module"
           volume: 
           url: "https://unisciel.org/r/2uel.4/6/59/59/co/59.html"
         - name: "Produits scalaires dans l’espace – Droites et plans dans l’espace"
@@ -325,13 +325,9 @@ years:
     - name: "Anglais"
       resources: 
         - name: "Certif’langues – anglais"
-          type: "TD, études de cas"
-          volume: "/"
+          type: "TD, étude de cas"
+          volume: "5h"
           url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
-        - name: "My Sweet Babe"
-          type: " Cours complet ou MOOC"
-          volume: "8h"
-          url: "http://www.uoh.fr/front/notice?id=740176b0-bf38-4872-9bf3-dd7f6a81bf19"
         - name: "Lexico"
           type: "Grain ou élément de cours"
           volume: "60h"
@@ -674,13 +670,13 @@ years:
           type: "Cours complet ou MOOC"
           volume: "21h"
           url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-1501"
-        - name: ""
+        - name: "Les moteurs de recherches"
           type: "Cours complet ou MOOC"
           volume: "28h"
           url: "https://www.canal-u.tv/producteurs/unittv/les_moteurs_de_recherche"
         - name: "Web sémantique et web de données"
-          type: 
-          volume: 
+          type: "Cours complet ou MOOC"
+          volume: "/"
           url: "https://www.canal-u.tv/producteurs/inria/cours_en_ligne/web_semantique_et_web_de_donnees"
     - name: "Réseaux informatiques 3"
       resources: 
@@ -733,7 +729,7 @@ years:
           volume: 
           url: "https://unisciel.org/r/25.4/7/6/65_2a_ece/res/chap3_2010.pdf"
         - name: "OEF Chaînes de Markov"
-          type: "TP, exercice, quiz"
+          type: "TP, exercices, quiz"
           volume: 
           url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/proba/oefmarkov70"
     - name: "Calcul Différentiel"

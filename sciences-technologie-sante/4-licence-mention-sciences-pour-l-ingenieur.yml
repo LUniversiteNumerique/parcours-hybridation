@@ -42,23 +42,23 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
       - name: "Matrices"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
       - name: "Réductions des endomorphismes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
       - name: "Réduction des endomorphismes"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/14_Reduction_des_endomorphismes/co/14_Reduction_des_endomorphismes_web.html"
       - name: "Systèmes linéaires à coefficients constants"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
       - name: "Systèmes linéaires"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
   - name: "Géométrie"
@@ -88,11 +88,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie du plan"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_geometrie/co/27.html"
       - name: "Sous-variétés"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
   - name: "Informatique"
@@ -152,11 +152,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mesure d’un moment d’inertie"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
       - name: "Mécanique des solides"
@@ -182,7 +182,7 @@ years:
         volume: 
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G02/co/NLP_C_M15_G02_web.html"
       - name: "Amplificateur opérationnel"
-        type: "Grain ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G03/co/NLP_C_M15_G03_web.html"
       - name: "Physique et simulations numériques : électronique"
@@ -202,11 +202,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Chimie"
@@ -236,11 +236,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=12"
       - name: "Exercices relatifs au calcul de pH des solutions aqueuses"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_16.html"
       - name: "Exercices dédiés aux complexes en solution aqueuse"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_23.html"
       - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
@@ -301,26 +301,14 @@ years:
         url: "https://unisciel.org/r/2phymain.4/category/chaleur/"
   - name: "Anglais"
     resources: 
-      - name: "English for professional communication"
-        type: "Module"
-        volume: "8h"
-        url: "https://moodle.insa-rouen.fr/course/view.php?id=407"
-      - name: "Presentation Plus"
-        type: "Module"
-        volume: "60h"
-        url: "https://imedia.imt-atlantique.fr/presentation/co/mod_web.html"
       - name: "Lexico"
         type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/248.4/"
       - name: "Certif’langues – anglais"
-        type: "TD, études de cas"
-        volume: 
+        type: "TD, étude de cas"
+        volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
-      - name: "My Sweet Babe"
-        type: "Cours complet ou MOOC"
-        volume: 
-        url: "http://www.uoh.fr/front/notice?id=740176b0-bf38-4872-9bf3-dd7f6a81bf19"
   - name: "Méthodologie du travail universitaire / expression écrite et orale"
     resources: 
       - name: "Méthodologie de travail universitaire pour étudiant"
@@ -336,19 +324,19 @@ years:
         volume: "26h – 33 modules"
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
       - name: "Fiche Synoptique de Synthèse : structure et composition"
-        type: "Grain ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: "24h – 30 modules"
         url: "http://rainet.telecom-lille.fr/unit/FSS/S1/frame_cs_fss_s1.html"
       - name: "Fiche Synoptique de Synthèse : Quelques exemples de FSS (VS2I : Veille Stratégique, Intelligence et Innovation)"
-        type: "Grain ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: "12h"
         url: "http://rainet.telecom-lille.fr/unit/FSS/S2/frame_cs_fss_s2.html"
       - name: "J’améliore mon français écrit"
-        type: "Modules"
+        type: "Module"
         volume: 
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
-        type: "Modules"
+        type: "Module"
         volume: 
         url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
       - name: "Renforcer ses compétences orthographiques"
@@ -379,10 +367,7 @@ years:
         type: "Cours complet ou MOOC**"
         volume: "12h"
         url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
-      - name: "Soyez acteurs du Web !"
-        type: 
-        volume: 
-        url: "https://moodle.univ-numerique.fr/course/view.php?id=7"
+
 
 - name: "2ère année"
   ue:
@@ -443,7 +428,7 @@ years:
         volume: 
         url: "https://unisciel.org/r/2uel.4/25/meca/meca_ch09/co/apprendre_01.html"
       - name: "Oscillateurs"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/ondes_mecaniques/res/osc-couples.pdf"
   - name: "Thermodynamique et cinétique chimique"
@@ -453,7 +438,7 @@ years:
         volume: "1h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6967"
       - name: "Transferts thermiques et diffusion de particules"
-        type: "Grain ou éléments de cours"
+        type: "Grain ou élément de cours"
         volume: "25h"
         url: "http://olivier.granier.free.fr/MOOC/co/racine_Preparer_oral_4.html"
       - name: "Cours de transferts thermiques"
@@ -561,7 +546,7 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "OEF Petits tests de programmation"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
   - name: "Mathématiques pour les études scientifiques 2"
@@ -684,7 +669,7 @@ years:
         volume: 
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6391"
       - name: "MATLAB, pour la résolution de problèmes numériques"
-        type: "/"
+        type: "Cours complet ou MOOC "
         volume: 
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
   - name: "Mécanique des fluides"
@@ -742,11 +727,11 @@ years:
         volume: 
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
-        type: "TP, exercices, quiz"
+        type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Science des matériaux 2"
@@ -770,11 +755,11 @@ years:
         volume: "16h"
         url: "https://www.uved.fr/fiche/ressource/energies-renouvelables"
       - name: "La gestion des sols pollués"
-        type: "Modules"
+        type: "Module"
         volume: "30h"
         url: "https://www.uved.fr/fiche/ressource/la-gestion-des-sols-pollues"
       - name: "Ecoconception de produits énergivores : application à un produit de grande consommation de type petit électroménager"
-        type: "Modules"
+        type: "Module"
         volume: "25h"
         url: "http://ecopem.univ-valenciennes.fr/"
   - name: "Conduite de projet"
