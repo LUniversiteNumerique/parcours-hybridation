@@ -266,7 +266,7 @@ years:
       - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
         type: "Module *"
         volume: "4 chapitres"
-        url:"http://www.iutenligne.net/ressources/du-bilan-au-stage-ou-l-emploi-4-etapes-en-formes-de-fiches.htm"
+        url: "http://www.iutenligne.net/ressources/du-bilan-au-stage-ou-l-emploi-4-etapes-en-formes-de-fiches.htm"
       - name: "Rapport ou mémoire de stage"
         type: "Cours complet ou MOOC"
         volume: "3 chapitres"
