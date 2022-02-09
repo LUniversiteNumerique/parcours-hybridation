@@ -26,19 +26,19 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
       - name: "Algorithmique et programmation"
         type: "Module"
-        volume: 
+        volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
       - name: "Java’s Cool-Proglets"
         type: "Module"
-        volume: 
+        volume: "5h"
         url: "https://proglets.algorea.org/contents/5403/"
       - name: "Introduction à la programmation en assembleur"
         type: "Module"
-        volume: 
+        volume: "14 chapitres"
         url: "https://unisciel.org/r/2e-5.9-avignon70/assembleur/co/65_webUnisciel.html"
       - name: "Apprendre à programmer avec des cartes"
         type: "Module"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "OEF Petits tests de programmation"
         type: "TP, exercice, quiz"
@@ -52,11 +52,11 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=40"
       - name: "Nombres réels, suites et fonctions"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/55/55/co/55.html"
       - name: "Séries entières"
         type: "Module"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/series_ent/series_ent/co/series_ent.html"
       - name: "Suites numériques"
         type: "Module"

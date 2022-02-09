@@ -83,7 +83,7 @@ years:
         volume: "20 chapitres"
         url: "http://www.iutenligne.net/ressources/le-langage-php.html"
       - name: "Algorithmique et programmation"
-        type: "  Éléments de cours"
+        type: " Cours complet ou MOOC"
         volume: "9 chapitres"
         url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
       - name: "Données et algorithmes"
@@ -93,7 +93,7 @@ years:
   - name: "Base de données"
     resources: 
       - name: "Les bases du modèle conceptuel de données"
-        type: "Éléments de cours"
+        type: " Grain ou éléments de cours"
         volume: "4h"
         url: "http://www.iutenligne.net/ressources/les-bases-du-modele-conceptuel-de-donnees.html"
       - name: "Bases de données relationnelles : apprendre pour utiliser"
@@ -215,8 +215,8 @@ years:
   - name: "Intégration Web"
     resources: 
       - name: "Animation d’une page Web avec Javascript et SVG"
-        type: "Cours complet ou MOOC"
-        volume: "5h"
+        type: "Module"
+        volume: "12h"
         url: "http://www.iutenligne.net/ressources/animation-d-une-page-web-avec-javascript-et-svg.html"
       - name: "Incorporer des graphes interactifs dans une page web"
         type: "Cours complet ou MOOC"

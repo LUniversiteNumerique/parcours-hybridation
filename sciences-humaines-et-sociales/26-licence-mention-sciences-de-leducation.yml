@@ -14,7 +14,7 @@ years:
   - name: "Connaître les contraintes et les ressources en formation"
     resources: 
       - name: "Violence à l’école : contexte socio-historique"
-        type: "Modules"
+        type: "Module"
         volume: "2h"
         url: "http://www.uoh.fr/front/notice?id=c0fbffe9-3113-4bd0-8668-84610cfaa85d"
       - name: "L’espace universitaire européen en formation"
@@ -92,11 +92,11 @@ years:
   - name: "Développer des compétences en français"
     resources: 
       - name: "J’améliore mon français écrit"
-        type: "Modules"
+        type: "Module"
         volume: "26h"
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
-        type: "Modules"
+        type: "Module"
         volume: "10h"
         url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
       - name: "Renforcer ses compétences orthographiques"
@@ -209,7 +209,7 @@ years:
   - name: "Savoir s’adapter au public"
     resources: 
       - name: "Enseigner avec le numérique à l’école primaire"
-        type: "Modules"
+        type: "Module"
         volume: "/"
         url: "http://www.uoh.fr/front/notice?id=c071c384-9ecc-46e9-b3b1-98b1c0bfcc83"
       - name: "Apprendre et enseigner avec une tablette"
@@ -380,7 +380,7 @@ years:
         volume: "2h"
         url: "http://www.uoh.fr/front/notice?id=1d0b457e-753b-4c01-a3ee-5f21ef45bcb8"
       - name: "Histoire et modèles structurants de formation "
-        type: "Modules"
+        type: "Module"
         volume: "/ "
         url: "http://www.uoh.fr/front/notice?id=c2904e33-fa78-4f6f-9715-e948bba779fc"
   - name: "Maîtriser les savoirs disciplinaires et l’enseignement polyvalent"
@@ -412,8 +412,8 @@ years:
         volume: "45min"
         url: "http://www.uoh.fr/front/notice?id=7bca3dc5-0561-4581-a3ab-67bfb1b5eab2"
       - name: "Méthode notionnelle-fonctionnelle pour l’enseignement des langues"
-        type:
-        volume:
+        type: "Cours complet ou MOOC"
+        volume: "1h"
         url: "http://www.uoh.fr/front/notice?id=f8dea125-0253-4cc3-81d3-0a08a078e3de"
   - name: "Construire un projet professionnel"
     resources: 
