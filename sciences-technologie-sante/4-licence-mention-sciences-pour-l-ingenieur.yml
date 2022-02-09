@@ -345,7 +345,7 @@ years:
         url: "https://www.fun-mooc.fr/courses/course-v1:unicaen+48002+session04/about"
       - name: "Orthographe scientifique"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "https://unisciel.org/r/2orthographe.4/"
   - name: "Histoire, Sciences et Techniques"
     resources: 
@@ -569,6 +569,14 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5683"
   - name: "Ingénierie écologique"
     resources: 
+      - name: "Exemples actuels d’ingénierie écologique"
+        type: "Grain ou élement de cours"
+        volume: "13min"
+        url: "https://www.uved.fr/fiche/ressource/exemples-actuels-dingenierie-ecologique "
+      - name: "L’ingénierie agroécologique"
+        type: "Grain ou élément de cours "
+        volume: "7min"
+        url: "https://www.uved.fr/fiche/ressource/lingenierie-agroecologique-1 "
       - name: "Définitions de l’ingénierie écologique"
         type: "Grain ou élément de cours "
         volume: "15 min"
@@ -632,10 +640,18 @@ years:
   ue:
   - name: "Thermodynamique"
     resources: 
+      - name: "Conversion Thermodynamique de la Chaleur : Cycles classiques et innovants"
+        type: "Cours complet ou MOOC"
+        volume: "15h"
+        url: "https://www.fun-mooc.fr/fr/cours/conversion-thermodynamique-de-la-chaleur-cycles-classiques-et-innovants/"
       - name: "De la Thermodynamique aux Procédés : concepts et simulation"
         type: "Module"
         volume: "25h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-859"
+      - name : "Conversion Thermodynamique de la Chaleur : Modéliser et Simuler"
+        type: "Cours complet ou MOOC"
+        volume : "15h"
+        url : "https://www.fun-mooc.fr/fr/cours/conversion-thermodynamique-de-la-chaleur-modeliser-et-simuler/ "
       - name: "Thermoptim : la thermodynamique appliquée aux systèmes énergétiques"
         type: "Cours complet ou MOOC"
         volume: 
@@ -674,6 +690,14 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
   - name: "Mécanique des fluides"
     resources: 
+      - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation "
+        type : "Module"
+        volume: "12min"
+        url: "https://www.youtube.com/watch?v=d3tMrDSVnEw"
+      - name: "Tension superficielle, épisode 2 loi de Laplace et loi de Jurin"
+        type: "Module"
+        volume: "10min"
+        url: "https://www.youtube.com/watch?v=SkVwNXWAgho"
       - name: "Introduction à la mécanique des fluides"
         type: "Cours complet ou MOOC**"
         volume: "36h"

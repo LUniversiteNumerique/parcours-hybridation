@@ -80,7 +80,7 @@ years:
         volume: "25h"
         url: "https://www.fun-campus.fr/fr/cours/mathematiques-preparation-lentree-dans-lenseignement-superieur-s/"
       - name: "Socle en mathématiques"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "40h"
         url: "https://www.fun-campus.fr/fr/cours/socle-en-mathematiques/"
       - name: "Fonctions de Plusieurs Variables"
@@ -184,7 +184,7 @@ years:
   - name: "Électricité et électronique"
     resources: 
       - name: "Socle en électricité"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "30h"
         url: "https://www.fun-campus.fr/fr/cours/socle-en-electricite/"
       - name: "Composants de base"
@@ -305,7 +305,7 @@ years:
     resources: 
       - name: "Orthographe scientifique"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "https://unisciel.org/r/2orthographe.4/"
 
 - name: "2ère année"
@@ -427,16 +427,16 @@ years:
         volume: 
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-741"
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 1"
-        type: "Cours complet ou MOOC**"
-        volume: 
+        type: "Cours complet ou MOOC **"
+        volume: "12h"
         url: "https://www.fun-campus.fr/fr/cours/pdm-pratiques-du-dimensionnement-en-mecanique-partie-1/"
       - name: "Fabrication et caractérisation des composites"
-        type: "Cours complet ou MOOC**"
-        volume: 
+        type: "Cours complet ou MOOC **"
+        volume: "16h"
         url: "https://www.fun-campus.fr/fr/cours/pcsc-fabrication-et-caracterisation-des-composites/"
       - name: "Modélisation des composites"
-        type: "Cours complet ou MOOC**"
-        volume: 
+        type: "Cours complet ou MOOC **"
+        volume: "16h"
         url: "https://www.fun-campus.fr/fr/cours/pcsc-modelisation-des-composites/"
   - name: "Thermodynamique et cinétique chimique"
     resources: 
@@ -543,11 +543,11 @@ years:
   - name: "Anglais"
     resources: 
       - name: "Conduite de réunion en anglais"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "10h"
         url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
       - name: "How to write an email in English"
-        type: "Grain ou élément de cours  "
+        type: "Grain ou élément de cours "
         volume: "2h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
       - name: "How to write an email key note"
@@ -556,7 +556,7 @@ years:
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
 
 - name: "3ère année"

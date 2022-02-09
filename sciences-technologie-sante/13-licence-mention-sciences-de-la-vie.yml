@@ -293,7 +293,7 @@ years:
         url: "https://unisciel.org/r/248.4/"
       - name: "Orthographe scientifique"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "https://unisciel.org/r/2orthographe.4/"
 
 - name: "2ère année"

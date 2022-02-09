@@ -278,7 +278,7 @@ years:
         volume: "60h"
         url: "https://unisciel.org/r/248.4/"
       - name: "Orthographe scientifique"
-        type: "Grain ou élément de cours"
+        type: "Module"
         volume: "26h"
         url: "https://unisciel.org/r/2orthographe.4/"
 
