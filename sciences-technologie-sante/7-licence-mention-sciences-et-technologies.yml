@@ -29,11 +29,11 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=40"
       - name: "Nombres réels, suites et fonctions"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/55/55/co/55.html"
       - name: "Séries entières"
         type: "Module"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/series_ent/series_ent/co/series_ent.html"
       - name: "Suites numériques"
         type: "Module"
@@ -238,7 +238,7 @@ years:
       - name: "Cfacile : Introduction au langage C"
         type: "Module"
         volume: "40h"
-        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3577"
+        url: "http://www.unit.eu/cours/Cfacile/co/C_facile_web.html"
       - name: "Programmation C++ (2019)"
         type: "Cours complet ou MOOC *"
         volume: "40h"
@@ -249,19 +249,19 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
       - name: "Algorithmique et programmation"
         type: "Module"
-        volume: 
+        volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
       - name: "Java’s Cool-Proglets"
         type: "Module"
-        volume: 
+        volume: "5h"
         url: "https://proglets.algorea.org/contents/5403/"
       - name: "Introduction à la programmation en assembleur"
         type: "Module"
-        volume: 
+        volume: "14 chapitres"
         url: "https://unisciel.org/r/2e-5.9-avignon70/assembleur/co/65_webUnisciel.html"
       - name: "Apprendre à programmer avec des cartes"
         type: "Module"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "OEF Petits tests de programmation"
         type: "TP, exercice, quiz"
@@ -558,7 +558,7 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
       - name: "À quoi sert un système d’exploitation ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2h30"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6769"
       - name: "Systèmes d’Exploitation : des concepts à la programmation"
         type: "Module"
@@ -570,13 +570,13 @@ years:
         url: "https://unisciel.org/r/25.4/pharo/WebPortal/co/50.html"
   - name: "Langages et environnement du Web"
     resources: 
-      - name: "Technologies Web"
+      - name: "Technologies Web 1"
         type: "Cours complet ou MOOC"
-        volume: "30h"
+        volume: "40h"
         url: "https://moodle.insa-rouen.fr/course/view.php?id=153"
       - name: "Introduction à HTML5 – Animations et jeux"
         type: "Cours complet ou MOOC**"
-        volume: 
+        volume: "30h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7039"
   - name: "Base de données"
     resources: 
@@ -586,7 +586,7 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/bases-de-donnees-relationnelles-apprendre-pour-utiliser/"
       - name: "Cours de bases de données relationnelles"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "4 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5245"
   - name: "Mathématiques pour les études scientifiques"
     resources: 
@@ -963,7 +963,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6683"
       - name: "Algorithmique et programmation"
         type: "Module"
-        volume: "35h"
+        volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
       - name: "Complexité des algorithmes"
         type: "Module"
