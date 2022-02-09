@@ -499,15 +499,15 @@ years:
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/algebra/coincpolyroots70"
       - name: "Ordre polynôme"
-        type: "Grain(s) ou élément(s) de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=tool/algebra/polyorder70"
       - name: "Primpoly"
-        type: "Grain(s) ou élément(s) de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=tool/algebra/primpoly70"
       - name: "Balai polynomial"
-        type: "Grain(s) ou élément(s) de cours"
+        type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=tool/algebra/sweeppoly70"
   - name: "Intégration"

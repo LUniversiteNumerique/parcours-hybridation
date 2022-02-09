@@ -611,7 +611,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
   - name: "Outils mathématiques"
     resources: 
