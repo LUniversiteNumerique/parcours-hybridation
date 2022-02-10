@@ -18,7 +18,7 @@ years:
         volume: 
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9237"
       - name: "Socle en Mécanique"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: 
         url: "https://www.fun-campus.fr/fr/cours/socle-en-mecanique/"
       - name: "Lois de Newton et référentiels. Lois de conservation"
@@ -347,7 +347,7 @@ years:
   - name: "Mécanique des solides"
     resources: 
       - name: "Mécanique des solides déformables"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "24h"
         url: "https://www.fun-campus.fr/fr/cours/mecanique-des-solides-deformables/"
       - name: "Cinématique et dynamique du solide"
@@ -575,7 +575,7 @@ years:
         volume: "15 min"
         url: "https://www.uved.fr/fiche/ressource/les-definitions-de-lingenierie-ecologique"
       - name: "Environnement et développement durable"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "15h"
         url: "https://www.fun-mooc.fr/courses/course-v1:uved+34005+session03/about"
       - name: "Objectifs de Développement Durable"
@@ -728,7 +728,7 @@ years:
   - name: "Mécanique des fluides"
     resources: 
       - name: "Introduction à la mécanique des fluides"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "36h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6913"
       - name: "Statique et dynamique des fluides"

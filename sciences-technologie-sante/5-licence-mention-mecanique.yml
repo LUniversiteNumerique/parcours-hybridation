@@ -20,7 +20,7 @@ years:
         volume: 
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9237"
       - name: "Socle en Mécanique"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: 
         url: "https://www.fun-campus.fr/fr/cours/socle-en-mecanique/"
       - name: "Lois de Newton et référentiels. Lois de conservation"
@@ -76,7 +76,7 @@ years:
   - name: "Outils mathématiques 1"
     resources: 
       - name: "Mathématiques : préparation à l’entrée dans l’enseignement supérieur (pour remise à niveau éventuelle)"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "25h"
         url: "https://www.fun-campus.fr/fr/cours/mathematiques-preparation-lentree-dans-lenseignement-superieur-s/"
       - name: "Socle en mathématiques"
@@ -270,7 +270,7 @@ years:
   - name: "Initiation à la programmation informatique"
     resources: 
       - name: "Socle en informatique"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "33h"
         url: "https://www.fun-campus.fr/fr/cours/socle-en-informatique/"
       - name: "Cfacile : Introduction au langage C"
@@ -313,7 +313,7 @@ years:
   - name: "Mécanique des solides 1"
     resources: 
       - name: "Mécanique des solides déformables"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "24h"
         url: "https://www.fun-campus.fr/fr/cours/mecanique-des-solides-deformables/"
       - name: "Cinématique et dynamique du solide"
@@ -594,13 +594,13 @@ years:
         volume: 
         url: "https://www.canal-u.tv/producteurs/mines_paristech/mooc/modeliser_et_simuler/m1_presentation_generale"
       - name: "Thermodynamique Expérimentale"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: 
         url: "https://www.fun-campus.fr/fr/cours/thermodynamique-experimentale/"
   - name: "Mécanique des fluides"
     resources: 
       - name: "Introduction à la mécanique des fluides"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "36h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6913"
       - name: "Statique et dynamique des fluides"
@@ -634,7 +634,7 @@ years:
   - name: "Matériaux"
     resources: 
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 2"
-        type: "Cours complet ou MOOC**"
+        type: "Cours complet ou MOOC **"
         volume: "24h"
         url: "https://www.fun-campus.fr/fr/cours/pratiques-du-dimensionnement-en-mecanique-partie-2/"
       - name: "Matériaux pour l’ingénieur"
