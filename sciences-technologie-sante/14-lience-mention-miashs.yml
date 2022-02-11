@@ -58,15 +58,15 @@ years:
         url: "https://unisciel.org/r/2uel.4/6/series_ent/series_ent/co/series_ent.html"
       - name: "Suites numériques"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/36/517-521-suites/co/517-521_webUnisciel.html"
       - name: "Suites de nombres réels"
         type: "Module"
-        volume: 
+        volume: " 4 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/SuitesNumeriques/co/SuitesNumeriques.html"
       - name: "Suites et séries de fonctions"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/suites_fonctions/suites_fonctions/co/suites_fonctions.html"
   - name: "Logique et raisonnement"
     resources: 
@@ -76,31 +76,31 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=13"
       - name: "Logique et langage des ensembles"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/43/43/co/43.html"
       - name: "Logique et raisonnements – partie 1 : logique"
         type: "Module"
-        volume: 
+        volume: "20min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/chapitre_logique_et_raisonnements_partie_1_logique.10086"
       - name: "Logique et raisonnements – partie 2 : raisonnements"
         type: "Module"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/logique_et_raisonnements_partie_2_raisonnements.10087"
       - name: "Notion d’ensemble"
         type: "Module"
-        volume: 
+        volume: "3h"
         url: "https://unisciel.org/r/2uel.4/6/43/43_ch02/co/apprendre_ch2_01.html"
       - name: "Cardinal d’un ensemble"
         type: "Module"
-        volume: 
+        volume: "1h"
         url: "https://unisciel.org/r/2uel.4/6/43/43_ch09/co/apprendre_ch9.html"
       - name: "Ensembles et applications"
         type: "Module"
-        volume: 
+        volume: "2h"
         url: "https://unisciel.org/r/221.2470/65/ch_ensembles.pdf"
       - name: "Logique, ensembles, raisonnements"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1h30"
         url: "https://unisciel.org/r/221.2470/29/fic00002.pdf"
       - name: "Logique, ensembles raisonnements (exercices et corrections filmées)"
         type: "TP, exercice, quiz"

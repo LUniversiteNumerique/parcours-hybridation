@@ -40,7 +40,7 @@ years:
       - name: "Biologie Cellulaire"
         type: "Module"
         volume: "11 modules"
-        url: "https://unisciel.org/r/25.4/biocell/27/co/Menu_webUnisciel.html"
+        url: "https://ressources.unisciel.fr/biocell/menu/co/module_menu.html"
       - name: "Structure, fonction et métabolisme de la cellule"
         type: "Grain ou élément  de cours"
         volume: 
@@ -289,11 +289,11 @@ years:
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
       - name: "Orthographe scientifique"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "https://unisciel.org/r/2orthographe.4/"
 
 - name: "2ère année"
@@ -474,7 +474,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
 
 - name: "3ère année"
