@@ -258,6 +258,10 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "50h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
+      - name: "Le principe de Fermat : un principe variationnel"
+        type: "TP, excercice, quiz"
+        volume: "1 chapitre"
+        url: "http://res-nlp.univ-lemans.fr/NLP_C_M03_G03/co/Contenu_25.html"
       - name: "Optique géométrique"
         type: "Module"
         volume: 

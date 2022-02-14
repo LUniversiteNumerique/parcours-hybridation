@@ -111,6 +111,10 @@ years:
         type: "Module"
         volume: 
         url: "https://unisciel.org/r/2uel.4/37/321/321/co/321.html"
+      - name: " Connaissance du monde végétal"
+        type: "TP, excercice, quiz"
+        volume: "10 chapitres"
+        url: "https://cmveg.univ-lille.fr/co/000_cmveg1_cmveg2.html"
       - name: "La photosynthèse"
         type: "Grain ou élément de cours"
         volume: 
