@@ -27,6 +27,10 @@ years:
         type: "Module"
         volume: "5h"
         url: "https://proglets.algorea.org/contents/5403/"
+      - name: "Le principe de Fermat : un principe variationnel"
+        type: "TP, excercice, quiz"
+        volume: "1 chapitre"
+        url: "http://res-nlp.univ-lemans.fr/NLP_C_M03_G03/co/Contenu_25.html"
       - name: "Introduction à la programmation en assembleur"
         type: "Module"
         volume: "14 chapitres"
@@ -311,6 +315,10 @@ years:
         type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
+      - name: "Mécanique des solides"
+        type: "Grain ou élément de cours"
+        volume: "12 chapitres"
+        url: "http://phymain.unisciel.fr/category/mecanique-des-solides/"
   - name: "Electricité/électrocinétique/électronique"
     resources: 
       - name: "L1: Électrocinétique en régime continu permanent"
@@ -389,21 +397,21 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
   - name: "Méthodologie"
     resources: 
       - name: "Méthodologie de travail universitaire pour étudiant"
         type: "Module"
-        volume: 
+        volume: "3h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=144"
       - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
         type: "Module"
-        volume: 
+        volume: "3h"
         url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
       - name: "Appui pour apprendre à apprendre"
         type: "Module"
-        volume: 
+        volume: "3h"
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
   - name: "Orthographe scientifique"
     resources: 
@@ -422,11 +430,11 @@ years:
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/01-Atomistique_web.html"
       - name: "Structure et propriétés de l’atome"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/01-Atomistique/co/module_01-Atomistique.html"
       - name: "Les atomes polyélectroniques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch04/co/51_ch04.html"
       - name: "Orbitales atomiques"
         type: "Module"
@@ -542,7 +550,7 @@ years:
         url: "https://unisciel.org/r/2uel.4/15/stereoisomerie1/stereoisomerie1/co/stereoisomerie1.html"
       - name: "Effets électroniques"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://uel.unisciel.fr/chimie/effelec1/effelec1/co/ellelec1.html"
       - name: "Chimie des éléments p"
         type: "Module"
@@ -554,7 +562,7 @@ years:
         url: "https://unisciel.org/r/2uel.4/15/modelisation/modelisation/co/modelisation.html"
       - name: "Les molécules"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch05/co/apprendre_01.html"
       - name: "Représentation des molécules"
         type: "Module"
@@ -580,7 +588,7 @@ years:
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/06-Etat_solide/co/06-Etat_solide_web.html"
       - name: "Structure des solides"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch11/co/apprendre_01.html"
       - name: "Atlas des formes cristallines"
         type: "Module"

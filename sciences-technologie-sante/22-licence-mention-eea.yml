@@ -251,6 +251,10 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "50h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
+      - name: "Le principe de Fermat : un principe variationnel"
+        type: "TP, exercice, quiz"
+        volume : "1 chapitre"
+        url: "http://res-nlp.univ-lemans.fr/NLP_C_M03_G03/co/Contenu_25.html"
       - name: "Optique géométrique"
         type: "Module"
         volume: 
@@ -634,7 +638,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
 
 - name: "3ère année"
@@ -675,10 +679,6 @@ years:
         type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_DVDmichelson.xml"
-      - name: "Miroir de Fresnel"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2uel.4/25/interf/interf_ch02/co/observer_ch02_01.html"
   - name: "Mécanique des fluides"
     resources: 
       - name: "Introduction à la mécanique des fluides"

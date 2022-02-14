@@ -273,6 +273,10 @@ years:
         type: "TP, exercice, quiz"
         volume: 
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H5/physics/oefoptics70"
+      - name: "Le principe de Fermat : un principe variationnel"
+        type: "TP, excercice, quiz"
+        volume: "1 chapitre"
+        url : "http://res-nlp.univ-lemans.fr/NLP_C_M03_G03/co/Contenu_25.html"
   - name: "Mécanique du point"
     resources: 
       - name: "L1: Mécanique du point"
@@ -302,7 +306,7 @@ years:
       - name: "Mesure d’un moment d’inertie"
         type: "TP, exercice, quiz"
         volume: 
-        url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.htmll"
+        url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
         type: "TP, exercice, quiz"
         volume: 
@@ -393,7 +397,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
   - name: "Méthodologie"
     resources: 
