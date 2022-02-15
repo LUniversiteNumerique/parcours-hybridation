@@ -309,10 +309,6 @@ years:
         url: "https://unisciel.org/r/248.4/"
   - name: "Méthodologie du travail universitaire / expression écrite et orale"
     resources: 
-      - name: "Fiche Synoptique de Synthèse : structure et composition"
-        type: "Grain ou élément de cours"
-        volume: "3h"
-        url: "http://rainet.telecom-lille.fr/unit/FSS/S1/frame_cs_fss_s1.html"
       - name: "Fiche Synoptique de Synthèse : Quelques exemples de FSS (VS2I : Veille Stratégique, Intelligence et Innovation)"
         type: "Grain ou élément de cours"
         volume: "3h"
