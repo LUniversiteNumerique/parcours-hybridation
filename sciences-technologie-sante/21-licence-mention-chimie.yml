@@ -407,7 +407,7 @@ years:
         url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
       - name: "Appui pour apprendre à apprendre"
         type: "Module"
-        volume: "3h"
+        volume: "26h"
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
   - name: "Orthographe scientifique"
     resources: 

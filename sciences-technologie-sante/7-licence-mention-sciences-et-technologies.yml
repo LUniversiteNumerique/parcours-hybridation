@@ -469,7 +469,7 @@ years:
         url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
       - name: "Appui pour apprendre à apprendre"
         type: "Module"
-        volume: "24h – 30 Modules"
+        volume: "24h"
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
       - name: "Fiche Synoptique de Synthèse : structure et composition"
         type: "Grain ou élément de cours"
@@ -481,11 +481,11 @@ years:
         url: "http://rainet.telecom-lille.fr/unit/FSS/S2/frame_cs_fss_s2.html"
       - name: "J’améliore mon français écrit"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
         type: "Module"
-        volume: 
+        volume: "20h"
         url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
       - name: "Renforcer ses compétences orthographiques"
         type: "Cours complet ou MOOC **"
@@ -959,15 +959,15 @@ years:
         url: "https://unisciel.org/r/25.4/algoprog/s34plexite/e32s/cx00ma651/co/cx00ma651_web.html"
       - name: "Doc autour de l’algorithme d’Euclide"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doceuclide70"
       - name: "Doc notion d’algorithmique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doccomplexity70"
       - name: "OEF algorithme en arithmétique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "9 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
       - name: "Java EE Spring prêt à l’emploi"
         type: "Cours complet ou MOOC **"

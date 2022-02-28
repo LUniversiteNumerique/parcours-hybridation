@@ -220,7 +220,7 @@ years:
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=424141cd-a230-4e9d-b101-5bf0f0ef07ec"
       - name: "Certif'langues Anglais"
-        type: "Module"
+        type: "TD, étude de cas"
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
       - name: "Espagnol – compréhension orale"

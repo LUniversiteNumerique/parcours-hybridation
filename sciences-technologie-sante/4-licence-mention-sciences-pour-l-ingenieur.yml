@@ -303,7 +303,7 @@ years:
     resources: 
       - name: "Lexico"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "60h"
         url: "https://unisciel.org/r/248.4/"
       - name: "Certif’langues – anglais"
         type: "TD, étude de cas"
@@ -321,11 +321,11 @@ years:
         url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
       - name: "Appui pour apprendre à apprendre"
         type: "Module"
-        volume: "26h – 33 modules"
+        volume: "26h"
         url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
       - name: "Fiche Synoptique de Synthèse : structure et composition"
         type: "Grain ou élément de cours"
-        volume: "24h – 30 modules"
+        volume: "24h"
         url: "http://rainet.telecom-lille.fr/unit/FSS/S1/frame_cs_fss_s1.html"
       - name: "Fiche Synoptique de Synthèse : Quelques exemples de FSS (VS2I : Veille Stratégique, Intelligence et Innovation)"
         type: "Grain ou élément de cours"
@@ -333,11 +333,11 @@ years:
         url: "http://rainet.telecom-lille.fr/unit/FSS/S2/frame_cs_fss_s2.html"
       - name: "J’améliore mon français écrit"
         type: "Module"
-        volume: 
+        volume: "26h"
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
         type: "Module"
-        volume: 
+        volume: "20h"
         url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
       - name: "Renforcer ses compétences orthographiques"
         type: "Cours complet ou MOOC"

@@ -543,19 +543,19 @@ years:
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
       - name: "Complexité des algorithmes"
         type: "Module"
-        volume: 
+        volume: "36h"
         url: "https://unisciel.org/r/25.4/algoprog/s34plexite/e32s/cx00ma651/co/cx00ma651_web.html"
       - name: "Doc autour de l’algorithme d’Euclide"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doceuclide70"
       - name: "Doc notion d’algorithmique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doccomplexity70"
       - name: "OEF algorithme en arithmétique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "9 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
   - name: "Anglais scientifique"
     resources: 
