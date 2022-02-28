@@ -196,6 +196,10 @@ years:
         url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/philosophie_politique/l_idee_d_etat_de_droit_michel_senellart"
   - name: "Sociologie"
     resources: 
+      - name: "Persistance des inégalités de genre"
+        type: "Grain ou élément de cours"
+        volume: ""
+        url: "https://www.uved.fr/fiche/ressource/persistance-des-inegalites-de-genre-5-videos"
       - name: "La société à l’aube du XXIème siècle"
         type: "Cours complet ou MOOC"
         volume: "15h"

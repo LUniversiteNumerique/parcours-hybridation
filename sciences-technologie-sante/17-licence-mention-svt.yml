@@ -197,11 +197,11 @@ years:
         url: "https://unisciel.org/r/2bmm.9-14170/"
       - name: "Équations différentielles"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
       - name: "L1 : Traitement analyse et modélisation des données"
         type: "Cours complet ou MOOC *"
-        volume: "50h"
+        volume: "30h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=540"
       - name: "Probabilités et statistiques"
         type: "Module"

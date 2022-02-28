@@ -268,6 +268,10 @@ years:
         url: "https://www.uved.fr/fiche/ressource/le-tourisme-durable"
   - name: "Connaître la géopolitique de l’environnement et du développement durable"
     resources: 
+      - name: "L'organisation des négociations sur le climat et l'Accord de Paris"
+        type: "Grain ou élément de cours"
+        volume: ""
+        url : "https://www.uved.fr/fiche/ressource/lorganisation-des-negociations-sur-le-climat-et-laccord-de-paris"
       - name: "Géopolitique des énergies renouvelables"
         type: "Grain ou élément de cours"
         volume: "15 min"

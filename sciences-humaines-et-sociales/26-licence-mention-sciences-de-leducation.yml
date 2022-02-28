@@ -329,6 +329,10 @@ years:
         url: "http://www.uoh.fr/front/notice?id=1d0b457e-753b-4c01-a3ee-5f21ef45bcb8"
   - name: "Maîtriser les savoirs disciplinaires et l’enseignement polyvalent"
     resources: 
+      - name: "Education à l’environnement et au développement durable"
+        type : "Cours complet ou MOOC"
+        volume : ""
+        url: "https://www.uved.fr/fiche/parcours/education-a-lenvironnement-et-au-developpement-durable/0/approfondi#sequence"
       - name: "Un livre, deux regards"
         type: "Cours complet ou MOOC"
         volume: "4h"

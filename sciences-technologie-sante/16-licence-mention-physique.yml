@@ -100,13 +100,9 @@ years:
         type: "TP, exercice, quiz"
         volume: "1h30"
         url: "https://unisciel.org/r/221.2470/29/fic00002.pdf"
-      - name: "Logique, ensembles raisonnements (exercices et corrections filmées)"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/2www.17-u.tv/themes/sciences_fondamentales/6/algebre/logique_ensemble_raisonnement_exercices"
       - name: "Dénombrement"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00005.pdf"
   - name: "Algèbre linéaire"
     resources: 
@@ -116,31 +112,31 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
       - name: "Algèbre linéaire – calcul matriciel"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/calculmat1/calculmat1/co/calculmat1.html"
       - name: "Réduction des matrices : diagonalisation des endomorphismes et des matrices"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/reducmat1/reducmat1/co/reducmat1.html"
       - name: "Déterminants"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
       - name: "Matrices"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
       - name: "Réductions des endomorphismes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "22 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
       - name: "Systèmes linéaires à coefficients constants"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
       - name: "Systèmes linéaires"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
   - name: "Nombres complexes"
     resources: 
@@ -150,99 +146,99 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=54"
       - name: "Nombres complexes"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/36/511-14-nbr-complexes/co/511-14_webUnisciel.html"
       - name: "Cardinal d’un ensemble – Le continu : les nombres complexes"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/2uel.4/6/43/43_ch09/co/apprendre_ch9_05.html"
       - name: "Nombres complexes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "17 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00001.pdf"
       - name: "Exercices sur les nombres complexes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "30 exercices"
         url: "https://unisciel.org/r/25.4/iel/exo_complexe/28.html"
       - name: "Ensemble des nombres complexes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "12 exercices"
         url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/06_Nombres_complexes/co/06_Nombres_complexes_web.html"
       - name: "Exercices d’algèbre"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_algebre/co/27.html"
       - name: "Exercices d’algèbre"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_ecs/co/27.html"
   - name: "Equations différentielles"
     resources: 
       - name: "Équations différentielles"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
       - name: "Équations différentielles"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/45/45/co/45.html"
       - name: "Systèmes différentiels"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch01/co/56_ch01.html"
       - name: "Équations différentielles"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "10 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00016.pdf"
       - name: "Travaux pratiques : une équation linéaire du premier ordre"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_03.html"
       - name: "Travaux pratiques : Une équation linéaire du second ordre"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_04.html"
       - name: "Équations différentielles"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/13_Equations_differentielles/co/13_Equations_differentielles_web.html"
       - name: "Exercices de calcul différentiel"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/co/27.html"
   - name: "Géométrie"
     resources: 
       - name: "Géométrie analytique"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/59/59/co/59.html"
       - name: "Produits scalaires dans l’espace – droites et plans dans l’espace"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-113a-produit-scalaire/co/514-113a_webUnisciel.html"
       - name: "Sections planes de surfaces"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-113b-sections-planes/co/514-113b_webUnisciel.html"
       - name: "Similitudes directes, similitudes indirectes"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-11-similitudes/co/514-11_webUnisciel.html"
       - name: "Cours de géométrie élémentaire"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/geometrie/co/27.html"
       - name: "Rappels de géométrie, Courbes et surfaces"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres" 
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie du plan"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_geometrie/co/27.html"
       - name: "Sous-variétés"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
   - name: "Optique géométrique"
     resources: 

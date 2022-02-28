@@ -95,69 +95,69 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
       - name: "Algèbre linéaire – calcul matriciel"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/calculmat1/calculmat1/co/calculmat1.html"
       - name: "Réduction des matrices : diagonalisation des endomorphismes et des matrices"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/reducmat1/reducmat1/co/reducmat1.html"
       - name: "Déterminants"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
       - name: "Matrices"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
       - name: "Réductions des endomorphismes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "22 excercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
       - name: "Réduction des endomorphismes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/14_Reduction_des_endomorphismes/co/14_Reduction_des_endomorphismes_web.html"
       - name: "Systèmes linéaires à coefficients constants"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
       - name: "Systèmes linéaires"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres" 
         url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
   - name: "Géométrie"
     resources: 
       - name: "Géométrie analytique"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/59/59/co/59.html"
       - name: "Produits scalaires dans l’espace – Droites et plans dans l’espace"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-113a-produit-scalaire/co/514-113a_webUnisciel.html"
       - name: "Sections planes de surfaces"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-113b-sections-planes/co/514-113b_webUnisciel.html"
       - name: "Similitudes directes, similitudes indirectes"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-11-similitudes/co/514-11_webUnisciel.html"
       - name: "Cours de géométrie élémentaire"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/geometrie/co/27.html"
       - name: "Rappels de géométrie, Courbes et surfaces"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie du plan"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_geometrie/co/27.html"
       - name: "Sous-variétés"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
   - name: "Chimie Physique"
     resources: 
@@ -633,6 +633,10 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
   - name: "Matériaux"
     resources: 
+      - name: "Matériaux et structures composites : ressources pour l’enseignement"
+        type: "Cours complet ou MOOC"
+        volume: ""
+        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7015"
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 2"
         type: "Cours complet ou MOOC **"
         volume: "24h"
