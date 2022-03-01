@@ -279,47 +279,47 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/socle-en-mecanique/"
       - name: "Lois de Newton et référentiels. Lois de conservation"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9315"
       - name: "Oscillateurs linéaires"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9313"
       - name: "L1: Mécanique du point"
         type: "Cours complet ou MOOC *"
-        volume: 
+        volume: "50h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=17"
       - name: "Mécanique"
         type: "Module"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/meca/meca/co/meca.html"
       - name: "Mécanique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
       - name: "Mécanique 1"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
       - name: "TD Mécanique"
         type: "TD, étude de cas"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mesure d’un moment d’inertie"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice" 
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
       - name: "Mécanique des solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos"
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "La Physique animée"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "1h45"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
   - name: "Optique géométrique"
     resources: 
@@ -546,7 +546,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6769"
       - name: "Systèmes d’Exploitation : des concepts à la programmation"
         type: "Module"
-        volume: 
+        volume: "2h30"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3411"
       - name: "Pharo"
         type: "Module"
@@ -598,85 +598,85 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=47"
       - name: "Intégrales"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Integrales/co/Integrales_01.html"
       - name: "Calcul intégral"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/517-3-calcul-integral/co/517-3_webUnisciel.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Integration/co/Integration.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/49/49/co/49.html"
       - name: "Intégrales impropres"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/intimp/intimp/co/intimp.html"
       - name: "Méthode d’intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/iel/methodes_49/28.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/09_Integration.pdf"
       - name: "Intégration d’une fonction numérique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/08_Integration_1/co/08_Integration_1_web.html"
       - name: "Calculs d’intégrales"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "14 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00015.pdf"
       - name: "Exercices d’analyse"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_analyse_ecs/co/27.html"
       - name: "Calculs d’intégrales (cours et correction d’exercices filmés)"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "4h"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/21/calculs_d_integrales"
   - name: "Fonctions de variables"
     resources: 
       - name: "Étude globale des fonctions de classe Cn"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/analyse2/analyse2/co/analyse2.html"
       - name: "Limite, Continuité, Dérivée, Sens de Variation"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/36/517-17-fonctions-num/co/517-17_webUnisciel.html"
       - name: "Développements limités"
         type: "Module"
-        volume: 
+        volume: "12 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/dev_limites/dev_limites/co/dev_limites.html"
       - name: "Généralités sur les fonctions"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/55/55_ch03/co/55_ch03.html"
       - name: "Étude locale des fonctions d’une variable réelle"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/55/55_ch04/co/55_ch04.html"
       - name: "Fonctions usuelles et fonctions réciproques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/analyse3/analyse3_ch02/co/apprendre_ch02_001.html"
       - name: "Étude de fonctions (fonctions numériques)"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/25.4/36/517-17-fonctions-num/co/32_517-17_4.html"
       - name: "Fonctions numériques usuelles"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/07_Fonctions_usuelles/co/07_Fonctions_usuelles_web.html"
       - name: "Développements limités"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5h30"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/21/developpements_limites"
   - name: "Chimie"
     resources: 
@@ -820,7 +820,7 @@ years:
         url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1uta3scLzAhWMsBQKHUYYBB4QFnoECAMQAQ&url=https%3A%2F%2Fressources.unisciel.fr%2Fsillages%2Fphysique%2Fmeca_solide%2Fmeca_solide.pdf&usg=AOvVaw0hl20HP4Utm9lh4D7l0wj-"
       - name: "Physique à main levée – Mécanique des solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos "
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "Expérience de Michelson Morley"
         type: "Grain ou élément de cours"
@@ -989,7 +989,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-1501"
       - name: "Accessibilité numérique"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "4h"
         url: "https://www.canal-u.tv/producteurs/inria/cours_en_ligne/accessibilite_numerique"
   - name: "Mathématiques pour les études scientifiques"
     resources: 

@@ -281,15 +281,15 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=17"
       - name: "Mécanique"
         type: "Module"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/meca/meca/co/meca.html"
       - name: "Mécanique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
       - name: "Mécanique 1"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
       - name: "Cinématique du point. (Mécanique I : forces, champs, énergie)"
         type: "Grain ou élément de cours"
@@ -297,23 +297,23 @@ years:
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M01_G01/co/NLP_C_M01_G01_web.html"
       - name: "TD Mécanique"
         type: "TD, étude de cas"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mesure d’un moment d’inertie"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
       - name: "Mécanique des solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos"
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "La Physique animée"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "1h45"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
   - name: "Electricité/électrocinétique/électronique"
     resources: 
@@ -518,85 +518,85 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=47"
       - name: "Intégrales"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Integrales/co/Integrales_01.html"
       - name: "Calcul intégral"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/517-3-calcul-integral/co/517-3_webUnisciel.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Integration/co/Integration.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/49/49/co/49.html"
       - name: "Intégrales impropres"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/intimp/intimp/co/intimp.html"
       - name: "Méthode d’intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/iel/methodes_49/28.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/09_Integration.pdf"
       - name: "Intégration d’une fonction numérique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/08_Integration_1/co/08_Integration_1_web.html"
       - name: "Calculs d’intégrales"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "14 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00015.pdf"
       - name: "Exercices d’analyse"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_analyse_ecs/co/27.html"
       - name: "Calculs d’intégrales (cours et correction d’exercices filmés)"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "4h"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/21/calculs_d_integrales"
   - name: "Espaces vectoriels"
     resources: 
       - name: "Espaces vectoriels"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch01/co/apprendre_01.html"
       - name: "Forme bilinéaire, forme quadratique sur R ou C"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/formes1/formes1/co/formes1.html"
       - name: "Sous-espaces vectoriels"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch02/co/sexercer_01.html"
       - name: "Espaces vectoriels"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/65_2a_ece/res/chap1_2010.pdf"
       - name: "Espaces vectoriels"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/09_Espaces_vectoriels/co/09_Espaces_vectoriels_web.html"
       - name: "Applications linéaires – Sous-espaces vectoriels de R^n"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00069.pdf"
       - name: "Espaces vectoriels de dimension finie"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "8 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00019.pdf"
       - name: "Structure d’espace vectoriel"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00074.pdf"
       - name: "Espaces vectoriels"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "14 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00017.pdf"
       - name: "Sous-espaces vectoriels"
         type: "TP, exercice, quiz"
@@ -606,39 +606,39 @@ years:
     resources: 
       - name: "Étude globale des fonctions de classe Cn"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/analyse2/analyse2/co/analyse2.html"
       - name: "Limite, Continuité, Dérivée, Sens de Variation"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/36/517-17-fonctions-num/co/517-17_webUnisciel.html"
       - name: "Développements limités"
         type: "Module"
-        volume: 
+        volume: "12 chapitres" 
         url: "https://unisciel.org/r/2uel.4/6/dev_limites/dev_limites/co/dev_limites.html"
       - name: "Généralités sur les fonctions"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/55/55_ch03/co/55_ch03.html"
       - name: "Étude locale des fonctions d’une variable réelle"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/55/55_ch04/co/55_ch04.html"
       - name: "Fonctions usuelles et fonctions réciproques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/analyse3/analyse3_ch02/co/apprendre_ch02_001.html"
       - name: "Étude de fonctions (fonctions numériques)"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/25.4/36/517-17-fonctions-num/co/32_517-17_4.html"
       - name: "Fonctions numériques usuelles"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/07_Fonctions_usuelles/co/07_Fonctions_usuelles_web.html"
       - name: "Développements limités"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5h30"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/21/developpements_limites"
   - name: "Statistiques et probabilités"
     resources: 
@@ -648,35 +648,35 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=126"
       - name: "Probabilités et statistiques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/519-21_probabilites/co/519-21_webUnisciel.html"
       - name: "Variables aléatoires discrètes"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/14_Variables_aleatoires_discretes.pdf"
       - name: "Opérations sur les variables aléatoires discrètes"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/15_Operations_sur_les_variables_aleatoires_discretes.pdf"
       - name: "Espaces probabilisés"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/13_Espaces_probabilises.pdf"
       - name: "Kézako : Pourquoi la tartine tombe toujours du côté beurré ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/69_pourquoi_la_tartine_tombe_toujours_du_cote_beurre.9723"
       - name: "OEF Probabilités conditionnelles"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "13 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H6/probability/oefprobacondit70"
       - name: "OEF Probabilités et variables aléatoires simples"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/proba/oefbases70"
       - name: "OEF proba"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H6/probability/oefproba70"
   - name: "Algorithmes"
     resources: 
@@ -775,15 +775,15 @@ years:
     resources: 
       - name: "Intégrales"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Integrales/co/Integrales_01.html"
       - name: "Intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/49/49/co/49.html"
       - name: "Intégrale"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "37 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_analyse_2a_pc/res/z-ana-3.pdf"
   - name: "Géométrie différentielle"
     resources: 
@@ -803,21 +803,21 @@ years:
     resources: 
       - name: "Rappel [Topologie]"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "8 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00036.pdf"
       - name: "Topologie générale"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "13 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00037.pdf"
       - name: "Espaces complets"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "16 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00041.pdf"
   - name: "Probabilité"
     resources: 
       - name: "Espaces probabilisés"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/13_Espaces_probabilises.pdf"
       - name: "Problème de convergence et approximations en probabilité"
         type: "Module"
@@ -835,37 +835,37 @@ years:
     resources: 
       - name: "Application linéaire (module espaces vectoriels)"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch04/co/espacevect1_ch04.html"
       - name: "Espaces vectoriels normés"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/10_Espaces_vectoriels_normes/co/10_Espaces_vectoriels_normes_web.html"
       - name: "Espaces vectoriels normés"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "16 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_analyse_2a_pc/res/z-ana-1.pdf"
       - name: "Espaces vectoriels normés de fonctions"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "10 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_analyse_2a_pc/res/z-ana-5.pdf"
       - name: "Espace préhilbertien"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "16 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_bilineaire_pc/res/z-bil-1.pdf"
       - name: "Théorème de Stone-Weierstrass – Théorème d’Ascoli"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "10 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00042.pdf"
   - name: "Approximation de fonction, d’intégrale et d’équation différentielle"
     resources: 
       - name: "Approximations numériques"
         type: "Module"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/2uel.4/6/49/49_ch05/co/apprendre_ch5_01.html"
       - name: "OEF Systèmes linéaires et modélisation"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "25 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/algebra/oefmodelisation70"
   - name: "Anglais scientifique"
     resources: 

@@ -286,47 +286,39 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=17"
       - name: "Mécanique"
         type: "Module"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/meca/meca/co/meca.html"
       - name: "Mécanique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
       - name: "Mécanique 1"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
       - name: "Cinématique du point. (Mécanique I : forces, champs, énergie)"
         type: "Grain ou élément de cours"
         volume: 
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M01_G01/co/NLP_C_M01_G01_web.html"
-      - name: "TD"
-        type: " "
-        volume: 
-        url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
-      - name: ""
+      - name: "TD Mécanique"
         type: "TD, étude de cas"
-        volume: 
-        url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
-      - name: "Mécanique"
-        type: "TP, exercice, quiz"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mesure d’un moment d’inertie"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
       - name: "Mécanique des solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos"
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "La Physique animée"
-        type: 
-        volume: 
+        type: "Grain ou élément de cours"
+        volume: "1h45"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
   - name: "Electricité/électrocinétique/électronique"
     resources: 
