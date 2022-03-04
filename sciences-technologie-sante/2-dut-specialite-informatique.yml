@@ -330,7 +330,7 @@ years:
     resources: 
       - name: "Conception des bases de données. Langage SQL. Mise en œuvre avec Oracle"
         type: "TD, étude de cas "
-        volume: "4 TD – 13 TP"
+        volume: "19 exercices"
         url: "http://www.iutenligne.net/ressources/conception-des-bases-de-donnees-langage-sql-mise-en-oeuvre-avec-oracle.html"
   - name: "Mathématiques"
     resources: 

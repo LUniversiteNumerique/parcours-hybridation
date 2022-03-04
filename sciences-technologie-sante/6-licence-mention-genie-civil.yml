@@ -15,19 +15,19 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9235"
       - name: "Cinématique du point"
         type: "Module"
-        volume: 
+        volume: "50h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9237"
       - name: "Socle en Mécanique"
         type: "Cours complet ou MOOC **"
-        volume: 
+        volume: "10h"
         url: "https://www.fun-campus.fr/fr/cours/socle-en-mecanique/"
       - name: "Lois de Newton et référentiels. Lois de conservation"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9315"
       - name: "Oscillateurs linéaires"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9313"
   - name: "Mécanique du point"
     resources: 
@@ -37,15 +37,15 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=17"
       - name: "Mécanique"
         type: "Module"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/meca/meca/co/meca.html"
       - name: "Mécanique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
       - name: "Mécanique 1"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
       - name: "Cinématique du point (Mécanique I : forces, champs, énergie)"
         type: "Grain ou élément de cours"
@@ -53,23 +53,23 @@ years:
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M01_G01/co/NLP_C_M01_G01_web.html"
       - name: "TD Mécanique"
         type: "TD, étude de cas"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
       - name: "Mesure d’un moment d’inertie"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
       - name: "Calcul des moments d’inertie de différents solides simples"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "1 exercice"
         url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
       - name: "Mécanique des solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos "
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "La Physique animée"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "1h45"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
   - name: "Mathématiques pour les études scientifiques"
     resources: 
@@ -93,69 +93,69 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
       - name: "Algèbre linéaire – calcul matriciel"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/calculmat1/calculmat1/co/calculmat1.html"
       - name: "Réduction des matrices : diagonalisation des endomorphismes et des matrices"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/reducmat1/reducmat1/co/reducmat1.html"
       - name: "Déterminants"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
       - name: "Matrices"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
       - name: "Réductions des endomorphismes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "22 exercices" 
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
       - name: "Réduction des endomorphismes"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/14_Reduction_des_endomorphismes/co/14_Reduction_des_endomorphismes_web.html"
       - name: "Systèmes linéaires à coefficients constants"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
       - name: "Systèmes linéaires"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
   - name: "Géométrie"
     resources: 
       - name: "Géométrie analytique"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/59/59/co/59.html"
       - name: "Produits scalaires dans l’espace – Droites et plans dans l’espace"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-113a-produit-scalaire/co/514-113a_webUnisciel.html"
       - name: "Sections planes de surfaces"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-113b-sections-planes/co/514-113b_webUnisciel.html"
       - name: "Similitudes directes, similitudes indirectes"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/514-11-similitudes/co/514-11_webUnisciel.html"
       - name: "Cours de géométrie élémentaire"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/geometrie/co/27.html"
       - name: "Rappels de géométrie, courbes et surfaces"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie du plan"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_geometrie/co/27.html"
       - name: "Sous-variétés"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
   - name: "Informatique"
     resources: 
@@ -331,7 +331,7 @@ years:
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
         type: "Module"
-        volume: "24h"
+        volume: "20h"
         url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
       - name: "Renforcer ses compétences orthographiques"
         type: "Cours complet ou MOOC **"
@@ -360,7 +360,7 @@ years:
         url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiXoIbJgMLzAhVaCGMBHdVRCWwQFnoECAMQAQ&url=https%3A%2F%2Fressources.unisciel.fr%2Fsillages%2Fphysique%2Fmeca_solide%2Fmeca_solide.pdf&usg=AOvVaw0hl20HP4Utm9lh4D7l0wj-"
       - name: "Physique à main levée – Mécanique des solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos "
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "Expérience de Michelson Morley"
         type: "Grain ou élément de cours"
@@ -504,11 +504,11 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5777"
       - name: "Algèbre linéaire – concours B des ENSA"
         type: "Module"
-        volume: 
+        volume: "24h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5779"
       - name: "Banque d’exercices de mathématiques pour le programme 2003-2014 des oraux CCP-MP"
         type: "Module"
-        volume: 
+        volume: "24h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5683"
   - name: "Programmation"
     resources: 
@@ -793,6 +793,10 @@ years:
         url: "https://unisciel.org/r/2uel.4/25/outils_nancy/outils_nancy/co/outils_nancy.html"
   - name: "Matériaux 2"
     resources: 
+      - name : "Matériaux et structures composites : ressources pour l’enseignement "
+        type: "Cours complet ou MOOC"
+        volume: ""
+        url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7015"
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 2"
         type: "Cours complet ou MOOC **"
         volume: "24h"

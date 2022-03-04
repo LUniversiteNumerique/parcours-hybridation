@@ -237,6 +237,10 @@ years:
   ue:
   - name: "Réseaux et télécoms"
     resources: 
+      - name: "Usine 4.0"
+        type: "Cours complet ou MOOC"
+        volume: "2h"
+        url: "http://ressources.unit.eu/collection-grains-unit/#/grain/13/usine-40"
       - name: "Réseaux de communication industriels"
         type: "Cours complet ou MOOC *"
         volume : "20 chapitres"
