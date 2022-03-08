@@ -179,57 +179,57 @@ years:
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G01/co/NLP_C_M15_G01_web.html"
       - name: "Circuits de base"
         type: "Module"
-        volume: 
+        volume: "35h"
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G02/co/NLP_C_M15_G02_web.html"
       - name: "Amplificateur opérationnel"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "6 chapitres"
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G03/co/NLP_C_M15_G03_web.html"
       - name: "Physique et simulations numériques : électronique"
         type: "Cours complet"
-        volume: 
+        volume: "9 chapitres"
         url: "http://subaru.univ-lemans.fr/AccesLibre/UM/Pedago/physique/02/mnelectro.html"
       - name: "L1: Électrocinétique en régime continu permanent"
         type: "Cours complet ou MOOC *"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"
       - name: "L1: Électrocinétique en régime sinusoïdal permanent"
         type: "Cours complet ou MOOC *"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=16"
       - name: "Traitement du signal"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Chimie"
     resources: 
       - name: "La chimie par le web"
         type: "Cours complet ou MOOC"
-        volume: 
-        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-12941"
+        volume: "50h"
+        url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
       - name: "L1: Chimie en solution aqueuse"
         type: "Cours complet ou MOOC *"
-        volume: 
+        volume: "50h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=25"
       - name: "La chimie par le web – La chimie en solution"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/05-60_en_57_web.html"
       - name: "Chimie en solution aqueuse"
         type: "Module"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/67/67/co/67.html"
       - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
         type: "Grain ou élément de cours *"
-        volume: 
+        volume: "5h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=11"
       - name: "Trilogique sem 12 – Acides et bases"
         type: "Grain ou élément de cours *"
@@ -748,15 +748,15 @@ years:
     resources: 
       - name: "Traitement du signal"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Science des matériaux 2"
     resources: 

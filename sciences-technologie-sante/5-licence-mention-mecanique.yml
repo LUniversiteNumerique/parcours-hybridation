@@ -164,7 +164,7 @@ years:
       - name: "La chimie par le web"
         type: "Cours complet ou MOOC"
         volume: "50h"
-        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-12941"
+        url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
       - name: "L1: Structure microscopique de la matière"
         type: " Cours complet ou MOOC *"
         volume: 
@@ -193,15 +193,15 @@ years:
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G01/co/NLP_C_M15_G01_web.html"
       - name: "Circuits de base"
         type: "Module"
-        volume: 
+        volume: "35h"
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G02/co/NLP_C_M15_G02_web.html"
       - name: "Amplificateur opérationnel"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "6 chapitres"
         url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G03/co/NLP_C_M15_G03_web.html"
       - name: "Physique et simulations numériques : électronique"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "9 chapitres"
         url: "http://subaru.univ-lemans.fr/AccesLibre/UM/Pedago/physique/02/mnelectro.html"
   - name: "Électromagnétisme"
     resources: 
@@ -657,15 +657,15 @@ years:
     resources: 
       - name: "Traitement du signal"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Outils mathématiques"
     resources: 
