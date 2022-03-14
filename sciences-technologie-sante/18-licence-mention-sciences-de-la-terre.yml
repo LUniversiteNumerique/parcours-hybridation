@@ -216,15 +216,15 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=29"
       - name: "Structure microscopique de la matière"
         type: "Module"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51/co/51.html"
       - name: "Connaissances de bases en chimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/38/15/savoir-base/co/Bloc1_15_web.html"
       - name: "Structures chimiques carbonées"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/38/15/structure-carbone/co/Bloc_2_15_web.html"
   - name: "Chimie des solutions"
     resources: 
@@ -242,23 +242,23 @@ years:
         url: "https://unisciel.org/r/2uel.4/15/67/67/co/67.html"
       - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
         type: "Grain ou élément de cours *"
-        volume: 
+        volume: "5h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=11"
       - name: "Trilogique sem 12 – Acides et bases"
         type: "Grain ou élément de cours *"
-        volume: 
+        volume: "5h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=12"
       - name: "Exercices relatifs au calcul de pH des solutions aqueuses"
         type: "TP, exercices, quiz"
-        volume: 
+        volume: "9 exercices"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_16.html"
       - name: "Exercices dédiés aux complexes en solution aqueuse"
         type: "TP, exercices, quiz"
-        volume: 
+        volume: "2 exercices"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_23.html"
       - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "25min"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/23chem"
   - name: "Compétences transversales"
     resources: 
