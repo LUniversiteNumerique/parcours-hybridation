@@ -24,7 +24,7 @@ years:
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
       - name: "Pharo"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/25.4/pharo/WebPortal/co/50.html"
       - name: "Java’s Cool-Proglets"
         type: "Module"
@@ -40,7 +40,7 @@ years:
         url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "OEF Petits tests de programmation"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
   - name: "Suites et séries"
     resources: 

@@ -167,19 +167,19 @@ years:
         url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
       - name: "L1: Structure microscopique de la matière"
         type: " Cours complet ou MOOC *"
-        volume: 
+        volume: "50h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=29"
       - name: "Structure microscopique de la matière"
         type: "Module"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51/co/51.html"
       - name: "Connaissances de bases en chimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/38/15/savoir-base/co/Bloc1_15_web.html"
       - name: "Structures chimiques carbonées"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/38/15/structure-carbone/co/Bloc_2_15_web.html"
   - name: "Électricité et électronique"
     resources: 
@@ -241,31 +241,31 @@ years:
     resources: 
       - name: "Premier principe de la thermodynamique"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/chimther/chimther_ch03/co/apprendre_01.html"
       - name: "Thermodynamique 0"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/thermo_1a_mpsi/co/27.html"
       - name: "Thermodynamique 1"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/thermo_1a_pcsi/co/27.html"
       - name: "Thermodynamique 2"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/thermo_2a_mp/co/27.html"
       - name: "Thermodynamique 2"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/thermo_2a_pc/co/27.html"
       - name: "TD thermodynamique"
         type: "TD, étude de cas"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/td_thermo/co/27.html"
       - name: "Physique à main levée – Chaleur"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos"
         url: "https://unisciel.org/r/2phymain.4/category/chaleur/"
   - name: "Initiation à la programmation informatique"
     resources: 
@@ -322,7 +322,7 @@ years:
         url: "http://res-nlp.univ-lemans.fr/NLP_S_M02_G01_01/co/NLP_S_M02_G01_01_web.html"
       - name: "Le site à Sido : Mécanique des Solides et des Matériaux"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "3 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3335"
       - name: "Mécanique du solide"
         type: "Module"
@@ -334,29 +334,29 @@ years:
         url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
       - name: "Expérience de Michelson Morley"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/l_experience_de_michelson_morley.37471/"
       - name: "Propagation d’ondes dans les solides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "9min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/propagation_d_ondes_dans_les_solides.18390"
       - name: "Le pendule ondulant"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/le_pendule_ondulant.24130"
       - name: "Battements acoustiques, superposition de phénomènes ondulatoires"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "8min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/battements_acoustiques_superposition_de_phenomenes_ondulatoires.36239"
       - name: "Vibrations transversales d’une corde, équation de d’Alembert"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/vibrations_transversales_d_une_corde_equation_de_d_alembert.18171"
   - name: "Mécanique des fluides"
     resources: 
       - name: "Introduction à la mécanique des fluides"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/mecaflux/co/mecaflux.html"
       - name: "Ondes sonores dans les fluides"
         type: "Grain ou élément de cours"
@@ -386,23 +386,23 @@ years:
     resources: 
       - name: "Systèmes oscillants"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/syst_oscillants/syst_oscillants/co/syst_oscillants.html"
       - name: "Vibrations Propagation"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/vibrapropa/vibrapropa/co/vibrapropa.html"
       - name: "Ondes électromagnétiques"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/ondes_electromagnetiques/co/ch00_27_web.html"
       - name: "Oscillations"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/meca/meca_ch09/co/apprendre_01.html"
       - name: "Oscillateurs"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/ondes_mecaniques/res/osc-couples.pdf"
   - name: "Conception et élaboration des matériaux"
     resources: 
@@ -416,15 +416,15 @@ years:
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_psa.xml"
       - name: "Buckyballes, graphènes et nanotubes"
         type: "Grain ou élément de cours"
-        volume: "16h"
+        volume: "4min"
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=hitq4dglyNY"
       - name: "Science des Matériaux : au cœur des matériaux cristallins"
         type: "Module "
-        volume: "20h"
+        volume: "30h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-1879"
       - name: "Résistance des matériaux"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "24h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-741"
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 1"
         type: "Cours complet ou MOOC **"
@@ -454,39 +454,39 @@ years:
         url: "http://www.legi.grenoble-inp.fr/people/Philippe.Marty/cours-thermique-L3.pdf"
       - name: "Les Bases de la Thermodynamique : les principes fondamentaux et leurs applications directes"
         type: "Module"
-        volume: 
+        volume: "25h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3339"
       - name: "Thermoptim : la thermodynamique appliquée aux systèmes énergétiques"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "60h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
       - name: "L2: Thermodynamique"
         type: "Cours complet ou MOOC *"
-        volume: 
+        volume: "50h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=27"
       - name: "Cinétique chimique"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/cinet/cinet/co/cinet.html"
       - name: "Thermodynamique chimique"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/chimther/chimther/co/chimther.html"
       - name: "La chimie par le web – Réaction chimique – Thermodynamique (La réaction chimique, thermodynamique chimique, cinétique chimique)"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/03-Reaction_chimique/co/03-Reaction_chimique_web.html"
       - name: "Cinétique"
         type: "Module"
-        volume: 
+        volume: "3 chapirtes"
         url: "https://unisciel.org/r/25.4/38/15/cinetique/co/Bloc5_15_web.html"
       - name: "Thermodynamique"
         type: "Module"
-        volume: 
+        volume: "12 chapitres"
         url: "https://unisciel.org/r/25.4/7/15/thermodynamique/co/27.html"
       - name: "Équilibres chimiques : simulateur général permettant l’étude de n’importe quel équilibre"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "1 exercice"
         url: "https://unisciel.org/r/2uel.4/15/chimther/chimther_ch05/co/simuler_ch5_07.html"
   - name: "Programmation"
     resources: 
@@ -516,7 +516,7 @@ years:
         url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "OEF Petits tests de programmation"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
       - name: "Projet C++ Robot"
         type: "TP, exercice, quiz"
@@ -573,7 +573,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-959"
       - name: "Le site à Sido : Mécanique des Solides et des Matériaux "
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "3 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3335"
   - name: "Thermodynamique"
     resources: 
@@ -583,7 +583,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-859"
       - name: "Thermoptim : la thermodynamique appliquée aux systèmes énergétiques"
         type: "Cours complet ou MOOC"
-        volume: "15h"
+        volume: "60h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
       - name: "Conversion Thermodynamique de la Chaleur : Cycles classiques et innovants"
         type: "Cours complet ou MOOC"
@@ -595,7 +595,7 @@ years:
         url: "https://www.canal-u.tv/producteurs/mines_paristech/mooc/modeliser_et_simuler/m1_presentation_generale"
       - name: "Thermodynamique Expérimentale"
         type: "Cours complet ou MOOC **"
-        volume: 
+        volume: "6 semaines"
         url: "https://www.fun-campus.fr/fr/cours/thermodynamique-experimentale/"
   - name: "Mécanique des fluides"
     resources: 
@@ -605,7 +605,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6913"
       - name: "Statique et dynamique des fluides"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9311"
   - name: "Mécanique des milieux continus"
     resources: 
@@ -620,16 +620,16 @@ years:
   - name: "Méthodes numériques et calcul scientifique"
     resources: 
       - name: "Méthodes numériques pour l’ingénieur"
-        type: "/"
+        type: "Cours complet ou MOOC"
         volume: "10h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3975"
       - name: "Rappel sur les méthodes numériques de l’ingénieur"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6391"
       - name: "MATLAB, pour la résolution de problèmes numériques"
-        type: "/"
-        volume: 
+        type: "Cours complet ou MOOC"
+        volume: "8 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
   - name: "Matériaux"
     resources: 
