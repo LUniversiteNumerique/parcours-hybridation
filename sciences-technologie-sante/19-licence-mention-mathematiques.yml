@@ -293,7 +293,7 @@ years:
         url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
       - name: "Cinématique du point. (Mécanique I : forces, champs, énergie)"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M01_G01/co/NLP_C_M01_G01_web.html"
       - name: "TD Mécanique"
         type: "TD, étude de cas"

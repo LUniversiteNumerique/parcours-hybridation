@@ -298,7 +298,7 @@ years:
         url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
       - name: "Cinématique du point. (Mécanique I : forces, champs, énergie)"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M01_G01/co/NLP_C_M01_G01_web.html"
       - name: "TD Mécanique"
         type: "TD, étude de cas"
@@ -453,31 +453,31 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=18"
       - name: "Électrostatique"
         type: "Module"
-        volume: 
+        volume: "12 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/elecstat/elecstat/co/elecstat.html"
       - name: "Magnétostatique"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/magneto/magneto/co/magneto.html"
       - name: "Électrostatique et magnétostatique"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electro_magneto_1a_pcsi/co/27.html"
       - name: "Le Champ magnétostatique"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/magneto/magneto_ch01/co/apprendre_ch1_01.html"
       - name: "Électromagnétisme 1"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electromagnetisme_1a_mpsi/co/27.html"
       - name: "Électromagnétisme 2"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electromagnetisme_2a_pc/co/27.html"
       - name: "Physique à main levée – Magnétisme"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "12 vidéos"
         url: "https://unisciel.org/r/2phymain.4/category/magnetisme/"
   - name: "Chimie inorganique"
     resources: 
@@ -686,19 +686,19 @@ years:
         url: "https://unisciel.org/r/25.4/mecaflux/co/mecaflux.html"
       - name: "Ondes sonores dans les fluides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ondes_sonores_dans_les_fluides.18389"
       - name: "Force de viscosité pour un fluide, équation de Navier-Stokes"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/forces_de_viscosite_pour_un_fluide_equation_de_navier_stokes.18392"
       - name: "Écoulement de Poiseuille d’un fluide visqueux"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "8min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_de_poiseuille_d_un_fluide_visqueux.18169"
       - name: "Écoulement stationnaire d’un fluide parfait incompressible, théorème de Bernoulli"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "13min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
       - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation"
         type: "Grain ou élément de cours"

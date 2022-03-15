@@ -999,11 +999,11 @@ years:
         url: "http://pedagotech.inp-toulouse.fr/140420/co/algdrlnrmdl2_web.html"
       - name: "Applications linéaires"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5397"
       - name: "Méthodes d’intégration"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5385"
   - name: "Mécanique des fluides"
     resources: 
@@ -1013,19 +1013,19 @@ years:
         url: "https://unisciel.org/r/25.4/mecaflux/co/mecaflux.html"
       - name: "Ondes sonores dans les fluides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ondes_sonores_dans_les_fluides.18389"
       - name: "Force de viscosité pour un fluide, équation de Navier-Stokes"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/forces_de_viscosite_pour_un_fluide_equation_de_navier_stokes.18392"
       - name: "Écoulement de Poiseuille d’un fluide visqueux"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "8min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_de_poiseuille_d_un_fluide_visqueux.18169"
       - name: "Écoulement stationnaire d’un fluide parfait incompressible, théorème de Bernoulli"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "13min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
       - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation"
         type: "Grain ou élément de cours"

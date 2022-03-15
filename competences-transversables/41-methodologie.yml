@@ -6,7 +6,7 @@ description: |
 resources: 
   - name: "Tests de positionnement transversaux"
     type: " TP, excercice, quiz"
-    volume:
+    volume: "5 tests"
     url: "http://www.uoh.fr/front/notice?id=3743ecf2-59d8-4433-b14f-83d5b53e8053"
   - name: "Cours complet de méthodologie de travail universitaire"
     type: "Cours complet ou MOOC"
