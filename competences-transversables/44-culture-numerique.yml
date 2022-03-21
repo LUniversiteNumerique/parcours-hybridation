@@ -30,6 +30,14 @@ resources:
     type: "Cours complet ou MOOC **"
     volume: "18h"
     url: "https://www.fun-campus.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
+  - name : "Culture numérique  : introduction 1ère partie"
+    type : "Cours complet ou MOOC"
+    volume : "48min"
+    url : "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
+  - name : "Culture numérique  : introduction 2e partie"
+    type : "Cours complet ou MOOC"
+    volume: "1h"
+    url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
 
 years:
 - name: "Voir le parcours"
