@@ -424,7 +424,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3335"
       - name: "Mécanique du solide"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiXoIbJgMLzAhVaCGMBHdVRCWwQFnoECAMQAQ&url=https%3A%2F%2Fressources.unisciel.fr%2Fsillages%2Fphysique%2Fmeca_solide%2Fmeca_solide.pdf&usg=AOvVaw0hl20HP4Utm9lh4D7l0wj-"
       - name: "Physique à main levée – Mécanique des solides"
         type: "Grain ou élément de cours"
@@ -458,7 +458,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6967"
       - name: "Transferts thermiques et diffusion de particules"
         type: "Grain ou élément de cours"
-        volume:
+        volume: "5 chapitres"
         url: "http://olivier.granier.free.fr/MOOC/co/racine_Preparer_oral_4.html"
       - name: "Cours de transferts thermiques"
         type: "Module"
@@ -522,10 +522,6 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "20h"
         url: "https://www.fun-campus.fr/fr/cours/pcsc-modelisation-des-composites/"
-      - name: "Ressources pédagogiques en polymères"
-        type: "Module"
-        volume: 
-        url: "https://unisciel.org/r/262.9-14170/61/39/39.html0id=1454273"
       - name: "Les polymères superabsorbants"
         type: "Module"
         volume: "24h"
@@ -608,10 +604,6 @@ years:
         type: "TP, exercice, quiz"
         volume: "5 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
-      - name: "Projet C++ Robot"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/262.9-14170/61/39/39.html0id=2380400"
   - name: "Géologie de l’ingénieur"
     resources: 
       - name: "Géologie appliquée aux travaux du Génie Civil"
@@ -707,7 +699,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6567"
       - name: "Des rivières et des hommes : hydrologie, hydraulique et géomorphologie"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "1h30"
         url: "https://www.canal-u.tv/producteurs/unittv/des_rivieres_et_des_hommes_hydrologie_hydraulique_et_geomorphologie"
   - name: "Géotechnique"
     resources: 
@@ -719,22 +711,22 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "2h"
         url: "https://www.fun-campus.fr/fr/cours/mecanique-des-roches/"
-      - name: "Module1"
+      - name: "Mesure des altitudes initiation à la topographie : Module 1"
         type: "Module"
-        volume: 
-        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-671"
-      - name: "Module2"
-        type: 
-        volume: 
+        volume: "4 chapitres"
+        url: " http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-257"
+      - name: " Mesure des angles initiation à la topographie : Module 2"
+        type: "Module"
+        volume: "2 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-269"
       - name: "Module3"
-        type: 
-        volume: 
+        type: "Module"
+        volume: "4 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-261"
-      - name: "Module4"
-        type: 
-        volume: 
-        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-257"
+      - name: "Calculs topométriques initiation à la topographie : Module 4"
+        type: "Module"
+        volume: "6 chapitres"
+        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-671"
   - name: "Mécanique des solides 2"
     resources: 
       - name: "Mécanique des matériaux solides"
@@ -817,11 +809,11 @@ years:
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
       - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_1_interpretation_microscopique_et_caracterisation.23250"
       - name: "Tension superficielle, épisode 2 loi de Laplace et loi de Jurin"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_2_loi_de_laplace_et_loi_de_jurin.23252"
   - name: "Mécanique des milieux continus"
     resources: 
@@ -855,7 +847,7 @@ years:
     resources: 
       - name : "Matériaux et structures composites : ressources pour l’enseignement "
         type: "Cours complet ou MOOC"
-        volume: ""
+        volume: "50h"
         url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7015"
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 2"
         type: "Cours complet ou MOOC **"

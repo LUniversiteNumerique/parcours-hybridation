@@ -247,27 +247,27 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
       - name: "Optique géométrique"
         type: "Module"
-        volume: 
+        volume: "17 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/optigeo/optigeo/co/optigeo.html"
       - name: "Bases de l’optique géométrique"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/bases-optique/co/Optique_web.html"
       - name: "Bases de l’optique géométrique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_geo_1a_mpsi/co/27.html"
       - name: "Optique géométrique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_geo_1a_pcsi_og/co/27.html"
       - name: "La couleur"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_Couleur.xml"
       - name: "OEF optique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "11 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H5/physics/oefoptics70"
       - name: "Le principe de Fermat : un principe variationnel"
         type: "TP, excercice, quiz"

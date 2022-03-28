@@ -21,97 +21,73 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=33"
       - name: "Expression, stabilité et variation du patrimoine génétique et évolution"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/module_P3.html"
       - name: "Introduction à la diversité du vivant animal"
         type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/25.4/zoologie/theme_0_introduction/LSV 1_concepts.htm"
+        volume: "5 chapitres"
+        url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
       - name: "Microbiologie"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/DiversiteUnicite/chap2/co/2-Micro37_2.html"
       - name: "Évolution et caractéristiques des grands groupes végétaux"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/321/321_ch01/co/apprendre_ch01_1.html"
   - name: "Biologie cellulaire"
     resources: 
       - name: "Biologie Cellulaire"
         type: "Module"
-        volume: "11 modules"
+        volume: "11 chapitres"
         url: "https://ressources.unisciel.fr/biocell/menu/co/module_menu.html"
       - name: "Structure, fonction et métabolisme de la cellule"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://ressources.unisciel.fr/DAEU/biologie/P1/co/module_P1.html"
       - name: "Cellule végétale"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/321/321_ch03/co/321_ch03.html"
-      - name: "La structure du chloroplaste"
-        type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/Chloroplaste/28.html"
-      - name: "La croissance de la cellule végétale"
-        type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/cell/28.htm"
       - name: "La mitose"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/3rnbio.upmc70/bio-cell_mitose_sommaire"
-      - name: "La régulation du cycle cellulaire"
-        type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/cyclecellBM/28.htm"
-      - name: "Ultrastructure du noyau interphasique de l’hépatocyte de rat"
-        type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/noyau/28.htm"
-      - name: "La cellule musculaire lisse vasculaire (CMLV)"
-        type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/cmlv/28.htm"
-      - name: "La cellule et ses composants"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/262.9-14170/61/39/39.html0id=3333459"
   - name: "Biologie animale"
     resources: 
       - name: "Histologique"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2histologique.9-lille170/"
       - name: "Introduction à la diversité du vivant animal"
         type: "Grain ou élément  de cours"
-        volume: 
-        url: "https://unisciel.org/r/25.4/zoologie/theme_0_introduction/LSV 1_concepts.htm"
+        volume: "5 chapitres"
+        url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
       - name: "La dissection de la souris"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "27min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/la_dissection_de_la_souris.8912"
       - name: "La dissection du criquet"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "26min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/la_dissection_du_criquet.8902"
       - name: "La dissection du calmar"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "3min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/science_en_65/37_animale_la_dissection_du_calmar_1_morphologie.6157"
       - name: "La dissection de l’étoile de mer"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "16min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/science_en_65/37_animale_la_dissection_de_l_etoile_de_mer.9914"
       - name: "La dissection de la moule"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "19min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/la_dissection_de_la_moule.12916"
   - name: "Biologie végétale"
     resources: 
       - name: "Biologie cellulaire et physiologie végétales"
         type: "Module"
-        volume: "2 Module"
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UNT/UNISCIEL/371/web/co/Biologie_web.html"
       - name: "Photosynthèse"
         type: "Module"
@@ -179,7 +155,7 @@ years:
         url: "https://unisciel.org/r/216-18.ens-1470/22/intro-tectonique-plaques.xml"
       - name: "Comment différencier les enveloppes atmosphériques ?"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/structure-atmosphere2.xml"
   - name: "La Terre dans l’Univers"
     resources: 

@@ -718,11 +718,11 @@ years:
           url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6683"
         - name: "Java EE Spring prêt à l’emploi"
           type: "Cours complet ou MOOC **"
-          volume: "35h"
+          volume: "36h"
           url: "https://www.fun-campus.fr/fr/cours/archive-java-ee-spring-pret-a-lemploi/"
         - name: "Introduction to Functional Programming in OCaml"
           type: "Cours complet ou MOOC **"
-          volume: "36h"
+          volume: "24h"
           url: "https://www.fun-campus.fr/fr/cours/introduction-functional-programming-ocaml/"
     - name: "Technologie Web Avancée"
       resources: 
