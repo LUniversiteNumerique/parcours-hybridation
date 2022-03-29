@@ -329,27 +329,27 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
       - name: "Optique géométrique"
         type: "Module"
-        volume: 
+        volume: "17 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/optigeo/optigeo/co/optigeo.html"
       - name: "Bases de l’optique géométrique"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/bases-optique/co/Optique_web.html"
       - name: "Bases de l’optique géométrique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_geo_1a_mpsi/co/27.html"
       - name: "Optique géométrique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_geo_1a_pcsi_og/co/27.html"
       - name: "La couleur"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_Couleur.xml"
       - name: "OEF optique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "11 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H5/physics/oefoptics70"
   - name: "Introduction à l’électronique"
     resources: 
@@ -669,7 +669,7 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5683"
       - name: "Nombres complexes et analyse de Fourier"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "http://pedagotech.inp-toulouse.fr/131130/co/NbresComplexes_web.html"
   - name: "Intégration"
     resources: 
@@ -845,53 +845,53 @@ years:
         url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/01-Atomistique/co/module_01-Atomistique_3.html"
       - name: "Les atomes polyélectroniques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch04/co/51_ch04.html"
       - name: "Orbitales atomiques"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII_ch02/co/modelisationII_ch02_1.html"
       - name: "Propriétés atomiques"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1_ch01/co/apprendre_01.html"
   - name: "Géodynamique externe"
     resources: 
       - name: "Comment différencier les enveloppes atmosphériques"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/structure-atmosphere2.xml"
       - name: "Quel est le rôle de l’ozone dans la séparation troposphère/stratosphère"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/ozone-stratosphere.xml"
       - name: "Analogies et expériences simples pour comprendre la physique du climat"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/25-des-climats.xml"
       - name: "Historique de l’effet de serre"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/histoire-effet-de-serre.xml"
       - name: "Rayonnement thermique, bilan radiatif et effet de serre"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/5/dossiers-thematiques/bilan-radiatif-18"
       - name: "La mystérieuse « force de Coriolis »"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/force-de-coriolis.xml"
       - name: "KEZAKO : Comment prédit-on la météo ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/269.4/69-comment-predit-on-la-meteo/"
       - name: "KEZAKO : Qu’est ce que l’effet de serre ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3min"
         url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
       - name: "KEZAKO : Comment se forme un tsunami ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
   - name: "Mécanique des solides"
     resources: 
@@ -927,20 +927,16 @@ years:
     resources: 
       - name: "Minéralogie"
         type: "Module"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/2minweb.9-lille170/65/co/002_mineralogie_webUnisciel.html"
       - name: "Outil méthodologique d’identification des roches et minéraux courants"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/3www.pairform70/doc/17/55/110/web/co/0-objectif.html"
       - name: "Vade-mecum sur l’origine des granites"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/vade-mecum-granites.xml"
-      - name: "Microscope virtuel"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/262.9-14170/61/39/39.html0id=3325333"
   - name: "Connaissance de l’entreprise"
     resources: 
       - name: "L’entreprise – réalités, définitions, enjeux et défis"
@@ -1052,11 +1048,11 @@ years:
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
       - name: "Java EE Spring prêt à l’emploi"
         type: "Cours complet ou MOOC **"
-        volume: 
+        volume: "36h"
         url: "https://www.fun-campus.fr/fr/cours/archive-java-ee-spring-pret-a-lemploi/"
       - name: "Introduction to Functional Programming in OCaml"
         type: "Cours complet ou MOOC **"
-        volume: 
+        volume: "24h"
         url: "https://www.fun-campus.fr/fr/cours/introduction-functional-programming-ocaml/"
   - name: "Langages et environnement du Web"
     resources: 
@@ -1110,11 +1106,11 @@ years:
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
       - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_1_interpretation_microscopique_et_caracterisation.23250"
       - name: "Tension superficielle, épisode 2 loi de Laplace et loi de Jurin"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_2_loi_de_laplace_et_loi_de_jurin.23252"
   - name: "Physique des ondes"
     resources: 
@@ -1156,7 +1152,7 @@ years:
     resources: 
       - name: "Introduction à la physique nucléaire"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M13_G01/co/NLP_C_M13_G01_web.html"
   - name: "Thermodynamique et cinétique chimique"
     resources: 

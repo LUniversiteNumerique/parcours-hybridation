@@ -251,27 +251,27 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
       - name: "Optique géométrique"
         type: "Module"
-        volume: 
+        volume: "17 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/optigeo/optigeo/co/optigeo.html"
       - name: "Bases de l’optique géométrique"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/38/25/bases-optique/co/Optique_web.html"
       - name: "Bases de l’optique géométrique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_geo_1a_mpsi/co/27.html"
       - name: "Optique géométrique"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_geo_1a_pcsi_og/co/27.html"
       - name: "La couleur"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_Couleur.xml"
       - name: "OEF optique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "11 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H5/physics/oefoptics70"
   - name: "Mécanique du point"
     resources: 
@@ -363,11 +363,11 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=25"
       - name: "La chimie par le web – La chimie en solution"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/05-60_en_57_web.html"
       - name: "Chimie en solution aqueuse"
         type: "Module"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/67/67/co/67.html"
       - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
         type: "Grain ou élément de cours"
@@ -502,11 +502,11 @@ years:
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch04/co/51_ch04.html"
       - name: "Orbitales atomiques"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII_ch02/co/modelisationII_ch02_1.html"
       - name: "Propriétés atomiques"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1_ch01/co/apprendre_01.html"
   - name: "Liaison chimique"
     resources: 
@@ -538,7 +538,7 @@ years:
     resources: 
       - name: "Biochimie"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/bio151/bio151/co/bio151.html"
       - name: "Le métabolisme"
         type: "Module"

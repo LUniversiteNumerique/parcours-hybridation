@@ -444,11 +444,11 @@ years:
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
       - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min" 
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_1_interpretation_microscopique_et_caracterisation.23250"
       - name: "Tension superficielle, épisode 2 loi de Laplace et loi de Jurin"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_2_loi_de_laplace_et_loi_de_jurin.23252"
   - name: "Physique des ondes"
     resources: 
@@ -474,10 +474,6 @@ years:
         url: "https://unisciel.org/r/25.4/7/25/ondes_mecaniques/res/osc-couples.pdf"
   - name: "Conception et élaboration des matériaux"
     resources: 
-      - name: "Ressources pédagogiques en polymères"
-        type: "Module"
-        volume: "30h"
-        url: "https://unisciel.org/r/262.9-14170/61/39/39.html0id=1454273"
       - name: "Les polymères superabsorbants"
         type: "Module"
         volume: "24h"
@@ -586,10 +582,6 @@ years:
         type: "TP, exercice, quiz"
         volume: "5 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
-      - name: "Projet C++ Robot"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/262.9-14170/61/39/39.html0id=2380400"
   - name: "Outils mathématiques"
     resources: 
       - name: "ANALYSE – Concours B des ENSA Technologies Web"
@@ -657,10 +649,6 @@ years:
         type: "Cours complet ou MOOC"
         volume: "15h"
         url: "https://www.canal-u.tv/producteurs/mines_paristech/mooc/cycles_classiques_et_innovants/amelioration_des_cycles_moteurs"
-      - name: "Conversion Thermodynamique de la Chaleur : Modéliser et Simuler"
-        type: "Cours complet ou MOOC  "
-        volume: 
-        url: "https://www.canal-u.tv/producteurs/mines_paristech/mooc/modeliser_et_simuler/m1_presentation_generale"
       - name: "Thermodynamique Expérimentale"
         type: "Cours complet ou MOOC **"
         volume: "6 semaines"
@@ -703,7 +691,7 @@ years:
     resources: 
       - name: "Matériaux et structures composites : ressources pour l’enseignement"
         type: "Cours complet ou MOOC"
-        volume: ""
+        volume: "50h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7015"
       - name: "Pratiques du Dimensionnement en Mécanique – Partie 2"
         type: "Cours complet ou MOOC **"
