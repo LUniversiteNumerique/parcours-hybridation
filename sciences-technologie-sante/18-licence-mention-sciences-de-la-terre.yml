@@ -20,7 +20,7 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=33"
       - name: "Expression, stabilité et variation du patrimoine génétique et évolution"
         type: "Grain ou élément de cours"
-        volume: "3 chapitres"
+        volume: "5 chapitres"
         url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/module_P3.html"
       - name: "Introduction à la diversité du vivant animal"
         type: "Grain ou élément de cours"
@@ -82,31 +82,27 @@ years:
     resources: 
       - name: "Biologie cellulaire et physiologie végétales"
         type: "Modules"
-        volume: "2 modules"
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UNT/UNISCIEL/371/web/co/Biologie_web.html"
       - name: "Photosynthèse"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/photosynthese/co/32_photosynthese.html"
       - name: "Biologie et physiologie végétale"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/321/321/co/321.html"
-      - name: "La photosynthèse"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/Photosynthese-65/28.htm"
       - name: "Nutrition carbonée – Etude de la photosynthèse"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/321/321_ch02/co/apprendre_ch02_2.html"
       - name: "Reconnaissance de tissus végétaux"
         type: "TP, exercices, quiz"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/histology/identvegetal70"
       - name: "OEF Identification de tissus"
         type: "TP, exercices, quiz"
-        volume: 
+        volume: "11 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/histology/oefidentification70"
   - name: "Biochimie"
     resources: 
@@ -120,13 +116,13 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=127"
       - name: "Biochimie"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/bio151/bio151/co/bio151.html"
   - name: "La Terre : planète active"
     resources: 
       - name: "Histoire d’un mystère : l’intérieur de la Terre"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "14 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/modeles-interieur-18.xml"
       - name: "Composition chimique de la Terre – Préambule"
         type: "Grain ou élément de cours"
@@ -134,15 +130,15 @@ years:
         url: "https://unisciel.org/r/216-18.ens-1470/22/td-15-Terre-intro.xml"
       - name: "Comment sait-on que le noyau terrestre est composé essentiellement de fer ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/noyau-fer-Terre.xml"
       - name: "Quel âge a la Terre ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/histoire-age-Terre.xml"
       - name: "Introduction à la tectonique des plaques"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/intro-tectonique-plaques.xml"
       - name: "Comment différencier les enveloppes atmosphériques ?"
         type: "Grain ou élément de cours"
@@ -156,15 +152,15 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=36"
       - name: "Les exoplanètes"
         type: "Module"
-        volume: 
+        volume: "4h"
         url: "https://unisciel.org/r/2exo16es.esep.pro/28.php"
       - name: "Comparer et classer les objets du système solaire"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/comparer-16es-satellites-systeme-solaire.xml"
       - name: "Les planètes et satellites telluriques du système solaire"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/16es-telluriques.xml"
   - name: "Maths appliquées aux sciences naturelles"
     resources: 
@@ -186,7 +182,7 @@ years:
         url: "https://unisciel.org/r/25.4/36/519-21_probabilites/co/519-21_webUnisciel.html"
       - name: "Introduction aux tests statistiques en génétique des populations"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/genepop/genepop_ch01/co/apprendre_ch1_01.html"
   - name: "État de la matière"
     resources: 
@@ -214,11 +210,11 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=25"
       - name: "La chimie par le web – La chimie en solution"
         type: "Module"
-        volume: "5h"
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/05-60_en_57_web.html"
       - name: "Chimie en solution aqueuse"
         type: "Module"
-        volume: "5h"
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/67/67/co/67.html"
       - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
         type: "Grain ou élément de cours *"
