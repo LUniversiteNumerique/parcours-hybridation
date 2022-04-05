@@ -129,7 +129,7 @@ years:
         url: "https://unisciel.org/r/216-18.ens-1470/22/modeles-interieur-18.xml"
       - name: "Composition chimique de la Terre – Préambule"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres" 
         url: "https://unisciel.org/r/216-18.ens-1470/22/td-15-Terre-intro.xml"
       - name: "Comment sait-on que le noyau terrestre est composé essentiellement de fer ?"
         type: "Grain ou élément de cours"
@@ -169,7 +169,7 @@ years:
     resources: 
       - name: "Systèmes dynamiques et applications en sciences de la vie"
         type: "Module"
-        volume: 
+        volume: "50h"
         url: "https://unisciel.org/r/2bmm.9-14170/"
       - name: "Équations différentielles"
         type: "Module"
@@ -340,7 +340,7 @@ years:
         url: "https://unisciel.org/r/2minweb.9-lille170/65/co/002_mineralogie_webUnisciel.html"
       - name: "Les silicates des roches magmatiques et métamorphiques"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/petronille/co/petronille_web.html"
       - name: "Outil méthodologique d’identification des roches et minéraux courants"
         type: "Module"
@@ -354,47 +354,47 @@ years:
     resources: 
       - name: "Histoire de la théorie de la tectonique des plaques"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/histoire-tectonique-plaques.xml"
       - name: "Alfred Wegener, La genèse des continents et des océans"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/Wegener-genese-continents-oceans.xml"
       - name: "Introduction à la tectonique des plaques"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/intro-tectonique-plaques.xml"
       - name: "La convection mantellique, moteur de la tectonique des plaques"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/convection-mantellique-tectonique-plaques.xml"
       - name: "Formation et destruction de la croûte continentale"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/croissance-continentale1.xml"
       - name: "Prisme d’accrétion dans les Alpes"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/prisme-alpes.xml"
       - name: "Subsidence initiale, subsidence thermique et   déformations au cours du rifting continental"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/subsidence.xml"
       - name: "Le volcanisme d’Auvergne : un point chaud ?"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/auvergne-point-chaud.xml"
       - name: "Plan d’aplatissement, plans de schistosité (S) et plans   de cisaillement (C)"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/schisto-cisaillt.xml"
       - name: "La magnitude d’un séisme : définitions, déterminations"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/seisme-magnitude-moment-energie.xml"
       - name: "Enregistrement des ondes sismiques sur un sismogramme"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/sismogramme.xml"
   - name: "Géodynamique externe"
     resources: 
@@ -432,7 +432,7 @@ years:
         url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
       - name: "KEZAKO : Comment se forme un tsunami ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
   - name: "Génétique"
     resources: 
@@ -442,7 +442,7 @@ years:
         url: "https://unisciel.org/r/2uel.4/37/introgen/introgen/co/introgen.html"
       - name: "Génétique formelle"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/analgen/analgen/co/analgen.html"
       - name: "Génétique des populations"
         type: "Module"
@@ -452,10 +452,6 @@ years:
         type: "Module"
         volume: "5 chapitres"
         url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/module_P3.html"
-      - name: "Le code génétique"
-        type: "Module"
-        volume: 
-        url: "http://www.snv.jussieu.fr/bmedia/codegenet/CodeGenet.htm"
   - name: "Biologie moléculaire"
     resources: 
       - name: "La PCR"
@@ -480,10 +476,6 @@ years:
         type: "Module"
         volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/biodudev"
-      - name: "Développement embryonnaire et gènes sélecteurs"
-        type: "Module"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/homeotique/homeo0.html"
   - name: "Immunologie"
     resources: 
       - name: "OEF système immunitaire"
@@ -536,11 +528,11 @@ years:
         url: "https://unisciel.org/r/25.4/physiologie/co/Physiologie_web.html"
       - name: "Introduction à la diversité du vivant animal"
         type: "Module"
-        volume: ""
+        volume: "5 chapitres"
         url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
       - name: "Dissection des animaux"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11 vidéos"
         url: "https://www.canal-u.tv/producteurs/tele2sciences/biologie_animale/dissection_des_animaux"
   - name: "Neurosciences"
     resources: 
@@ -575,33 +567,33 @@ years:
     resources: 
       - name: "Climat du Quaternaire récent et analyse de séries temporelles : introduction à la reconstruction des climats anciens"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/series-temporelles2.xml"
       - name: "Les stromatolithes"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/stromatolithes.xml"
       - name: "Quand la paléontologie revoit ses données"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/paleontologie-biodiversite.xml"
       - name: "Le développement de la végétation continentale de l’Ordovicien au Dévonien et ses conséquences géologiques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/vegetation-continentale-Paleozoique.xml"
       - name: "Archives climatiques des 740.000 dernières années"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/archives-climatiques.xml"
       - name: "Les variations du taux de CO2 dans l’atmosphère depuis 4,5 milliards d’années"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/co2-depuis-4ga.xml"
   - name: "Système solaire – Planétologi"
     resources: 
       - name: "Astronomie et mécanique céleste"
         type: "Module"
-        volume: 
+        volume: "21 chapitres"
         url: "https://unisciel.org/r/2media4.obspm70/public/AMC/28.html"
   - name: "Biotechnologies – Bioinformatique"
     resources: 
@@ -613,7 +605,7 @@ years:
         url: "https://culturesciences.chimie.ens.fr/thematiques/chimie-analytique/analyse-quantitative/la-melamine-structure-toxicite-et-fraude"
       - name: "Les parabènes au quotidien "
         type: "Grain ou élément de cours "
-        volume: "4 chapitre"
+        volume: "4 chapitres"
         url: "https://culturesciences.chimie.ens.fr/thematiques/chimie-et-societe/sante/les-parabenes-au-quotidien"
   - name: "Biologie marine"
     resources: 
@@ -629,7 +621,7 @@ years:
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/dossiersthematiques/imageriemedicale/"
       - name: "QCM de Biophysique"
         type: "TP, exercice, quiz"
-        volume: "114 QCM"
+        volume: "114 quiz"
         url: "https://unisciel.org/r/2www.chups.1970/qcms/bio25/28.html"
       - name: "Images sonores et ultrasonores du corps humain"
         type: "Grain ou élément de cours"
@@ -641,7 +633,7 @@ years:
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_RMN-LEmsley.xml"
       - name: "Champs électromagnétiques et santé"
         type: "Grain ou élément de cours"
-        volume: "4 parties"
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_lien-conference-Seze-champ-electromagnetique-sante.xml"
   - name: "Anglais scientifique"
     resources: 

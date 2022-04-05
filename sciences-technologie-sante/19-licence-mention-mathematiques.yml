@@ -327,15 +327,15 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=16"
       - name: "Traitement du signal"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Etat de la matière"
     resources: 
@@ -353,7 +353,7 @@ years:
         url: "https://unisciel.org/r/25.4/38/15/savoir-base/co/Bloc1_15_web.html"
       - name: "Structures chimiques carbonées"
         type: "Grain ou élément de cours"
-        volume: " 5 chapitres"
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/38/15/structure-carbone/co/Bloc_2_15_web.html"
   - name: "Chimie des solutions"
     resources: 
@@ -666,10 +666,6 @@ years:
         type: "TP, exercice, quiz"
         volume: "14 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00017.pdf"
-      - name: "Sous-espaces vectoriels"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch02/co/sexercer_01.html"
   - name: "Fonctions de variables"
     resources: 
       - name: "Étude globale des fonctions de classe Cn"
@@ -791,23 +787,23 @@ years:
         url: "https://unisciel.org/r/2uel.4/6/polynomes1/polynomes1/co/polynomes1.html"
       - name: "Théorème de Bézout"
         type: "Module"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/2uel.4/6/arithmetique/arithmetique_ch03/co/apprendre_ch3_02.html"
       - name: "Anneaux et idéaux"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "12  exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00030.pdf"
       - name: "Anneaux de polynômes I"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "19 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00031.pdf"
       - name: "Anneaux de polynômes II, anneaux quotients"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "12 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00032.pdf"
       - name: "Anneaux de polynômes III"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "8 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00033.pdf"
   - name: "Calcul différentiel"
     resources: 
@@ -837,7 +833,7 @@ years:
         url: "https://unisciel.org/r/221.2470/29/fic00050.pdf"
       - name: "Différentielles secondes, extremums"
         type: "TP, exercice, quiz"
-        volume: "' exercices"
+        volume: "4 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00052.pdf"
   - name: "Intégration 2"
     resources: 
@@ -861,7 +857,7 @@ years:
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie différentielle"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "9 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/res/z-cal-3.pdf"
       - name: "Sous-variétés"
         type: "TP, exercice, quiz"
