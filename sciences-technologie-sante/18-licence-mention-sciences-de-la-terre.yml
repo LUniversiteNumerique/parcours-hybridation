@@ -56,7 +56,7 @@ years:
         url: "https://unisciel.org/r/2histologique.9-lille170/"
       - name: "Introduction à la diversité du vivant animal"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
       - name: "La dissection de la souris"
         type: "Grain ou élément de cours"
@@ -126,7 +126,7 @@ years:
         url: "https://unisciel.org/r/216-18.ens-1470/22/modeles-interieur-18.xml"
       - name: "Composition chimique de la Terre – Préambule"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/td-15-Terre-intro.xml"
       - name: "Comment sait-on que le noyau terrestre est composé essentiellement de fer ?"
         type: "Grain ou élément de cours"
@@ -174,7 +174,7 @@ years:
         url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
       - name: "L1 : Traitement analyse et modélisation des données"
         type: "Cours complet ou MOOC *"
-        volume: "30H"
+        volume: "30h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=540"
       - name: "Probabilités et statistiques"
         type: "Module"
@@ -337,7 +337,7 @@ years:
         url: "https://unisciel.org/r/2minweb.9-lille170/65/co/002_mineralogie_webUnisciel.html"
       - name: "Les silicates des roches magmatiques et métamorphiques"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/petronille/co/petronille_web.html"
       - name: "Outil méthodologique d’identification des roches et minéraux courants"
         type: "Module"
@@ -351,47 +351,47 @@ years:
     resources: 
       - name: "Histoire de la théorie de la tectonique des plaques"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/histoire-tectonique-plaques.xml"
       - name: "Alfred Wegener, La genèse des continents et des océans"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/Wegener-genese-continents-oceans.xml"
       - name: "Introduction à la tectonique des plaques"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/intro-tectonique-plaques.xml"
       - name: "La convection mantellique, moteur de la tectonique des plaques"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/convection-mantellique-tectonique-plaques.xml"
       - name: "Formation et destruction de la croûte continentale"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/croissance-continentale1.xml"
       - name: "Prisme d’accrétion dans les Alpes"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/prisme-alpes.xml"
       - name: "Subsidence initiale, subsidence thermique et   déformations au cours du rifting continental"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/subsidence.xml"
       - name: "Le volcanisme d’Auvergne : un point chaud ?"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/auvergne-point-chaud.xml"
       - name: "Plan d’aplatissement, plans de schistosité (S) et plans   de cisaillement (C)"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/schisto-cisaillt.xml"
       - name: "La magnitude d’un séisme : définitions, déterminations"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/seisme-magnitude-moment-energie.xml"
       - name: "Enregistrement des ondes sismiques sur un sismogramme"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/sismogramme.xml"
   - name: "Géodynamique externe"
     resources: 
@@ -429,49 +429,49 @@ years:
         url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
       - name: "KEZAKO : Comment se forme un tsunami ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
   - name: "Géotechniques"
     resources: 
       - name: "Détermination de l’altitude des montagnes par la   méthode géodésique"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/altitude-methode-geodesique.xml"
       - name: "Approche de la circulation générale par l’imagerie   satellite"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/5/dossiers-thematiques/imagerie-satellite"
       - name: "Les satellites JASON et la mesure du niveau des océans"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/CSP-Jason-mesure-niveau-ocean.xml"
       - name: "Suivre l’évolution du niveau moyen de la mer, exemple de la Méditerranée"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/niveau-mediterranee.xml"
       - name: "Méthodes d’étude de la circulation océanique profonde"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/courants-profonds.xml"
       - name: "La géochronologie absolue, cas de la méthode Rb-Sr"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/datation-rubidium-strontium.xml"
       - name: "Les cartes géologiques BRGM de la France sur Google Earth"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/BRGM-kml.xml"
       - name: "Fenêtres sur l’Univers : Instrumentation"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2media4.obspm70/public/FSU/pages_instrumentation/introduction-instrumentation.html"
       - name: "KEZAKO : Comment mesure-t-on les distances dans l’Univers ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5min"
         url: "https://unisciel.org/r/269.4/69-comment-mesure-t-on-les-distances-dans-l9ers/"
       - name: "KEZAKO : Comment fonctionne un GPS ?"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5min"
         url: "https://unisciel.org/r/269.4/69-comment-fonctionne-un-gps/"
   - name: "Anglais scientifique"
     resources: 
@@ -486,33 +486,33 @@ years:
     resources: 
       - name: "Climat du Quaternaire récent et analyse de séries temporelles : introduction à la reconstruction des climats anciens"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/series-temporelles2.xml"
       - name: "Les stromatolithes"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/stromatolithes.xml"
       - name: "Quand la paléontologie revoit ses données"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/paleontologie-biodiversite.xml"
       - name: "Le développement de la végétation continentale de l’Ordovicien au Dévonien et ses conséquences géologiques"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/vegetation-continentale-Paleozoique.xml"
       - name: "Archives climatiques des 740.000 dernières années"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/archives-climatiques.xml"
       - name: "Les variations du taux de CO2 dans l’atmosphère depuis 4,5 milliards d’années"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/co2-depuis-4ga.xml"
   - name: "Système solaire – Planétologie"
     resources: 
       - name: "Astronomie et mécanique céleste"
         type: "Module"
-        volume: 
+        volume: "21 chapitres"
         url: "https://unisciel.org/r/2media4.obspm70/public/AMC/28.html"
   - name: "Anglais scientifique"
     resources: 

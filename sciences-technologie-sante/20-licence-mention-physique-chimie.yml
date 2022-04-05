@@ -332,15 +332,15 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=16"
       - name: "Traitement du signal"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/TraitementDuSignal/Introduction/co/32_Introduction_1.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_1a_pcsi/co/27.html"
       - name: "TP d’électronique"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
   - name: "Etat de la matière"
     resources: 
@@ -551,85 +551,85 @@ years:
     resources: 
       - name: "Chimie des éléments p"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1/co/elementsp1.html"
       - name: "Chimie des éléments d"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsd1/elementsd1/co/elementsd1.html"
       - name: "Nomenclature des composés inorganiques"
         type: "Module"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/32_01-Atomistique_7.html"
   - name: "Chimie organique"
     resources: 
       - name: "Chimie organique L2"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/L2_15_organique/co/L2_15_organique_web.html"
       - name: "Introduction à la nomenclature en chimie organique"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/nomen/nomen/co/nomen.html"
       - name: "Stéréo-isomérie"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/stereoisomerie1/stereoisomerie1/co/stereoisomerie1.html"
       - name: "Effets électroniques"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://uel.unisciel.fr/chimie/effelec1/effelec1/co/ellelec1.html"
       - name: "Chimie des éléments p"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1/co/elementsp1.html"
       - name: "La modélisation moléculaire"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/modelisation/modelisation/co/modelisation.html"
       - name: "Les molécules"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch05/co/apprendre_01.html"
       - name: "Représentation des molécules"
         type: "Module"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/2uel.4/15/nomen/nomen_ch01/co/apprendre_ch1_02.html"
       - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "25min"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/23chem"
       - name: "Les groupes fonctionnels"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=KEjcqf209I4"
       - name: "Formules des molécules organiques"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=cT9KWXMDhoQ"
   - name: "Physique quantique"
     resources: 
       - name: "Principes de la mécanique quantique"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch02/co/51_ch02.html"
       - name: "Fenêtre ouverte sur la mécanique quantique"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_Quantique.xml"
   - name: "Cristallographie"
     resources: 
       - name: "La chimie par le web – Chimie de l’état solide (L’état solide périodique)"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/06-Etat_solide/co/06-Etat_solide_web.html"
       - name: "Structure des solides"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch11/co/apprendre_01.html"
       - name: "Atlas des formes cristallines"
         type: "Module"
-        volume: 
+        volume: "25 pages"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/25/02/cristallo/atlas.pdf"
       - name: "Travaux pratiques de cristallographie 1 : « structure cubique simple du polonium »"
         type: "TP, exercice, quiz"
@@ -689,7 +689,7 @@ years:
     resources: 
       - name: "Outils mathématiques pour la physique"
         type: "Module"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/outils_nancy/outils_nancy/co/outils_nancy.html"
 
 - name: "3ère année"
@@ -732,19 +732,19 @@ years:
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=38"
       - name: "Diffraction"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/diffraction/diffraction/co/diffraction.html"
       - name: "Interférences"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/interf/interf/co/interf.html"
       - name: "Optique ondulatoire"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/optique_ondulatoire_2a_pcetoile/co/ch00_27_web.html"
       - name: "Ondes et interférences"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_DVDmichelson.xml"
   - name: "Mécanique des fluides"
     resources: 
@@ -828,5 +828,5 @@ years:
     resources: 
       - name: "Outils mathématiques pour la physique"
         type: "Module"
-        volume: 
+        volume: "11 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/outils_nancy/outils_nancy/co/outils_nancy.html"

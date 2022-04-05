@@ -447,7 +447,7 @@ years:
         url: "https://unisciel.org/r/25.4/46/47/Integrales/co/Integrales_01.html"
       - name: "Calcul intégral"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.4/36/517-3-calcul-integral/co/517-3_webUnisciel.html"
       - name: "Intégration"
         type: "Module"
@@ -525,7 +525,7 @@ years:
         url: "https://unisciel.org/r/221.2470/29/fic00017.pdf"
       - name: "Sous-espaces vectoriels"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 exercices"
         url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch02/co/sexercer_01.html"
   - name: "Fonctions de variables"
     resources: 
@@ -644,27 +644,27 @@ years:
     resources: 
       - name: "Polynômes"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/polynomes1/polynomes1/co/polynomes1.html"
       - name: "Théorème de Bézout"
         type: "Module"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/2uel.4/6/arithmetique/arithmetique_ch03/co/apprendre_ch3_02.html"
       - name: "Anneaux et idéaux"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "12 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00030.pdf"
       - name: "Anneaux de polynômes I"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "19 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00031.pdf"
       - name: "Anneaux de polynômes II, anneaux quotients"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "12 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00032.pdf"
       - name: "Anneaux de polynômes III"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "8 exercices"
         url: "https://unisciel.org/r/221.2470/29/fic00033.pdf"
   - name: "Calcul Différentiel"
     resources: 
@@ -718,7 +718,7 @@ years:
         url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
       - name: "Géométrie différentielle"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "9 exercices"
         url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/res/z-cal-3.pdf"
       - name: "Sous-variétés"
         type: "TP, exercice, quiz"
