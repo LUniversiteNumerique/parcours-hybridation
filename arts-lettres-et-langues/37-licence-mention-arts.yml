@@ -214,7 +214,7 @@ years:
     resources: 
       - name: "pix.fr"
         type: "Cours complet ou MOOC"
-        volume: "/"
+        volume: "18h"
         url: "https://pix.fr/"
       - name: "Usages du web"
         type: "Cours complet ou MOOC **"
@@ -267,7 +267,7 @@ years:
         url: "https://www.canal-u.tv/producteurs/universite_de_tous_les_savoirs/les_conferences_de_l_annee_2004/image_fixe_image_mouvante"
       - name: "Les grandes leçons cinématographiques"
         type: "Cours complet ou MOOC"
-        volume: "/"
+        volume: "9 vidéos"
         url: "http://uoh.fr/front/notice?id=f665c877-4b8f-4f13-83bb-2f2fb8524f17"
   - name: "Analyse de l’image"
     resources: 
@@ -277,7 +277,7 @@ years:
         url: "https://www.canal-u.tv/video/universite_de_tous_les_savoirs_au_lycee/l_analyse_de_l_image_bernard_darras.4088"
       - name: "Arts visuels : outils méthodologiques"
         type: "Grain ou élément de cours"
-        volume: "/"
+        volume: "10h"
         url: "https://laforgeunistra.wordpress.com/outils-methodologiques/methodologie-du-commentaire-doeuvre/"
       - name: "Cézanne, une montagne"
         type: "Grain ou élément de cours"
@@ -285,7 +285,7 @@ years:
         url: "https://uoh.fr/front/noticefr/?uuid=47355fd8-f132-4de2-a43b-2cf4cb6396b7"
       - name: "Le monde en images"
         type: "TD, étude de cas"
-        volume: "/"
+        volume: "10h"
         url: "https://uoh.fr/front/noticefr/?uuid=b7603954-ae06-442d-b900-0c439dab7ab5"
   - name: "Méthodologie universitaire"
     resources: 

@@ -31,7 +31,7 @@ years:
     resources: 
       - name: "L’art de la mise en scène : essai d’esthétique théâtrale (L. Becq de Fouquières) "
         type: "Cours complet ou MOOC"
-        volume:
+        volume: "301 pages"
         url: "https://gallica.bnf.fr/ark:/12148/bpt6k204285r.pdf"
   - name: "Introduction à l’analyse des arts du spectacle"
     resources: 
@@ -69,7 +69,7 @@ years:
         url: "https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/cine-design/le-plan-objet-au-cinema-vocabulaire-enjeux-et"
       - name: "De la nécessité d’un carnet de recherche sur la pluridisciplinarité en scène"
         type: "Grain ou élément de cours"
-        volume:
+        volume: "3 chapitres"
         url: "https://bandeviolons.hypotheses.org/1"
   - name: "Langue étrangère"
     resources: 
@@ -216,7 +216,7 @@ years:
     resources: 
       - name: "La fabrique du spectacle"
         type: "Cours complet ou MOOC"
-        volume: "/"
+        volume: "3 chapitres"
         url: "http://www.uoh.fr/front/notice?id=ae8bb144-302a-4634-b911-c9a5ea86b115"
       - name: "Sans commentaire"
         type: "Grain ou élément de cours"
@@ -349,7 +349,7 @@ years:
         url: "https://bneuf.auf.org/resource/notice/ZXWyAVMwwbOHTO9N82lLvsYXciK6UH9EtZ7C6eAjC6jxNo_ULsDrwjN6MDYu9hmiwC6rPQuJPSv2JgF_IOcS6w"
       - name: "Représentation ou présentification – les enjeux du « vivant-mourant » dans les arts du spectacle"
         type: "Cours complet ou MOOC"
-        volume:
+        volume: "5 chapitres"
         url: "https://popups.uliege.be/2593-4228/index.php?id=891"
   - name: "Master Class théâtre"
     resources: 
@@ -361,7 +361,7 @@ years:
     resources: 
       - name: "Master class : festival Jean Rouch"
         type: "Grain ou élément de cours"
-        volume: "/"
+        volume: "9 vidéos"
         url: "https://www.canal-u.tv/producteurs/ehess/images_et_cultures_visuelles/master_class_festival_jean_rouch"
       - name: "Master class de Tim Burton"
         type: "Grain ou élément de cours"

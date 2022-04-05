@@ -633,29 +633,29 @@ years:
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/25/02/cristallo/atlas.pdf"
       - name: "Travaux pratiques de cristallographie 1 : « structure cubique simple du polonium »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp1-cubiquesimple/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 2 : « structure cubique centrée du fer »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp2-cubiquecentre/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 3 : « structure cubique à face centrée du cuivre »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp3-cubiquefacecentree/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 4 : « structure hexagonale compacte du Cobalt »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp4-hexagonalcompact/co/module_Cristallographie.html"
       - name: "La chimie par le web – Cristallographie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
   - name: "Physique des ondes"
     resources: 
       - name: "Systèmes oscillants"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/25/syst_oscillants/syst_oscillants/co/syst_oscillants.html"
       - name: "Vibrations Propagation"
         type: "Module"
@@ -780,43 +780,11 @@ years:
     resources: 
       - name: "Les spectroscopies"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/spectro/spectro/co/spectro.html"
-      - name: "Techniques spectroscopiques – Spectrométrie UV-visible"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C1.html"
-      - name: "Techniques spectroscopiques – Spectrométrie IR / spectrofluorométrie"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C2.html"
-      - name: "Techniques spectroscopiques – Spectrométrie de masse"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C4.html"
-      - name: "Techniques chromatographiques – Généralités"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A1.html"
-      - name: "Techniques chromatographiques – Chromatographie en phase gazeuse"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A3.html"
-      - name: "Techniques chromatographiques – Chromatographie liquide (LC – HPLC)"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A4.html"
-      - name: "Techniques chromatographiques – La chromatographie liquide : mécanismes et modalités – Les différents modes de chromatographie liquide"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A62.html"
-      - name: "Techniques spectroscopiques – Spectrométrie de résonnance magnétique nucléaire (RMN)"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C5.html"
       - name: "Laser et molécules : de la spectroscopie à la femtochimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "53min"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_conference-PP2010-laser-molecules-spectroscopie-femto15-Jouvet.xml"
   - name: "Anglais scientifique"
     resources: 

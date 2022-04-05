@@ -43,7 +43,7 @@ years:
         url: "http://www.uoh.fr/front/notice?id=a85fce1f-59d4-4e37-883e-3a71b6844f7f"
       - name: "Toujours en ramenant la plume – Les travailleurs de la mer, l’œuvre graphique de Victor Hugo"
         type: "Module"
-        volume:
+        volume: "3h"
         url: "http://www.uoh.fr/front/notice?id=cf7647df-19b8-4884-a780-7922876c0090"
   - name: "Philosophie"
     resources: 
@@ -216,11 +216,11 @@ years:
     resources: 
       - name: "Politique, religions et constructions étatiques : théorie du pouvoir"
         type: "Module"
-        volume:
+        volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=78a49691-e62f-41fa-81e2-22fa7ffd9e1f"
       - name: "Politique, religions et constructions étatiques : institutions politico-religieuses"
         type: "Module"
-        volume:
+        volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=40a77b56-1f2d-4822-ae02-06cfb301191f"
       - name: "Le Moyen-Âge n’existe pas"
         type: "Grain ou élément de cours"
@@ -258,27 +258,27 @@ years:
     resources: 
       - name: "Thomas More et Jean de Léry"
         type: "Module"
-        volume:
+        volume: "9 chapitres"
         url: "http://www.uoh.fr/front/notice?id=2e2ca114-c22e-4936-b687-245eb5f51eac"
       - name: "Le roman de la route: Jacques le Fataliste et le Roman comique, études synthétiques"
         type: "Module"
-        volume:
+        volume: "11 chapitres"
         url: "http://www.uoh.fr/front/notice?id=74066a04-ce9b-465d-b4ee-f4f49e1fc903"
       - name: "Scarron, le roman comique, études de textes"
         type: "Module"
-        volume:
+        volume: "5 chapitres"
         url: "http://www.uoh.fr/front/notice?id=e8cf3602-f4f8-4cb2-9452-7da7f1c4f733"
       - name: "Alcools et Calligrammes, de Guillaume Apollinaire – Plupart du temps, de Pierre Reverdy"
         type: "Module"
-        volume:
+        volume: "2 chapitres"
         url: "http://www.uoh.fr/front/notice?id=0aa9292a-a767-4980-a722-e673f040152b"
       - name: "William Faulkner et Claude Simon"
         type: "Module"
-        volume:
+        volume: "8 chapitres"
         url: "http://www.uoh.fr/front/notice?id=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
       - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1ère partie) de Cervantès"
         type: "Module"
-        volume:
+        volume: "6 chapitres"
         url: "http://www.uoh.fr/front/notice?id=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
   - name: "Philosophie"
     resources: 
@@ -362,7 +362,7 @@ years:
     resources: 
       - name: "pix.fr"
         type: "Cours complet ou MOOC"
-        volume: "/"
+        volume: "18h"
         url: "https://pix.fr/"
       - name: "Usages du web"
         type: "Cours complet ou MOOC **"
@@ -425,11 +425,11 @@ years:
         url: "http://www.uoh.fr/front/notice?id=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
       - name: "Litterature grecque antique : Platon, Lysis"
         type: "Cours complet ou MOOC"
-        volume:
+        volume: "5 chapitres"
         url: "http://www.uoh.fr/front/document/721ab6ca/cf66/4a69/721ab6ca-cf66-4a69-b376-1963e3bca5e7.pdf"
       - name: "Peinture et couleur dans le monde antique"
         type: "Cours complet ou MOOC"
-        volume:
+        volume: "5h"
         url: "http://www.uoh.fr/front/notice?id=8ccc3298-f370-4d71-a09b-f4ab4e98352a"
       - name: "Visage de l’Autre : les barbares de l’empire romain"
         type: "Grain ou élément de cours"
@@ -467,7 +467,7 @@ years:
         url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2003-2004-demain/la-liberte-de-penser-la-conference-du-vieux-colombier"
       - name: "Les manuscrits de Madame Bovary"
         type: "Module"
-        volume:
+        volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=ee592fd2-3ece-4df6-8658-0afd348aa622"
       - name: "« Sermon sur la mort ou continuité de la vie » de Bossuet"
         type: "Grain ou élément de cours"
@@ -483,15 +483,15 @@ years:
         url: "http://www.uoh.fr/front/notice?id=820cd89a-a99a-4a03-863f-88787d3847b8"
       - name: "Cruauté ordinaire et extraordinaire: Gogol, Soirées du Hameau et Nouvelles de Saint-Pétersbourg et Villiers de L’Isle-Adam, Contes Cruels et Nouveaux contes cruels"
         type: "Module"
-        volume:
+        volume: "7 chapitres"
         url: "http://www.uoh.fr/front/notice?id=6a29228e-15d5-4442-a8d0-ec2c7583d393"
       - name: "Connaissances du paysage chez Edouard Glissant et Mohammed Dib"
         type: "Module"
-        volume:
+        volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=7d749954-222e-406a-9e87-b882f3bd449a"
       - name: "Présentation d’un poème de Rachid Boudjedra : “Le café”"
         type: "Module"
-        volume:
+        volume: "8 chapitres"
         url: "http://www.uoh.fr/front/notice?id=743942f8-5f02-47f6-8b5a-098e5cf35d55"
   - name: "Langues vivantes"
     resources: 
@@ -521,7 +521,7 @@ years:
         url: "http://www.uoh.fr/front/notice?id=ebb0257b-f91d-4bcc-bc57-edc38473b7bb"
       - name: "Lexique de l’Espagne moderne"
         type: "TD, étude de cas"
-        volume:
+        volume: "10h"
         url: "http://www.uoh.fr/front/notice?id=4cff444d-7aa3-493b-a192-19c0d2727281"
       - name: "Aux premiers temps de l’Inquisition espagnole : 1478-1561"
         type: "Cours complet ou MOOC"
