@@ -490,7 +490,7 @@ years:
     resources: 
       - name: "La chimie par le web – Atomistique (Structure et propriétés des atomes)"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/01-Atomistique_web.html"
       - name: "Structure et propriétés de l’atome"
         type: "Module"
@@ -516,23 +516,23 @@ years:
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/02-Liaison_chimique/co/02-Liaison-chimique_web.html"
       - name: "Les composés de coordination : la liaison chimique dans les complexes"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsd1/elementsd1_ch02/co/Apprendre_ch2_1.html"
       - name: "La liaison covalente dans H2"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch06/co/51_ch06.html"
       - name: "Nature des liaisons"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1_ch01/co/elementsp1_ch01_1.html"
       - name: "Trilogique sem 9 – Liaisons chimiques – Introduction"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "9min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_9_liaisons_chimiques_introduction.42093"
       - name: "Trilogique sem 9 – Liaisons chimiques – Hybridation"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "11min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_9_liaisons_chimiques_hybridation.42103"
   - name: "Biochimie"
     resources: 
@@ -540,49 +540,37 @@ years:
         type: "Module"
         volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/bio151/bio151/co/bio151.html"
-      - name: "Le métabolisme"
-        type: "Module"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/Metabo/28.html"
-      - name: "Méthodes physiques de séparation et d’analyse et méthodes de dosage des biomolécules"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/28.html"
-      - name: "Extraction et mise en évidence du glycogène"
-        type: "TP, exercice, quiz"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/ATP/glyco.htm"
       - name: "Trilogique sem 2 – Structure et propriété des acides aminés – Liaisons covalentes -Peptidiques acides aminés"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_2_structure_et_propriete_des_acides_amines_liaisons_covalentes_peptidiques_acide_amines.42117"
+      - name: "TRILOGIQUE sem 2 structure et propriété des acides aminé- chiralité acides aminés"
+        type: "Grain ou élément de cours"
+        volume: "4min"
+        url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_2_structure_et_propriete_des_acides_amine_chiralite_acides_amines.42151"
       - name: "Trilogique sem 2 – Structure et propriété des acides aminés – Chiralité des acides animés"
         type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_2_structure_et_propriete_des_acides_amine_chiralite_acides_amines.42151"
-      - name: "Trilogique sem 3 – Structure et propriété des acides aminés – Acidité acide animés"
-        type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_2_structure_et_propriete_des_acides_amines_acidite_acide_amines.42159"
       - name: "Trilogique sem 7 – Structure des glucides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "13min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_7_structures_des_glucides.42053"
       - name: "Trilogique sem 5 – Electrophèse – Vidéo d’introduction"
         type: "Grain ou élément de cours *"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_5_electrophorese_23_d_introduction.42129"
       - name: "Trilogique sem 5 – Electrophèse – Les cas réel"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "7min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_5_electrophorese_le_cas_reel.42125"
       - name: "Trilogique sem 5 – Electrophèse – Les cas idéal"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "7min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_5_eletrophorese_le_cas_ideal.42131"
       - name: "Trilogique sem 6 – Structure et propriété des lipides – La synthèse des lipides"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "8min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_6_structure_et_propriete_des_lipides_la_synthese_des_lipides.42115"
   - name: "Chimie inorganique"
     resources: 
@@ -660,45 +648,45 @@ years:
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/25/02/cristallo/atlas.pdf"
       - name: "Travaux pratiques de cristallographie 1 : « structure cubique simple du polonium »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp1-cubiquesimple/co/grain1-construction.html"
       - name: "Travaux pratiques de cristallographie 2 : « structure cubique centrée du fer »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp2-cubiquecentre/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 3 : « structure cubique à face centrée du cuivre »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "7 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp3-cubiquefacecentree/co/module_Cristallographie.html"
       - name: "Travaux pratiques de cristallographie 4 : « structure hexagonale compacte du Cobalt »"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "6 chapitres"
         url: "https://ressources.unisciel.fr/cristallo/tp4-hexagonalcompact/co/module_Cristallographie.html"
       - name: "La chimie par le web – Cristallographie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
   - name: "Oxydoréduction"
     resources: 
       - name: "La chimie par le web – La chimie en solution : l’oxydo-réduction"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_5.html"
       - name: "L’oxydo-réduction"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/67/67_ch06/co/apprendre_ch6_01.html"
       - name: "Oxydo-réduction : Exercices"
         type: "TP, exercice, quiz"
-        volume: 
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_30.html"
       - name: "Les dosages Redox"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_29.html"
       - name: "Trilogique sem 11 – Introduction à la chimie des solutions – Réactions d’oxydo-réduction"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "9min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_11_introduction_a_la_15_des_57s_reaction_d_oxydo_reduction.42111"
   - name: "Thermodynamique et cinétique chimique"
     resources: 
@@ -734,7 +722,7 @@ years:
     resources: 
       - name: "Chimie quantique"
         type: "Module"
-        volume: 
+        volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII/co/modelisationII.html"
   - name: "Programmation"
     resources: 
@@ -755,57 +743,21 @@ years:
     resources: 
       - name: "Les polymères superabsorbants"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_psa.xml"
       - name: "Buckyballes, graphènes et nanotubes"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=hitq4dglyNY"
   - name: "Chimie analytique"
     resources: 
       - name: "Les spectroscopies"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/spectro/spectro/co/spectro.html"
-      - name: "Techniques spectroscopiques – Spectrométrie UV-visible"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C1.html"
-      - name: "Techniques spectroscopiques – Spectrométrie IR / spectrofluorométrie"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C2.html"
-      - name: "Techniques spectroscopiques – Spectrométrie de masse"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C4.html"
-      - name: "Techniques chromatographiques – Généralités"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A1.html"
-      - name: "Techniques chromatographiques – Chromatographie en phase gazeuse"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A3.html"
-      - name: "Techniques chromatographiques – Chromatographie liquide (LC – HPLC)"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A4.html"
-      - name: "Techniques chromatographiques – La chromatographie liquide : mécanismes et modalités – Les différents modes de chromatographie liquide"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/chromato/A62.html"
-      - name: "Techniques spectroscopiques – Spectrométrie de résonnance magnétique nucléaire (RMN)"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2www.snv.1970/26/68/spectro/C5.html"
-      - name: "Multispectroscopie"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/2uel.4/15/multispectro/multispectro_ch01/co/multispectro_ch01_1.html"
       - name: "Laser et molécules : de la spectroscopie à la femtochimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "53min"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_conference-PP2010-laser-molecules-spectroscopie-femto15-Jouvet.xml"
   - name: "Anglais scientifique"
     resources: 

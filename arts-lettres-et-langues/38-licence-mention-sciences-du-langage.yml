@@ -18,7 +18,7 @@ years:
         url: "http://www.uoh.fr/front/notice?id=c518124e-f36e-4161-90c7-757e22200e8b"
       - name: "Langage, langues et enseignement : perspectives sociolinguistique et didactique"
         type: "Module"
-        volume: "/"
+        volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=00b627ce-8f44-421f-8f0f-1cb2b91a5677"
       - name: "Dynamiques de la langue française au 21e siècle : une introduction à la sociolinguistique"
         type: "Cours complet ou MOOC"
@@ -235,7 +235,7 @@ years:
     resources: 
       - name: "pix.fr"
         type: "Cours complet ou MOOC"
-        volume: "/"
+        volume: "18h"
         url: "https://pix.fr/"
       - name: "Usages du web"
         type: "Cours complet ou MOOC **"
