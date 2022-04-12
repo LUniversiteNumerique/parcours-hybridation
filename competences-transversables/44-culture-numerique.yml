@@ -11,8 +11,8 @@ description: |
   la culture et les compétences numériques.</p>
 resources: 
   - name: "pix.fr"
-    type: 
-    volume: 
+    type: "Cours complet ou MOOC"
+    volume: "50h"
     url: "https://pix.fr/"
   - name: "Usages du web"
     type: "Cours complet ou MOOC **"
