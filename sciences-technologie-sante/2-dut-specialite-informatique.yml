@@ -76,6 +76,7 @@ years:
       - name: "Fondamentaux des réseaux "
         type: "Cours complet ou MOOC *"
         volume: "5 chapitres"
+        url: "https://www.iutenligne.net/ressources/fondamentaux-des-reseaux.html"
       - name: "Réseaux et télécommunications – architectures, modèles et protocoles"
         type: "Cours complet ou MOOC *"
         volume: "14 chapitres"
