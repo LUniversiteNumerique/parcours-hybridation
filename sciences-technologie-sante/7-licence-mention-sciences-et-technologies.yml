@@ -4,6 +4,8 @@ description: |
   Le parcours proposé ici permet d’hybrider cette licence au caractère généraliste qui réunit de 
   <strong>nombreuses disciplines scientifiques avec une spécialisation progressive</strong> permettant aux étudiants 
   de préciser leur orientation et leur projet professionnel (ici Télécommunications et Réseaux Informatiques).
+  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
 years:
 - name: "1ère année"
   ue:
@@ -614,7 +616,7 @@ years:
         volume: "12h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3437"
       - name: "Programmation orientée objet en C++"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "90h"
         url: "http://www.iutenligne.net/ressources/programmation-orientee-objet-en-c.html"
       - name: "Python 3 : des fondamentaux aux concepts avancés du langage"
@@ -958,11 +960,11 @@ years:
         volume: "10h"
         url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
       - name: "How to write an email in English"
-        type: "Grain ou élément de cours"
+        type: "Grain ou élément de cours *"
         volume: "1h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
       - name: "How to write an email key note"
-        type: "Grain ou élément de cours"
+        type: "Grain ou élément de cours *"
         volume: "1h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
       - name: "Lexico"

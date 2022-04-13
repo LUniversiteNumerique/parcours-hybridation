@@ -9,6 +9,8 @@ description: |
   <br>
   <p>Deux parcours transversaux proposent des ressources éducatives libres permettant de former l’ensemble des 
   étudiants de Licence, quelles que soient les mentions dans lesquelles ils sont inscrits.</p>
+  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
 resources:
   - name: "Niveau débutant"
     type: "TP, exercice, quiz"

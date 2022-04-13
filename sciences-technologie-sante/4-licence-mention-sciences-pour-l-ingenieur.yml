@@ -6,6 +6,8 @@ description: |
   physique et informatique</strong>. Elle permet également de former les étudiants 
   en sciences pour l’ingénieur dans les domaines de l’électronique, des matériaux, 
   de la mécanique etc.
+  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
 years:
 - name: "1ère année"
   ue:
@@ -582,7 +584,7 @@ years:
   - name: "Informatique 2"
     resources: 
       - name: "Programmation orientée objet en C++"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "12h"
         url: "http://www.iutenligne.net/ressources/programmation-orientee-objet-en-c.html"
       - name: "Python 3 : des fondamentaux aux concepts avancés du langage"
@@ -700,11 +702,11 @@ years:
         volume: "10h"
         url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
       - name: "How to write an email in English"
-        type: "Grain ou élément de cours  "
+        type: "Grain ou élément de cours *"
         volume: "2h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
       - name: "How to write an email key note"
-        type: "Grain ou élément de cours"
+        type: "Grain ou élément de cours *"
         volume: "1h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
       - name: "Lexico"
