@@ -9,6 +9,8 @@ description: |
   <br>
   <p>Les formations suivantes sont utilisées dans le cadre d’enseignements et en auto-formation pour développer 
   la culture et les compétences numériques.</p>
+  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
 resources: 
   - name: "pix.fr"
     type: "Cours complet ou MOOC"

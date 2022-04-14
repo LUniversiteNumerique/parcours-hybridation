@@ -4,6 +4,8 @@ description: |
   Ce parcours type propose des ressources éducatives libres pour préparer aux <strong>métiers du 
   bâtiment et des travaux publics</strong>. Elle forme les étudiants avec une approche scientifique 
   pluridisciplinaire en première année et une spécialisation ensuite.
+  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
 years:
 - name: "1ère année"
   ue:
@@ -659,11 +661,11 @@ years:
         volume: "10h "
         url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
       - name: "How to write an email in English"
-        type: "Grain ou élément de cours  "
+        type: "Grain ou élément de cours *"
         volume: "2h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
       - name: "How to write an email key note"
-        type: "Grain ou élément de cours"
+        type: "Grain ou élément de cours *"
         volume: "1h"
         url: "http://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
       - name: "Lexico"
