@@ -13,11 +13,11 @@ years:
     resources: 
       - name: "Mathématiques : préparation à l’entrée dans l’enseignement supérieur (pour remise à niveau éventuelle)"
         type: "Cours complet ou MOOC **"
-        volume: "25h"
+        volume: "20h"
         url: "https://www.fun-campus.fr/fr/cours/mathematiques-preparation-lentree-dans-lenseignement-superieur-s/"
       - name: "Socle en mathématiques"
         type: "Cours complet ou MOOC **"
-        volume: "40h"
+        volume: "36h"
         url: "https://www.fun-campus.fr/fr/cours/socle-en-mathematiques/"
       - name: "Fonctions de Plusieurs Variables"
         type: "Module"
