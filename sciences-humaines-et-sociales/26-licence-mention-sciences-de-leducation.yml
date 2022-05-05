@@ -6,8 +6,8 @@ description: |
   Il met l’accent sur la maîtrise de capacités orientées vers la professionnalisation (compétences linguistique et 
   interculturelles, connaissance des publics et des outils, du fonctionnement des groupes et des institutions, etc…), 
   et sur l’entraînement aux outils de la recherche scientifique.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>.
 years:
 - name: "1ère année"
   ue:
@@ -209,6 +209,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
   - name: "Développer des compétences en français"
     resources: 
       - name: "J’améliore mon français écrit"
@@ -216,9 +220,9 @@ years:
         volume: "26h"
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
-        type: "Module"
-        volume: "10h"
-        url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
+        type: "Module *"
+        volume: "20h"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
       - name: "Renforcer ses compétences orthographiques"
         type: "Cours complet ou MOOC **"
         volume: "12h"
@@ -376,6 +380,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
   - name: "Appréhender les données de la recherche"
     resources: 
       - name: "Analyse de données quantitatives en sciences humaines et sociales (ADSHS)"

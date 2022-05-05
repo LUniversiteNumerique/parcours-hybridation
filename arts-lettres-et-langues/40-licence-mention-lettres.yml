@@ -6,8 +6,8 @@ description: |
   traditionnellement les lettres modernes : <strong>français, littérature, linguistique et langues 
   anciennes</strong>. Il propose également des contenus pour l’étude renforcée d’une langue vivante et 
   des enseignements transversaux (compétences informatiques, méthodologie universitaire).
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -71,14 +71,26 @@ years:
         type: "Cours complet ou MOOC"
         volume: "15h"
         url: "http://www.uoh.fr/front/notice?id=afbb7d09-922b-40c6-b94f-8596348e0ced"
+      - name: "Version grecque en 10 leçons"
+        type: "Cours complet ou MOOC *"
+        volume: "35h"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=47"
       - name: "Latin pour débutant"
         type: "Cours complet ou MOOC"
         volume: "44h"
         url: "http://www.uoh.fr/front/notice?id=34c4e11f-2b7a-4c36-94a2-9fbdd8541b62"
+      - name : "Kit de survie du latiniste"
+        type : "Cours complet ou MOOC"
+        volume : "25 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
       - name: "Site d’initiation au grec ancien"
         type: "Cours complet ou MOOC"
         volume: "15h"
         url: "http://www.uoh.fr/front/notice?id=a2d5335f-019c-45b4-aa0f-94419e003d75"
+      - name : "Kit de survie de l'hélleniste"
+        type : "Module *"
+        volume : "1 chapitre"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=48"
       - name: "Lecture de textes en grec classique"
         type: "Cours complet ou MOOC"
         volume: "43h"
@@ -88,9 +100,9 @@ years:
         volume: "48h"
         url: "http://www.uoh.fr/front/notice?id=003c5f36-848d-4233-87db-62c8012734cc"
       - name: "Approche raisonnée du fonctionnement de la langue latine"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "12h"
-        url: "http://uoh.fr/front/notice?id=3b038530-c0b1-41da-95fa-2519aa6ff362"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
   - name: "Langues vivantes"
     resources: 
       - name: "Certif’langues – anglais"
@@ -263,9 +275,13 @@ years:
         volume: "36 min"
         url: "https://www.canal-u.tv/video/universite_toulouse_ii_le_mirail/langue_sage_langue_folle_sur_un_mythe_contemporain_des_rapports_entre_langue_latine_et_langue_romane_en_litterature_medievale_michel_banniard.11716"
       - name: "Approche raisonnée du fonctionnement de la langue latine"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "12h"
-        url: "http://uoh.fr/front/notice?id=3b038530-c0b1-41da-95fa-2519aa6ff362"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
+      - name: "Version grecque en 10 leçons"
+        type: "Cours complet ou MOOC *"
+        volume: "35h"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=47"
       - name: "Lecture de textes en grec classique"
         type: "Cours complet ou MOOC"
         volume: "43h"
@@ -274,6 +290,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "12h"
         url: "http://www.uoh.fr/front/notice?id=afbb7d09-922b-40c6-b94f-8596348e0ced"
+      - name : "Kit de survie du latiniste"
+        type : "Cours complet ou MOOC"
+        volume : "25 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
       - name: "Littérature grecque antique : Platon, Lysis"
         type: "Module"
         volume: "3h"
@@ -282,6 +302,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "3 chapitres"
         url: "http://www.uoh.fr/front/notice?id=25668332-85ea-4204-9532-ce7950b24489"
+      - name : "Kit de survie de l'hélleniste"
+        type : "Module *"
+        volume : "1 chapitre"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=48"
   - name: "Littérature comparée"
     resources: 
       - name: "Thomas More et Jean de Léry"
@@ -394,6 +418,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
   - name: "Méthodologie du travail universitaire"
     resources: 
       - name: "MTU pour futur étudiant"

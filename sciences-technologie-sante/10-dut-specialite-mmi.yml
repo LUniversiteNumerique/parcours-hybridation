@@ -7,8 +7,8 @@ description: |
   compétences pour intervenir à la fois dans la conception des contenus et dans la réalisation 
   des produits et services et leur déploiement. C’est un interlocuteur dans la stratégie de 
   communication et de commercialisation de l’organisation.
-  * Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -92,6 +92,10 @@ years:
         type: " Cours complet ou MOOC"
         volume: "9 chapitres"
         url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Données et algorithmes"
         type: "Cours complet ou MOOC **"
         volume: "18h"
@@ -228,6 +232,10 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "72h"
         url: "https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about"
+      - name : "Analyse Numérique en Python"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=13" 
   - name: "Services sur Réseaux"
     resources: 
       - name: "Défis et enjeux de la cybersécurité"

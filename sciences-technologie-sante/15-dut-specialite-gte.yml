@@ -6,8 +6,8 @@ description: |
   de l’énergie, transfert de l’énergie, utilisation de l’énergie. <strong>La maîtrise de l’énergie, sur 
   les plans techniques, économiques et environnementaux</strong>, sont les principaux objectifs de cette 
   formation qui répond à une forte demande des entreprises.
-  * Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -81,6 +81,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "2 quiz"
         url: "http://miel.iutenligne.net/course/view.php?id=33"
+      - name : "Cinématique"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
   - name: "Électricité"
     resources: 
       - name: "Baselecpro : cours et exercices d’électricité"
@@ -254,6 +258,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "2 quiz"
         url: "http://miel.iutenligne.net/course/view.php?id=245"
+      - name : "Fourier (séries, transformée) et Laplace (transformée)"
+        type : "Cours complet ou MOOC *"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=14"  
       - name: "Changement de base"
         type: "Module *"
         volume: "20h"
@@ -334,6 +342,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "9 chapitres"
         url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
   - name: "Expression-communication-entreprise"
     resources: 
       - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"

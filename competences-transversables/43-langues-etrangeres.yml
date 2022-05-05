@@ -3,8 +3,8 @@ name: "Langues étrangères"
 description: |
   Les ressources et formations listées sont utilisées dans le cadre d’enseignements ou en auto-formation 
   pour <strong>développer les compétences en langues vivantes étrangères</strong> des étudiants.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "Voir le parcours"
   ue:

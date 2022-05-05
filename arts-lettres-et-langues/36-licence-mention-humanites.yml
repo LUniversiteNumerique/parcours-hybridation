@@ -6,8 +6,8 @@ description: |
   traditionnellement les humanités : <strong>lettres, philosophie, histoire, culture classique</strong>. 
   Il propose également des contenus pour l’étude renforcée de <strong>langues vivantes</strong> et des 
   <strong>enseignements transversaux</strong> (compétences informatiques, méthodologie).
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -84,9 +84,17 @@ years:
         volume: "48h"
         url: "http://www.uoh.fr/front/notice?id=003c5f36-848d-4233-87db-62c8012734cc"
       - name: "Approche raisonnée du fonctionnement de la langue latine"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "12h"
-        url: "http://uoh.fr/front/notice?id=3b038530-c0b1-41da-95fa-2519aa6ff362"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
+      - name : "Kit de survie de l'hélleniste"
+        type : "Module *"
+        volume : "1 chapitre"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=48"
+      - name : "Kit de survie du latiniste"
+        type : "Cours complet ou MOOC"
+        volume : "25 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
   - name: "Langues vivantes"
     resources: 
       - name: "Certif’langues – anglais"
@@ -311,13 +319,21 @@ years:
         volume: "43h"
         url: "http://www.uoh.fr/front/notice?id=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
       - name: "Version grecque en 10 leçons"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "35h"
-        url: "http://www.uoh.fr/front/notice?id=2cccc2c2-3683-489f-bdc3-0bc2e843d40e"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=47"
       - name: "Approche raisonnée du fonctionnement de la langue latine"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "12h"
-        url: "http://uoh.fr/front/notice?id=3b038530-c0b1-41da-95fa-2519aa6ff362"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
+      - name : "Kit de survie du latiniste"
+        type : "Cours complet ou MOOC"
+        volume : "25 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
+      - name : "Kit de survie de l'hélleniste"
+        type : "Module *"
+        volume : "1 chapitre"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=48"
   - name: "Langues vivantes"
     resources: 
       - name: "Certif’langues – anglais"
@@ -390,6 +406,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
 
 - name: "3ère année"
   ue:

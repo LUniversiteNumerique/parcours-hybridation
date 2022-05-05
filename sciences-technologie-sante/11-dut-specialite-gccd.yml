@@ -7,8 +7,8 @@ description: |
   que le secteur des travaux publics. Dans chacun de ces 2 secteurs, le diplômé DUT GCCD 
   accède à des emplois de cadres moyens en production sur les chantiers, en cabinets ou 
   en services techniques de collectivités.
-  * Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -18,6 +18,10 @@ years:
         type: "TD, étude de cas *"
         volume: "20 exercices"
         url: "http://www.iutenligne.net/ressources/exercices-de-statique.html?srid=660&srl=product-footer"
+      - name : "Eléments de Résistance Des Matériaux"
+        type : "Cours complet ou MOOC"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
       - name: "Quiz – Dimensionnement des structures – Statique 2D – Équilibre solide complet"
         type: "TP, exercice, quiz *"
         volume: "1 quiz"
@@ -206,6 +210,10 @@ years:
         type: "Grain ou élément de cours *"
         volume: "4 chapitres + exercices"
         url: "http://www.iutenligne.net/ressources/equations-differentielles-lineaires-coefficients-constants.html"
+      - name : "Équations Différentielles Ordinaires"
+        type : "Cours complet ou MOOC"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
       - name: "Méthodes d’intégration"
         type: "Grain ou élément de cours *"
         volume: "1 cours + 14 exercices"
@@ -349,6 +357,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "1 cours"
         url: "http://www.iutenligne.net/ressources/videos-pour-initiation-revit.html"
+      - name : "Eléments de Résistance Des Matériaux"
+        type : "Cours complet ou MOOC"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
       - name: "openBIM"
         type: "Cours complet ou MOOC **"
         volume: "21h"

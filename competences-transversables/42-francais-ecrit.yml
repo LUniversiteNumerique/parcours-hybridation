@@ -4,17 +4,17 @@ description: |
   Les contenus suivants sont utilisés par les établissements partenaires du projet 
   <a href="https://ecriplus.fr/" target="_blank" alt="https://ecriplus.fr">écri+</a> 
   dans la cadre de formations à distance accompagnées par du tutorat (enseignant et/ou étudiant).
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+    <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 resources: 
   - name: "J’améliore ma maîtrise du français"
     type: "Module"
     volume: "26 heures"
     url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
   - name: "Améliorer ses écrits"
-    type: "Module"
+    type: "Module *"
     volume: "20 heures"
-    url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
+    url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
   - name: "Renforcer ses compétences orthographiques"
     type: "Cours complet ou MOOC"
     volume: "8 heures"
@@ -23,3 +23,9 @@ resources:
     type: "TP, exercice, quiz"
     volume: "réservés aux partenaires de l’UOH"
     url: "http://www.uoh.fr/front/notice?id=2b30ec3f-14a4-4af3-a21f-5ec6f708332f"
+  - name : "J'améliore mon français écrit"
+    Type: "Module *"
+    url : "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+  - name: "Grammaire élémentaire de la langue française"
+    type: "Module *"
+    url: "https://moodle.luniversitenumerique.fr/course/view.php?id=44"
