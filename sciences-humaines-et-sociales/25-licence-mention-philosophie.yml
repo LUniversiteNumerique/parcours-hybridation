@@ -6,8 +6,8 @@ description: |
   savoir</strong>. Ces ressources permettent de faire acquérir une culture philosophique, incluant à la 
   fois des grands auteurs et des domaines de la philosophie, ainsi qu’une culture générale solide appréciée 
   dans des secteurs professionnels variés.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -202,9 +202,9 @@ years:
         volume: "26h"
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
-        type: "Module"
-        volume: "10h"
-        url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
+        type: "Module *"
+        volume: "20h"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
       - name: "Renforcer ses compétences orthographiques"
         type: "Cours complet ou MOOC"
         volume: "12h"
@@ -366,6 +366,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
   - name: "Construire un projet personnel et professionnel"
     resources: 
       - name: "Les métiers de la formation"

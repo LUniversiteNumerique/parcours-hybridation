@@ -4,8 +4,8 @@ description: |
   Le parcours proposé ici permet d’hybrider cette licence au caractère généraliste qui réunit de 
   <strong>nombreuses disciplines scientifiques avec une spécialisation progressive</strong> permettant aux étudiants 
   de préciser leur orientation et leur projet professionnel (ici Télécommunications et Réseaux Informatiques).
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -165,6 +165,10 @@ years:
         type: "Module"
         volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
+      - name : "Équations Différentielles Ordinaires"
+        type : "Cours complet ou MOOC"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
       - name: "Équations différentielles"
         type: "Module"
         volume: "7 chapitres"
@@ -245,10 +249,18 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "40h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
+      - name : "Analyse Numérique en Python"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=13" 
       - name: "Algorithmique et programmation"
         type: "Module"
         volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Java’s Cool-Proglets"
         type: "Module"
         volume: "5h"
@@ -275,6 +287,10 @@ years:
         type: "Module"
         volume: "50h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/oai%253Auniv-lemans-repolmori-repo-1.6%253Aum-ori-9237"
+      - name : "Cinématique"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
       - name: "Socle en Mécanique"
         type: "Cours complet ou MOOC **"
         volume: "10h"
@@ -486,9 +502,9 @@ years:
         volume: "26h"
         url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
       - name: "Améliorer ses écrits"
-        type: "Module"
+        type: "Module *"
         volume: "20h"
-        url: "http://www.uoh.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
       - name: "Renforcer ses compétences orthographiques"
         type: "Cours complet ou MOOC **"
         volume: "12h"
@@ -597,6 +613,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
 
 
 - name: "2ère année"
@@ -615,6 +635,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "12h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3437"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Programmation orientée objet en C++"
         type: "Cours complet ou MOOC *"
         volume: "90h"
@@ -673,6 +697,10 @@ years:
         type: "Module"
         volume: "3 chapitres"
         url: "http://pedagotech.inp-toulouse.fr/131130/co/NbresComplexes_web.html"
+      - name : "Fourier (séries, transformée) et Laplace (transformée)"
+        type : "Cours complet ou MOOC *"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=14"  
   - name: "Intégration"
     resources: 
       - name: "L1: Intégration"
@@ -1032,6 +1060,10 @@ years:
         type: "Module"
         volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Complexité des algorithmes"
         type: "Module"
         volume: "36h"

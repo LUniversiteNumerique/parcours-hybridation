@@ -6,8 +6,8 @@ description: |
   comprendre la situation et les décisions de l’entreprise dans son environnement</strong> politique, 
   juridique, économique et culturel, et aussi de connaître le fonctionnement des organisations et les 
   outils de leur gestion.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -294,6 +294,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "45h"
         url: "http://ressources.aunege.fr/nuxeo/site/esupversions/26ccdf83-080a-475a-b7a5-3d0f305b7f64/M1_RH/index.html"
+      - name : "Gestion des Ressources Humaines"
+        type: "Cours complet ou MOOC *"
+        volume : "7 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
   - name: "Marketing"
     resources: 
       - name: "Eléments d’histoire et d’organisation du commerce"
@@ -406,6 +410,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
 
 - name: "3ère année"
   ue:
@@ -527,6 +535,10 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "12h"
         url: "https://www.fun-campus.fr/fr/cours/former-et-developper-les-competences-innovation-et-pilotage/"
+      - name : "Gestion des Ressources Humaines"
+        type: "Cours complet ou MOOC *"
+        volume : "7 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
   - name: "Marketing"
     resources: 
       - name: "Distribution"

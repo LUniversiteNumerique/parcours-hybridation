@@ -6,8 +6,8 @@ description: |
   installer et mettre au point des équipements (réseaux, environnements applicatifs, 
   systèmes d’exploitation) et assurer leur maintenance. Il peut s’agir de 
   <strong>réseaux informatiques classiques, à intégration de services, mobiles ou autres</strong>.
-  * Une authentification est obligatoire car imposée par la technologie Moodle ou encore par IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -65,6 +65,10 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "14 chapitres"
         url: "http://www.iutenligne.net/ressources/conception-des-bases-de-donnees-langage-sql-mise-en-oeuvre-avec-oracle.html"
+      - name : "Interactions avec bases de données : PHP-HTML-SQL"
+        type : "Cours complet ou MOOC"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=5"
   - name: "Programmation"
     resources: 
       - name: "Documents dans le cloud"
@@ -91,6 +95,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "9 chapitres"
         url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Bases de la programmation"
         type: "Cours complet ou MOOC"
         volume: "15 chapitres"
@@ -185,6 +193,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "2 quiz "
         url: "http://miel.iutenligne.net/course/view.php?id=245"
+      - name : "Fourier (séries, transformée) et Laplace (transformée)"
+        type : "Cours complet ou MOOC *"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=14"  
       - name: "Suites et séries numériques "
         type: "TP, exercice, quiz *"
         volume: "1 quiz"

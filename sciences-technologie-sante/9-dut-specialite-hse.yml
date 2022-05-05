@@ -5,8 +5,8 @@ description: |
   administrations, d’appréhender les risques aussi bien en termes de santé et de sécurité pour les personnes, qu’en terme de 
   protection de l’environnement au sein d’entreprises et administrations. Il veille ainsi à la qualité du cadre de travail 
   en informant l’employeur sur ses obligations et responsabilités.
-  * Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -228,6 +228,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "23 quiz"
         url: "http://www.iutenligne.net/ressources/quiz-dimensionnement-des-structures-resistance-des-materiaux-poutres-sollicitations-3?srid=1721&srl=product-footer"
+      - name : "Eléments de Résistance Des Matériaux"
+        type : "Cours complet ou MOOC"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
       - name: "Pression dans les fluides"
         type: "Cours complet ou MOOC *"
         volume: "15h"
@@ -240,6 +244,10 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "20h"
         url: "http://www.iutenligne.net/ressources/physique-fondamentaux-de-la-mecanique-du-solide.html"
+      - name : "Cinématique"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
       - name: "Mécanique – Cinématique – niveau 0"
         type: "TP, exercice, quiz *"
         volume: "40min"

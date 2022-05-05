@@ -7,8 +7,8 @@ description: |
   d’activités dans lequel il évolue, il assure le choix, l’implantation et la mise en œuvre de la chaîne 
   de mesures depuis le capteur jusqu’à l’acquisition des signaux, l’exploitation des données et la 
   transmission des données.
-  * Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -34,6 +34,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "10 questions"
         url: "http://www.iutenligne.net/ressources/quiz-dimensionnement-des-structures-resistance-des-materiaux-poutres-modele-materiau.html"
+      - name : "Eléments de Résistance Des Matériaux"
+        type : "Cours complet ou MOOC"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
       - name: "Statique et dynamique des fluides"
         type: "Cours complet ou MOOC *"
         volume: "chapitre 2.7 en particulier"
@@ -58,6 +62,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "10 exercices"
         url: "http://www.iutenligne.net/ressources/quiz-dimensionnement-des-structures-resistance-des-materiaux-poutres-modele-materiau.html"
+      - name : "Eléments de Résistance Des Matériaux"
+        type : "Cours complet ou MOOC"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
       - name: "Thermodynamique et cinétique chimiques"
         type: "Cours complet ou MOOC *"
         volume: "3 chapitres"
@@ -426,6 +434,10 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "14 chapitres"
         url: "http://www.iutenligne.net/ressources/transformees-de-fourier.html"
+      - name : "Fourier (séries, transformée) et Laplace (transformée)"
+        type : "Cours complet ou MOOC *"
+        volume : "5 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=14"  
       - name: "Mathématiques – Analyse – Séries de Fourier"
         type: "TP, exercice, quiz *"
         volume: "2 quiz"

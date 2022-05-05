@@ -11,8 +11,8 @@ description: |
   des enseignements de mathématiques (outil indispensable pour modéliser la nature et formuler les lois 
   quantitatives de la physique et de la chimie) et d’informatique (outil pour résoudre les modèles complexes 
   issus de la physique et de la chimie).
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -26,10 +26,18 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "40h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
+      - name : "Analyse Numérique en Python"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=13" 
       - name: "Algorithmique et programmation"
         type: "Module"
         volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Java’s Cool-Proglets"
         type: "Module"
         volume: "5h"
@@ -208,6 +216,10 @@ years:
         type: "TP, exercice, quiz"
         volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/13_Equations_differentielles/co/13_Equations_differentielles_web.html"
+      - name : "Équations Différentielles Ordinaires"
+        type : "Cours complet ou MOOC *"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
       - name: "Exercices de calcul différentiel"
         type: "TP, exercice, quiz"
         volume: "4 chapitres"
@@ -302,6 +314,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "5 chapitres"
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M01_G01/co/NLP_C_M01_G01_web.html"
+      - name : "Cinématique"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
       - name: "TD Mécanique"
         type: "TD, étude de cas"
         volume: "10 chapitres"

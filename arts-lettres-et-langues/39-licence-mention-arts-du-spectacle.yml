@@ -6,8 +6,8 @@ description: |
   cinéma et au théâtre), des ateliers pratiques (jeu, cirque, marionnette, montage son, montage vidéo, 
   scénographie, danse) et des <strong>enseignements disciplinaires spécifiques</strong> à chaque parcours 
   (théorie, histoire, esthétique, analyse, écriture…).
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -29,6 +29,18 @@ years:
         type: "Grain ou élément de cours"
         volume: "1h"
         url: "https://www.canal-u.tv/video/universite_de_tous_les_savoirs/le_cinema_comme_art.1210"
+      - name: "Les grandes leçons cinématographiques"
+        type: "Cours complet ou MOOC *"
+        volume: "9 vidéos"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=59"
+      - name : "Cinéma et Anthropologie"
+        type : "Cours complet ou MOOC*"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
+      - name : "Penser le cinéma documentaire"
+        type : "Cours complet ou MOOC*"
+        volume : "3h"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=109"
   - name: "Introduction à l’esthétique des arts du spectacle"
     resources: 
       - name: "L’art de la mise en scène : essai d’esthétique théâtrale (L. Becq de Fouquières) "
@@ -41,10 +53,18 @@ years:
         type: "Cours complet ou MOOC"
         volume: "7h"
         url: "http://www.uoh.fr/front/notice?id=f665c877-4b8f-4f13-83bb-2f2fb8524f17"
+      - name : "Cinéma et Anthropologie"
+        type : "Cours complet ou MOOC*"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
       - name: "Linguistique du texte de théâtre"
         type: "Module"
         volume: " 4 modules"
         url: "https://aidenum-production.u-bourgogne.fr/ress/uoh/TexteDeTheatre/"
+      - name : "Penser le cinéma documentaire"
+        type : "Cours complet ou MOOC*"
+        volume : "3h"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=109"
   - name: "Introduction à l’étude des oeuvres (répertoire théâtral, films fondamentaux)"
     resources: 
       - name: "Collection sur Alfred Hitchcock"
@@ -234,6 +254,14 @@ years:
         type: "Grain ou élément de cours"
         volume: "1h"
         url: "https://www.canal-u.tv/video/universite_rennes_2_crea_cim/un_film_du_papier_a_l_ecran.3353"
+      - name : "Cinéma et Anthropologie"
+        type : "Cours complet ou MOOC*"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
+      - name : "Penser le cinéma documentaire"
+        type : "Cours complet ou MOOC*"
+        volume : "3h"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=109"
       - name: "Évolution du montage : de Griffith à Godard"
         type: "Grain ou élément de cours"
         volume: "1h"

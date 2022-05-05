@@ -5,8 +5,8 @@ description: |
   <strong>solide formation de base en mathématiques, informatique et économie</strong>, 
   postionnée à la frontière entre la licence de mathématiques et la licence d’économie. 
   Elle prépare aux métiers de l’économie, de la banque, de la finance et de l’enseignement.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -20,10 +20,18 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "40h"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
+      - name : "Analyse Numérique en Python"
+        type : "Cours complet ou MOOC *"
+        volume : "10 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=13" 
       - name: "Algorithmique et programmation"
         type: "Module"
         volume: "40h"
         url: "https://unisciel.org/r/25.4/algoprog/s00aaroot/aa00321/co/aa00321_web.html"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Pharo"
         type: "Module"
         volume: "7 chapitres"
@@ -190,6 +198,10 @@ years:
         type: "Module"
         volume: "7 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/45/45/co/45.html"
+      - name : "Équations Différentielles Ordinaires"
+        type : "Cours complet ou MOOC *"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
       - name: "Systèmes différentiels"
         type: "Module"
         volume: "2 chapitres"
@@ -623,6 +635,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "4 chapitres"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doccomplexity70"
+      - name : "Algorithmique"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "OEF algorithme en arithmétique"
         type: "TP, exercice, quiz"
         volume: "9 exercices"

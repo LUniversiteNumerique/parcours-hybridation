@@ -7,8 +7,8 @@ description: |
   sont centrées sur les langues : leurs propriétés, leurs manifestations, leur évolution, leur 
   acquisition, leurs dysfonctionnements. Plus précisément, l’objectif est de comprendre les 
   fonctionnements langagiers.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -263,6 +263,10 @@ years:
         type : "Cours complet ou MOOC"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+      - name : "Informatique et société"
+        type: "Module *"
+        volume: "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
 
 - name: "3ère année"
   ue:
@@ -272,6 +276,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "26h"
         url: "https://uoh.fr/front/noticefr/?uuid=cf44093b-e77f-4bfb-bd41-5bf2fb610dc8"
+      - name : "Arts de dire et formes de contrôle en situations de plurilinguisme"
+        type : "Cours complet ou MOOC *"
+        volume : "3 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=116"
       - name: "L’écologie linguistique en milieu éducatif : l’exemple luxembourgeois"
         type: "Module"
         volume: "1h"

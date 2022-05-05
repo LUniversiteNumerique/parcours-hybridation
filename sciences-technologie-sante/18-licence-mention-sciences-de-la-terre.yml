@@ -5,8 +5,8 @@ description: |
   nécessaires pour comprendre le système Terre, sa formation et son évolution</strong>. Si la licence Sciences de la 
   Terre se veut généraliste, elle reste cependant adossée aux grandes thématiques porteuses que sont les ressources 
   minérales et énergétiques et l’environnement.
-  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
 - name: "1ère année"
   ue:
@@ -174,6 +174,10 @@ years:
         type: "Modules"
         volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
+      - name : "Équations Différentielles Ordinaires"
+        type : "Cours complet ou MOOC *"
+        volume : "9 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
       - name: "L1 : Traitement analyse et modélisation des données"
         type: "Cours complet ou MOOC *"
         volume: "30h"
