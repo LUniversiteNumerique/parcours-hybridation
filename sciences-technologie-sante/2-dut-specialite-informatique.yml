@@ -16,11 +16,11 @@ years:
     resources: 
       - name: "Données et algorithmes"
         type: "Cours complet ou MOOC **"
-        volume: "18h"
+        volume: "6h"
         url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
       - name: "Premier programme en JAVA"
         type: "Cours complet ou MOOC **"
-        volume: "12h"
+        volume: "6h"
         url: "https://www.fun-campus.fr/fr/cours/ecrivez-votre-premier-programme-avec-java/"
       - name: "Programmation objet : premiers pas en JAVA"
         type: "Cours complet ou MOOC **"
@@ -296,6 +296,7 @@ years:
         type: "TD, étude de cas "
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
+
 - name: "2ère année"
   ue:
   - name: "Algorithmique et programmation"
