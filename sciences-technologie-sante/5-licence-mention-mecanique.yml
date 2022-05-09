@@ -595,7 +595,7 @@ years:
       - name: "Java’s Cool-Proglets"
         type: "Module"
         volume: "5h"
-        url: "https://unisciel.org/r/2javascool.gforge.inria70/28.php"
+        url: "https://proglets.algorea.org/contents/5403/"
       - name: "Introduction à la programmation en assembleur"
         type: "Module"
         volume: "14 chapitres"
