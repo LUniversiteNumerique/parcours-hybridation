@@ -27,7 +27,7 @@ years:
     resources: 
       - name: "L1 : Suites et séries"
         type: "Cours complet ou MOOC *"
-        volume: 
+        volume: "10 chapitres"
         url: "https://unisciel.org/r/3socles3.4/11/12.php0id=40"
       - name: "Nombres réels, suites et fonctions"
         type: "Module"
@@ -1138,14 +1138,6 @@ years:
         type: "Grain ou élément de cours"
         volume: "13min"
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
-      - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation"
-        type: "Grain ou élément de cours"
-        volume: "11min"
-        url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_1_interpretation_microscopique_et_caracterisation.23250"
-      - name: "Tension superficielle, épisode 2 loi de Laplace et loi de Jurin"
-        type: "Grain ou élément de cours"
-        volume: "10min"
-        url: "https://unisciel.org/r/2www.17-u.tv/23/20/tension_superficielle_episode_2_loi_de_laplace_et_loi_de_jurin.23252"
   - name: "Physique des ondes"
     resources: 
       - name: "Systèmes oscillants"
