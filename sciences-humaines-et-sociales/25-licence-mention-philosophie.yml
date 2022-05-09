@@ -198,9 +198,9 @@ years:
   - name: "Développer des compétences en français"
     resources: 
       - name: "J’améliore mon français écrit"
-        type: "Module"
+        type: "Module *"
         volume: "26h"
-        url: "http://www.uoh.fr/front/notice?id=16aad467-2aee-4a70-9281-2e36280dd775"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
       - name: "Améliorer ses écrits"
         type: "Module *"
         volume: "20h"
