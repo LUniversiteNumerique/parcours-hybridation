@@ -384,12 +384,8 @@ years:
     resources: 
       - name: "Biologie du développement"
         type: "Module"
-        volume: 
-        url: "https://unisciel.org/r/25.4/biodudev"
-      - name: "Développement embryonnaire et gènes sélecteurs"
-        type: "Module"
         volume: "9 chapitres"
-        url: "https://unisciel.org/r/2www.snv.1970/26/homeotique/homeo0.html"
+        url: "https://unisciel.org/r/25.4/biodudev"
   - name: "Immunologie"
     resources: 
       - name: "OEF système immunitaire"
