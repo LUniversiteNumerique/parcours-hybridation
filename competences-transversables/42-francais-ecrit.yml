@@ -25,5 +25,5 @@ resources:
     url : "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
   - name: "Grammaire élémentaire de la langue française"
     type: "Module *"
-    volume : ""
+    volume : "8 chapitres"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=44"

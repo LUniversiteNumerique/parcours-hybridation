@@ -137,7 +137,7 @@ years:
         url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
       - name: "Matrices"
         type: "TP, exercice, quiz"
-        volume: 2 chapitres"
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
       - name: "Réductions des endomorphismes"
         type: "TP, exercice, quiz"
@@ -722,7 +722,7 @@ years:
         url: "https://unisciel.org/r/2uel.4/15/chimther/chimther/co/chimther.html"
       - name: "La chimie par le web – Réaction chimique – Thermodynamique (La réaction chimique, thermodynamique chimique, cinétique chimique)"
         type: "Module"
-        volume: 
+        volume: "5 chapitres"
         url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/03-Reaction_chimique/co/03-Reaction_chimique_web.html"
       - name: "Cinétique"
         type: "Module"
