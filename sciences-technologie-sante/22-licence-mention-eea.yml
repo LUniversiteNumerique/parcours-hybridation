@@ -225,7 +225,7 @@ years:
     resources: 
       - name: "Géométrie analytique"
         type: "Module"
-        volume: "- chapitres"
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/6/59/59/co/59.html"
       - name: "Produits scalaires dans l’espace – Droites et plans dans l’espace"
         type: "Module"

@@ -133,7 +133,7 @@ years:
     resources: 
       - name: "Histoire d’un mystère : l’intérieur de la Terre"
         type: "Grain ou élément  de cours"
-        volume: 
+        volume: "14 chapitres"
         url: "https://unisciel.org/r/216-18.ens-1470/22/modeles-interieur-18.xml"
       - name: "Composition chimique de la Terre – Préambule"
         type: "Grain ou élément  de cours"
@@ -348,7 +348,7 @@ years:
     resources: 
       - name: "Génétique : introduction générale et notions de base"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/37/introgen/introgen/co/introgen.html"
       - name: "Génétique formelle"
         type: "Module"
@@ -479,7 +479,7 @@ years:
         url: "https://culturesciences.chimie.ens.fr/thematiques/chimie-analytique/analyse-quantitative/la-melamine-structure-toxicite-et-fraude"
       - name: "Les parabènes au quotidien"
         type: "Grain ou élément  de cours"
-        volume: "4 chapitre"
+        volume: "4 chapitres"
         url: "https://culturesciences.chimie.ens.fr/thematiques/chimie-et-societe/sante/les-parabenes-au-quotidien"
   - name: "Biologie marine"
     resources: 

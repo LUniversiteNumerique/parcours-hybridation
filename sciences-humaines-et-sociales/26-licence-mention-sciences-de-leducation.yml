@@ -130,6 +130,7 @@ years:
         volume : "4 chapitres"
       - name : "C. Faire apprendre par les pédagogies actives : les projets pour l'apprentissage / la pédagogie par projet (série C1 à C4)"
         type : "Cours complet ou MOOC"
+        volume : "4 chapitres"
         url : "https://uoh.fr/front/noticefr/?uuid=f64c5713-35ed-48e8-9e57-bb0717615563"
       - name : "D. Faire apprendre par les pédagogies actives : la mise en oeuvre de projets pour l'apprentissage (série D1 à D11)"
         type : "Cours complet ou MOOC"

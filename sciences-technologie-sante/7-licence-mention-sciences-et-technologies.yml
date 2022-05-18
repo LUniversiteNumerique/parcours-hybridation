@@ -793,15 +793,15 @@ years:
     resources: 
       - name: "Chimie organique L2"
         type: "Module"
-        volume: 
+        volume: "9 chapitres"
         url: "https://unisciel.org/r/25.4/L2_15_organique/co/L2_15_organique_web.html"
       - name: "Introduction à la nomenclature en chimie organique"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/nomen/nomen/co/nomen.html"
       - name: "Stéréo-isomérie"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/stereoisomerie1/stereoisomerie1/co/stereoisomerie1.html"
       - name: "Effets électroniques"
         type: "Module"
@@ -809,65 +809,61 @@ years:
         url: "https://uel.unisciel.fr/chimie/effelec1/effelec1/co/ellelec1.html"
       - name: "Chimie des éléments p"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1/co/elementsp1.html"
       - name: "La modélisation moléculaire"
         type: "Module"
-        volume: 
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/modelisation/modelisation/co/modelisation.html"
       - name: "Les molécules"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/51/51_ch05/co/apprendre_01.html"
       - name: "Représentation des molécules"
         type: "Module"
-        volume: 
+        volume: "2 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/nomen/nomen_ch01/co/apprendre_ch1_02.html"
-      - name: "Videochem: bonnes pratiques expérimentales au labo de   chimie"
+      - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "25min"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/23chem"
       - name: "Les groupes fonctionnels"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "5min"
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=KEjcqf209I4"
       - name: "Formules des molécules organiques"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "4min"
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=cT9KWXMDhoQ"
       - name: "Trilogique sem 8 – Polarisation des molécules – Le dipôle"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "7min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_8_polarisation_des_molecules_le_dipole.42087"
       - name: "Trilogique sem 8 – Polarisation des molécules –   Polarisabilité"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "10min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_8_polarisation_des_molecules_polarisabilite.42091"
       - name: "Trilogique sem 10  – Isométrie – Introduction"
         type: "Grain ou élément de cours"
-        volume: 
+        volume: "7min"
         url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_10_isometrie_introduction.42107"
-      - name: "Trilogique sem 10  – Isométrie – Cip isomérie"
-        type: "Grain ou élément de cours"
-        volume: 
-        url: "https://unisciel.org/r/3www.17-u.tv/23/20/trilogique_sem_10_isometrie_cip_isomerie.42089"
       - name: "Chimie des éléments p"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1/co/elementsp1.html"
       - name: "Chimie des éléments d"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://unisciel.org/r/2uel.4/15/elementsd1/elementsd1/co/elementsd1.html"
       - name: "Nomenclature des composés inorganiques"
         type: "Module"
-        volume: 
+        volume: "1 chapitre"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/32_01-Atomistique_7.html"
   - name: "Atomistique"
     resources: 
       - name: "La chimie par le web – Atomistique (Structure et propriétés des atomes)"
         type: "Module"
-        volume: 
+        volume: "3 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/01-Atomistique_web.html"
       - name: "Structure et propriétés de l’atome"
         type: "Module"

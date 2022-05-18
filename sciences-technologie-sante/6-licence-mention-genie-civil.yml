@@ -630,13 +630,13 @@ years:
     resources: 
       - name: "Géologie appliquée aux travaux du Génie Civil"
         type: "Module"
-        volume: 
+        volume: "4 chapitres"
         url: "https://www.pairform.fr/doc/17/138/510/web/co/FI-11.html"
   - name: "Gestion des risques"
     resources: 
       - name: "Cyberrisques : cyber ingénierie des risques en génie civil"
         type: "Cours complet ou MOOC"
-        volume: 
+        volume: "5 chapitres"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-101"
   - name: "Développement durable"
     resources: 
