@@ -17,6 +17,5 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            echo  "$PLUGIN_PATH"
             cd $PLUGIN_PATH
             ls -l
