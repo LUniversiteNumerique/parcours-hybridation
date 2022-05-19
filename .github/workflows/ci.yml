@@ -1,13 +1,13 @@
 name: CI
 on:
   push:
-    branches: [dev]
+    branches: [main]
 jobs:
   deploy:
     name: Update content
     runs-on: ubuntu-latest
     steps:
-      - name: update content on the server
+      - name: update content on the test folder
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }}
@@ -16,4 +16,14 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd /var/www/test/wordpress/wp-content/plugins/learning-paths-api/parcours-hybridation
+            git pull origin main
+      - name: update content on the main folder
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            cd /var/www/html/wp-content/plugins/learning-paths-api/seeds
             git pull origin main
