@@ -1,5 +1,7 @@
 # Parcours Hybridation
 
+[![Actions Status](https://github.com/LUniversiteNumerique/parcours-hybridation/workflows/CI/badge.svg)](https://github.com/LUniversiteNumerique/parcours-hybridation/actions)
+
 ## Structure d'un fichier de diplome :
 
 ```yaml
