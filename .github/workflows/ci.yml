@@ -11,21 +11,27 @@ jobs:
     steps:
       - name: update content on the test folder
         uses: appleboy/ssh-action@master
+        env:
+          PLUGIN_TEST_PATH: ${{ secrets.PLUGIN_TEST_PATH }}
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
+          envs: PLUGIN_TEST_PATH
           script: |
-            cd /var/www/test/wordpress/wp-content/plugins/learning-paths-api/parcours-hybridation
+            cd $PLUGIN_TEST_PATH
             git pull origin main
       - name: update content on the main folder
         uses: appleboy/ssh-action@master
+        env:
+          PLUGIN_PATH: ${{ secrets.PLUGIN_PATH }}
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
+          envs: PLUGIN_PATH
           script: |
-            cd /var/www/html/wp-content/plugins/learning-paths-api/seeds
+            cd $PLUGIN_PATH
             git pull origin main
