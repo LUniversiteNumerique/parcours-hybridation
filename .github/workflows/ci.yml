@@ -9,11 +9,13 @@ jobs:
     steps:
       - name: update content on the server
         uses: appleboy/ssh-action@master
+        env:
+          PLUGIN_PATH: /var/www/test/wordpress/wp-content/plugins/learning-paths-api/parcours-hybridation
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            cd /var/www/test/wordpress/wp-content/plugins/learning-paths-api/parcours-hybridation
-            ls -al
+            cd $PLUGIN_PATH
+            ls -l
