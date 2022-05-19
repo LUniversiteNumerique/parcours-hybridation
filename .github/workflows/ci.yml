@@ -1,13 +1,18 @@
 name: CI
+
 on:
-  push:
-    branches: [main]
+  pull_request:
+    types: [labeled]
+  pull_request_review:
+    types: [submitted]
+
 jobs:
   deploy:
     name: Update content
     runs-on: ubuntu-latest
     steps:
       - name: update content on the test folder
+        if: ${{ github.event.review.state == 'approved' }}
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }}
@@ -18,6 +23,7 @@ jobs:
             cd /var/www/test/wordpress/wp-content/plugins/learning-paths-api/parcours-hybridation
             git pull origin main
       - name: update content on the main folder
+        if: ${{ github.event.review.state == 'approved' }}
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }}
@@ -27,3 +33,4 @@ jobs:
           script: |
             cd /var/www/html/wp-content/plugins/learning-paths-api/seeds
             git pull origin main
+
