@@ -1,0 +1,21 @@
+name: CI
+on:
+  push:
+    branches: [dev]
+jobs:
+  deploy:
+    name: Update content
+    runs-on: ubuntu-latest
+    steps:
+      - name: update content on the server
+        uses: appleboy/ssh-action@master
+        env:
+          PLUGIN_PATH: ${{ secrets.PLUGIN_PATH }}
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            cd $PLUGIN_PATH
+            ls -l
