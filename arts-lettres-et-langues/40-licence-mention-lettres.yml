@@ -626,7 +626,7 @@ years:
       - name: "Guerre et Paix en Islam"
         type: "Cours complet ou MOOC"
         volume: "12h"
-        url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/guerre_et_paix_en_islam"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=99"
       - name: "Philosophie chinoise"
         type: "Grain ou élément de cours"
         volume: "4h"

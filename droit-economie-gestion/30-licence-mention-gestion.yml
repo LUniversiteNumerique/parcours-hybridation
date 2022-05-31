@@ -293,7 +293,7 @@ years:
       - name: "Gestion des ressources humaines"
         type: "Cours complet ou MOOC"
         volume: "45h"
-        url: "http://ressources.aunege.fr/nuxeo/site/esupversions/26ccdf83-080a-475a-b7a5-3d0f305b7f64/M1_RH/index.html"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
       - name : "Gestion des Ressources Humaines"
         type: "Cours complet ou MOOC *"
         volume : "7 chapitres"
