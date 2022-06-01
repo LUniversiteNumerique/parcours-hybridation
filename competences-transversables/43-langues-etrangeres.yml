@@ -114,6 +114,15 @@ years:
         type: "Cours complet ou MOOC"
         volume: "50h"
         url: "http://www.uoh.fr/front/notice?id=64f53699-377f-473e-8e52-09cae17a76c8"
+  - name : "Italien"
+    ressources :  
+      - name : "Indicazioni stradali"
+        type : "Grain ou élément de cours"
+        volume: "17min"
+        url : "https://uoh.fr/front/noticefr/?uuid=ad903618-8c1c-4985-9c5f-58e66cfd7ede"
+      - name : "Passato Prossimo"
+        type : "Grain ou élément de cours "
+        volume: "27min"
   - name: "Arabe"
     resources: 
       - name: "Consolidation des acquis en arabe littéral"

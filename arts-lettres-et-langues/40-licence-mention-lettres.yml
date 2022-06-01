@@ -244,7 +244,7 @@ years:
         volume: "3 chapitres"
         url : "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"           
 
-- name: "2ère année"
+- name: "2ème année"
   ue:
   - name: "Linguistique française"
     resources: 
@@ -505,7 +505,7 @@ years:
         volume: "3 chapitres"
         url : "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"          
 
-- name: "3ère année"
+- name: "3ème année"
   ue:
   - name: "Projet personnel et professionnel"
     resources: 
@@ -626,7 +626,7 @@ years:
       - name: "Guerre et Paix en Islam"
         type: "Cours complet ou MOOC"
         volume: "12h"
-        url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/guerre_et_paix_en_islam"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=99"
       - name: "Philosophie chinoise"
         type: "Grain ou élément de cours"
         volume: "4h"

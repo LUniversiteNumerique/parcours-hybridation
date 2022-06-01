@@ -151,6 +151,10 @@ years:
         type: "Cours complet ou MOOC "
         volume: "3 chapitres"
         url: "http://www.uoh.fr/front/notice?id=3ca932ed-d402-4a28-aceb-49fbb83c9f35"
+      - name : "Projet Demenÿ : Histoire de l'éducation physique depuis le milieu du XIXe siècle"
+        type : "Cours complet ou MOOC *"
+        volume : "12 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=124"
       - name: "Archéologie du bâti ou comment lire un mur"
         type: "Module "
         volume: "10h"
@@ -212,7 +216,7 @@ years:
         volume: "30h"
         url: "http://www.uoh.fr/front/notice?id=a7148495-8028-40fd-ae12-60cd25276caf"
 
-- name: "2ère année"
+- name: "2ème année"
   ue:
   - name: "Histoire ancienne"
     resources: 
@@ -399,7 +403,7 @@ years:
         type: "Module"
         volume: "20h"
         url: "http://www.uoh.fr/front/notice?id=c8efef40-eb94-4db8-abc2-148d66665608"
-  - name: "Initiation à la recherche   historique "
+  - name: "Initiation à la recherche historique "
     resources: 
       - name: "L’histoire à venir : rencontre avec Gérard Noiriel"
         type: "Grain ou élément de cours"

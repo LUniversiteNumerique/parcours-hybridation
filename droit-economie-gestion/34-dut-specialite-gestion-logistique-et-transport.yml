@@ -262,7 +262,7 @@ years:
         volume: "50h"
         url: "http://www.uoh.fr/front/notice?id=64f53699-377f-473e-8e52-09cae17a76c8"
 
-- name: "2ère année"
+- name: "2ème année"
   ue:
   - name: "Gestion des stocks et des approvisionnements"
     resources: 
