@@ -166,7 +166,16 @@ years:
         type : "Cours complet ou MOOC"
         volume: "3 chapitres"
         url : "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"          
-
+  - name : "Français écrits"
+    ressources :  
+     - name: "J’améliore mon français écrit"
+       type: "Cours complet ou MOOC *"
+       volume: "26h"
+       url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+     - name: "Améliorer ses écrits"
+       type: "Cours complet ou MOOC *"
+       volume: "20h"
+       url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
 - name: "2ème année"
   ue:
   - name: "Maîtriser les notions de base des sciences du langage : histoire de la linguistique et changements linguistiques à travers le temps"

@@ -8,7 +8,7 @@ description: |
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 resources: 
   - name: "Améliorer ses écrits"
-    type: "Module *"
+    type: "Cours complet ou MOOC *"
     volume: "20 heures"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
   - name: "Renforcer ses compétences orthographiques"
@@ -20,7 +20,7 @@ resources:
     volume: "réservés aux partenaires de l’UOH"
     url: "http://www.uoh.fr/front/notice?id=2b30ec3f-14a4-4af3-a21f-5ec6f708332f"
   - name : "J'améliore mon français écrit"
-    Type: "Module *"
+    Type: "Cours complet *"
     volume : "26h"
     url : "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
   - name: "Grammaire élémentaire de la langue française"

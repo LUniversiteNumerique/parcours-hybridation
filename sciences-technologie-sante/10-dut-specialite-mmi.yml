@@ -89,11 +89,11 @@ years:
         volume: "20 chapitres"
         url: "http://www.iutenligne.net/ressources/le-langage-php.html"
       - name: "Algorithmique et programmation"
-        type: " Cours complet ou MOOC"
+        type: " Cours complet ou MOOC *"
         volume: "9 chapitres"
         url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
       - name : "Algorithmique"
-        type : "Cours complet ou MOOC"
+        type : "Cours complet ou MOOC *"
         volume : "6 chapitres"
         url : "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
       - name: "Données et algorithmes"
@@ -176,7 +176,16 @@ years:
         type: "TD, étude de cas"
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
-
+  - name : "Français écrits"
+    ressources :  
+     - name: "J’améliore mon français écrit"
+       type: "Cours complet ou MOOC *"
+       volume: "26h"
+       url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+     - name: "Améliorer ses écrits"
+       type: "Cours complet ou MOOC *"
+       volume: "20h"
+       url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
 
 - name: "2ème année"
   ue:
