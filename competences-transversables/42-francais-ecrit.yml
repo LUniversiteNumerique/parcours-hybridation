@@ -12,7 +12,7 @@ resources:
     volume: "20 heures"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
   - name: "Renforcer ses compétences orthographiques"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet ou MOOC **"
     volume: "8 heures"
     url: "https://www.fun-campus.fr/fr/cours/renforcer-ses-competences-orthographiques/"
   - name: "Tests de positionnement"
