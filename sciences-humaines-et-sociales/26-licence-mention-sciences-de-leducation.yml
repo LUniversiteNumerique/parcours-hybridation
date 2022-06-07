@@ -13,6 +13,10 @@ years:
   ue:
   - name: "Découvrir les institutions et les professions"
     resources: 
+      - name : "Se former pour enseigner dans le supérieur"
+        type : "Cours complet ou MOOC **"
+        volume : "20h"
+        url : "https://www.fun-campus.fr/fr/cours/se-former-pour-enseigner-dans-le-superieur/"
   - name: "Connaître les contraintes et les ressources en formation"
     resources: 
       - name: "L’espace universitaire européen en formation"
@@ -442,6 +446,10 @@ years:
         url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2007-2008-demain-apres-demain/demain-l-universite"
   - name: "Maîtriser l’ingénierie pédagogique"
     resources: 
+      - name : "Se former pour enseigner dans le supérieur"
+        type : "Cours complet ou MOOC **"
+        volume : "20h"
+        url : "https://www.fun-campus.fr/fr/cours/se-former-pour-enseigner-dans-le-superieur/"
       - name: "Formation des adultes /ingénierie de formation /métiers de la formation / FTLV : enjeux de la formation dans la cité"
         type: "Cours complet ou MOOC"
         volume: "50h"
