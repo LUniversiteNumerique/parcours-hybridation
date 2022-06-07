@@ -174,11 +174,11 @@ resources:
     volume: "3 chapitres"
     url : "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
   - name : " Auto-positionnement"
-    type : "TP, exercice, quiz"
+    type : "TP, exercice, quiz *"
     volume : "3 activités"
     url : "https://moodle.luniversitenumerique.fr/course/view.php?id=119"
   - name : "Identifier et Développer ses Compétences Transversales"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet ou MOOC *"
     volume : "5 chapitres"
     url : "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
 
