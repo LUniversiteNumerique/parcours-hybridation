@@ -118,7 +118,7 @@ years:
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
       - name: "Consolidation des acquis en arabe littéral"
-        type: "Cour complet ou MOOC"
+        type: "Cours complet ou MOOC"
         volume: "70h"
         url: "http://www.uoh.fr/front/notice?id=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
       - name: "Grammaire pratique du russe"
@@ -250,10 +250,6 @@ years:
         url: "https://www.uved.fr/fiche/ressource/philosophie-et-developpement-durable"
   - name: "Connaître les grands courants"
     resources: 
-      - name: "Questions clés en philosophie des sciences"
-        type: "Cours complet ou MOOC"
-        volume: "38h"
-        url: "http://www.uoh.fr/front/notice?id=50166be7-303e-4365-b556-21c0a19a6817"
       - name : "Philosophie chinoise"
         type : "Cours complet ou MOOC *"
         volume : "4h"
@@ -351,7 +347,7 @@ years:
   - name: "Développer une culture numérique"
     resources: 
       - name: "pix.fr"
-        type: "Cours complet ou MOOC"
+        type: "TP, exercice, quiz"
         volume: "50h"
         url: "https://pix.fr/"
       - name: "Usages du web"
@@ -461,7 +457,7 @@ years:
     resources: 
       - name: "Philosophie politique : l’art de gouverner à Florence"
         type: "Cours complet ou MOOC"
-        volume: "20h"
+        volume: "25h"
         url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/langages_pensee_politiques"
       - name: "Averroès"
         type: "Cours complet ou MOOC *"

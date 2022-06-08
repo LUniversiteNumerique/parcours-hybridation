@@ -162,7 +162,7 @@ years:
   - name: "Développer une culture numérique"
     resources: 
       - name: "pix.fr"
-        type: "Cours complet ou MOOC "
+        type: "TP, exercice; quiz"
         volume: "50h"
         url: "https://pix.fr/"
       - name: "Usages du web"
