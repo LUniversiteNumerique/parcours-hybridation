@@ -473,9 +473,9 @@ years:
   - name: "Informatique d’instrumentation"
     resources: 
       - name: "Réseaux"
-        type: "Cours complet *"
+        type: "Cours complet ou MOOC*"
         volume: "7 chapitres"
-        url: "https://www.iutenligne.net/ressources/reseaux.html"
+        url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/roth/Rx-Reseaux/index.html"
       - name: "Réseaux de Communications Industriels"
         type: "Cours complet ou MOOC *"
         volume: "21 chapitres"

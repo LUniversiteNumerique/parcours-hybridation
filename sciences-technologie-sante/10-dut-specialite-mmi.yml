@@ -256,7 +256,7 @@ years:
       - name: "Animation d’une page Web avec Javascript et SVG"
         type: "Module *"
         volume: "12h"
-        url: "http://www.iutenligne.net/ressources/animation-d-une-page-web-avec-javascript-et-svg.html"
+        url: "https://public.iutenligne.net/sciences-image-et-medias/infographie/vermaelen/cours_animation_javascript/"
       - name: "Incorporer des graphes interactifs dans une page web"
         type: "Cours complet ou MOOC *"
         volume: "2h"

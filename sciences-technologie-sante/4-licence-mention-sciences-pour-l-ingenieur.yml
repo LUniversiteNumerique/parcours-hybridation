@@ -607,7 +607,7 @@ years:
       - name: "Programmation orientée objet en C++"
         type: "Cours complet ou MOOC *"
         volume: "12h"
-        url: "http://www.iutenligne.net/ressources/programmation-orientee-objet-en-c.html"
+        url: "https://public.iutenligne.net/informatique/algorithme-et-programmation/roose/poo/index.html"
       - name: "Python 3 : des fondamentaux aux concepts avancés du langage"
         type: "Cours complet ou MOOC **"
         volume: "90h"
