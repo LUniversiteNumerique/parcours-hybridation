@@ -246,7 +246,7 @@ years:
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
   - name : "Français écrits"
-    ressources :  
+    resources :  
      - name: "J’améliore mon français écrit"
        type: "Cours complet ou MOOC *"
        volume: "26h"

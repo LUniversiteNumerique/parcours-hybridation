@@ -183,7 +183,7 @@ years:
         volume: "1min"
         url: "http://www.uoh.fr/front/notice?id=08d1fa9d-f996-447c-b0ec-1bbb786d57d2"
   - name : "Français écrits"
-    ressources :  
+    resources :  
      - name: "J’améliore mon français écrit"
        type: "Cours complet ou MOOC *"
        volume: "26h"
@@ -401,10 +401,6 @@ years:
         type: "Grain ou élément de cours"
         volume: "8min"
         url: "https://www.uved.fr/fiche/ressource/villes-soutenables"
-      - name : "Défis technologiques des villes intelligentes participatives"
-        type : "Cours complet ou MOOC **"
-        volume : "15h"
-        url : "https://www.fun-campus.fr/fr/cours/technological-challenges-participatory-smart-cities/"
       - name: "Villes et énergies renouvelables"
         type: "Grain ou élément de cours"
         volume: "12min"

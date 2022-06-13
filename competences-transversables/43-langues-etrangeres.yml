@@ -111,7 +111,7 @@ years:
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
   - name : "Italien"
-    ressources :  
+    resources :  
       - name : "Indicazioni stradali"
         type : "Grain ou élément de cours"
         volume: "17min"
@@ -125,10 +125,6 @@ years:
         type: "Cours complet ou MOOC"
         volume: "70h"
         url: "http://www.uoh.fr/front/notice?id=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-      - name : "Kit de contact en langues orientales : arabe"
-        type : "Cours complet ou MOOC **"
-        volume : "35h"
-        url : "https://www.fun-campus.fr/fr/cours/kit-de-contact-en-langues-orientales-arabe/"
   - name: "Russe"
     resources: 
       - name: "Grammaire pratique du russe"
@@ -153,9 +149,3 @@ years:
         type: "Cours complet ou MOOC"
         volume: "30h"
         url: "http://www.uoh.fr/front/notice?id=c7ca65ed-00db-4d7a-b6c7-6c239466dbf3"
-  - name : "Chinois"
-    ressources : 
-      - name:  "Kit de contact en langues orientales : chinois"
-        type : "Cours complet ou MOOC **"
-        volume : "7h"
-        url : "https://www.fun-campus.fr/fr/cours/kit-de-contact-en-langues-orientales-chinois/"
