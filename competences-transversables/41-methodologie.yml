@@ -3,19 +3,19 @@ name: "Méthodologie"
 description: |
   Les ressources suivantes sont utilisées dans le cadre d’enseignements ou en auto-formation pour sensibiliser 
   et former les étudiants à <strong>la méthodologie du travail universitaire</strong>.
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
+  * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
 resources: 
   - name: "Tests de positionnement transversaux"
     type: " TP, excercice, quiz"
     volume: "5 tests"
     url: "http://www.uoh.fr/front/notice?id=3743ecf2-59d8-4433-b14f-83d5b53e8053"
-  - name: "Cours complet de méthodologie de travail universitaire"
+  - name: "Méthodologie de travail universitaire pour futur étudiant"
     type: "Cours complet ou MOOC"
     volume: "7h"
-    url: "https://socles3.unisciel.fr/course/view.php?id=144"
+    url: "https://socles3.unisciel.fr/course/view.php?id=159"
   - name: "Méthodologie documentaire CERISE"
-    type: " Cours complet ou MOOC"
+    type: "Cours complet ou MOOC"
     volume: "3h"
     url: "http://www.uoh.fr/front/notice?id=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
   - name: "Infosphère : gagner du temps et réaliser de meilleurs transversaux"
@@ -86,10 +86,6 @@ resources:
     type : "Cours complet ou MOOC"
     volume : "8 chapitres"
     url:  "https://uoh.fr/front/noticefr/?uuid=496786d0-e9b7-4a08-81f6-b78b77b02460"
-  - name: "Appuis pour apprendre à apprendre"
-    type: "Cours complet ou MOOC"
-    volume : "4 chapitres"
-    url : "https://uoh.fr/front/noticefr/?uuid=cc2b2954-1353-48a3-a887-8a6af523f91f"
   - name : "Réussir ses cours en ligne"
     type : "Cours complet ou MOOC"
     volume : "6 chapitres"
@@ -97,7 +93,7 @@ resources:
   - name : "Lire et se relire efficacement"
     type : "Cours complet ou MOOC"
     volume : "7 chapitres"
-    url : "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"  
+    url : "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
   - name: "La gestion du temps"
     type : "Cours complet ou MOOC"
     volume: "10 chapitres"
@@ -138,7 +134,7 @@ resources:
     volume: "3 chapitres"
     url : "https://uoh.fr/front/noticefr/?uuid=976e33c0-00dc-47bc-8ae1-4051d842154c"
   - name : "Reussir ma classe virtuelle"
-    type : "Cours complet ou MOOC "
+    type : "Cours complet ou MOOC"
     volume : "1h"
     url : "https://uoh.fr/front/noticefr/?uuid=ecb08dcb-8f3a-49e2-bbdc-89475b183e46"
   - name: "D'un bon enseignement vers un enseignement d'excellence"
@@ -163,7 +159,7 @@ resources:
     url : "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
   - name : "Préparer et passer ses examens"
     type : "Cours complet ou MOOC"
-    volume : "8 chapitres"  
+    volume : "8 chapitres"
     url : "https://uoh.fr/front/noticefr/?uuid=496786d0-e9b7-4a08-81f6-b78b77b02460"
   - name: "Face à un jury"
     type: "Cours complet ou MOOC"
