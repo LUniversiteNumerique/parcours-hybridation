@@ -90,7 +90,7 @@ years:
       - name: "Baselecpro : cours et exercices d’électricité"
         type: "Cours complet ou MOOC *"
         volume: "13 chapitres"
-        url: "http://www.iutenligne.net/ressources/baselecpro-cours-et-exercices-d-electricite.html"
+        url: "https://public.iutenligne.net/electronique/piou_fruitet_fortun/baselecpro/acquisition/"
       - name: "Électricité générale"
         type: "Cours complet ou MOOC *"
         volume: "3 chapitres"
@@ -246,7 +246,7 @@ years:
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
   - name : "Français écrits"
-    resources :  
+    resources :
      - name: "J’améliore mon français écrit"
        type: "Cours complet ou MOOC *"
        volume: "26h"
@@ -270,7 +270,7 @@ years:
       - name : "Fourier (séries, transformée) et Laplace (transformée)"
         type : "Cours complet ou MOOC *"
         volume : "5 chapitres"
-        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=14"  
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=14"
       - name: "Changement de base"
         type: "Module *"
         volume: "20h"

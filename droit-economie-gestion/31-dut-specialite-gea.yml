@@ -101,7 +101,7 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "5 chapitres"
         url: "http://www.iutenligne.net/resources.html?text=BIC&diplome=All&domaines=All&ct=1&title=BIC&resume=&keywords=&code=&aname=BIC&asname=&lrt=cours&level=All"
-      - name: "Fiscalité  – TVA"
+      - name: "Fiscalité – TVA"
         type: "TP, exercice, quiz *"
         volume: "2 quiz"
         url: "http://miel.iutenligne.net/course/view.php?id=168"
@@ -238,7 +238,7 @@ years:
         volume: "70h"
         url: "http://www.uoh.fr/front/notice?id=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
   - name : "Français écrits"
-    resources :  
+    resources :
      - name: "J’améliore mon français écrit"
        type: "Cours complet ou MOOC *"
        volume: "26h"
@@ -385,7 +385,7 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "12h"
         url: "https://www.fun-campus.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
-  - name: "Mathématiques   "
+  - name: "Mathématiques"
     resources: 
       - name: "Utiliser des statistiques dans l’analyse économique"
         type: "Module"

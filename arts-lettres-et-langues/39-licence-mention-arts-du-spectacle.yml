@@ -298,7 +298,7 @@ years:
   - name: "Méthodologie universitaire"
     resources: 
       - name: "Méthodologie de travail universitaire pour futur étudiant"
-        type: "Cours complet ou MOOC"
+        type: "Cours complet ou MOOC *"
         volume: "7h"
         url: "https://socles3.unisciel.fr/course/view.php?id=159"
       - name: "La méthodologie documentaire avec le tutoriel Cerise"
