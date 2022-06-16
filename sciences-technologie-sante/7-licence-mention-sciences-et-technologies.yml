@@ -157,7 +157,7 @@ years:
         url: "https://unisciel.org/r/25.4/7/6/exos_ats_algebre/co/27.html"
       - name: "Exercices d’algèbre"
         type: "TP, exercice, quiz"
-        volume: "8 chapitres "
+        volume: "8 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/exos_algebre_ecs/co/27.html"
   - name: "Équations différentielles"
     resources: 
@@ -191,7 +191,7 @@ years:
         url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_04.html"
       - name: "Équations différentielles"
         type: "TP, exercice, quiz"
-        volume: "6 chapitres "
+        volume: "6 chapitres"
         url: "https://unisciel.org/r/25.4/7/6/66/13_Equations_differentielles/co/13_Equations_differentielles_web.html"
       - name: "Exercices de calcul différentiel"
         type: "TP, exercice, quiz"

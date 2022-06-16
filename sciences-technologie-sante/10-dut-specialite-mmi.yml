@@ -46,7 +46,7 @@ years:
         url: "http://www.iutenligne.net/ressources/powerpoint-2010.html"
   - name: "PPP"
     resources: 
-      - name: "PPP: connaissance de soi "
+      - name: "PPP: connaissance de soi"
         type: "Cours complet ou MOOC *"
         volume: "9 chapitres"
         url: "http://www.iutenligne.net/ressources/ppp-connaissance-de-soi.html"
@@ -129,7 +129,7 @@ years:
         volume: "20h"
         url: "https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04030+session02/about"
       - name: "Routage et qualité de service dans l’Internet"
-        type: "Cours complet ou MOOC ** "
+        type: "Cours complet ou MOOC **"
         volume: "20h"
         url: "https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04011+session07/about"
   - name: "Expression – communication"

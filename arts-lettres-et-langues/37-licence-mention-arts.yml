@@ -88,7 +88,7 @@ years:
         type: "Grain ou élément de cours"
         volume: "1h"
         url: "https://uoh.fr/front/noticefr/?uuid=25433229-89ce-45e4-8800-2586192e2b69"
-  - name: "Langues étrangères "
+  - name: "Langues étrangères"
     resources: 
       - name: "Certif’langues – anglais"
         type: "TD, étude de cas"
@@ -316,7 +316,7 @@ years:
         type: "Modules"
         volume: "10h"
         url: "http://uoh.u-strasbg.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
-  - name: "Langues étrangèmes"
+  - name: "Langues étrangères"
     resources: 
       - name: "Certif’langues – anglais"
         type: "TD, étude de cas"

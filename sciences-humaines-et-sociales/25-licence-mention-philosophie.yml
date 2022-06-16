@@ -245,7 +245,7 @@ years:
         volume: "1h"
         url: "http://www.uoh.fr/front/notice?id=42256ca3-03c0-4368-974e-4265477c3a90"
       - name: "Philosophie et développement durable"
-        type: "Grain ou élément de cours "
+        type: "Grain ou élément de cours"
         volume: "15min"
         url: "https://www.uved.fr/fiche/ressource/philosophie-et-developpement-durable"
   - name: "Connaître les grands courants"

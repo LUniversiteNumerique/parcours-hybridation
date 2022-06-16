@@ -117,7 +117,7 @@ years:
         volume: "17min"
         url : "https://uoh.fr/front/noticefr/?uuid=ad903618-8c1c-4985-9c5f-58e66cfd7ede"
       - name : "Passato Prossimo"
-        type : "Grain ou élément de cours "
+        type : "Grain ou élément de cours"
         volume: "27min"
   - name: "Arabe"
     resources: 
