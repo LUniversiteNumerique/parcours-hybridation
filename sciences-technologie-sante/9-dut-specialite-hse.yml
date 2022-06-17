@@ -258,7 +258,7 @@ years:
         type: "TP, exercice, quiz *"
         volume: "3h"
         url: "http://www.iutenligne.net/ressources/quiz-circuits-et-composants-lineaires-en-alternatif-loi-des-mailles-et-des-noeuds-en"
-      - name: "Base de l’électronique analogique "
+      - name: "Base de l’électronique analogique"
         type: "Module *"
         volume: "7 chapitres"
         url: "http://www.iutenligne.net/ressources/les-bases-de-l-electronique-analogique.html"

@@ -623,7 +623,7 @@ years:
         volume: "6 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/proba/oefbases70"
       - name: "OEF proba"
-        type: "TP, exercice, quiz "
+        type: "TP, exercice, quiz"
         volume: "6 exercices"
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H6/probability/oefproba70"
   - name: "Algorithmes"

@@ -107,7 +107,7 @@ years:
     resources: 
       - name: "Théorème de Bernouilli"
         type: "Module *"
-        volume: "8 chapitres "
+        volume: "8 chapitres"
         url: "http://www.iutenligne.net/ressources/theoreme-de-bernoulli.html"
       - name: "Formulaire de mécanique des fluides"
         type: "Module *"
@@ -222,7 +222,7 @@ years:
         volume: "16 quiz"
         url: "https://miel.iutenligne.net/course/view.php?id=239"
       - name: "Certif’langue"
-        type: "TD, étude de cas "
+        type: "TD, étude de cas"
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=424141cd-a230-4e9d-b101-5bf0f0ef07ec"
       - name: "Certif'langues Anglais"

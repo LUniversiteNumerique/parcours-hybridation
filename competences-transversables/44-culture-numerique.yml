@@ -61,7 +61,7 @@ years:
         type: "Grain ou élément de cours"
         volume: "2 min"
         url: "https://www.canal-u.tv/video/c2i/l_interoperabilite.38527"
-  - name: "2.1. Interagir "
+  - name: "2.1. Interagir"
     resources: 
       - name: "Interagir"
         type: "Cours complet ou MOOC *"
