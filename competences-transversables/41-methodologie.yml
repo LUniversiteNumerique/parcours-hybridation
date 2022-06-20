@@ -9,7 +9,7 @@ resources:
   - name: "Tests de positionnement transversaux"
     type: " TP, excercice, quiz"
     volume: "5 tests"
-    url: "http://www.uoh.fr/front/notice?id=3743ecf2-59d8-4433-b14f-83d5b53e8053"
+    url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
   - name: "Méthodologie de travail universitaire pour futur étudiant"
     type: "Cours complet ou MOOC"
     volume: "7h"
@@ -145,10 +145,6 @@ resources:
     type : "Cours complet ou MOOC"
     volume: "4 chapitres"
     url : "https://uoh.fr/front/noticefr/?uuid=6832ce99-569a-4a1e-81eb-cf59bbaff5fc"
-  - name: "Je réalise un travail universitaire : une revue de presse"
-    type : "Cours complet ou MOOC"
-    volume : "3 chapitres"
-    url : "https://uoh.fr/front/noticefr/?uuid=c8b0ff14-238b-4fa5-b533-7d1a2b6f39b7"
   - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
     type : "Cours complet ou MOOC"
     volume : "4 chapitres"
@@ -173,10 +169,7 @@ resources:
     type : "TP, exercice, quiz *"
     volume : "3 activités"
     url : "https://moodle.luniversitenumerique.fr/course/view.php?id=119"
-  - name : "Identifier et Développer ses Compétences Transversales"
-    type: "Cours complet ou MOOC *"
-    volume : "5 chapitres"
-    url : "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
+
 
 
 

@@ -236,6 +236,20 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "12 chapitres"
         url: "http://www.iutenligne.net/resources.html?text=savoir+dire+pour+savoir+penser&diplome=All&domaines=38262&ct=1&title=savoir+dire+pour+savoir+penser&resume=&keywords=&code=&aname=savoir+dire+pour+savoir+penser&asname=&lrt=All&level=All"
+  - name : "PPP"
+    resources: 
+      - name: "Projet professionnel personnalisé"
+        type: "Module *"
+        volume: "5 chapitres"
+        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+      - name: "Projet professionnel personnalisé : connaissance de soi"
+        type: "Module *"
+        volume: "13h30"
+        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+      - name: "Savoir gérer un projet"
+        type: "TP, exercice, quiz *"
+        volume: "2 TP"
+        url: "http://www.iutenligne.net/ressources/tutoriel-openproj.html"
   - name: "Économie, comptabilité, organisations"
     resources: 
       - name: "Matériels informatiques et logiciels"
@@ -283,7 +297,7 @@ years:
       - name: "Anglais technique pour l’Automatique, l’Électricité et l’Électronique"
         type: "TP, exercice, quiz *"
         volume: "3 quiz"
-        url: "http://www.iutenligne.net/ressources/ensemble-de-quiz-anglais-technique-pour-l-automatique-l-electricite-et-l-electronique"
+        url: "https://miel.iutenligne.net/course/view.php?id=143https://miel.iutenligne.net/course/view.php?id=143"
       - name: "Certif’langues – anglais"
         type: "TD, étude de cas"
         volume: "5h"
@@ -298,6 +312,8 @@ years:
        type: "Cours complet ou MOOC *"
        volume: "20h"
        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
+
+       
 - name: "2ème année"
   ue:
   - name: "Algorithmique et programmation"
@@ -421,7 +437,7 @@ years:
       - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
         type: "Cours complet ou MOOC *"
         volume: "4 chapitres"
-        url: "http://www.iutenligne.net/ressources/du-bilan-au-stage-ou-l-emploi-4-etapes-en-formes-de-fiches.html"
+        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
       - name: "Projet professionnel personnalisé"
         type: "Cours complet ou MOOC *"
         volume: "5 chapitres"
