@@ -16,7 +16,7 @@ resources:
     volume: "8 heures"
     url: "https://www.fun-campus.fr/fr/cours/renforcer-ses-competences-orthographiques/"
   - name: "Tests de positionnement"
-    type: "TP, exercice, quiz"
+    type: "TP, exercice, quiz *"
     volume: "réservés aux partenaires de l’UOH"
     url: "http://www.uoh.fr/front/notice?id=2b30ec3f-14a4-4af3-a21f-5ec6f708332f"
   - name : "J'améliore mon français écrit"
