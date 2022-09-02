@@ -213,7 +213,7 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
   - name: "3.2. Développer des documents multimédia"
     resources: 
-      - name: "Développer des documents multimédia"
+      - name: "Développer des documents multimédias"
         type: "Cours complet ou MOOC *"
         volume: "2min"
         url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=87"
