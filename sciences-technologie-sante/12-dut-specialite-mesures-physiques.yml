@@ -492,7 +492,7 @@ years:
     resources: 
       - name: "Gestion des moyens de mesure"
         type: "TD, étude de cas *"
-        volume: "8h00 (séquences de 2h00)"
+        volume: "8h"
         url: "http://www.iutenligne.net/ressources/gestion-des-moyens-de-mesure.html"
       - name: "Plans d’expériences ou Design Of Experiments (DOE)"
         type: "TD, étude de cas *"

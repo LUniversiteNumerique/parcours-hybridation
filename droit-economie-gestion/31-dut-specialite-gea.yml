@@ -371,6 +371,10 @@ years:
         url: "http://www.iutenligne.net/ressources/gestion-cours-partie-8-gestion-de-la-tresorerie-et-diagnostic-financier-approfondi-843-s4"
   - name: "Ressources humaines"
     resources: 
+      - name : "Gestion des Ressources Humaines"
+        type : "Cours complet ou MOOC *"
+        volume : "7 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
       - name: "Encadrement d’équipe"
         type: "Cours complet ou MOOC *"
         volume: "9 chapitres"
@@ -381,6 +385,10 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/former-et-developper-les-competences-innovation-et-pilotage/"
   - name: "Management des organisations"
     resources: 
+      - name : "Initiation au management"
+        type : "Cours complet ou MOOC *"
+        volume : "4 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
       - name: "La management de la qualité totale"
         type: "Grain ou élément de cours *"
         volume: "255 diapos"
