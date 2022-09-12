@@ -10,7 +10,8 @@ description: |
   <p>Les formations suivantes sont utilisées dans le cadre d’enseignements et en auto-formation pour développer 
   la culture et les compétences numériques.</p>
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.</p>
+  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  Certains liens sont inaccessibles suite à des travaux en cours sur le site</p>
 
 years:
 - name: "Voir le parcours"
@@ -109,18 +110,10 @@ years:
         type: "Module"
         volume: "10min"
         url: "https://pedagotec.u-bordeaux.fr/informatique_et_societe/Modules/module_Info_societe_12.html"
-      - name: "Qu’est-ce que le cloud ?"
-        type: "Grain ou élément de cours"
-        volume: "2 min"
-        url: "https://www.canal-u.tv/video/c2i/qu_est_ce_que_le_cloud.38525"
       - name: "Travailler dans le cloud"
         type: "Grain ou élément de cours"
         volume: "2 min"
         url: "https://www.canal-u.tv/video/c2i/travailler_dans_le_cloud.38523"
-      - name: "Publier un document numérique"
-        type: "Grain ou élément de cours"
-        volume: "3 min"
-        url: "https://www.canal-u.tv/video/c2i/publier_un_document_numerique.38531"
       - name: "Documents dans le Cloud"
         type: "Cours complet ou MOOC"
         volume: "18h"
@@ -283,7 +276,7 @@ years:
     resources: 
       - name: "Programmer"
         type: "Cours complet ou MOOC *"
-        volume: "6min"
+        volume: "6 min"
         url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=89"
       - name: "Appréhender les enjeux du numérique"
         type: "Grain ou élément de cours"
@@ -291,7 +284,7 @@ years:
         url: "https://www.canal-u.tv/video/c2i/apprehender_les_enjeux_du_numerique.38539"
       - name: "Données et algorithmes"
         type: " Cours complet ou MOOC **"
-        volume: "18h"
+        volume: "6h"
         url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
   - name: "4.1. Sécuriser l’environnement numérique"
     resources: 
