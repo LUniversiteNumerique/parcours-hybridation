@@ -22,10 +22,6 @@ years:
         type: "Module"
         volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=00b627ce-8f44-421f-8f0f-1cb2b91a5677"
-      - name: "Dynamiques de la langue française au 21e siècle : une introduction à la sociolinguistique"
-        type: "Cours complet ou MOOC"
-        volume: "24h"
-        url: "http://www.uoh.fr/front/notice?id=276f445b-d825-4b53-bb32-08bbc5389308"
   - name: "Connaître les technique et outils pour observer et décrire les faits linguistiques : sons linguistiques"
     resources: 
       - name: "Des sons à profusion"
@@ -158,10 +154,6 @@ years:
         type : "Cours complet ou MOOC *"
         volume : "5 chapitres"
         url : "https://aidealareussite.unistra.fr/course/view.php?id=11"
-      - name : "ABC du leadership"
-        type : "Cours complet ou MOOC *"
-        volume : "6 chapitres"
-        url : "https://aidealareussite.unistra.fr/course/view.php?id=16"
       - name : "Boîte à outils de révision"
         type : "Cours complet ou MOOC *"
         volume : "20h"
@@ -192,10 +184,6 @@ years:
         url: "http://www.uoh.fr/front/notice?id=b3696728-cf4e-4e0c-a6cc-9eeead226386"
   - name: "Approfondir les technique et outils pour observer et décrire les faits linguistiques : construction des phrases"
     resources: 
-      - name: "Linguistique du texte de théâtre"
-        type: "Module"
-        volume: "4 modules"
-        url: "https://aidenum-production.u-bourgogne.fr/ress/uoh/TexteDeTheatre/"
   - name: "Approfondir les technique et outils pour observer et décrire les faits linguistiques : phénomène du sens"
     resources: 
       - name: "Didacticiel Antconc"
