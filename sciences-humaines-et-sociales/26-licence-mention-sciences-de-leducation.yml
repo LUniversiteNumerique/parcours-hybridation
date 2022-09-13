@@ -401,7 +401,7 @@ years:
     resources: 
       - name: "Analyse de données quantitatives en sciences humaines et sociales (ADSHS)"
         type: "Cours complet ou MOOC **"
-        volume: "9h"
+        volume: "24h"
         url: "https://www.fun-campus.fr/fr/cours/analyse-de-donnees-quantitatives-en-sciences-humaines-et-sociale/"
   - name: "Maîtriser une langue étrangère"
     resources: 
