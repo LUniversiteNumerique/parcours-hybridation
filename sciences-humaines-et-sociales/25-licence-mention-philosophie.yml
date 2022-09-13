@@ -253,7 +253,7 @@ years:
         url: "http://www.uoh.fr/front/notice?id=42256ca3-03c0-4368-974e-4265477c3a90"
       - name: "Philosophie et développement durable"
         type: "Grain ou élément de cours"
-        volume: "15min"
+        volume: "10min"
         url: "https://www.uved.fr/fiche/ressource/philosophie-et-developpement-durable"
   - name: "Connaître les grands courants"
     resources: 
@@ -437,7 +437,7 @@ years:
       - name: "Le lexique de la violence dans l’œuvre de Spinoza"
         type: "Grain ou élément de cours"
         volume: "1h"
-        url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/philosophie_politique/le_lexique_de_la_violence_dans_l_oeuvre_de_spinoza"
+        url: "https://www.canal-u.tv/chaines/ens-de-lyon/recherches-internationales-sur-spinoza/le-lexique-de-la-violence-dans-l-oeuvre"
       - name: "Sartre : de l’être et le néant à la critique de la raison dialectique"
         type: "Grain ou élément de cours"
         volume: "7h"

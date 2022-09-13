@@ -24,6 +24,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "5h"
         url: "https://www.youtube.com/playlist?app=desktop&list=PLXLB812R3GOk85T1Hun_MNy8rkXiuzdsT"
+      - name : "Pratique de l'image numérique et culture visuelle"
+        type : "Cours complet ou MOOC"
+        volume : "12 chapitres"
+        url : "https://moodle-lettres.paris-sorbonne.fr/course/view.php?id=116"
   - name: "Pratique des arts visuels"
     resources: 
       - name: "Lumière et couleurs"
@@ -360,6 +364,10 @@ years:
         type: "Cours complet ou MOOC"
         volume: "30h"
         url: "http://www.uoh.fr/front/notice?id=a7148495-8028-40fd-ae12-60cd25276caf"
+      - name : "Pratique de l'image numérique et culture visuelle"
+        type : "Cours complet ou MOOC"
+        volume : "12 chapitres"
+        url : "https://moodle-lettres.paris-sorbonne.fr/course/view.php?id=116"
   - name: "Atelier de pratique artistique"
     resources: 
       - name: "Les relecteurs d’image : une pratique contemporaine de collecte, d’association et de diffusion d’images photographiques"
