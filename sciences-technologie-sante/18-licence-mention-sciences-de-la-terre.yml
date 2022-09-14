@@ -83,7 +83,7 @@ years:
   - name: "Biologie végétale"
     resources: 
       - name: "Biologie cellulaire et physiologie végétales"
-        type: "Modules"
+        type: "Module"
         volume: "2 chapitres"
         url: "https://unisciel.org/r/25.9-3070/35/UNT/UNISCIEL/371/web/co/Biologie_web.html"
       - name: "Photosynthèse"
@@ -167,11 +167,11 @@ years:
   - name: "Maths appliquées aux sciences naturelles"
     resources: 
       - name: "Systèmes dynamiques et applications en sciences de la vie"
-        type: "Modules"
+        type: "Module"
         volume: "50h"
         url: "https://unisciel.org/r/2bmm.9-14170/"
       - name: "Équations différentielles"
-        type: "Modules"
+        type: "Module"
         volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
       - name : "Équations Différentielles Ordinaires"

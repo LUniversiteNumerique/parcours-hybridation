@@ -22,6 +22,10 @@ years:
         type: "Module"
         volume: "4 chapitres"
         url: "http://www.uoh.fr/front/notice?id=00b627ce-8f44-421f-8f0f-1cb2b91a5677"
+      - name : "Dynamiques de la langue française au 21e siècle : une introduction à la sociolinguistiques"
+        type : "Cours complet ou MOOC"
+        volume : "10h"
+        url : "https://uoh.fr/front/noticefr/?uuid=276f445b-d825-4b53-bb32-08bbc5389308"
   - name: "Connaître les technique et outils pour observer et décrire les faits linguistiques : sons linguistiques"
     resources: 
       - name: "Des sons à profusion"

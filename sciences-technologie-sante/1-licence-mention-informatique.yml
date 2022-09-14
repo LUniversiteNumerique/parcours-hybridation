@@ -88,10 +88,6 @@ years:
           type: "Cours complet ou MOOC **"
           volume: "21h"
           url: "https://www.fun-campus.fr/fr/cours/bases-de-donnees-relationnelles-apprendre-pour-utiliser/"
-        - name: "Cours de bases de données relationnelles"
-          type: "Cours complet ou MOOC"
-          volume: "4 chapitres"
-          url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5245"
     - name: "Systèmes d’exploitation"
       resources: 
         - name: "À quoi sert un système d’exploitation ?"
@@ -112,10 +108,6 @@ years:
           type: "Cours complet ou MOOC **"
           volume: "36h"
           url: "https://www.fun-campus.fr/fr/cours/socle-en-mathematiques/"
-        - name: "Fonctions de Plusieurs Variables"
-          type: "Module"
-          volume: "24h"
-          url: "http://pedagotech.inp-toulouse.fr/140418/co/Fonctions_de_plusieurs_variables_web.html"
     - name: "Suites et séries"
       resources: 
         - name: "L1 : Suites et séries"
