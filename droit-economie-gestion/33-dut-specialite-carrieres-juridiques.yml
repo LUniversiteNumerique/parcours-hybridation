@@ -1,12 +1,12 @@
 id: 33
-name: "DUT spécialités carrières juridiques"
+name: "BUT spécialités carrières juridiques"
 description: |
   Ce parcours type propose des ressources pour hybrider une <strong>formation pluridisciplinaire à dominante 
   juridique, destinée à former des techniciens du droit</strong> dans des domaines variés. Il propose trois 
   voies d’insertion professionnelle (Administration publique, Banque-Assurance, Juriste d’entreprise) qui 
   permettent au diplômé de s’insérer dans différents environnements : juridique, entreprises privées, 
   assurances, banques, organismes de crédit, associations, collectivités territoriales, fonctions publiques 
-  d’État et territoriale (concours).
+  d’État et territoriale (concours). PARCOURS EN TRAVAUX DUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
@@ -616,3 +616,6 @@ years:
         type: "Cours complet ou MOOC"
         volume: "70h"
         url: "http://www.uoh.fr/front/notice?id=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+- name : "3ème année"
+  ue : 
+  

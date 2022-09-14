@@ -1,12 +1,12 @@
 id: 11
-name: "DUT spécialité génie civil – construction durable"
+name: "BUT spécialité génie civil – construction durable"
 description: |
   Ce parcours type s’appuie sur un pilier technologique qui couvre les <strong>différentes 
   filières de la construction</strong> et un pilier scientifique qui étaye la <strong>compréhension 
   des technologies étudiées</strong>. Les débouchés concernent aussi bien le secteur du bâtiment 
   que le secteur des travaux publics. Dans chacun de ces 2 secteurs, le diplômé DUT GCCD 
   accède à des emplois de cadres moyens en production sur les chantiers, en cabinets ou 
-  en services techniques de collectivités.
+  en services techniques de collectivités. PARCOURS EN TRAVAUX DUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
@@ -720,3 +720,7 @@ years:
         type: "TD, étude de cas"
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+
+- name : "3ème année"
+  ue : 
+  

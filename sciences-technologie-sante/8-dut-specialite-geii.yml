@@ -1,11 +1,11 @@
 id: 8
-name: "DUT spécialité GEII (Génie Électrique et Informatique Industrielle)"
+name: "BUT spécialité GEII (Génie Électrique et Informatique Industrielle)"
 description: |
   Ce parcours propose des ressources pour enseigner le génie électrique, qui s’intéresse à la <strong>production 
   de l’énergie électrique</strong>, à sa distribution et à son utilisation. Il met aussi à disposition des contenus 
   en informatique industrielle qui concerne le <strong>traitement numérique de l’information</strong>, et aux systèmes qui 
   réalisent ce traitement. Les technologies des domaines du génie électrique et de l’informatique industrielle 
-  (GEII) sont au cœur de la vie quotidienne. On les trouve dans les équipements de la maison jusqu’aux moyens de transports.
+  (GEII) sont au cœur de la vie quotidienne. On les trouve dans les équipements de la maison jusqu’aux moyens de transports. PARCOURS EN TRAVAUX DUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore par IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
@@ -829,3 +829,7 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "15h"
         url: "https://www.fun-campus.fr/fr/cours/unlock-your-english-session-1/"
+
+- name : "3ème année"
+  ue : 
+  

@@ -1,12 +1,12 @@
 id: 12
-name: "DUT spécialité mesures physiques"
+name: "BUT spécialité mesures physiques"
 description: |
   Ce parcours type propose des ressources pour former des techniciens supérieurs polyvalents capables 
   de <strong>réaliser et d’exploiter des mesures dans tout type de domaines</strong>. Le titulaire de 
   ce DUT assure la maintenance de systèmes industriels ou en conçoit de nouveaux. Quel que soit le secteur 
   d’activités dans lequel il évolue, il assure le choix, l’implantation et la mise en œuvre de la chaîne 
   de mesures depuis le capteur jusqu’à l’acquisition des signaux, l’exploitation des données et la 
-  transmission des données.
+  transmission des données. PARCOURS EN TRAVAUX DUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
@@ -702,3 +702,7 @@ years:
         type: "TD, étude de cas"
         volume: "5h"
         url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+
+- name : "3ème année"
+  ue : 
+  
