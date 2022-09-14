@@ -1,11 +1,11 @@
 id: 34
-name: "DUT spécialité gestion logistique et transport"
+name: "BUT spécialité gestion logistique et transport"
 description: |
   Ce parcours type permet d’hybrider les formations à la <strong>gestion des solutions logistiques pour 
   améliorer les performances d’une entreprise</strong>. Le titulaire de ce DUT met en œuvre des méthodes 
   rationnelles visant à coordonner et réguler des flux tant physiques que d’informations ou encore financiers. 
   Avec le transport dans sa dimension d’organisation des déplacements de personnes, de gestion de la mobilité 
-  et des réseaux de transport urbain/interurbain, ce DUT forme à la maîtrise complète de la"supply chain".
+  et des réseaux de transport urbain/interurbain, ce DUT forme à la maîtrise complète de la "supply chain". PARCOURS EN TRAVAUX DUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
 years:
@@ -644,3 +644,7 @@ years:
         type: "Cours complet ou MOOC"
         volume: "70h"
         url: "http://www.uoh.fr/front/notice?id=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+
+- name : "3ème année"
+  ue : 
+  

@@ -1,11 +1,11 @@
 id: 2
-name: "DUT spécialité informatique"
+name: "BUT spécialité informatique"
 description: |
   Ce DUT forme des assistants ingénieurs et des chefs de projet en <strong>informatique de gestion et en informatique 
   industrielle</strong>. Immédiatement opérationnels en développement logiciel et matériel, ils participent à la conception, 
   la réalisation et la mise en œuvre de systèmes informatiques en fonction de cahiers des charges. Ils sont capables 
   de répondre aux besoins en matière d’administration de réseaux, de conception et de réalisation de programmes, 
-  d’assistance technique, de gestion de bases de données.
+  d’assistance technique, de gestion de bases de données. PARCOURS EN TRAVAUX DUT --> BUT.
 
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
@@ -453,13 +453,9 @@ years:
         type: "Cours complet ou MOOC *"
         volume: "20 chapitres"
         url: "https://prive.iutenligne.net/2WWd54tX7LVFHwrb/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm" 
-      - name: "Introduction à la mise en œuvre des systèmes temps réel"
-        type: "Module *"
-        volume: "25h"
-        url: "http://www.iutenligne.net/ressources/introduction-la-mise-en-oeuvre-des-systemes-temps-reel.html"
       - name: "Défis et enjeux de la cybersécurité"
         type: "Cours complet ou MOOC **"
-        volume: "9h"
+        volume: "12h"
         url: "https://www.fun-campus.fr/fr/cours/defis-et-enjeux-de-la-cybersecurite/"
       - name: "Les objets connectés : des radiofréquences aux réseaux"
         type: "Cours complet ou MOOC **"
@@ -619,3 +615,7 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "15h"
         url: "https://www.fun-campus.fr/fr/cours/unlock-your-english-session-1/"
+
+- name : "3ème année"
+  ue : 
+  
