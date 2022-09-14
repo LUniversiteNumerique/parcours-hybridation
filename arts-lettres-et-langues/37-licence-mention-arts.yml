@@ -319,9 +319,9 @@ years:
         volume: "3h"
         url: "http://www.uoh.fr/front/notice?id=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
       - name: "Améliorer ses écrits"
-        type: "Modules"
-        volume: "10h"
-        url: "http://uoh.u-strasbg.fr/front/notice?id=dccb09dd-5636-47d8-823a-18bc305a4adc"
+        type: "Cours complet ou MOOC"
+        volume: "20h"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
   - name: "Langues étrangères"
     resources: 
       - name: "Certif’langues – anglais"

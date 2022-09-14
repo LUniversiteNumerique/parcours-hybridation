@@ -629,7 +629,7 @@ years:
         volume: "3h"
         url: "http://www.iutenligne.net/ressources/changement-de-base.html"
       - name: "Applications linéaires (avec Noyau et Image)"
-        type: "Modules *"
+        type: "Module *"
         volume: "20h"
         url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/applications_lineaires/index.html"
       - name: "Algèbre Linéaire en Dimension Finie – Troisième Partie"

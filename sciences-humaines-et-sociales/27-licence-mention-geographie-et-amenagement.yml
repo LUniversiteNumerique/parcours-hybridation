@@ -213,10 +213,6 @@ years:
         type: "Module"
         volume: "20h"
         url: "https://www.uved.fr/fiche/ressource/role-de-la-structure-du-paysage-sur-la-qualite-de-leau-territeau-grain-1"
-      - name: "La Moselle ensauvagée"
-        type: "Grain ou éléments de cours"
-        volume: "1h"
-        url: "https://www.uved.fr/fiche/ressource/la-moselle-ensauvagee"
   - name: "Approfondir la géomorphologie (pédologie)"
     resources: 
       - name: "La dégradation des sols dans le Monde"
