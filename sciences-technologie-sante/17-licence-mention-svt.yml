@@ -553,10 +553,6 @@ years:
         url: "https://www.canal-u.tv/producteurs/tele2sciences/biologie_animale/dissection_des_animaux"
   - name: "Neurosciences"
     resources: 
-      - name: "Neuranat"
-        type: "Module"
-        volume: "10h"
-        url: "https://unisciel.org/r/2www.chups.1970/ext/neuranat/"
   - name: "Microbiologie"
     resources: 
       - name: "Microbiologie"
@@ -636,10 +632,6 @@ years:
         type: "Module"
         volume: "7 parties"
         url: "https://unisciel.org/r/2culturesciences25.ens-1470/dossiersthematiques/imageriemedicale/"
-      - name: "QCM de Biophysique"
-        type: "TP, exercice, quiz"
-        volume: "114 quiz"
-        url: "https://unisciel.org/r/2www.chups.1970/qcms/bio25/28.html"
       - name: "Images sonores et ultrasonores du corps humain"
         type: "Grain ou élément de cours"
         volume: "1h10"

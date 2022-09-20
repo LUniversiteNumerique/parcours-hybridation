@@ -231,8 +231,8 @@ years:
     resources: 
       - name: "Socle en informatique"
         type: "Cours complet ou MOOC **"
-        volume: "33h"
-        url: "https://www.fun-mooc.fr/courses/course-v1:itii+119003+session03/about"
+        volume: "35h"
+        url: "https://www.fun-mooc.fr/fr/cours/socle-en-informatique/"
       - name: "Cfacile : Introduction au langage C"
         type: "Module"
         volume: "40h"
@@ -353,7 +353,7 @@ years:
     resources: 
       - name: "Socle en électricité"
         type: "Cours complet ou MOOC **"
-        volume: "30h"
+        volume: "10h"
         url: "https://www.fun-campus.fr/fr/cours/socle-en-electricite/"
       - name: "Composants de base"
         type: "Module"
@@ -567,12 +567,8 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
       - name: "Données et algorithmes"
         type: "Cours complet ou MOOC **"
-        volume: "18h"
+        volume: "6h"
         url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
-      - name: "Soyez acteurs du Web !"
-        type: "Cours complet ou MOOC *"
-        volume: "12h"
-        url: "https://moodle.univ-numerique.fr/course/view.php?id=7"
       - name : "Culture numérique : introduction 1ère partie"
         type : "Cours complet ou MOOC"
         volume : "48min"
@@ -604,7 +600,7 @@ years:
     resources: 
       - name: "Introduction au traitement du signal"
         type: "Cours complet ou MOOC **"
-        volume: "21h"
+        volume: "18h"
         url: "https://www.fun-campus.fr/fr/cours/introduction-au-traitement-du-signal/"
   - name: "Informatique 2"
     resources: 
@@ -650,12 +646,8 @@ years:
     resources: 
       - name: "Bases de données relationnelles : apprendre pour utiliser"
         type: "Cours complet ou MOOC **"
-        volume: "25h"
+        volume: "21h"
         url: "https://www.fun-campus.fr/fr/cours/bases-de-donnees-relationnelles-apprendre-pour-utiliser/"
-      - name: "Cours de bases de données relationnelles"
-        type: "Cours complet ou MOOC"
-        volume: "4 chapitres"
-        url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5245"
   - name: "Mathématiques pour les études scientifiques"
     resources: 
       - name : "Fourier (séries, transformée) et Laplace (transformée)"
@@ -969,7 +961,7 @@ years:
     resources: 
       - name: "Les réseaux locaux"
         type: "Cours complet ou MOOC **"
-        volume: "20h"
+        volume: "15h"
         url: "https://www.fun-campus.fr/fr/cours/les-reseaux-locaux/"
   - name: "Administration et sécurité des réseaux"
     resources: 
@@ -979,7 +971,7 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/supervision-de-reseaux-et-services/"
       - name: "Défis et enjeux de la cybersécurité"
         type: "Cours complet ou MOOC **"
-        volume: "9h"
+        volume: "12h"
         url: "https://www.fun-campus.fr/fr/cours/defis-et-enjeux-de-la-cybersecurite/"
       - name: "Cryptographie et sécurité des réseaux"
         type: "Module"
@@ -1003,11 +995,11 @@ years:
     resources: 
       - name: "Programmation objet : premiers pas en Java"
         type: "Cours complet ou MOOC **"
-        volume: "18h"
+        volume: "35h"
         url: "https://www.fun-campus.fr/fr/cours/programmation-objet-premiers-pas-en-java/"
       - name: "Écrivez votre premier programme en Java"
         type: "Cours complet ou MOOC **"
-        volume: "15h"
+        volume: "6h"
         url: "https://www.fun-campus.fr/fr/cours/ecrivez-votre-premier-programme-avec-java/"
       - name: "Algorithmique avancée et programmation C"
         type: "Cours complet ou MOOC"
