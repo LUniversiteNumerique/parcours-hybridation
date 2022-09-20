@@ -68,7 +68,7 @@ years:
         url: "http://www.iutenligne.net/ressources/chimie-du-solide-et-materiaux.html"
       - name: "Roches et minéraux courants : genèse, identification et utilisations"
         type: "Cours complet ou MOOC **"
-        volume: "15h"
+        volume: "14h"
         url: "https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04004+session07/about"
       - name : "Diagramme de phases"
         type:  "Grain ou élément de cours *"

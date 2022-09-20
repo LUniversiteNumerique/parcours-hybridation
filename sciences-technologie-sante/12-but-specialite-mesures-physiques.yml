@@ -574,10 +574,6 @@ years:
         url: "http://www.iutenligne.net/ressources/electronique-numerique.html"
   - name: "Informatique d’instrumentation"
     resources: 
-      - name: "Réseaux"
-        type: "Cours complet ou MOOC *"
-        volume: "7 chapitres"
-        url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/roth/Rx-Reseaux/index.html"
       - name: "Réseaux de Communications Industriels"
         type: "Cours complet ou MOOC *"
         volume: "21 chapitres"
