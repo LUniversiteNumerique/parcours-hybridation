@@ -133,13 +133,13 @@ years:
       - name: "Consolidation des acquis en arabe littéral"
         type: "Cours complet ou MOOC"
         volume: "70h"
-        url: "http://www.uoh.fr/front/notice?id=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+        url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
   - name: "Russe"
     resources: 
       - name: "Grammaire pratique du russe"
         type: "Cours complet ou MOOC"
         volume: "30h"
-        url: "http://www.uoh.fr/front/notice?id=a7148495-8028-40fd-ae12-60cd25276caf"
+        url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
   - name: "Français (FLE)"
     resources: 
       - name: "Actu FLE"
