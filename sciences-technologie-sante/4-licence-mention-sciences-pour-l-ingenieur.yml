@@ -398,7 +398,7 @@ years:
       - name: "L’Industrie en France, XVIIe-XXIe siècle"
         type: "Cours complet ou MOOC"
         volume: "60h"
-        url: "http://uoh.fr/front/notice?id=5179c7a0-f6ac-4353-b3a8-fd38a16ffa68"
+        url: "https://uoh.fr/front/noticefr/?uuid=5179c7a0-f6ac-4353-b3a8-fd38a16ffa68"
   - name: "Culture numérique"
     resources: 
       - name: "Usages du Web"

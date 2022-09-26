@@ -46,7 +46,7 @@ years:
       - name: "Les grands mathématiciens"
         type: "Cours complet ou MOOC"
         volume: "12h"
-        url: "http://ressources.unisciel.fr/iel/grands_math%C3%A9maticiens/general/index.html"
+        url: "https://ressources.unisciel.fr/iel/grands_math%C3%A9maticiens/general/index.html"
   - name: "S’initier aux méthodes de la philosophie"
     resources: 
       - name: "La société et les débats sur les technologies : étude de l’argumentation"
@@ -82,7 +82,7 @@ years:
       - name: "La physique"
         type: "Module"
         volume: "2h"
-        url: "http://ressources.unisciel.fr/iel/physique/general/index.html"
+        url: "https://ressources.unisciel.fr/iel/physique/general/index.html"
   - name: "Acquérir une méthodologie du travail universitaire"
     resources: 
       - name: "Méthodologie de travail universitaire pour futur étudiant"
