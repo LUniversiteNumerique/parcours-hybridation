@@ -496,10 +496,6 @@ years:
         url: "https://www.uved.fr/fiche/ressource/villes-et-energies-renouvelables"
   - name: "Histoire"
     resources: 
-      - name: "Introduction générale, historique de la médecine périnatale"
-        type: "Grain ou élément de cours"
-        volume: "1h30"
-        url: "http://umvf.cerimes.fr/media/ressMereEnfant/PER/DakarMai2012/01-Dakar2012-Dubos-sd/index.html"
       - name: "Les sciences humaines et sociales et leur place dans la lutte contre le cancer"
         type: "Grain ou élément de cours"
         volume: "1h"
