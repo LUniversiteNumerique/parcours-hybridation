@@ -400,7 +400,6 @@ years:
           type : "Cours complet ou MOOC"
           volume : "4 chapitres"
           url : "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
-        - name : "Préparer et passer ses examens"
         - name: "Face à un jury"
           type: "Cours complet ou MOOC"
           volume : "4min"
