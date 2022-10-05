@@ -503,10 +503,6 @@ years:
         url : "https://aidealareussite.unistra.fr/course/view.php?id=32"
   - name: "Orthographe scientifique"
     resources: 
-      - name: "Orthographe scientifique"
-        type: "Module"
-        volume: "26h"
-        url: "https://unisciel.org/r/2orthographe.4/"
   - name : "Français écrits"
     resources :
      - name: "J’améliore mon français écrit"

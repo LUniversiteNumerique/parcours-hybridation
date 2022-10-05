@@ -144,7 +144,7 @@ years:
       - name : "PRIMA - La langue allemande dans la vie professionnelle"
         type : "Cours complet ou MOOC *"
         volume : "9 chapitres"
-        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=249"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
   - name: "Méthodologie du travail universitaire"
     resources: 
       - name: "Méthodologie de travail universitaire pour futur étudiant"
@@ -397,7 +397,7 @@ years:
       - name : "PRIMA - La langue allemande dans la vie professionnelle"
         type : "Cours complet ou MOOC *"
         volume : "9 chapitres"
-        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=249"
+        url : "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
   - name: "Compétences numériques"
     resources: 
       - name: "pix.fr"
