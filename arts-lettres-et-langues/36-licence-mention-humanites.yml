@@ -143,7 +143,7 @@ years:
         url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
       - name : "PRIMA - La langue allemande dans la vie professionnelle"
         type : "Cours complet ou MOOC *"
-        volume : "9 chapitres"
+        volume : "50h"
         url : "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
   - name: "Méthodologie du travail universitaire"
     resources: 
@@ -396,7 +396,7 @@ years:
         url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
       - name : "PRIMA - La langue allemande dans la vie professionnelle"
         type : "Cours complet ou MOOC *"
-        volume : "9 chapitres"
+        volume : "50h"
         url : "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
   - name: "Compétences numériques"
     resources: 
