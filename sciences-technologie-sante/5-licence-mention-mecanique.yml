@@ -13,6 +13,10 @@ years:
   ue:
   - name: "Mécanique physique"
     resources: 
+      - name : "Propagation des ondes mécaniques"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
       - name : "Statique et cinématique du solide"
         type : "Cours complet ou MOOC *"
         volume : "4 chapitres"
@@ -658,6 +662,14 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6913"
   - name: "Mécanique des milieux continus"
     resources: 
+      - name : "Mécanique des milieux continus"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
+      - name : "Propagation des ondes mécaniques"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
       - name: "Mécanique des milieux continus"
         type: "Module"
         volume: "30h"
@@ -682,6 +694,10 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
   - name: "Matériaux"
     resources: 
+      - name : "Technologies d'AssemBLage dEs ThermoplasTiques par lasER"
+        type : "Cours complet ou MOOC"
+        volume : "8 modules"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=153"
       - name: "Matériaux et structures composites : ressources pour l’enseignement"
         type: "Cours complet ou MOOC"
         volume: "50h"
