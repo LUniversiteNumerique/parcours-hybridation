@@ -11,6 +11,10 @@ years:
   ue:
   - name: "Mécanique Physique"
     resources: 
+      - name : "Propagation des ondes mécaniques"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
       - name: "Socle en Mécanique"
         type: "Cours complet ou MOOC **"
         volume: "10h"
@@ -782,6 +786,10 @@ years:
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
   - name: "Mécanique des milieux continus"
     resources: 
+      - name : "Mécanique des milieux continus"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
       - name: "Mécanique des milieux continus"
         type: "Module"
         volume: "30h"
@@ -806,6 +814,10 @@ years:
         url: "https://unisciel.org/r/2uel.4/25/outils_nancy/outils_nancy/co/outils_nancy.html"
   - name: "Matériaux 2"
     resources: 
+      - name : "Technologoes d'AssemBLage dEs ThermoplasTiques par lasER"
+        type : "Cours complet ou MOOC"
+        volume : "8 modules"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=153"
       - name : "Matériaux et structures composites : ressources pour l’enseignement"
         type: "Cours complet ou MOOC"
         volume: "50h"

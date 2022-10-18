@@ -275,6 +275,10 @@ years:
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
   - name: "Mécanique Physique"
     resources: 
+      - name : "Propagation des ondes mécaniques"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
       - name : "Cinématique"
         type : "Cours complet ou MOOC *"
         volume : "10 chapitres"
@@ -1059,6 +1063,10 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5385"
   - name: "Mécanique des fluides"
     resources: 
+      - name : "Propagation des ondes mécaniques"
+        type : "Cours complet ou MOOC"
+        volume : "8 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
       - name: "Introduction à la mécanique des fluides"
         type: "Module"
         volume: "5 chapitres"
