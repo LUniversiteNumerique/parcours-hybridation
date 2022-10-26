@@ -48,7 +48,11 @@ years:
         volume: "4h"
         url: "https://www.fun-campus.fr/fr/cours/verdun-dhier-aujourdhui/"
   - name: "Méthodologie du travail universitaire"
-    resources: 
+    resources:
+      - name: "Identifier et Développer ses Compétences Transversales"
+        type: "TP, exercice, quiz *"
+        volume: "5 quiz"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51" 
       - name: "Méthodologie de travail universitaire pour futur étudiant"
         type: "Cours complet ou MOOC *"
         volume: "7h"
