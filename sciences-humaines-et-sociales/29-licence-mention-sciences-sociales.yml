@@ -115,6 +115,10 @@ years:
         url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
   - name: "Méthodologie du travail universitaire"
     resources: 
+      - name: "Identifier et Développer ses Compétences Transversales"
+        type: "TP, exercice, quiz *"
+        volume: "5 quiz"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
       - name: "Méthodologie de travail universitaire pour futur étudiant"
         type: "Cours complet ou MOOC *"
         volume: "7h"

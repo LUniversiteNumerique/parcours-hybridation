@@ -423,6 +423,10 @@ years:
         url: "https://unisciel.org/r/248.4/"
   - name: "Méthodologie"
     resources: 
+      - name: "Identifier et Développer ses Compétences Transversales"
+        type: "TP, exercice, quiz *"
+        volume: "5 quiz"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
       - name: "Méthodologie de travail universitaire pour étudiant"
         type: "Cours complet ou MOOC *"
         volume: "7h"
