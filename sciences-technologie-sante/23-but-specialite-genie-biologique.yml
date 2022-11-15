@@ -479,7 +479,7 @@ years:
       - name: "Cours de parasitologie 5 : Les trématodes"
         type: "Grain ou élément de cours *"
         volume: "30 min"
-        url: https://www.iutenligne.net/ressources/cours-de-parasitologie-5-les-trematodes.html"
+        url: "https://www.iutenligne.net/ressources/cours-de-parasitologie-5-les-trematodes.html"
       - name: "Cours de parasitologie 6 : Les protozoaires"
         type: "Grain ou élément de cours *"
         volume: "1h30"
