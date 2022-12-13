@@ -109,6 +109,10 @@ years:
         url: "https://miel.iutenligne.net/course/view.php?id=181"
   - name: "Mécaniques de fluides"
     resources: 
+      - name : "SPINEL Smartphone for pratical imagery : a new educational library"
+        type : "TP, exercice, quiz"
+        volume : "4 tp"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=323"
       - name: "Théorème de Bernouilli"
         type: "Module *"
         volume: "8 chapitres"
