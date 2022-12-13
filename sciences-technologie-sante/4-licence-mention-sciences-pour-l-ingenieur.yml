@@ -777,6 +777,10 @@ years:
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
   - name: "Mécanique des fluides"
     resources: 
+      - name : "SPINEL Smartphone for pratical imagery : a new educational library"
+        type : "TP, exercice, quiz"
+        volume : "4 tp"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=323"
       - name: "Tension superficielle, épisode 1 interprétation microscopique et caractérisation "
         type : "Module"
         volume: "12min"

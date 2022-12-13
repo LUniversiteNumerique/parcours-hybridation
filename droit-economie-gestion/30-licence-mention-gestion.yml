@@ -119,7 +119,7 @@ years:
         url: "http://ressources.aunege.fr/notice/view/aunege-1445"
       - name: "Gestion de projet"
         type: "Cours complet ou MOOC"
-        volume: "110h"
+        volume: "60h"
         url: "http://ressources.aunege.fr/notice/view/aunege-253"
   - name: "Langue étrangère"
     resources: 

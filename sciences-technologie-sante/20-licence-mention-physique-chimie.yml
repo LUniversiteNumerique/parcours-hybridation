@@ -653,6 +653,10 @@ years:
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=cT9KWXMDhoQ"
   - name: "Physique quantique"
     resources: 
+      - name : "Introduction to quantum information and its associated technologies"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
       - name: "Principes de la mécanique quantique"
         type: "Module"
         volume: "3 chapitres"
@@ -792,6 +796,10 @@ years:
         url: "https://unisciel.org/r/25.4/7/25/optique_ondulatoire_2a_pcetoile/co/ch00_27_web.html"
   - name: "Mécanique des fluides"
     resources: 
+      - name : "SPINEL Smartphone for pratical imagery : a new educational library"
+        type : "TP, exercice, quiz"
+        volume : "4 tp"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=323"
       - name: "Introduction à la mécanique des fluides"
         type: "Module"
         volume: "5 chapitres"

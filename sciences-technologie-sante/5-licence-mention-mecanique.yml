@@ -427,6 +427,10 @@ years:
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/vibrations_transversales_d_une_corde_equation_de_d_alembert.18171"
   - name: "Mécanique des fluides"
     resources: 
+      - name : "SPINEL Smartphone for pratical imagery : a new educational library"
+        type : "TP, exercice, quiz"
+        volume : "4 tp"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=323"
       - name: "Introduction à la mécanique des fluides"
         type: "Module"
         volume: "5 chapitres"
@@ -660,6 +664,10 @@ years:
         url: "https://www.fun-campus.fr/fr/cours/thermodynamique-experimentale/"
   - name: "Mécanique des fluides"
     resources: 
+      - name : "SPINEL Smartphone for pratical imagery : a new educational library"
+        type : "TP, exercice, quiz"
+        volume : "4 tp"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=323"
       - name: "Introduction à la mécanique des fluides"
         type: "Cours complet ou MOOC **"
         volume: "36h"

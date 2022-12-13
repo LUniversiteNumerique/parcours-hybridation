@@ -646,6 +646,10 @@ years:
         url: "https://unisciel.org/r/2www.17-u.tv/23/20/vibrations_transversales_d_une_corde_equation_de_d_alembert.18171"
   - name: "Mécanique des fluides"
     resources: 
+      - name : "SPINEL Smartphone for pratical imagery : a new educational library"
+        type : "TP, exercice, quiz"
+        volume : "4 tp"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=323"
       - name: "Introduction à la mécanique des fluides"
         type: "Module"
         volume: "5 chapitres"
@@ -753,6 +757,10 @@ years:
         url: "https://unisciel.org/r/2res-nlp.9-3070/NLP_C_M13_G01/co/NLP_C_M13_G01_web.html"
   - name: "Physique quantique"
     resources: 
+      - name : "Introduction to quantum information and its associated technologies"
+        type : "Cours complet ou MOOC"
+        volume : "6 chapitres"
+        url : "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
       - name: "Principes de la mécanique quantique"
         type: "Module"
         volume: "3 chapitres"

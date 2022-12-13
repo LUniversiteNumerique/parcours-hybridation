@@ -145,7 +145,7 @@ years:
       - name: "Actu FLE"
         type: "Module"
         volume: "52h"
-        url: "https://uoh.fr/front/noticefr/?uuid=36420541-0732-4e05-ae5d-245cdbbb0322"
+        url: "https://moodle.luniversitenumerique.fr/course/view.php?id=766"
       - name: "Certif’langues – français"
         type: "TD, étude de cas"
         volume: "5h"
