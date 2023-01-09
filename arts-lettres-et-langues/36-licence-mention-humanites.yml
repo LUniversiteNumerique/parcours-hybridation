@@ -33,6 +33,10 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "12h"
         url: "https://www.fun-mooc.fr/fr/cours/18e-siecle-le-combat-des-lumieres/"
+      - name : " Arausio"
+        type : "TP, exercice, quiz"
+        volume : "1h"
+        url : "https://ikigai.games/games/gameDetails/100"
   - name: "Littérature"
     resources: 
       - name: "L’occitan : une littérature"

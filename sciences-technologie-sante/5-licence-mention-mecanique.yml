@@ -75,6 +75,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "1h45"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
+      - name : "Stranger fields"
+        type : "TP, exercice, quiz"
+        volume : "5min"
+        url : "https://ikigai.games/games/gameDetails/2"
   - name: "Outils mathématiques 1"
     resources: 
       - name: "Mathématiques : préparation à l’entrée dans l’enseignement supérieur (pour remise à niveau éventuelle)"

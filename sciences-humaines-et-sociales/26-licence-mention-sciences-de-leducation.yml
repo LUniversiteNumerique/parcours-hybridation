@@ -543,3 +543,7 @@ years:
         type: "Grain ou élément de cours"
         volume: "2min"
         url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
+      - name : "Learningscape"
+        type : "TP, exercice, quiz"
+        volume : "1h"
+        url : "https://ikigai.games/games/gameDetails/23"

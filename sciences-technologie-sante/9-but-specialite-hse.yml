@@ -194,7 +194,7 @@ years:
         url: "https://www.iutenligne.net/ressources/stereochimie.html"
       - name: "Chimie des solutions – solutions aqueuses"
         type: "TP, exercice, quiz *"
-        volume: "quiz"
+        volume: "10min"
         url: "https://www.iutenligne.net/ressources/quiz-chimie-des-solutions-les-solutions-aqueuses.html"
   - name: "Biologie – écologie"
     resources: 
@@ -296,6 +296,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "7h"
         url: "https://miel.iutenligne.net/course/view.php?id=202"
+      - name : "Waterline"
+        type : "TP, exercice, quiz"
+        volume : "10min"
+        url : "https://ikigai.games/games/gameDetails/20"
   - name: "Droit – gestion"
     resources: 
       - name: "Introduction au droit"

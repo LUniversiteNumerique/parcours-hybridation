@@ -339,6 +339,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "1h45"
         url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
+      - name : "Stranger fields"
+        type : "TP, exercice, quiz"
+        volume : "5min"
+        url : "https://ikigai.games/games/gameDetails/2"
   - name: "Électricité/ électrocinétique/ électronique"
     resources: 
       - name: "L1: Électrocinétique en régime continu permanent"
@@ -365,6 +369,10 @@ years:
         type: "TP, exercice, quiz"
         volume: "5 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
+      - name : "Waterline"
+        type : "TP, exercice, quiz"
+        volume : "10min"
+        url : "https://ikigai.games/games/gameDetails/20"
   - name: "État de la matière"
     resources: 
       - name: "L1: Structure microscopique de la matière"

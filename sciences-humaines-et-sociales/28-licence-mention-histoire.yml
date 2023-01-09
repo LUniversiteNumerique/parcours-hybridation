@@ -17,6 +17,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "2h"
         url: "https://www.canal-u.tv/producteurs/universite_paris_1_pantheon_sorbonne/decouper_le_temps_les_periodes_de_l_histoire/les_mondes_anciens"
+      - name : " Arausio"
+        type : "TP, exercice, quiz"
+        volume : "1h"
+        url : "https://ikigai.games/games/gameDetails/100"
   - name: "Histoire médiévale"
     resources: 
       - name: "Politique, religions et constructions étatiques"
@@ -230,6 +234,10 @@ years:
         type: "Grain ou élément de cours"
         volume: "2h"
         url: "https://www.canal-u.tv/producteurs/universite_paris_1_pantheon_sorbonne/decouper_le_temps_les_periodes_de_l_histoire/les_mondes_anciens"
+      - name : " Arausio"
+        type : "TP, exercice, quiz"
+        volume : "1h"
+        url : "https://ikigai.games/games/gameDetails/100"
   - name: "Histoire médiévale"
     resources: 
       - name: "Le Moyen-Âge n’existe pas"
