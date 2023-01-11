@@ -4,9 +4,9 @@ fields:
       - id: 1
         name: "Licence mention informatique"
       - id: 2
-        name: "BUT spécialité informatique"
+        name: "DUT spécialité informatique"
       - id: 3
-        name: "BUT spécialité réseaux et télécoms"
+        name: "DUT spécialité réseaux et télécoms"
       - id: 4
         name: "Licence mention sciences pour l’ingénieur"
       - id: 5
@@ -16,21 +16,21 @@ fields:
       - id: 7
         name: "Licence mention sciences et technologie"
       - id: 8
-        name: "BUT spécialité GEII"
+        name: "DUT spécialité GEII"
       - id: 9
-        name: "BUT spécialité HSE"
+        name: "DUT spécialité HSE"
       - id: 10
-        name: "BUT spécialité MMI"
+        name: "DUT spécialité MMI"
       - id: 11
-        name: "BUT spécialité GCCD"
+        name: "DUT spécialité GCCD"
       - id: 12
-        name: "BUT spécialité mesures physiques"
+        name: "DUT spécialité mesures physiques"
       - id: 13
         name: "Licence mention sciences de la vie"
       - id: 14
         name: "Licence mention MIASHS"
       - id: 15
-        name: "BUT spécialité GTE"
+        name: "DUT spécialité GTE"
       - id: 16
         name: "Licence mention physique"
       - id: 17
@@ -46,7 +46,7 @@ fields:
       - id: 22
         name: "Licence mention EEA"
       - id: 23
-        name: "BUT spécialité génie biologique"
+        name: "DUT spécialité génie biologique"
 
   - name: "Sciences Humaines et Sociales"
     diplomas:
@@ -68,14 +68,13 @@ fields:
       - id: 30
         name: "Licence mention gestion"
       - id: 31
-        name: "BUT spécialité GEA"
+        name: "DUT spécialité GEA"
       - id: 32
-        name: "BUT spécialité techniques de commercialisation"
+        name: "DUT spécialité techniques de commercialisation"
       - id: 33
-        name: "BUT spécialités carrières juridiques"
+        name: "DUT spécialités carrières juridiques"
       - id: 34
-        name: "BUT spécialité gestion logistique et transport"
-
+        name: "DUT spécialité gestion logistique et transport"
 
   - name: "Arts, Lettres et Langues"
     diplomas:
@@ -102,3 +101,5 @@ fields:
         name: "Culture numérique"
       - id: 45
         name: "Transition écologique"
+
+  - name: "Remise à niveau"
