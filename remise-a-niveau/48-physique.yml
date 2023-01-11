@@ -1,0 +1,13 @@
+id: 48
+name: "Physique"
+description: |
+  ...
+resources:
+  - name:
+    type:
+    volume:
+    url:
+  - name:
+    type:
+    volume:
+    url:
