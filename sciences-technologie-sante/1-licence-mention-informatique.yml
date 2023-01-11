@@ -12,6 +12,10 @@ years:
   ue:
     - name: "Algorithmique et programmation"
       resources: 
+        - name : "Bases du web"
+          type : "Cours complet ou MOOC **"
+          volume : "48H"
+          url : "https://www.fun-campus.fr/fr/cours/bases-du-web/"
         - name: "Socle en informatique"
           type: "Cours complet ou MOOC **"
           volume: "30h"
@@ -48,6 +52,10 @@ years:
           type : "Cours complet ou MOOC *"
           volume : "10 chapitres"
           url : "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
+        - name : "Analyse numérique"
+          type : "Cours complet ou MOOC **"
+          volume : "56h"
+          url : "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
         - name : "Introduction à Python"
           type : "Cours complet ou MOOC *"
           volume : "10 chapitres"
@@ -218,6 +226,10 @@ years:
           type: "TP, exercice, quiz"
           volume: "3 chapitres"
           url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
+        - name : "Algèbre linéaire"
+          type : "Cours complet ou MOOC"
+          volume : "60h"
+          url : "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
     - name: "Nombres complexes"
       resources: 
         - name: "L1 : Nombres réels & complexes"
@@ -438,6 +450,10 @@ years:
   ue:
     - name: "Algorithmique et programmation"
       resources: 
+        - name : "Bases du web"
+          type : "Cours complet ou MOOC **"
+          volume : "48H"
+          url : "https://www.fun-campus.fr/fr/cours/bases-du-web/"
         - name: "Programmation orientée objet en C++"
           type: "Cours complet ou MOOC *"
           volume: "12h"
@@ -741,6 +757,14 @@ years:
   ue:
     - name: "Algorithmique et programmation"
       resources: 
+        - name : "Bases du web"
+          type : "Cours complet ou MOOC **"
+          volume : "48H"
+          url : "https://www.fun-campus.fr/fr/cours/bases-du-web/"
+        - name : "Développement d'applications mobiles : Android"
+          type : "Cours complet ou MOOC **"
+          volume : "50h"
+          url : "https://www.fun-campus.fr/fr/cours/applications-mobiles/"
         - name: "Algorithmique avancée et programmation C"
           type: "Cours complet ou MOOC"
           volume: "42h"

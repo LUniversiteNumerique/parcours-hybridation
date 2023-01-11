@@ -12,6 +12,10 @@ years:
   ue:
   - name: "Programmation"
     resources: 
+      - name : "Bases du web"
+        type : "Cours complet ou MOOC **"
+        volume : "48H"
+        url : "https://www.fun-campus.fr/fr/cours/bases-du-web/"
       - name: "Programmation C++ (2019)"
         type: "Cours complet ou MOOC *"
         volume: "40h"
@@ -24,6 +28,10 @@ years:
         type : "Cours complet ou MOOC *"
         volume : "10 chapitres"
         url : "https://moodle.luniversitenumerique.fr/course/view.php?id=13" 
+      - name : "Analyse numérique"
+        type : "Cours complet ou MOOC **"
+        volume : "56h"
+        url : "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
       - name: "Algorithmique et programmation"
         type: "Module"
         volume: "40h"
@@ -118,6 +126,10 @@ years:
         url: "https://unisciel.org/r/221.2470/29/fic00005.pdf"
   - name: "Algèbre linéaire"
     resources: 
+      - name : "Algèbre linéaire"
+        type : "Cours complet ou MOOC"
+        volume : "60h"
+        url : "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
       - name: "L1 : Algèbre linéaire"
         type: "Cours complet ou MOOC *"
         volume: "60h"
