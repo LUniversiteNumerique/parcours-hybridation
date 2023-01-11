@@ -1,0 +1,13 @@
+id: 46
+name: "Chimie"
+description: |
+  ...
+resources:
+  - name:
+    type:
+    volume:
+    url:
+  - name:
+    type:
+    volume:
+    url:
