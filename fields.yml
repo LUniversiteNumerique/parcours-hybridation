@@ -103,3 +103,10 @@ fields:
         name: "Transition écologique"
 
   - name: "Remise à niveau"
+    diplomas:
+      - id: 46
+        name: "Chimie"
+      - id: 47
+        name: "Mathématiques"
+      - id: 48
+        name: "Physique"

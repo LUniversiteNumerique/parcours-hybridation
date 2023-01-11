@@ -1,0 +1,13 @@
+id: 47
+name: "Mathématiques"
+description: |
+  ...
+resources:
+  - name:
+    type:
+    volume:
+    url:
+  - name:
+    type:
+    volume:
+    url:
