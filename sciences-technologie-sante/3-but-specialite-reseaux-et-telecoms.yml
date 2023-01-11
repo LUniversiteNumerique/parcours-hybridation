@@ -51,6 +51,10 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "18h"
         url: "https://www.fun-campus.fr/fr/cours/introduction-au-traitement-du-signal/"
+      - name : "Exploiter sa machine avec Unix"
+        type : "Cours complet ou MOOC **"
+        volume : "50h"
+        url : "https://www.fun-campus.fr/fr/cours/unix-de-base/"
   - name: "Bases de données"
     resources: 
       - name: "Les bases du modèle conceptuel de données"
@@ -75,6 +79,10 @@ years:
         url : "https://moodle.luniversitenumerique.fr/course/view.php?id=5"
   - name: "Programmation"
     resources: 
+      - name : "Programmation en C"
+        type : "Cours complet ou MOOC **"
+        volume : "45h"
+        url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
       - name : "Bases du web"
         type : "Cours complet ou MOOC **"
         volume : "48H"

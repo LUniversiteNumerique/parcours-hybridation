@@ -498,12 +498,16 @@ years:
         type: "TP, exercice, quiz *"
         volume: "20h"
         url: "https://public.iutenligne.net/automatique-et-automatismes-industriels/berard/ael/lisezmoi.htm"
-  - name: "Gestion-Compatibilité"
+  - name: "Gestion-Comptabilité"
     resources: 
       - name: "Cours de Gestion et Comptabilité"
         type: "Cours complet ou MOOC *"
         volume: "20h"
         url: "https://www.iutenligne.net/profile/4415/daniel-antraigue"
+      - name : "Comptabilité générale"
+        type : "Cours complet ou MOOC **"
+        volume : "40h"
+        url : "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
   - name: "Physique Électrotechnique"
     resources: 
       - name: "Montages et puissance en triphasé(PSTIC-Et)"

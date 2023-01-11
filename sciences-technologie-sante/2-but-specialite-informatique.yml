@@ -14,6 +14,10 @@ years:
   ue:
   - name: "Algorithmique et programmation"
     resources: 
+      - name : "Programmation en C"
+        type : "Cours complet ou MOOC **"
+        volume : "45h"
+        url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
       - name : "Bases du web"
         type : "Cours complet ou MOOC **"
         volume : "48H"
@@ -122,6 +126,10 @@ years:
         type: "TP, exercice, quiz *"
         volume: "4h"
         url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/architecture-systeme-d-exploitation/peuch/binaire/index.html"
+      - name : "Exploiter sa machine avec Unix"
+        type : "Cours complet ou MOOC **"
+        volume : "50h"
+        url : "https://www.fun-campus.fr/fr/cours/unix-de-base/"
   - name: "Conception et Bases de données"
     resources: 
       - name: "Les bases du modèle conceptuel de données"
@@ -268,6 +276,14 @@ years:
          url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
   - name: "Économie, comptabilité, organisations"
     resources: 
+      - name : "Introduction à l'analyse économique"
+        type : "Cours complet ou MOOC **"
+        volume : "30h"
+        url : "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
+      - name : "Comptabilité générale"
+        type : "Cours complet ou MOOC **"
+        volume : "40h"
+        url : "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
       - name: "Matériels informatiques et logiciels"
         type: "Module *"
         volume: "4 chapitres"
@@ -411,6 +427,10 @@ years:
   ue:
   - name: "Algorithmique et programmation"
     resources: 
+      - name : "Programmation en C"
+        type : "Cours complet ou MOOC **"
+        volume : "45h"
+        url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
       - name : "Bases du web"
         type : "Cours complet ou MOOC **"
         volume : "48H"

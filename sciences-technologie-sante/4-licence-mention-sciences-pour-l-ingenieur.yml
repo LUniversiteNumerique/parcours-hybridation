@@ -99,6 +99,10 @@ years:
         url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
   - name: "Informatique"
     resources: 
+      - name : "Programmation en C"
+        type : "Cours complet ou MOOC **"
+        volume : "45h"
+        url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
       - name: "Socle en informatique"
         type: "Cours complet ou MOOC **"
         volume: "30h"
@@ -604,6 +608,10 @@ years:
         url: "https://unisciel.org/r/2www.youtube.com/watch0v=hitq4dglyNY"
   - name: "Informatique 2"
     resources: 
+      - name : "Programmation en C"
+        type : "Cours complet ou MOOC **"
+        volume : "45h"
+        url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
       - name : "Bases du web"
         type : "Cours complet ou MOOC **"
         volume : "48H"
@@ -666,10 +674,15 @@ years:
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
   - name: "Mathématiques pour les études scientifiques 2"
     resources: 
+
       - name: "Outils mathématiques pour la physique"
         type: "Module"
         volume: "24h"
         url: "https://unisciel.org/r/2uel.4/25/outils_nancy/outils_nancy/co/outils_nancy.html"
+      - name : "Techniques mathétiques pour l'informatique 1"
+        type : "Cours complet ou MOOC **"
+        volume : "120h"
+        url : "https://www.fun-campus.fr/fr/cours/techniques-mathematiques-pour-linformatique-1/"
   - name: "Ingénierie écologique"
     resources: 
       - name: "Exemples actuels d’ingénierie écologique"
@@ -847,6 +860,10 @@ years:
         type: "Module"
         volume: "24h"
         url: "https://unisciel.org/r/2uel.4/25/outils_nancy/outils_nancy/co/outils_nancy.html"
+      - name : "Techniques mathétiques pour l'informatique 1"
+        type : "Cours complet ou MOOC **"
+        volume : "120h"
+        url : "https://www.fun-campus.fr/fr/cours/techniques-mathematiques-pour-linformatique-1/"
   - name: "Électronique – Électrotechnique – Automatique"
     resources: 
       - name: "Traitement du signal"

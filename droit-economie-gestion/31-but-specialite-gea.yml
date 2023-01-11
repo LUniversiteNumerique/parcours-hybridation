@@ -13,6 +13,10 @@ years:
   ue:
   - name: "Comptabilité"
     resources: 
+      - name : "Comptabilité générale"
+        type : "Cours complet ou MOOC **"
+        volume : "40h"
+        url : "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
       - name: "La comptabilité financière (cours)"
         type: "Cours complet ou MOOC *"
         volume: "44 modules"
@@ -145,6 +149,10 @@ years:
         url: "https://miel.iutenligne.net/course/view.php?id=21"
   - name: "Statistiques – Probabilités"
     resources: 
+      - name : "Introduction aux séries temporelles"
+        type : "Cours complet ou MOOC **"
+        volume : "30h"
+        url : "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
       - name: "Résumés d’une série statistique"
         type: "Module *"
         volume: "12h"
@@ -333,7 +341,23 @@ years:
 - name: "2ème année"
   ue:
   - name: "Gestion-Comptabilité-économie"
-    resources: 
+    resources:
+      - name : "Introduction à la gestion des entreprises"
+        type : "Cours complet ou MOOC **"
+        volume : "40h"
+        url : "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
+      - name : "Introduction à l'analyse économique"
+        type : "Cours complet ou MOOC **"
+        volume : "30h"
+        url : "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
+      - name : "Contrôle de gestion"
+        type : "Cours complet ou MOOC **"
+        volume : "40h"
+        url : "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
+      - name : "Comptabilité générale"
+        type : "Cours complet ou MOOC **"
+        volume : "40h"
+        url : "https://www.fun-campus.fr/fr/cours/comptabilite-generale/" 
       - name: "Comptabilité approfondie (cours)"
         type: "Cours complet ou MOOC *"
         volume: "17 chapitres"
