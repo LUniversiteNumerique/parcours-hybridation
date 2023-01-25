@@ -1,13 +1,61 @@
 id: 48
 name: "Physique"
 description: |
-  ...
+  Ce parcours type met à disposition des ressources éducatives libres afin de permettre une remise à niveau en <strong>physique</strong>.
 resources:
-  - name:
-    type:
+  - name: "2nde Loi de Newton + Exercices supplémentaires"
+    type: "Grain ou élément de cours"
     volume:
-    url:
-  - name:
-    type:
+    url: "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1005"
+  - name: "Mouvement dans un champ uniforme + Exercices supplémentaires MCU"
+    type: "Grain ou élément de cours"
     volume:
-    url:
+    url: "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1318"
+  - name : "Cinématique du point : première approche"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1009"
+  - name : "Cinématique 2D (v1)"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1287"
+  - name : "Cinématique 3 (v0)"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/page/view.php?id=1308"
+  - name : "Energie en mécanique (v1)"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1261"
+  - name : "Notion de moment"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1421"
+  - name : "Mouvement des planètes"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/page/view.php?id=3724"
+  - name : "Thermo 1"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/page/view.php?id=1231"
+  - name : "Thermo 2"
+    type : "  Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/page/view.php?id=1282"
+  - name : "Ondes : Propagation"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/page/view.php?id=1833"
+  - name : "De la lentille à la lunette astronomique"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/page/view.php?id=1256"
+  - name : "Mesures et incertitudes"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1281"
+  - name : "Oscillateur harmonique"
+    type : "Grain ou élément de cours"
+    volume : ""
+    url : "https://eplanet.polytech-reseau.org/mod/hvp/view.php?id=1491"
