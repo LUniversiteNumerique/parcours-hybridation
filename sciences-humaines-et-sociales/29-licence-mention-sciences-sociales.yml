@@ -448,6 +448,10 @@ years:
         url: "https://www.uved.fr/fiche/ressource/les-banques-de-developpement-face-a-lenjeu-biodiversite"
   - name: "Économie"
     resources: 
+      - name : "Introduction à l'analyse économique"
+        type : "Cours complet ou MOOC **"
+        volume : "30h"
+        url : "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
       - name: "Banqueroute: qui doit payer ?"
         type: "Grain ou élément de cours"
         volume: "2h"

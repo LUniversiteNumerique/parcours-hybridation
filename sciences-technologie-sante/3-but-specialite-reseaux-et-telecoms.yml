@@ -25,6 +25,10 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "15h"
         url: "https://www.fun-campus.fr/fr/cours/les-reseaux-locaux/"
+      - name : "base en télécommunication"
+        type : "Cours complet ou MOOC **"
+        volume : "50h"
+        url : "https://www.fun-campus.fr/fr/cours/base-de-telecommunication/"
   - name: "Architecture et mécanismes de base des systèmes informatiques"
     resources: 
       - name: "Représentation de l’information en binaire : les nombres réels"
@@ -47,6 +51,10 @@ years:
         type: "Cours complet ou MOOC **"
         volume: "18h"
         url: "https://www.fun-campus.fr/fr/cours/introduction-au-traitement-du-signal/"
+      - name : "Exploiter sa machine avec Unix"
+        type : "Cours complet ou MOOC **"
+        volume : "50h"
+        url : "https://www.fun-campus.fr/fr/cours/unix-de-base/"
   - name: "Bases de données"
     resources: 
       - name: "Les bases du modèle conceptuel de données"
@@ -71,6 +79,14 @@ years:
         url : "https://moodle.luniversitenumerique.fr/course/view.php?id=5"
   - name: "Programmation"
     resources: 
+      - name : "Programmation en C"
+        type : "Cours complet ou MOOC **"
+        volume : "45h"
+        url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
+      - name : "Bases du web"
+        type : "Cours complet ou MOOC **"
+        volume : "48H"
+        url : "https://www.fun-campus.fr/fr/cours/bases-du-web/"
       - name: "Documents dans le cloud"
         type: "Cours complet ou MOOC **"
         volume: "18h"
@@ -361,6 +377,10 @@ years:
   ue:
   - name: "Réseaux et télécoms"
     resources: 
+      - name : "base en télécommunication"
+        type : "Cours complet ou MOOC **"
+        volume : "50h"
+        url : "https://www.fun-campus.fr/fr/cours/base-de-telecommunication/"
       - name: "Usine 4.0"
         type: "Cours complet ou MOOC"
         volume: "2h"
