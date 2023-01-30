@@ -2,8 +2,8 @@ id: 42
 name: "Français écrit"
 description: |
   Les contenus suivants sont utilisés par les établissements partenaires du projet 
-  <a href="https://ecriplus.fr/" target="_blank" alt="https://ecriplus.fr">écri+</a> 
-  dans la cadre de formations à distance accompagnées par du tutorat (enseignant et/ou étudiant).
+  <a href="https://ecriplus.fr/" target="_blank" title="lien vers le site écri+">écri+</a> 
+  dans le cadre de formations à distance accompagnées par du tutorat (enseignant et/ou étudiant).
     <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 resources: 

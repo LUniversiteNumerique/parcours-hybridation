@@ -2,7 +2,7 @@ id: 44
 name: "Culture numérique"
 description: |
   <p>Le parcours proposé ici permet de se former aux compétences numériques. Il vise notamment à préparer la 
-  certification Pix https://pix.fr/ .</p>
+  <a href="https://pix.fr/" target="_blank" title="lien vers le site Pix">certification Pix</a>.</p>
   <p>Pix est un service public permettant à ses utilisateurs d’évaluer, développer et certifier leurs compétences 
   numériques. Pix propose également une certification des compétences numériques, reconnue par l’État et le monde 
   professionnel.</p>
