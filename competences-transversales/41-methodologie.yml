@@ -4,7 +4,7 @@ description: |
   Les ressources suivantes sont utilisées dans le cadre d’enseignements ou en auto-formation pour sensibiliser 
   et former les étudiants à <strong>la méthodologie du travail universitaire</strong>.
   * Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.
 resources: 
   - name : "kit orientation"
     type : "Module"
