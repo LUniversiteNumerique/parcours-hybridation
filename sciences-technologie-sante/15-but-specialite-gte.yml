@@ -1,5 +1,5 @@
 id: 15
-name: "DUT spécialité génie thermique et énergie"
+name: "BUT spécialité génie thermique et énergie"
 description: |
   Ce parcours propose des ressources pour former des étudiants à bac + 2 capables de maîtriser les 
   applications de l’énergie dans les secteurs du bâtiment, de l’industrie ou du transport : production 
@@ -428,7 +428,7 @@ years:
   - name: "Combustion, thermochimie"
     resources: 
       - name: "Thermochimie"
-        type: "Module *"
+        type: "Grain ou élément de cours *"
         volume: "1 chapitre"
         url: "https://public.iutenligne.net/fondements_GB/bio/chimie/thermo_chimie.html"
   - name: "Transfert de chaleur"
