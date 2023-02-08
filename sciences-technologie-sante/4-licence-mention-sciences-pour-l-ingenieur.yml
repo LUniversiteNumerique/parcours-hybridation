@@ -823,7 +823,7 @@ years:
         volume: "10min"
         url: "https://www.youtube.com/watch?v=SkVwNXWAgho"
       - name: "Introduction à la mécanique des fluides"
-        type: "Cours complet ou MOOC **"
+        type: "Cours complet ou MOOC"
         volume: "36h"
         url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-6913"
       - name: "Introduction à la mécanique des fluides"
