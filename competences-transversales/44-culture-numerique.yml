@@ -2,7 +2,7 @@ id: 44
 name: "Culture numérique"
 description: |
   <p>Le parcours proposé ici permet de se former aux compétences numériques. Il vise notamment à préparer la 
-  certification Pix https://pix.fr/ .</p>
+  <a href="https://pix.fr/" target="_blank" title="lien vers le site Pix">certification Pix</a>.</p>
   <p>Pix est un service public permettant à ses utilisateurs d’évaluer, développer et certifier leurs compétences 
   numériques. Pix propose également une certification des compétences numériques, reconnue par l’État et le monde 
   professionnel.</p>
@@ -10,7 +10,7 @@ description: |
   <p>Les formations suivantes sont utilisées dans le cadre d’enseignements et en auto-formation pour développer 
   la culture et les compétences numériques.</p>
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.
+  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.
   Certains liens sont inaccessibles suite à des travaux en cours sur le site</p>
 
 years:
