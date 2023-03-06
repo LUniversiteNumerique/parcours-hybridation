@@ -18,7 +18,7 @@ years:
           url : "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
         - name : "Bases du web"
           type : "Cours complet ou MOOC **"
-          volume : "48H"
+          volume : "48h"
           url : "https://www.fun-campus.fr/fr/cours/bases-du-web/"
         - name: "Socle en informatique"
           type: "Cours complet ou MOOC **"

@@ -293,7 +293,7 @@ years:
         type: "Module"
         volume: "2 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/thermo_2a_mp/co/27.html"
-      - name: "Thermodynamique 2"
+      - name: "Thermodynamique 3"
         type: "Module"
         volume: "4 chapitres"
         url: "https://unisciel.org/r/25.4/7/25/thermo_2a_pc/co/27.html"
@@ -674,7 +674,6 @@ years:
         url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
   - name: "Mathématiques pour les études scientifiques 2"
     resources: 
-
       - name: "Outils mathématiques pour la physique"
         type: "Module"
         volume: "24h"
