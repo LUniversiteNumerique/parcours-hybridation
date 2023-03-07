@@ -31,4 +31,8 @@ rules:
     max: 250
     level: warning
     allow-non-breakable-inline-mappings: true
+  trailing-spaces:
+    level: warning
+  new-line-at-end-of-file:
+    level: warning
   truthy: disable
