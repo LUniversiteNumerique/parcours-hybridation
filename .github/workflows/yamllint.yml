@@ -1,4 +1,4 @@
-name: "Yamllint GitHub Actions"
+name: "Yamllint"
 
 on:
   - pull_request
