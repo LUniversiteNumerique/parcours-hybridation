@@ -16,8 +16,5 @@ jobs:
         with:
           yamllint_file_or_dir: "."
           yamllint_strict: false
-          yamllint_comment: true
+          yamllint_comment: false
           yamllint_config_filepath: ".yamllint"
-          yamllint_output: ".yamllint-output.txt"
-        env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.API_TOKEN }}
