@@ -580,7 +580,7 @@ years:
         url: "https://www.iutenligne.net/ressources/reseaux-de-communications-industriels.html"
       - name : "Détecteur de proximité à infrarouges"
         type: "TD, étude de cas *"
-        volume: "1 chapitres"
+        volume: "1 chapitre"
         url: "https://www.iutenligne.net/ressources/detecteur-de-proximite-infrarouges.html"
       - name: "Architecture et systèmes d'exploitation des ordinateurs"
         type: "Grain ou élément de cours *"
