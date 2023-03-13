@@ -149,7 +149,7 @@ years:
         type: "Module *"
         volume: "20h"
         url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/groupes/index.html"
-      - name: "Electromagnétisme"
+      - name: "tisme"
         type: "Cours complet ou MOOC **"
         volume: "40h"
         url: "https://www.fun-campus.fr/fr/cours/astrophysique-i-electromagnetisme/"
