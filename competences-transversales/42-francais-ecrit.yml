@@ -2,24 +2,24 @@ id: 42
 name: "Français écrit"
 description: |
   Les contenus suivants sont utilisés par les établissements partenaires du projet 
-  <a href="https://ecriplus.fr/" target="_blank" alt="https://ecriplus.fr">écri+</a> 
-  dans la cadre de formations à distance accompagnées par du tutorat (enseignant et/ou étudiant).
+  <a href="https://ecriplus.fr/" target="_blank" title="lien vers le site écri+">écri+</a> 
+  dans le cadre de formations à distance accompagnées par du tutorat (enseignant et/ou étudiant).
     <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignant et sur demande, Hors session en cours.<p/>
-resources: 
+  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
+resources:
   - name: "Améliorer ses écrits"
     type: "Cours complet ou MOOC *"
-    volume: "20 heures"
+    volume: "20h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
   - name: "Renforcer ses compétences orthographiques"
     type: "Cours complet ou MOOC **"
-    volume: "12 heures"
+    volume: "12h"
     url: "https://www.fun-campus.fr/fr/cours/renforcer-ses-competences-orthographiques/"
-  - name : "J'améliore mon français écrit"
+  - name: "J'améliore mon français écrit"
     Type: "Cours complet ou MOOC *"
-    volume : "26h"
-    url : "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+    volume: "26h"
+    url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
   - name: "Grammaire élémentaire de la langue française"
     type: "Module *"
-    volume : "8 chapitres"
+    volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=44"

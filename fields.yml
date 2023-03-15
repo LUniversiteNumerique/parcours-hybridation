@@ -4,9 +4,9 @@ fields:
       - id: 1
         name: "Licence mention informatique"
       - id: 2
-        name: "DUT spécialité informatique"
+        name: "BUT spécialité informatique"
       - id: 3
-        name: "DUT spécialité réseaux et télécoms"
+        name: "BUT spécialité réseaux et télécoms"
       - id: 4
         name: "Licence mention sciences pour l’ingénieur"
       - id: 5
@@ -16,21 +16,21 @@ fields:
       - id: 7
         name: "Licence mention sciences et technologie"
       - id: 8
-        name: "DUT spécialité GEII"
+        name: "BUT spécialité GEII"
       - id: 9
-        name: "DUT spécialité HSE"
+        name: "BUT spécialité HSE"
       - id: 10
-        name: "DUT spécialité MMI"
+        name: "BUT spécialité MMI"
       - id: 11
-        name: "DUT spécialité GCCD"
+        name: "BUT spécialité GCCD"
       - id: 12
-        name: "DUT spécialité mesures physiques"
+        name: "BUT spécialité mesures physiques"
       - id: 13
         name: "Licence mention sciences de la vie"
       - id: 14
         name: "Licence mention MIASHS"
       - id: 15
-        name: "DUT spécialité GTE"
+        name: "BUT spécialité Métiers de la Transition et de l'Efficacité Energétiques"
       - id: 16
         name: "Licence mention physique"
       - id: 17
@@ -46,7 +46,7 @@ fields:
       - id: 22
         name: "Licence mention EEA"
       - id: 23
-        name: "DUT spécialité génie biologique"
+        name: "BUT spécialité génie biologique"
 
   - name: "Sciences Humaines et Sociales"
     diplomas:
@@ -68,13 +68,13 @@ fields:
       - id: 30
         name: "Licence mention gestion"
       - id: 31
-        name: "DUT spécialité GEA"
+        name: "BUT spécialité GEA"
       - id: 32
-        name: "DUT spécialité techniques de commercialisation"
+        name: "BUT spécialité techniques de commercialisation"
       - id: 33
-        name: "DUT spécialités carrières juridiques"
+        name: "BUT spécialités carrières juridiques"
       - id: 34
-        name: "DUT spécialité gestion logistique et transport"
+        name: "BUT spécialité Management de la Logistique et des Transports"
 
   - name: "Arts, Lettres et Langues"
     diplomas:
