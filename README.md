@@ -9,14 +9,14 @@ id: ID UNIQUE DU DIPLOME
 name: NOM DU DIPLÔME
 description:
 years:
-- name: NOM DE L'ANNÉE
-  ue:
-    - name: NOM DE L'UE
-      resources: 
-        - name: NOM DE LA RESSOURCE
-          type: TYPE DE LA RESSOURCE
-          volume: VOLUME DE LA RESSOURCE
-          url: URL DE LA RESSOURCE
+  - name: NOM DE L'ANNÉE
+    ue:
+      - name: NOM DE L'UE
+        resources: 
+          - name: NOM DE LA RESSOURCE
+            type: TYPE DE LA RESSOURCE
+            volume: VOLUME DE LA RESSOURCE
+            url: URL DE LA RESSOURCE
 ```
 
 ## Ajouter une nouvelle entrée dans un champ disciplinaire :
@@ -26,9 +26,9 @@ years:
 ```yaml
 fields:
   - name: NOM DU CHAMP DISCIPLINAIRE
-  diplomas:
-    - id: ID UNIQUE DU DIPLOME
-    name: NOM DU DIPLÔME
+    diplomas:
+      - id: ID UNIQUE DU DIPLOME
+      name: NOM DU DIPLÔME
 ```
 
 2. Créer le fichier `.yml` dans le dossier correspondant en le nommant avec son ID UNIQUE en début de fichier.
