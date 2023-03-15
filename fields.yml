@@ -30,7 +30,7 @@ fields:
       - id: 14
         name: "Licence mention MIASHS"
       - id: 15
-        name: "BUT spécialité GTE"
+        name: "BUT spécialité Métiers de la Transition et de l'Efficacité Energétiques"
       - id: 16
         name: "Licence mention physique"
       - id: 17
@@ -74,7 +74,7 @@ fields:
       - id: 33
         name: "BUT spécialités carrières juridiques"
       - id: 34
-        name: "BUT spécialité gestion logistique et transport"
+        name: "BUT spécialité Management de la Logistique et des Transports"
 
   - name: "Arts, Lettres et Langues"
     diplomas:
