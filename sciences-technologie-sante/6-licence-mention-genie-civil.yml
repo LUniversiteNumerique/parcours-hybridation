@@ -7,7 +7,7 @@ description: |
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1ère année"
+  - name: "1re année"
     ue:
       - name: "Mécanique Physique"
         resources:
@@ -357,15 +357,15 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=6f1b0ef7-2ef3-40f3-83bb-2b272e0946bd"
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
-            volume: "8 chapitres"
+            volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
           - name: "Réussir ses cours en ligne"
             type: "Cours complet ou MOOC"
-            volume: "6 chapitres"
+            volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ef1337fc-e2ad-462f-957e-afa0adf2f513"
           - name: "Lire et se relire efficacement"
             type: "Cours complet ou MOOC"
-            volume: "7 chapitres"
+            volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
           - name: "La gestion du temps"
             type: "Cours complet ou MOOC"
@@ -586,7 +586,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
-            volume: "48H"
+            volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
           - name: "Programmation C++ (2019)"
             type: "Cours complet ou MOOC *"
