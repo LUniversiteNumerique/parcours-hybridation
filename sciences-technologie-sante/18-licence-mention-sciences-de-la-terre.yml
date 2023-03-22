@@ -176,7 +176,7 @@ years:
             url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
           - name: "Équations Différentielles Ordinaires"
             type: "Cours complet ou MOOC *"
-            volume: "9 chapitres"
+            volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
           - name: "L1 : Traitement analyse et modélisation des données"
             type: "Cours complet ou MOOC *"
