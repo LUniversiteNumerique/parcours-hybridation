@@ -339,7 +339,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=112"
           - name: "Discrimination et gestion de l’égalité et de la diversité"
             type: "Cours complet ou MOOC *"
-            volume: "6 chapitres"
+            volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=118"
           - name: "Handicap et société : nouveaux regards, nouveaux enjeux"
             type: "Grain ou élément de cours"
@@ -355,7 +355,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=ead5f19b-4744-4fa1-9652-347411a0d2b9"
           - name: "Jack Goody et l’empire de la littéracie"
             type: "Cours complet ou MOOC *"
-            volume: "8h"
+            volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=117"
       - name: "Maîtriser une langue étrangère"
         resources:

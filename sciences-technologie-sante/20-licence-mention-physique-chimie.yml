@@ -378,7 +378,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=30"
           - name: "Électronique numérique : concevez vos premiers circuits combinatoires"
             type: "Cours complet ou MOOC *"
-            volume: "3 chapitres"
+            volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=33"
           - name: "L1: Électrocinétique en régime sinusoïdal permanent"
             type: "Cours complet ou MOOC *"
@@ -576,6 +576,10 @@ years:
     ue:
       - name: "Thermodynamique"
         resources:
+          - name: "Module 1 : Étude des principales fonctionnalités mises en jeu dans les technologies énergétiques"
+            type: "Module"
+            volume: "3h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=464"
           - name: "Thermodynamique 0"
             type: "Module"
             volume: "5 chapitres"
@@ -598,6 +602,10 @@ years:
             url: "https://unisciel.org/r/2phymain.4/category/chaleur/"
       - name: "Électromagnétisme"
         resources:
+          - name: "Électromagnétisme"
+            type: "Cours complet ou MOOC"
+            volume: "2h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=23"
           - name: "L2: Électrostatique"
             type: "Cours complet ou MOOC *"
             volume: "45h"
@@ -746,7 +754,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=35"
           - name: "Électronique numérique : concevez vos premiers circuits combinatoires"
             type: "Cours complet ou MOOC *"
-            volume: "3 chapitres"
+            volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=33"
           - name: "Vibrations Propagation"
             type: "Module"
@@ -803,6 +811,10 @@ years:
     ue:
       - name: "Thermodynamique et cinétique chimique"
         resources:
+          - name: "Module 1 : Étude des principales fonctionnalités mises en jeu dans les technologies énergétiques"
+            type: "Module"
+            volume: "3h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=464"
           - name: "L2: Thermodynamique"
             type: "Cours complet ou MOOC *"
             volume: "50h"

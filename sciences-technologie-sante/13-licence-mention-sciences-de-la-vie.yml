@@ -471,6 +471,10 @@ years:
             url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
       - name: "Neurosciences"
         resources:
+          - name: "Introduction aux neurosciences en psychologie"
+            type: "Cours complet ou MOOC *"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=52"
       - name: "Microbiologie"
         resources:
           - name: "Microbiologie"

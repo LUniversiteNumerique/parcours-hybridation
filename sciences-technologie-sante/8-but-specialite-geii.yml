@@ -173,6 +173,10 @@ years:
             url: "https://miel.iutenligne.net/enrol/index.php?id=222"
       - name: "Informatique"
         resources:
+          - name: "L'obsolescence"
+            type: "Cours complet ou MOOC *"
+            volume: "6h30"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=322"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"
@@ -355,6 +359,10 @@ years:
             url: "https://miel.iutenligne.net/course/view.php?id=231"
       - name: "Physique"
         resources:
+          - name: "Électromagnétisme"
+            type: "Cours complet ou MOOC"
+            volume: "2h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=23"
           - name: "Électromagnétisme"
             type: "Module *"
             volume: "2 chapitres"
@@ -658,6 +666,10 @@ years:
             url: "https://public.iutenligne.net/etudes-et-realisations/guinand/uControleur/"
       - name: "Informatique"
         resources:
+          - name: "L'obsolescence"
+            type: "Cours complet ou MOOC *"
+            volume: "6h30"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=322"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"

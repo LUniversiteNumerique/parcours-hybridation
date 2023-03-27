@@ -74,6 +74,10 @@ years:
             url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "Internet et outils"
         resources:
+          - name: "L'obsolescence"
+            type: "Cours complet ou MOOC *"
+            volume: "6h30"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=322"
           - name: "Technologies Web 1"
             type: "Cours complet ou MOOC *"
             volume: "40h"

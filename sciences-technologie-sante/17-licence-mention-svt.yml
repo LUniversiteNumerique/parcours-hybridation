@@ -572,6 +572,10 @@ years:
             url: "https://www.canal-u.tv/producteurs/tele2sciences/biologie_animale/dissection_des_animaux"
       - name: "Neurosciences"
         resources:
+          - name: "Introduction aux neurosciences en psychologie"
+            type: "Cours complet ou MOOC *"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=52"
       - name: "Microbiologie"
         resources:
           - name: "Microbiologie"
