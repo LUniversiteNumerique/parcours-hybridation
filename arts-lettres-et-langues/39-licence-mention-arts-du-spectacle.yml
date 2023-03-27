@@ -87,7 +87,7 @@ years:
             url: "https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/cine-design/le-plan-objet-au-cinema-vocabulaire-enjeux-et"
           - name: "De la nécessité d’un carnet de recherche sur la pluridisciplinarité en scène"
             type: "Grain ou élément de cours"
-            volume: "3 chapitres"
+            volume: "10min"
             url: "https://bandeviolons.hypotheses.org/1"
       - name: "Langue étrangère"
         resources:
@@ -421,7 +421,7 @@ years:
             url: "https://bneuf.auf.org/resource/notice/ZXWyAVMwwbOHTO9N82lLvsYXciK6UH9EtZ7C6eAjC6jxNo_ULsDrwjN6MDYu9hmiwC6rPQuJPSv2JgF_IOcS6w"
           - name: "Représentation ou présentification – les enjeux du « vivant-mourant » dans les arts du spectacle"
             type: "Cours complet ou MOOC"
-            volume: "5 chapitres"
+            volume: "50min"
             url: "https://popups.uliege.be/2593-4228/index.php?id=891"
       - name: "Master Class théâtre"
         resources:

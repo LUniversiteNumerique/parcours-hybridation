@@ -157,6 +157,10 @@ years:
             url: "https://www.iutenligne.net/ressources/word-2010-en-2-minutes.html?srid=1273&srl=product-footer"
       - name: "Thermodynamique"
         resources:
+          - name: "Module 1 : Étude des principales fonctionnalités mises en jeu dans les technologies énergétiques"
+            type: "Module"
+            volume: "3h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=464"
           - name: "Quiz thermodynamique – pression partielle et GP 1"
             type: "TP, exercice, quiz *"
             volume: "1 quiz"
