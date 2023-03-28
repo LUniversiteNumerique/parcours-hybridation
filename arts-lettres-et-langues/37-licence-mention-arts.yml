@@ -74,11 +74,11 @@ years:
         resources:
           - name: "L’image photographique"
             type: "TD, étude de cas"
-            volume: "75 min"
+            volume: "1h15"
             url: "https://www.canal-u.tv/video/universite_de_tous_les_savoirs/l_image_photographique.1407"
           - name: "Les techniques de la gravure"
             type: "Grain ou élément de cours"
-            volume: "15 min"
+            volume: "15min"
             url: "https://www.canal-u.tv/video/alcm/les_techniques_de_gravure.34871"
           - name: "Les techniques de l’estampe"
             type: "Grain ou élément de cours"

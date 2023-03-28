@@ -19,7 +19,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=fc95ddfb-f40a-4f8c-9e92-f03761a86224"
           - name: "Le péché originel dans le théâtre religieux du XVIe siècle"
             type: "Grain ou élément de cours"
-            volume: "30 min"
+            volume: "30min"
             url: "https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/dire-taire-masquer-les-origines-dans-la-peninsule-8"
           - name: "Le théâtre religieux en langue occitane au Moyen-Âge"
             type: "Grain ou élément de cours"
@@ -45,7 +45,7 @@ years:
         resources:
           - name: "L’art de la mise en scène : essai d’esthétique théâtrale (L. Becq de Fouquières)"
             type: "Cours complet ou MOOC"
-            volume: "301 pages"
+            volume: "8h"
             url: "https://gallica.bnf.fr/ark:/12148/bpt6k204285r.pdf"
       - name: "Introduction à l’analyse des arts du spectacle"
         resources:
@@ -288,7 +288,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=27d4d9c1-b1e2-4580-8559-d124b78d4b79"
           - name: "Parole écrite, parole orale"
             type: "Grain ou élément de cours"
-            volume: "30 min"
+            volume: "30min"
             url: "https://www.canal-u.tv/video/eduscol/partie_4_theme_1_parole_ecrite_parole_orale.34815"
       - name: "Ecriture cinématographique"
         resources:
@@ -473,7 +473,7 @@ years:
         resources:
           - name: "Master class : festival Jean Rouch"
             type: "Grain ou élément de cours"
-            volume: "9 vidéos"
+            volume: "14h"
             url: "https://www.canal-u.tv/producteurs/ehess/images_et_cultures_visuelles/master_class_festival_jean_rouch"
           - name: "Master class de Tim Burton"
             type: "Grain ou élément de cours"
