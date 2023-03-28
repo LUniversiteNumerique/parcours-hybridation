@@ -116,7 +116,7 @@ years:
             url: "https://miel.iutenligne.net/course/view.php?id=212"
           - name: "La comptabilité financière – travaux comptables de fin d’exercice (quiz)"
             type: "TP, exercice, quiz *"
-           volume: "1h15"
+            volume: "1h15"
             url: "https://miel.iutenligne.net/enrol/index.php?id=213"
           - name: "La comptabilité financière (exercices)"
             type: "TD, étude de cas *"
