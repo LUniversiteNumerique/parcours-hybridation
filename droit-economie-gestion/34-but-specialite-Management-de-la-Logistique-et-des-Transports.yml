@@ -71,7 +71,7 @@ years:
             url: "https://miel.iutenligne.net/enrol/index.php?id=170"
           - name: "La comptabilité financière fin d’exercice"
             type: "TP, exercice, quiz *"
-           volume: "1h15"
+            volume: "1h15"
             url: "https://miel.iutenligne.net/enrol/index.php?id=213"
           - name: "Calcul et analyse des coûts"
             type: "TP, exercice, quiz *"
