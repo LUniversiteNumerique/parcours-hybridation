@@ -189,7 +189,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=7e5ec6b0-ecaa-47ed-a099-76c115f93b17"
           - name: "Migrations religieuses"
             type: "Cours complet ou MOOC"
-            volume: "3 chapitres"
+            volume: "6h"
             url: "https://uoh.fr/front/noticefr/?uuid=3ca932ed-d402-4a28-aceb-49fbb83c9f35"
           - name: "Projet Demenÿ : Histoire de l'éducation physique depuis le milieu du XIXe siècle"
             type: "Cours complet ou MOOC *"

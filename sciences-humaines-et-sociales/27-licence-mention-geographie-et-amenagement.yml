@@ -374,7 +374,7 @@ years:
           - name: "Pratiquer une veille grâce au web social"
             type: "Grain ou élément de cours"
             volume: "3min"
-            url: "htts://uoh.fr/front/noticefr/?uuid=08d1fa9d-f996-447c-b0ec-1bbb786d57d2"
+            url: "https://uoh.fr/front/noticefr/?uuid=08d1fa9d-f996-447c-b0ec-1bbb786d57d2"
 
   - name: "3ème année"
     ue:
