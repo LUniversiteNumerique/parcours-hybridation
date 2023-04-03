@@ -785,7 +785,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
           - name: "Pharo"
             type: "Module"
-             volume: "7h"
+            volume: "7h"
             url: "https://unisciel.org/r/25.4/pharo/WebPortal/co/50.html"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"

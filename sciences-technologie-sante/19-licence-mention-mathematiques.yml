@@ -782,7 +782,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/6/55/55_ch04/co/55_ch04.html"
           - name: "Fonctions usuelles et fonctions réciproques"
             type: "Module"
-           volume: "50min"
+            volume: "50min"
             url: "https://unisciel.org/r/2uel.4/6/analyse3/analyse3_ch02/co/apprendre_ch02_001.html"
           - name: "Étude de fonctions (fonctions numériques)"
             type: "TP, exercice, quiz"
@@ -872,7 +872,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
           - name: "Pharo"
             type: "Module"
-             volume: "7h"
+            volume: "7h"
             url: "https://unisciel.org/r/25.4/pharo/WebPortal/co/50.html"
       - name: "Anglais scientifique"
         resources:
