@@ -79,7 +79,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=c8efef40-eb94-4db8-abc2-148d66665608"
           - name: "Introduction à l’analyse d’enquêtes avec R et RStudio"
             type: "Module"
-            volume: "4 chapitres"
+            volume: "4h"
             url: "https://larmarange.github.io/analyse-R/"
       - name: "Acquérir une méthodologie du travail universitaire"
         resources:
@@ -299,7 +299,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=19089ca4-8b3d-4748-b854-bf64732ebfb9"
           - name: "Interaction cognition-conation"
             type: "Module"
-            volume: "5 chapitres"
+            volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=071be14b-78a2-4063-a475-3ca21e34ace5"
           - name: "Psychologie cognitive/Mémoire/Travail collaboratif et gestion des conflits"
             type: "Grain ou élément de cours"
@@ -309,7 +309,7 @@ years:
         resources:
           - name: "L’erreur fondamentale d’attribution"
             type: "Grain ou élément de cours"
-            volume: "30 min"
+            volume: "30min"
             url: "https://www.canal-u.tv/video/les_amphis_de_france_5/l_erreur_fondamentale_d_attribution.3075"
           - name: "La non-assistance à personne en danger"
             type: "Grain ou élément de cours"
@@ -331,7 +331,7 @@ years:
         resources:
           - name: "Trois théories du développement"
             type: "Module"
-            volume: "4 chapitres"
+            volume: "30min"
             url: "http://www.staps.univ-avignon.fr/S2/UE2/Psychologie/L1_psycho_Calvin_developpement_Piaget.pdf"
       - name: "Psychométrie et analyse de données"
         resources:
@@ -341,7 +341,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=aa4dacb9-ccd8-4209-a906-7aa15ec0e3be"
           - name: "Introduction à l’analyse d’enquêtes avec R et RStudio"
             type: "Module"
-            volume: "4 chapitres"
+            volume: "4h"
             url: "https://larmarange.github.io/analyse-R/"
       - name: "Appréhender les domaines d’application"
         resources:
@@ -366,8 +366,8 @@ years:
             volume: "20h"
             url: "https://uoh.fr/front/noticefr/?uuid=a4e7fab1-f0df-4306-8021-4883d57513f3"
           - name: "Introduction à la psychologie positive"
-            type: "Grain ou élément de cours"
-            volume: "44 vidéos"
+            type: "Cours complet ou MOOC"
+            volume: "10h"
             url: "https://uoh.fr/front/noticefr/?uuid=82de813c-b9be-431f-b4f3-80823a92316b"
           - name: "LudoSocio : un jeu sérieux en sociologie"
             type: "TD, étude de cas"
@@ -430,7 +430,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=19089ca4-8b3d-4748-b854-bf64732ebfb9"
           - name: "Interaction cognition-conation"
             type: "Module"
-            volume: "5 chapitres"
+            volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=071be14b-78a2-4063-a475-3ca21e34ace5"
       - name: "Psychologie"
         resources:
