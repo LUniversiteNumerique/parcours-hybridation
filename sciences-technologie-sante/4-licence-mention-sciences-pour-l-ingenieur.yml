@@ -91,7 +91,7 @@ years:
             url: "https://unisciel.org/r/25.4/36/514-113a-produit-scalaire/co/514-113a_webUnisciel.html"
           - name: "Sections planes de surfaces"
             type: "Module"
-           volume: "2h30"
+            volume: "2h30"
             url: "https://unisciel.org/r/25.4/36/514-113b-sections-planes/co/514-113b_webUnisciel.html"
           - name: "Similitudes directes, similitudes indirectes"
             type: "Module"
