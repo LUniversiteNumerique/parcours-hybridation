@@ -153,7 +153,7 @@ years:
             url: "https://unisciel.org/r/216-18.ens-1470/22/intro-tectonique-plaques.xml"
           - name: "Comment différencier les enveloppes atmosphériques ?"
             type: "Grain ou élément de cours"
-            volume: "4 chapitres"
+            volume: "20min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/structure-atmosphere2.xml"
       - name: "La Terre dans l’Univers"
         resources:
