@@ -499,11 +499,11 @@ years:
           - name: "Le sol, une interface vivante"
             type: "Grain ou élément de cours"
             volume: "1h"
-            url: "https://www.uved.fr/fiche/ressource/le-sol-une-interface-vivante-6-grains"
+            url: "https://www.uved.fr/fiche/ressource/le-sol-epiderme-de-la-terre"
           - name: "L’eau sur Terre"
             type: "Grain ou élément de cours"
             volume: "1h"
-            url: "https://www.uved.fr/fiche/ressource/leau-sur-terre-6-grains"
+            url: "https://www.uved.fr/fiche/ressource/leau-caracteristiques-et-proprietes"
       - name: "Regards croisés sur la transition énergétique"
         resources:
           - name: "Énergies renouvelables"
