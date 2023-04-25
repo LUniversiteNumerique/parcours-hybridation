@@ -478,7 +478,7 @@ years:
             type: "Cours complet ou MOOC *"
             volume: "8h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=52"
-          - name: "Apprendre et enseigner avec une tablette : une expérimentation au lycée"
+          - name: "Apprendre et enseigner avec une tablette"
             type: "TD, étude de cas"
             volume: "7h30"
             url: "https://uoh.fr/front/noticefr/?uuid=133c9a2c-35eb-4754-acaf-61466ec775a9"
