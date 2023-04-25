@@ -264,7 +264,7 @@ years:
           - name: "L’eau sur terre"
             type: "Grain ou élement de cours"
             volume: "1h"
-            url: "https://www.uved.fr/fiche/ressource/leau-sur-terre-6-grains"
+            url: "https://www.uved.fr/fiche/ressource/leau-caracteristiques-et-proprietes"
           - name: "Rôle de la structure du paysage sur la qualité de l’eau"
             type: "Module"
             volume: "20h"
@@ -282,7 +282,7 @@ years:
           - name: "Les sols, une interface vivante"
             type: "Grain ou élement de cours"
             volume: "1h"
-            url: "https://www.uved.fr/fiche/ressource/le-sol-une-interface-vivante-6-grains"
+            url: "https://www.uved.fr/fiche/ressource/le-sol-epiderme-de-la-terre"
       - name: "Maîtriser la biogéographie et les approches du développement durable"
         resources:
           - name: "Dynamiques et enjeux des biodiversités et des agro-ressources"
