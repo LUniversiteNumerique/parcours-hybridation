@@ -564,7 +564,7 @@ years:
           - name: "Formation à distance : Informatique et société"
             type: "Cours complet ou MOOC"
             volume: "15h"
-            url: "https://uoh.fr/front/noticefr/?uuid=6832ce99-569a-4a1e-81eb-cf59bbaff5fc"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
             type: "Cours complet ou MOOC"
             volume: "1h"

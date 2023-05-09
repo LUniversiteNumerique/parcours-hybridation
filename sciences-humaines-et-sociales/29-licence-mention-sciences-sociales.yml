@@ -615,10 +615,6 @@ years:
             url: "https://www.uved.fr/fiche/ressource/biodiversite-en-societe-appropriations-reinterpretations-contestations-dun-terme-pluriel"
       - name: "Civilisations anglaises"
         resources:
-          - name: "Georgian Cities : les villes en Grande-Bretagne au siècle des Lumières"
-            type: "Cours complet ou MOOC"
-            volume: "32h"
-            url: "https://uoh.fr/front/noticefr/?uuid=c0c533ab-4348-43e5-ac01-06ea24c2f755"
           - name: "Rail and Culture : chemin de fer et civilisation britannique"
             type: "Cours complet ou MOOC"
             volume: "15h"

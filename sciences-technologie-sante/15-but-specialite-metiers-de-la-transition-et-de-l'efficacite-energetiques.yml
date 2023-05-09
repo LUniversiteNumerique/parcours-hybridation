@@ -453,7 +453,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=10"
           - name: "Transformée de Laplace"
             type: "TP, exercice, quiz *"
-            volume: "1 quiz"
+            volume: "15min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2710"
           - name: "Series de Fourier"
             type: "TP, exercice, quiz *"
