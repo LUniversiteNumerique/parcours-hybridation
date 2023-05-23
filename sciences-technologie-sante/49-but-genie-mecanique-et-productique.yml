@@ -1,5 +1,5 @@
 id: 49
-name: "BUT Génie mécanique et productique" 
+name: "BUT génie mécanique et productique" 
 description: |
   Le B.U.T. Génie Mécanique et Productique (GMP) forme des techniciens généralistes des industries mécaniques, quel que soit le secteur d’activité, 
   capables d’assurer la mise sur le marché d’un nouveau produit au travers des trois premières étapes de son cycle de vie : conception pour définir le produit, 
@@ -148,7 +148,7 @@ years:
           volume: "3h"
           url: "https://moodle.luniversitenumerique.fr/course/view.php?id=771"
 
-years:
+
   - name: "2ème année"
     ue:
     - name: "Conception mécanique"
@@ -284,7 +284,7 @@ years:
           volume: "3h"
           url: "https://moodle.luniversitenumerique.fr/course/view.php?id=771"
 
-years:
+
   - name: "3ème année"
     ue:
     - name: "Conception mécanique"
