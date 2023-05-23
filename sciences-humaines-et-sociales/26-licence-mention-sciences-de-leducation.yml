@@ -386,6 +386,10 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=d691ec87-33df-4aa1-be94-b9d453dc9496"
       - name: "Savoir s’adapter au public"
         resources:
+          - name: "Let us in"
+            type: "TP, exercice, quiz"
+            volume: "15min"
+            url: "https://ikigai.games/games/gameDetails/103"
           - name: "Enseigner avec le numérique à l’école primaire"
             type: "Module"
             volume: "5h"

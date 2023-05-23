@@ -819,10 +819,6 @@ years:
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/mecanique-des-roches/"
-          - name: "Calculs topométriques initiation à la topographie : Module 4"
-            type: "Module"
-            volume: "2h"
-            url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-671"
       - name: "Mécanique des solides 2"
         resources:
           - name: "Mécanique des matériaux solides"
@@ -1065,7 +1061,7 @@ years:
           - name: "La dépollution à l’interface urbain / rural"
             type: "Grain ou élément de cours"
             volume: "15min"
-            url: "https://www.uved.fr/les-ressources/liste-ressources/date/DESC/71_69/d%C3%A9pollution/1"
+            url: "https://www.uved.fr/fiche/ressource/la-depollution-a-linterface-urbain-rural"
       - name: "Gestion des risques naturels"
         resources:
           - name: "Solutions d’aménagements urbains en prévention des îlots de chaleur urbains"

@@ -312,7 +312,7 @@ years:
           - name: "Dictionnaire étymologique de l’ancien français"
             type: "TD, étude de cas"
             volume: "10h"
-            url: "http://www.deaf-page.de/fr/index.php"
+            url: "https://www.hadw-bw.de/forschung/forschungsstelle/dictionnaire-etymologique-de-lancien-francais-deaf"
           - name: "Le système verbal du français"
             type: "Cours complet ou MOOC"
             volume: "3h"

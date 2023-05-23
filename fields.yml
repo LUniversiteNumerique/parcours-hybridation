@@ -47,6 +47,8 @@ fields:
         name: "Licence mention EEA"
       - id: 23
         name: "BUT spécialité génie biologique"
+      - id: 49
+        name: "BUT Génie mécanique et productique"
 
   - name: "Sciences Humaines et Sociales"
     diplomas:
