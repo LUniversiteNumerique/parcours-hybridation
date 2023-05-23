@@ -58,10 +58,6 @@ years:
             url: "https://www.canal-u.tv/chaines/inha/construire-restaurer-detruire-les-chantiers-du-xviiie-au-xxe-siecle"
       - name: "Pratique des arts plastiques"
         resources:
-          - name: "Peinture et couleurs dans le monde antique"
-            type: "Cours complet ou MOOC"
-            volume: "5h"
-            url: "https://uoh.fr/front/noticefr/?uuid=8ccc3298-f370-4d71-a09b-f4ab4e98352a"
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie 1)"
             type: "Cours complet ou MOOC **"
             volume: "20h"
