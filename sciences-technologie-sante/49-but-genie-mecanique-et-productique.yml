@@ -148,7 +148,7 @@ years:
           volume: "3h"
           url: "https://moodle.luniversitenumerique.fr/course/view.php?id=771"
 
-years:
+
   - name: "2ème année"
     ue:
     - name: "Conception mécanique"
@@ -284,7 +284,7 @@ years:
           volume: "3h"
           url: "https://moodle.luniversitenumerique.fr/course/view.php?id=771"
 
-years:
+
   - name: "3ème année"
     ue:
     - name: "Conception mécanique"
