@@ -869,6 +869,18 @@ years:
     ue:
       - name: "Conception et analyse des matériaux"
         resources:
+          - name: "Matière à construire : manip scientifique"
+            type: "Cours complet ou MOOC"
+            volume: "1h"
+            url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLGgg1I6eO8ijXi8qGTmjsKf"
+          - name: "Matière manip scientifique"
+            type: "Cours complet ou MOOC"
+            volume: "42min"
+            url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLHHWnYXVCCKxZRL-7ddT46E"
+          - name: "Grains de bâtisseurs : expériences scientifiques autour de la matière"
+            type: "Cours complet ou MOOC"
+            volume: "1h10"
+            url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLE9-fQjWs6LR45UWRU2XAIf"
           - name: "Technologies d'AssemBLage dEs ThermoplasTiques par lasER"
             type: "Cours complet ou MOOC *"
             volume: "2h40"
