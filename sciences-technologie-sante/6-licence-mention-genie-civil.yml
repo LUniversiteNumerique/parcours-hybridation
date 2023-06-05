@@ -754,6 +754,10 @@ years:
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
       - name: "Géologie de l’ingénieur"
         resources:
+          - name: "Géologie appliquée aux travaux du Génie Civil"
+            type: "Module"
+            volume: "2h"
+            url: "https://www.pairform.fr/doc/17/138/510/web/co/FI-11.html"
       - name: "Gestion des risques"
         resources:
           - name: "Cyberrisques : cyber ingénierie des risques en génie civil"
