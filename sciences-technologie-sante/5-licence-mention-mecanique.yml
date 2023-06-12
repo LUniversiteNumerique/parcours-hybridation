@@ -74,7 +74,7 @@ years:
           - name: "La Physique animée"
             type: "Grain ou élément de cours"
             volume: "1h45"
-            url: "https://unisciel.org/r/2www.17-u.tv/58/20/la_25_animee"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/la-physique-animee"
           - name: "Stranger fields"
             type: "TP, exercice, quiz"
             volume: "5min"
@@ -697,7 +697,7 @@ years:
           - name: "OEF Petits tests de programmation"
             type: "TP, exercice, quiz"
             volume: "50min"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/coding/oefprogramC70"
+            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
       - name: "Outils mathématiques"
         resources:
           - name: "Outils Mathématiques"
