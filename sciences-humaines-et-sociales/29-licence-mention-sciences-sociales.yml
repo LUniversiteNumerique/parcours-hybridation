@@ -56,7 +56,7 @@ years:
           - name: "Que font nos politiques ? Exploration sociologique de l’Agenda et de l’emploi du temps des élus"
             type: "Grain ou élément de cours"
             volume: "1h30"
-            url: "https://www.canal-u.tv/video/universite_d_avignon_et_des_pays_de_vaucluse/midisciences_2017_que_font_nos_politiques_exploration_sociologique_de_l_agenda_et_de_l_emploi_du_temps_des_elus_par_guillaume_marrel.26881"
+            url: "https://www.canal-u.tv/chaines/au/midisciences-2017-que-font-nos-politiques-exploration-sociologique-de-l-agenda-et-de-l"
       - name: "Sociologie"
         resources:
           - name: "LudoSocio : un jeu sérieux en sociologie"
@@ -538,7 +538,7 @@ years:
           - name: "Structures de financement, exigences des actionnaires et nouveaux modes de gouvernement des entreprises françaises"
             type: "Grain ou élément de cours"
             volume: "1h15"
-            url: "https://www.canal-u.tv/video/universite_de_tous_les_savoirs/structures_de_financement_exigences_des_actionnaires_et_nouveaux_modes_de_gouvernement_des_entreprises_francaises.998"
+            url: "https://www.canal-u.tv/chaines/utls/nouveaux-visages-de-l-entreprise/structures-de-financement-exigences-des-actionnaires"
           - name: "Le Fonds Monétaire international (FMI)"
             type: "Grain ou élément de cours"
             volume: "4min"
