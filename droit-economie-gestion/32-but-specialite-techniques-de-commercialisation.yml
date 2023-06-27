@@ -750,7 +750,7 @@ years:
           - name: "Reclutamiento"
             type: "Module *"
             volume: "3h"
-            url: "https://www.iutenligne.net/ressources/reclutamiento.html"
+            url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/espagnol/barriere/reclutamiento/index.html"
           - name: "Espagnol – Le monde du travail"
             type: "TP, exercice, quiz *"
             volume: "1h30"
