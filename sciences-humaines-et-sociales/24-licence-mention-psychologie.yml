@@ -266,8 +266,8 @@ years:
             volume: "55min"
             url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
           - name: "Informatique et société"
-            type: "Module *"
-            volume: "2h"
+            type: "Cours complet ou MOOC *"
+            volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
       - name: "Français écrits"
         resources:

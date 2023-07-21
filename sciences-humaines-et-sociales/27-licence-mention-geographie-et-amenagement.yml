@@ -49,8 +49,8 @@ years:
             volume: "10h"
             url: "https://www.fun-campus.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
           - name: "Informatique et société"
-            type: "Module *"
-            volume: "2h"
+            type: "Cours complet ou MOOC *"
+            volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
       - name: "Maîtriser une langue étrangère"
         resources:
