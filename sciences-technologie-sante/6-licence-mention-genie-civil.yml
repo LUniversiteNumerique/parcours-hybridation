@@ -774,10 +774,6 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
       - name: "Géologie de l’ingénieur"
         resources:
-          - name: "Géologie appliquée aux travaux du Génie Civil"
-            type: "Module"
-            volume: "2h"
-            url: "https://www.pairform.fr/doc/17/138/510/web/co/FI-11.html"
       - name: "Gestion des risques"
         resources:
           - name: "Cyberrisques : cyber ingénierie des risques en génie civil"
