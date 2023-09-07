@@ -1044,10 +1044,6 @@ years:
             url: "https://unisciel.org/r/2www.17-u.tv/23/20/vibrations_transversales_d_une_corde_equation_de_d_alembert.18171"
       - name: "Cristallographie – Minéralogie – Pétrologie"
         resources:
-          - name: "Outil méthodologique d’identification des roches et minéraux courants"
-            type: "Module"
-            volume: "2h"
-            url: "https://www.pairform.fr/doc/17/55/110/web/co/0-objectif.html"
           - name: "Vade-mecum sur l’origine des granites"
             type: "Module"
             volume: "10min"
