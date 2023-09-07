@@ -67,8 +67,8 @@ fields:
 
   - name: "Droit, Économie et Gestion"
     diplomas:
-      #- id: 30
-      #  name: "Licence mention gestion"
+      - id: 30
+        name: "Licence mention gestion"
       - id: 31
         name: "BUT spécialité GEA"
       - id: 32
