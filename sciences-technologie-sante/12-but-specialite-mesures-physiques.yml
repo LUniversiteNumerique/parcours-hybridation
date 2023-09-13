@@ -636,6 +636,10 @@ years:
             url: "https://public.iutenligne.net/electronique/le-bars/num/index.html"
       - name: "Informatique d’instrumentation"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "Réseaux de Communications Industriels"
             type: "Cours complet ou MOOC *"
             volume: "21h"

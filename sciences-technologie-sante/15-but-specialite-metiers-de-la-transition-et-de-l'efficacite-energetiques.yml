@@ -131,6 +131,10 @@ years:
             url: "https://public.iutenligne.net/mecanique/mecanique-des-fluides/courtin/pertes-de-charge-lineique/co/Pertes%20de%20charges%20lineiques_web.html"
       - name: "Informatique"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "bureautique-excel-2007-2010-notions-de-base"
             type: "TP, exercice, quiz *"
             volume: "10min"
@@ -555,6 +559,10 @@ years:
             url: "https://public.iutenligne.net/automatique-et-automatismes-industriels/weber/cours_au_xao_jw/index.html"
       - name: "Informatique"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "Automatisation des tableaux de bord avec Excel"
             type: " Module *"
             volume: "4h"

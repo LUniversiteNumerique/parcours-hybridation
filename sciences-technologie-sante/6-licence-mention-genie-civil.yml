@@ -173,6 +173,10 @@ years:
             url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
       - name: "Informatique"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"

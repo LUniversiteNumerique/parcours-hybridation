@@ -851,6 +851,10 @@ years:
             url: "https://unisciel.org/r/248.4/"
       - name: "Outils mathématiques"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"

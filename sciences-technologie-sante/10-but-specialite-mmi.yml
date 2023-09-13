@@ -17,6 +17,10 @@ years:
         resources:
       - name: "Bureautique"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "Quiz – Bureautique – Excel 2007-2010 : Notions de base"
             type: "TP, exercice, quiz *"
             volume: "10min"

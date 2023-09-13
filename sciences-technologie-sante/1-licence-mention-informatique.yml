@@ -12,6 +12,10 @@ years:
     ue:
       - name: "Algorithmique et programmation"
         resources:
+          - name: "Advanced Object-Oriented Design"
+            type: "Grain ou élément de cours"
+            volume: "30h30"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=370"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"
@@ -74,6 +78,10 @@ years:
             url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
       - name: "Internet et outils"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"
@@ -96,6 +104,14 @@ years:
             url: "https://www.canal-u.tv/producteurs/unittv/les_moteurs_de_recherche"
       - name: "Base de données 1"
         resources:
+          - name: "Reporting et data visualisation"
+            type: "Cours complet ou MOOC"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=369"
+          - name: "Base de données"
+            type: "Cours complet ou MOOC"
+            volume: "33h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=367"
           - name: "Bases de données relationnelles : apprendre pour utiliser"
             type: "Cours complet ou MOOC **"
             volume: "21h"
@@ -607,6 +623,10 @@ years:
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
       - name: "Internet et outils 2"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "Accessibilité numérique"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -848,6 +868,10 @@ years:
     ue:
       - name: "Algorithmique et programmation"
         resources:
+          - name: "Advanced Object-Oriented Design"
+            type: "Grain ou élément de cours"
+            volume: "30h30"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=370"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"
