@@ -85,7 +85,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/6/suites_fonctions/suites_fonctions/co/suites_fonctions.html"
       - name: "Logique et raisonnement"
         resources:
-         - name: "Formalisation"
+          - name: "Formalisation"
             type: "TP, exercice, quiz"
             volume: "12h50"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=366"

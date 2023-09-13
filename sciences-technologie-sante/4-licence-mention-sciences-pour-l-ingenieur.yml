@@ -13,7 +13,7 @@ years:
     ue:
       - name: "Mathématiques pour les études scientifiques"
         resources:
-         - name: "Formalisation"
+          - name: "Formalisation"
             type: "TP, exercice, quiz"
             volume: "12h50"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=366"
