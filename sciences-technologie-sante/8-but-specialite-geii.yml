@@ -173,6 +173,10 @@ years:
             url: "https://miel.iutenligne.net/enrol/index.php?id=222"
       - name: "Informatique"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"
@@ -722,6 +726,10 @@ years:
             url: "https://public.iutenligne.net/etudes-et-realisations/guinand/uControleur/"
       - name: "Informatique"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"

@@ -164,6 +164,10 @@ years:
       - name: "Bureautique"
         resources:
           - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
+          - name: "Excel"
             type: "TP, exercice, quiz *"
             volume: "55min"
             url: "https://miel.iutenligne.net/course/view.php?id=236"
@@ -478,6 +482,10 @@ years:
             url: "https://public.iutenligne.net/hygiene-securite-environnement/developpement-durable/bapteste/developpement-durable/general/index.html"
       - name: "Analyse de données"
         resources:
+          - name: "Excel"
+            type: "Cours complet ou MOOC"
+            volume: "14h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
           - name: "Interfaces utilisateur et rapports statistiques avec R et Sas"
             type: "TP, exercice, quiz *"
             volume: "10h"
