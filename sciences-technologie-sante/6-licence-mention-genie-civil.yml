@@ -1195,6 +1195,7 @@ years:
             volume: "25h"
             url: "http://ecoconstruction.rpn.univ-lorraine.fr/co/Module_UVEDTEST.html"
       - name: "Mécanique"
+        resources:
           - name: "Mécanique des milieux continus"
             type: "Cours complet ou MOOC"
             volume: "8h"
