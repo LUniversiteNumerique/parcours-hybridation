@@ -306,10 +306,6 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
       - name: "Mécanique du point"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -759,7 +755,7 @@ years:
         resources:
           - name: "Introduction to quantum information and its associated technologies"
             type: "Cours complet ou MOOC *"
-            volume: "3h"
+            volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
           - name: "Principes de la mécanique quantique"
             type: "Module"
@@ -801,6 +797,10 @@ years:
             url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
       - name: "Physique des ondes"
         resources:
+          - name: "Propagation des ondes mécaniques"
+            type: "Cours complet ou MOOC"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Systèmes oscillants"
             type: "Module"
             volume: "4h"
@@ -924,6 +924,10 @@ years:
             url: "https://unisciel.org/r/25.4/7/25/optique_ondulatoire_2a_pcetoile/co/ch00_27_web.html"
       - name: "Mécanique des fluides"
         resources:
+          - name: "Mécanique des milieux continus"
+            type: "Cours complet ou MOOC"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
           - name: "SPINEL Smartphone for pratical imagery : a new educational library"
             type: "TP, exercice, quiz"
             volume: "4h"

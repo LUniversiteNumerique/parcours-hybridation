@@ -177,10 +177,6 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
       - name: "Mécanique Physique"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -598,7 +594,7 @@ years:
         resources:
           - name: "Propagation des ondes mécaniques"
             type: "Cours complet ou MOOC"
-            volume: "30h"
+            volume: "8h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Mécanique des solides déformables"
             type: "Cours complet ou MOOC **"
@@ -941,10 +937,6 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/thermodynamique-experimentale/"
       - name: "Initiation au génie mécanique"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Préparation de Production en Productique Mécanique – Étude de Fabrication et Analyse d’Usinage (3PM-EFAU)"
             type: "Module"
             volume: "60h"
@@ -973,6 +965,10 @@ years:
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3311"
       - name: "Mécanique des fluides"
         resources:
+          - name: "Mécanique des milieux continus"
+            type: "Cours complet ou MOOC"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
           - name: "SPINEL Smartphone for pratical imagery : a new educational library"
             type: "TP, exercice, quiz"
             volume: "4h"

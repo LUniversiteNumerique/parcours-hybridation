@@ -77,10 +77,6 @@ years:
             url: "https://public.iutenligne.net/metrologie/billonnet/Grandeurs_physiques/"
       - name: "Mécanique"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Fondamentaux de la mécanique du solide"
             type: "Cours complet ou MOOC *"
             volume: "2h"

@@ -301,10 +301,6 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
       - name: "Mécanique du point"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -858,7 +854,7 @@ years:
         resources:
           - name: "Introduction to quantum information and its associated technologies"
             type: "Cours complet ou MOOC *"
-            volume: "3h"
+            volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
           - name: "Chimie quantique"
             type: "Module"
