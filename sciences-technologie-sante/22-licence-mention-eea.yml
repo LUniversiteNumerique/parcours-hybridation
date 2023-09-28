@@ -303,10 +303,7 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
       - name: "Mécanique du point"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
+
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -722,7 +719,7 @@ years:
         resources:
           - name: "Introduction to quantum information and its associated technologies"
             type: "Cours complet ou MOOC *"
-            volume: "3h"
+            volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
           - name: "Principes de la mécanique quantique"
             type: "Module"
@@ -764,10 +761,6 @@ years:
             url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
       - name: "Mécanique des solides"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Physique à main levée – Mécanique des solides"
             type: "Grain ou élément de cours"
             volume: "24min"

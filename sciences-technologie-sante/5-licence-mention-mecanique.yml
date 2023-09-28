@@ -13,10 +13,6 @@ years:
     ue:
       - name: "Mécanique physique"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Statique et cinématique du solide"
             type: "Cours complet ou MOOC *"
             volume: "4h"
@@ -823,7 +819,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
           - name: "Propagation des ondes mécaniques"
             type: "Cours complet ou MOOC"
-            volume: "30h"
+            volume: "8h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Mécanique des milieux continus"
             type: "Module"

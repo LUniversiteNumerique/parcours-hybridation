@@ -636,6 +636,10 @@ years:
             url: "https://public.iutenligne.net/electronique/le-bars/num/index.html"
       - name: "Informatique d’instrumentation"
         resources:
+          - name: "Introduction to quantum information and its associated technologies"
+            type: "Cours complet ou MOOC *"
+            volume: "18h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
           - name: "Excel"
             type: "Cours complet ou MOOC"
             volume: "14h"

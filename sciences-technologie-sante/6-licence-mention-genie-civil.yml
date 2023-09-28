@@ -11,10 +11,6 @@ years:
     ue:
       - name: "Mécanique Physique"
         resources:
-          - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
           - name: "Socle en Mécanique"
             type: "Cours complet ou MOOC **"
             volume: "10h"
@@ -518,6 +514,10 @@ years:
     ue:
       - name: "Mécanique des solides"
         resources:
+          - name: "Propagation des ondes mécaniques"
+            type: "Cours complet ou MOOC"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53" 
           - name: "Mécanique des solides déformables"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -990,10 +990,6 @@ years:
       - name: "Mécanique des milieux continus"
         resources:
           - name: "Mécanique des milieux continus"
-            type: "Cours complet ou MOOC"
-            volume: "8h"
-            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
-          - name: "Mécanique des milieux continus"
             type: "Module"
             volume: "30h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-503"
@@ -1198,3 +1194,9 @@ years:
             type: "Cours complet ou MOOC"
             volume: "25h"
             url: "http://ecoconstruction.rpn.univ-lorraine.fr/co/Module_UVEDTEST.html"
+      - name: "Mécanique"
+        resources:
+          - name: "Mécanique des milieux continus"
+            type: "Cours complet ou MOOC"
+            volume: "8h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
