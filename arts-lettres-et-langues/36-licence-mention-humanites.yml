@@ -80,7 +80,7 @@ years:
           - name: "Introduction à la philosophie des sciences humaines"
             type: "Module"
             volume: "5h"
-            url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/introduction_a_la_philosophie_des_sciences_humaines"
+            url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
       - name: "Langues anciennes"
         resources:
           - name: "Latin remise à niveau"
@@ -536,7 +536,7 @@ years:
           - name: "Introduction à la philosophie des sciences humaines"
             type: "Module"
             volume: "5h"
-            url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/introduction_a_la_philosophie_des_sciences_humaines"
+            url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
           - name: "La crise"
             type: "Grain ou élément de cours"
             volume: "2h30"
