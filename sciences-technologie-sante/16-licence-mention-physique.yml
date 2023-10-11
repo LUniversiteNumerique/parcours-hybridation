@@ -623,6 +623,8 @@ years:
 
   - name: "2ème année"
     ue:
+      - name: "Introduction aux phénomènes aéronautiques"
+        resources: 
       - name: "Thermodynamique"
         resources:
           - name: "Module 1 : Étude des principales fonctionnalités mises en jeu dans les technologies énergétiques"

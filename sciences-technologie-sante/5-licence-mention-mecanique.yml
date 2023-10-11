@@ -494,6 +494,8 @@ years:
 
   - name: "2ème année"
     ue:
+      - name: "Introduction aux phénomènes aéronautiques"
+        resources: 
       - name: "Mécanique des solides 1"
         resources:
           - name: "Mécanique des solides déformables"
