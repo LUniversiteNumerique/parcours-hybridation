@@ -13,6 +13,10 @@ years:
     ue:
       - name: "Mécanique physique"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Statique et cinématique du solide"
             type: "Cours complet ou MOOC *"
             volume: "4h"
@@ -77,6 +81,10 @@ years:
             url: "https://ikigai.games/games/gameDetails/2"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Excel"
             type: "Cours complet ou MOOC"
             volume: "14h"
@@ -496,8 +504,16 @@ years:
     ue:
       - name: "Introduction aux phénomènes aéronautiques"
         resources: 
+          - name: "Aerospace Digital Nuggets for PUNCHY"
+            type: "Cours complet ou MOOC"
+            volume: "17h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=117"
       - name: "Mécanique des solides 1"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Mécanique des solides déformables"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -722,6 +738,10 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Excel"
             type: "Cours complet ou MOOC"
             volume: "14h"
@@ -765,6 +785,10 @@ years:
     ue:
       - name: "Mécanique des solides"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Mécanique des matériaux solides"
             type: "Module"
             volume: "30h"
@@ -887,6 +911,10 @@ years:
             url: "https://unisciel.org/r/25.4/7/25/electronique_2a_pc/co/ch00_27_web.html"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"

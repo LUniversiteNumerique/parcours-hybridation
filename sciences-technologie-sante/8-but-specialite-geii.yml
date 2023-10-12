@@ -269,6 +269,10 @@ years:
             url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/lohier/reseaux_fondamentaux/index.html"
       - name: "Mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -780,6 +784,10 @@ years:
             url: "https://public.iutenligne.net/sciences-image-et-medias/infographie/vermaelen/cours_animation_javascript/"
       - name: "Mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"

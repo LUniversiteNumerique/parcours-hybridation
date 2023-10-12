@@ -132,6 +132,10 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
       - name: "Calculs et mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -667,6 +671,10 @@ years:
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3815"
       - name: "Calculs et mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
       - name: "Intégration"
         resources:
           - name: "L1: Intégration"

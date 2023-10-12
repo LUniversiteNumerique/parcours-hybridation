@@ -302,6 +302,10 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
       - name: "Mécanique du point"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -625,6 +629,10 @@ years:
     ue:
       - name: "Introduction aux phénomènes aéronautiques"
         resources: 
+          - name: "Aerospace Digital Nuggets for PUNCHY"
+            type: "Cours complet ou MOOC"
+            volume: "17h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=117"
       - name: "Thermodynamique"
         resources:
           - name: "Module 1 : Étude des principales fonctionnalités mises en jeu dans les technologies énergétiques"
@@ -721,6 +729,10 @@ years:
             url: "https://unisciel.org/r/25.4/7/25/ondes_mecaniques/res/osc-couples.pdf"
       - name: "Mécanique des solides"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Physique à main levée – Mécanique des solides"
             type: "Grain ou élément de cours"
             volume: "24min"
@@ -833,6 +845,10 @@ years:
             url: "https://unisciel.org/r/248.4/"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"
@@ -893,6 +909,10 @@ years:
             url: "https://unisciel.org/r/248.4/"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"

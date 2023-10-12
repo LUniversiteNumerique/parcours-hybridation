@@ -150,6 +150,10 @@ years:
             url: "https://public.iutenligne.net/chimie/ramage/spectroscopie-11004/spectro/index.htm"
       - name: "Mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"

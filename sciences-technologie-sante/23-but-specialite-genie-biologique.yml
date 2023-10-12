@@ -97,6 +97,10 @@ years:
             url: "https://public.iutenligne.net/metrologie/billonnet/Unites/general/index.html"
       - name: "Mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"

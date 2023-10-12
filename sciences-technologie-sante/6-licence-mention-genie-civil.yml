@@ -11,6 +11,10 @@ years:
     ue:
       - name: "Mécanique Physique"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Socle en Mécanique"
             type: "Cours complet ou MOOC **"
             volume: "10h"
@@ -63,6 +67,10 @@ years:
             url: "https://ikigai.games/games/gameDetails/2"
       - name: "Mathématiques pour les études scientifiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -514,6 +522,10 @@ years:
     ue:
       - name: "Mécanique des solides"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Propagation des ondes mécaniques"
             type: "Cours complet ou MOOC"
             volume: "8h"
@@ -714,6 +726,10 @@ years:
             url: "https://unisciel.org/r/25.4/7/25/ondes_mecaniques/res/osc-couples.pdf"
       - name: "Mathématiques pour les études scientifiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"
@@ -901,6 +917,10 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/mecanique-des-roches/"
       - name: "Mécanique des solides 2"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Mécanique des matériaux solides"
             type: "Module"
             volume: "30h"
@@ -999,6 +1019,10 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=20"
       - name: "Mathématiques pour les études scientifiques 3"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"

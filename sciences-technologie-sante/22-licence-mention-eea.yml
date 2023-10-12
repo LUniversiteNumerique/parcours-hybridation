@@ -303,7 +303,10 @@ years:
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
       - name: "Mécanique du point"
         resources:
-
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -761,6 +764,10 @@ years:
             url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
       - name: "Mécanique des solides"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "Physique à main levée – Mécanique des solides"
             type: "Grain ou élément de cours"
             volume: "24min"
@@ -839,6 +846,10 @@ years:
             url: "https://unisciel.org/r/25.4/pharo/WebPortal/co/50.html"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"
@@ -898,6 +909,10 @@ years:
             url: "https://unisciel.org/r/25.4/7/25/optique_ondulatoire_2a_pcetoile/co/ch00_27_web.html"
       - name: "Mécanique des fluides"
         resources:
+          - name: "Abaqus/CAE"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12915"
           - name: "SPINEL Smartphone for pratical imagery : a new educational library"
             type: "TP, exercice, quiz"
             volume: "4h"
@@ -930,6 +945,10 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/spectro/spectro/co/spectro.html"
       - name: "Outils mathématiques"
         resources:
+          - name: "Quaternion Kinematics"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
           - name: "Outils Mathématiques"
             type: "TP, exercice, quiz"
             volume: "4h"
