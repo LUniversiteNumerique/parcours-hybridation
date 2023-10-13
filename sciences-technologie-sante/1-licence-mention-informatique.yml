@@ -12,6 +12,10 @@ years:
     ue:
       - name: "Algorithmique et programmation"
         resources:
+          - name: "Les formulaires ( Django Framework)"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://cryptpad.fr/sheet/#/3/sheet/edit/a7c6a6baa6e0e720004eed37af14a843/"
           - name: "Advanced Object-Oriented Design"
             type: "Grain ou élément de cours"
             volume: "30h30"
@@ -132,10 +136,18 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
       - name: "Calculs et mathématiques"
         resources:
+          - name: "Quaternion Addition and Multiplication"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12906"
           - name: "Quaternion Kinematics"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
+          - name: "Quaternion Algebraic Properties"
+            type: "Grain ou élément de cours"
+            volume: "35min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12907"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -569,6 +581,10 @@ years:
     ue:
       - name: "Algorithmique et programmation"
         resources:
+          - name: "Les formulaires ( Django Framework)"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://cryptpad.fr/sheet/#/3/sheet/edit/a7c6a6baa6e0e720004eed37af14a843/"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"
@@ -671,6 +687,14 @@ years:
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3815"
       - name: "Calculs et mathématiques"
         resources:
+          - name: "Quaternion Addition and Multiplication"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12906"
+          - name: "Quaternion Algebraic Properties"
+            type: "Grain ou élément de cours"
+            volume: "35min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12907"
           - name: "Quaternion Kinematics"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -876,6 +900,10 @@ years:
     ue:
       - name: "Algorithmique et programmation"
         resources:
+          - name: "Les formulaires ( Django Framework)"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://cryptpad.fr/sheet/#/3/sheet/edit/a7c6a6baa6e0e720004eed37af14a843/"
           - name: "Advanced Object-Oriented Design"
             type: "Grain ou élément de cours"
             volume: "30h30"

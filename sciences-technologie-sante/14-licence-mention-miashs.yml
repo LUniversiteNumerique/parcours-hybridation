@@ -12,6 +12,10 @@ years:
     ue:
       - name: "Programmation"
         resources:
+          - name: "Les formulaires ( Django Framework)"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://cryptpad.fr/sheet/#/3/sheet/edit/a7c6a6baa6e0e720004eed37af14a843/"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"

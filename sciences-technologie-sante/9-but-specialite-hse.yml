@@ -258,6 +258,10 @@ years:
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=779"
       - name: "Physique"
         resources:
+          - name: "Propulsion de fusée"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12905"
           - name: "Radioactivité"
             type: "Grain ou élément de cours *"
             volume: "1h"

@@ -13,6 +13,10 @@ years:
     ue:
       - name: "Programmation"
         resources:
+          - name: "Les formulaires ( Django Framework)"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://cryptpad.fr/sheet/#/3/sheet/edit/a7c6a6baa6e0e720004eed37af14a843/"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"
@@ -866,6 +870,10 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII/co/modelisationII.html"
       - name: "Programmation"
         resources:
+          - name: "Les formulaires ( Django Framework)"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://cryptpad.fr/sheet/#/3/sheet/edit/a7c6a6baa6e0e720004eed37af14a843/"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"
