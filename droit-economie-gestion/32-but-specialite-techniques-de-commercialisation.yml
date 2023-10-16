@@ -503,6 +503,10 @@ years:
             url: "https://www.iutenligne.net/ressources/le-e-marketing-pour-la-petite-entreprise.html"
       - name: "Stratégie d’entreprise"
         resources:
+          - name: "Prise de décision"
+            type: "Grain ou élément cours"
+            volume: "15min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
           - name: "Stratégie d'entreprise"
             type: "Cours complet ou MOOC *"
             volume: "30h"

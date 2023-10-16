@@ -27,6 +27,10 @@ years:
             url: "https://www.canal-u.tv/chaines/canal-aunege/management/qu-est-ce-que-le-management"
       - name: "Aide à la décision"
         resources:
+          - name: "Prise de décision"
+            type: "Grain ou élément cours"
+            volume: "15min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
           - name: "Techniques statistiques"
             type: "Module"
             volume: "1h"
@@ -385,6 +389,10 @@ years:
     ue:
       - name: "Aide à la décision"
         resources:
+          - name: "Prise de décision"
+            type: "Grain ou élément cours"
+            volume: "15min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
           - name: "Modèles d’aide à la décision"
             type: "Cours complet ou MOOC"
             volume: "40h"
@@ -614,6 +622,10 @@ years:
     ue:
       - name: "Aide à la décision"
         resources:
+          - name: "Prise de décision"
+            type: "Grain ou élément cours"
+            volume: "15min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
           - name: "Econométrie des séries chronologiques"
             type: "Cours complet ou MOOC"
             volume: "60h"
