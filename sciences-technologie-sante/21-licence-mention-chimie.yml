@@ -13,6 +13,10 @@ years:
     ue:
       - name: "Programmation"
         resources:
+          - name: "Les URL"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12340"
           - name: "Les formulaires ( Django Framework)"
             type: "Grain ou élément de cours"
             volume: "20min"
@@ -203,6 +207,14 @@ years:
             url: "https://unisciel.org/r/25.4/7/6/exos_algebre_ecs/co/27.html"
       - name: "Equations différentielles"
         resources:
+          - name : "Modèle d’un système : Introduction"
+            type: "Grain ou élément de cours"
+            volume: "10min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9115"
+          - name: "Modèle d’un système – Obtention d’une représentation d’état "
+            type: "Grain ou élément de cours"
+            volume: "10min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9114"
           - name: "Équations différentielles"
             type: "Module"
             volume: "2h"
@@ -870,6 +882,10 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII/co/modelisationII.html"
       - name: "Programmation"
         resources:
+          - name: "Les URL"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12340"
           - name: "Les formulaires ( Django Framework)"
             type: "Grain ou élément de cours"
             volume: "20min"
