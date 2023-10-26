@@ -371,6 +371,10 @@ years:
             url: "https://ikigai.games/games/gameDetails/2"
       - name: "Electricité/électrocinétique/électronique"
         resources:
+          - name: "Energy: général considerations"
+            type: "Grain ou élément de cours"
+            volume: "10min"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8717"
           - name: "Waterline"
             type: "TP, exercice, quiz"
             volume: "10min"
