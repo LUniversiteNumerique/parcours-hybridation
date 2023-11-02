@@ -570,6 +570,10 @@ years:
             url: "https://www.uved.fr/fiche/ressource/devoir-de-vigilance-et-chaine-de-valeur-etendue-pour-un-management-responsable"
       - name: "Protection de l’environnement"
         resources:
+          - name: "Transition, adaptation et réliience des socio-écosystèmes au changement global"
+            type: "Cours complet ou MOOC"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
           - name: "La biosurveillance"
             type: "Grain ou élément de cours"
             volume: "6min"

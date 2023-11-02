@@ -677,7 +677,7 @@ years:
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/co2-depuis-4ga.xml"
-      - name: "Système solaire – Planétologi"
+      - name: "Système solaire – Planétologie"
         resources:
           - name: "Astronomie et mécanique céleste"
             type: "Module"
