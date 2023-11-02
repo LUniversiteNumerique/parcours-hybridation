@@ -524,6 +524,10 @@ years:
             url: "https://www.iutenligne.net/ressources/le-management-de-la-qualite-totale.html"
       - name: "Développement durable"
         resources:
+          - name: "Transition, adaptation et réliience des socio-écosystèmes au changement global"
+            type: "Cours complet ou MOOC"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
           - name: "Intégration d’une démarche développement durable par différents acteurs"
             type: "Cours complet ou MOOC *"
             volume: "5h"

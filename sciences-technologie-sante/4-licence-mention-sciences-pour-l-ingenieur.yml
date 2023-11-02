@@ -952,6 +952,10 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/techniques-mathematiques-pour-linformatique-1/"
       - name: "Ingénierie écologique"
         resources:
+          - name: "Transition, adaptation et réliience des socio-écosystèmes au changement global"
+            type: "Cours complet ou MOOC"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
           - name: "Exemples actuels d’ingénierie écologique"
             type: "Grain ou élement de cours"
             volume: "13min"
@@ -1209,6 +1213,10 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=153"
       - name: "Environnement"
         resources:
+          - name: "Transition, adaptation et réliience des socio-écosystèmes au changement global"
+            type: "Cours complet ou MOOC"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
           - name: "Impact of aviation on climate change"
             type: "Grain ou élément de cours"
             volume: "12min"
