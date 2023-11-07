@@ -523,7 +523,7 @@ years:
         resources:
           - name: "Initiation au management"
             type: "Cours complet ou MOOC *"
-            volume: "30h"
+            volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
           - name: "La management de la qualité totale"
             type: "Grain ou élément de cours *"

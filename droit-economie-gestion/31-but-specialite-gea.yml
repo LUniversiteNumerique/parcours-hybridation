@@ -500,7 +500,7 @@ years:
         resources:
           - name: "Initiation au management"
             type: "Cours complet ou MOOC *"
-            volume: "30h"
+            volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
           - name: "Découverte de la stratégie"
             type: "Module *"
