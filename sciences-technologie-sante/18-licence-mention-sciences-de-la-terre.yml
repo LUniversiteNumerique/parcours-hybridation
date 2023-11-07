@@ -412,7 +412,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-      - name: "Français écrits"
+      - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"
