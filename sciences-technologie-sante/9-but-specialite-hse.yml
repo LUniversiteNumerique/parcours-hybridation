@@ -370,7 +370,7 @@ years:
             type: "Module *"
             volume: "9h"
             url: "https://public.iutenligne.net/hygiene-securite-environnement/developpement-durable/bapteste/developpement-durable/index.html"
-      - name: "Français écrits"
+      - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"

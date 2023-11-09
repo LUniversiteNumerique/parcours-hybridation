@@ -262,7 +262,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://uoh.fr/front/noticefr/?uuid=08d1fa9d-f996-447c-b0ec-1bbb786d57d2"
-      - name: "Français écrits"
+      - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"

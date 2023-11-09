@@ -198,7 +198,7 @@ years:
             url: "https://www.iutenligne.net/ressources/la-strategie.html"
           - name: "Initiation au management"
             type: "Cours complet ou MOOC *"
-            volume: "30h"
+            volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
           - name: "Les concepts de base du management stratégique"
             type: "Module *"
@@ -344,7 +344,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
-      - name: "Français écrits"
+      - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"

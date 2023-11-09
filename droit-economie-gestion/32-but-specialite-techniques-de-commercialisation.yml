@@ -311,7 +311,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-      - name: "Français écrits"
+      - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"
@@ -607,7 +607,7 @@ years:
             url: "https://public.iutenligne.net/connaissance-de-l-entreprise/briens/les_choix_strategiques/index.html"
           - name: "Initiation au management"
             type: "Cours complet ou MOOC *"
-            volume: "30h"
+            volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
           - name: "Le management de l’information et des connaissances"
             type: "Grain ou élément de cours *"
