@@ -369,10 +369,6 @@ years:
             url: "https://www.canal-u.tv/video/les_amphis_de_france_5/les_effets_de_la_comparaison_sociale.3079"
       - name: "Psychologie du développement"
         resources:
-          - name: "Trois théories du développement"
-            type: "Module"
-            volume: "30min"
-            url: "http://www.staps.univ-avignon.fr/S2/UE2/Psychologie/L1_psycho_Calvin_developpement_Piaget.pdf"
       - name: "Psychométrie et analyse de données"
         resources:
           - name: "Statistique et psychométrie en L2"
