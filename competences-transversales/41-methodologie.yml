@@ -235,7 +235,7 @@ resources:
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=844"
   - name: "Powerpoint - Premiers pas"
-    type: "Grain ou élément de cours
+    type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=843"
   - name: "Lire de manière active"
