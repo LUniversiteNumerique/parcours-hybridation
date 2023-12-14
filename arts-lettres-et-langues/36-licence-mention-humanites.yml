@@ -17,314 +17,389 @@ years:
             type: "Grain ou élément de cours"
             volume: "2h"
             url: "https://www.canal-u.tv/chaines/universite-paris-1/les-mondes-anciens"
+            licence:
           - name: "Politique, religions, constructions étatiques : les pratiques du pouvoir"
             type: "Cours complet ou MOOC"
             volume: "12h"
             url: "https://uoh.fr/front/noticefr/?uuid=b22e4e4b-4459-432f-a43f-a1797f80eac3"
+            licence:
           - name: "L’art de gouverner à Florence (1494-1530)"
             type: "Cours complet ou MOOC"
             volume: "25h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-art-de-gouverner-a-florence-1494-1530"
+            licence:
           - name: "Les ruptures de l’époque moderne"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/universite-paris-1/les-ruptures-de-l-epoque-moderne"
+            licence:
           - name: "18e siècle : le combat des Lumières"
             type: "Cours complet ou MOOC **"
             volume: "12h"
             url: "https://www.fun-mooc.fr/fr/cours/18e-siecle-le-combat-des-lumieres/"
+            licence:
           - name: "Arausio"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://ikigai.games/games/gameDetails/100"
+            licence:
       - name: "Littérature"
         resources:
           - name: "L’occitan : une littérature"
             type: "Cours complet ou MOOC"
             volume: "10h"
             url: "https://uoh.fr/front/noticefr/?uuid=71e5822d-ff8f-43dc-a5e4-f4814f149080"
+            licence:
           - name: "Philippe Hamon, l’imagerie et la littérature au XIXe siècle"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=a85fce1f-59d4-4e37-883e-3a71b6844f7f"
+            licence:
           - name: "Toujours en ramenant la plume – Les travailleurs de la mer, l’œuvre graphique de Victor Hugo"
             type: "Cours complet ou MOOC"
             volume: "3h"
             url: "https://uoh.fr/front/noticefr/?uuid=cf7647df-19b8-4884-a780-7922876c0090"
+            licence:
       - name: "Philosophie"
         resources:
           - name: "Averroès"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=98"
+            licence:
           - name: "Initiation à la lecture de Machiavel"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=100"
+            licence:
           - name: "Les essentiels : la philo par les mots"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=55"
+            licence:
           - name: "La crise - Regards croisés"
             type: "Grain ou élément de cours *"
             volume: "1h30"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=102"
+            licence:
           - name: "La philo en petits morceaux"
             type: "Cours complet ou MOOC *"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=53"
+            licence:
           - name: "Les philosophes et la Bible"
             type: "Cours complet ou MOOC"
             volume: "8h"
             url: "https://uoh.fr/front/noticefr/?uuid=f27d21fd-6628-4fcf-883e-461cb80e1997"
+            licence:
           - name: "Introduction à la philosophie des sciences humaines"
             type: "Module"
             volume: "5h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
+            licence:
       - name: "Langues anciennes"
         resources:
           - name: "Latin remise à niveau"
             type: "Cours complet ou MOOC"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=644"
+            licence:
           - name: "Latin pour débutant"
             type: "Cours complet ou MOOC"
             volume: "44h"
             url: "https://uoh.fr/front/noticefr/?uuid=34c4e11f-2b7a-4c36-94a2-9fbdd8541b62"
+            licence:
           - name: "Site d’initiation au grec ancien"
             type: "Cours complet ou MOOC"
             volume: "15h"
             url: "https://uoh.fr/front/noticefr/?uuid=a2d5335f-019c-45b4-aa0f-94419e003d75"
+            licence:
           - name: "Lecture de textes en grec classique"
             type: "Cours complet ou MOOC"
             volume: "43h"
             url: "https://uoh.fr/front/noticefr/?uuid=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
+            licence:
           - name: "Grec ancien pour débutants"
             type: "Cours complet ou MOOC"
             volume: "48h"
             url: "https://uoh.fr/front/noticefr/?uuid=003c5f36-848d-4233-87db-62c8012734cc"
+            licence:
           - name: "Approche raisonnée du fonctionnement de la langue latine"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
+            licence:
           - name: "Kit de survie de l'hélleniste"
             type: "Module *"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=48"
+            licence:
           - name: "Kit de survie du latiniste"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
+            licence:
       - name: "Langues vivantes"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
+            licence:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
+            licence:
           - name: "How to write an email in English"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
+            licence:
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
             type: "TP, exercice, quiz *"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/course/view.php?id=240"
+            licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
+            licence:
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+            licence:
           - name: "Consolidation des acquis en arabe littéral"
             type: "Cours complet ou MOOC"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+            licence:
           - name: "Grammaire pratique du russe"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
+            licence:
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
+            licence:
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
             type: "Cours complet ou MOOC *"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
+            licence:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=449447d4-fa02-4ea0-a126-2e6f231cc779"
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
             url: "https://uoh.fr/front/noticefr/?uuid=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
+            licence:
           - name: "Infosphère : gagner du temps et réaliser de meilleurs transversaux"
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
+            licence:
           - name: "Rechercher de l'information"
             type: "Cours complet ou MOOC"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+            licence:
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet ou MOOC"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
+            licence:
           - name: "Méthodologie"
             type: "Cours complet ou MOOC"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
+            licence:
           - name: "Rechercher l'information : réussir sa pêche aux informations"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ba868799-0063-408f-bb65-afc0918e18ce"
+            licence:
           - name: "Méthodologie de la prise de note"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=6f1b0ef7-2ef3-40f3-83bb-2b272e0946bd"
+            licence:
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
+            licence:
           - name: "Réussir ses cours en ligne"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ef1337fc-e2ad-462f-957e-afa0adf2f513"
+            licence:
           - name: "Lire et se relire efficacement"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
+            licence:
           - name: "La gestion du temps"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0dba42c3-1f2e-4ca5-bbfe-1e4e93b7886c"
+            licence:
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=28e5c655-99aa-4dd0-bb68-a6dc4744f1d5"
+            licence:
           - name: "Les méthodes pour améliorer son expression orale. De l'art de séduire son auditoire"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
+            licence:
           - name: "Face à un jury"
             type: "Cours complet ou MOOC"
             volume: "4min"
             url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
+            licence:
           - name: "Faire l'inventaire de ses compétences"
             type: "Cours complet ou MOOC"
             volume: "6h"
             url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            licence:
           - name: "De l'équipe au projet"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
+            licence:
           - name: "Boîte à outils de révision"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
+            licence:
           - name: "Organiser le travail de groupe"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=802"
+            licence:
           - name: "Citer sans plagier"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=803"
+            licence:
           - name: "Rédiger ses fiches de révision"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=804"
+            licence:
           - name: "Travailler en groupe à distance"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=805"
+            licence:
           - name: "Eviter le hors sujet"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=806"
+            licence:
           - name: "Evaluer l'information"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=836"
+            licence:
           - name: "Zotero premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+            licence:
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=834"
+            licence:
           - name: "Rechercher de la documentation"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=832"
+            licence:
           - name: "Réaliser une fiche de lecture"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=830"
+            licence:
           - name: "Réaliser une synthèse de documents"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=846"
+            licence:
           - name: "Bien disserter"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=845"
+            licence:
           - name: "Word - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=844"
+            licence:
           - name: "Powerpoint - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=843"
+            licence:
           - name: "Lire de manière active"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=868"
+            licence:
           - name: "Débuter avec R et RStudio"
             type: "Grain ou élément de cours"
             volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"  
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+            licence:
           - name: "Excel - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+            licence:
           - name: "Disserter en géographie"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+            licence:
           - name: "Prendre des notes"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+            licence:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+            licence:
           - name: "Améliorer ses écrits"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
+            licence:
 
   - name: "2ème année"
     ue:
@@ -334,200 +409,247 @@ years:
             type: "Cours complet ou MOOC"
             volume: "12h"
             url: "https://uoh.fr/front/noticefr/?uuid=b22e4e4b-4459-432f-a43f-a1797f80eac3"
+            licence:
           - name: "Le Moyen-Âge n’existe pas"
             type: "Grain ou élément de cours"
             volume: "2h"
             url: "https://www.canal-u.tv/chaines/universite-paris-1/le-moyen-age-n-existe-pas"
+            licence:
           - name: "L’industrie en France, XVIIe – XIXe siècle"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://uoh.fr/front/noticefr/?uuid=5179c7a0-f6ac-4353-b3a8-fd38a16ffa68"
+            licence:
           - name: "Sur les pas des combattants de Verdun : 1916 – 2016"
             type: "Cours complet ou MOOC **"
             volume: "4h"
             url: "https://www.fun-campus.fr/fr/cours/sur-les-pas-des-combattants-de-verdun-1916-2016/"
+            licence:
           - name: "Verdun 1917-1918 : batailles oubliées ? Français, Allemands et Américains dans la tourmente"
             type: "Cours complet ou MOOC **"
             volume: "4h"
             url: "https://www.fun-campus.fr/fr/cours/verdun-1917-1918-batailles-oubliees-francais-allemands-et-americ/"
+            licence:
           - name: "Verdun d’hier à aujourd’hui"
             type: "Cours complet ou MOOC **"
             volume: "4h"
             url: "https://www.fun-campus.fr/fr/cours/verdun-dhier-aujourdhui/"
+            licence:
           - name: "Indochine : en quête d’indépendance"
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=f8bf7732-7cd7-4683-b40c-a1a525bae1f6"
+            licence:
           - name: "La lettre Riabova : étude d’une lettre de dénonciation dans l’Union Soviétique des années 30"
             type: "Cours complet ou MOOC"
             volume: "12h"
             url: "https://uoh.fr/front/noticefr/?uuid=086c76bc-3dfa-4ab4-ab2a-8e68c8caaa9c"
+            licence:
           - name: "Pour une histoire critique et citoyenne – le cas de l’histoire franco-algérienne"
             type: "Cours complet ou MOOC"
             volume: "37h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/pour-une-histoire-critique-et-citoyenne-le-cas-de-l-histoire-franco-algerienne"
+            licence:
       - name: "Littérature"
         resources:
           - name: "Thomas More et Jean de Léry"
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=2e2ca114-c22e-4936-b687-245eb5f51eac"
+            licence:
           - name: "Le roman de la route: Jacques le Fataliste et le Roman comique, études synthétiques"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=74066a04-ce9b-465d-b4ee-f4f49e1fc903"
+            licence:
           - name: "Scarron, le roman comique, études de textes"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=e8cf3602-f4f8-4cb2-9452-7da7f1c4f733"
+            licence:
           - name: "Alcools et Calligrammes, de Guillaume Apollinaire – Plupart du temps, de Pierre Reverdy"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0aa9292a-a767-4980-a722-e673f040152b"
+            licence:
           - name: "William Faulkner et Claude Simon"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
+            licence:
           - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1re partie) de Cervantès"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
+            licence:
       - name: "Philosophie"
         resources:
           - name: "Les essentiels : la philo par les mots"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=55"
+            licence:
           - name: "Initiation à la lecture de Machiavel"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=100"
+            licence:
           - name: "La crise - Regards croisés"
             type: "Grain ou élément de cours *"
             volume: "1h30"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=102"
+            licence:
           - name: "La philo en petits morceaux"
             type: "Cours complet ou MOOC *"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=53"
+            licence:
           - name: "Philosophie politique : l’art de gouverner à Florence"
             type: "Cours complet ou MOOC"
             volume: "25h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-art-de-gouverner-a-florence-1494-1530"
+            licence:
           - name: "Averroès"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=98"
+            licence:
           - name: "L’idée d’état de droit"
             type: "Cours complet ou MOOC"
             volume: "17h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-idee-d-etat-de-droit-michel-senellart"
+            licence:
           - name: "Guerre et Paix en Islam"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=99"
+            licence:
           - name: "Philosophie chinoise"
             type: "Cours complet ou MOOC *"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=101"
+            licence:
       - name: "Langues anciennes"
         resources:
           - name: "Lecture de textes en grec classique"
             type: "Cours complet ou MOOC"
             volume: "43h"
             url: "https://uoh.fr/front/noticefr/?uuid=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
+            licence:
           - name: "Version grecque"
             type: "Cours complet ou MOOC *"
             volume: "35h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=47"
+            licence:
           - name: "Approche raisonnée du fonctionnement de la langue latine"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
+            licence:
           - name: "Kit de survie du latiniste"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
+            licence:
           - name: "Kit de survie de l'hélleniste"
             type: "Module *"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=48"
+            licence:
       - name: "Langues vivantes"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
+            licence:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
+            licence:
           - name: "How to write an email in English"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
+            licence:
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
             type: "TP, exercice, quiz *"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/course/view.php?id=240"
+            licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
+            licence:
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+            licence:
           - name: "Consolidation des acquis en arabe littéral"
             type: "Cours complet ou MOOC"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+            licence:
           - name: "Grammaire pratique du russe"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
+            licence:
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
+            licence:
       - name: "Compétences numériques"
         resources:
           - name: "pix.fr"
             type: "TP, exercice, quiz"
             volume: "50h"
             url: "https://pix.fr/"
+            licence:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            licence:
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            licence:
           - name: "Données et algorithmes"
             type: "Cours complet ou MOOC **"
             volume: "6h"
             url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
+            licence:
           - name: "Protection de la vie privée dans le monde numérique"
             type: "Cours complet ou MOOC **"
             volume: "10h"
             url: "https://www.fun-campus.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
+            licence:
           - name: "Culture numérique : introduction 1re partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
+            licence:
           - name: "Culture numérique : introduction 2e partie"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+            licence:
           - name: "Informatique et société"
             type: "Cours complet ou MOOC *"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
+            licence:
 
   - name: "3ème année"
     ue:
@@ -537,151 +659,187 @@ years:
             type: "Module"
             volume: "5h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
+            licence:
           - name: "La crise"
             type: "Grain ou élément de cours"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=0c43b201-3c9b-48e2-9762-e0721288f9dd"
+            licence:
           - name: "18e siècle : le combat des Lumières"
             type: "Cours complet ou MOOC **"
             volume: "12h"
             url: "https://www.fun-campus.fr/fr/cours/18e-siecle-le-combat-des-lumieres/"
+            licence:
           - name: "L’Utopie aujourd’hui est-elle encore possible?"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=42256ca3-03c0-4368-974e-4265477c3a90"
+            licence:
           - name: "Sartre : de l’être et le néant à la critique de la raison dialectique"
             type: "Grain ou élément de cours"
             volume: "7h"
             url: "https://www.canal-u.tv/producteurs/ens_paris/les_grandes_lecons/sartre_de_l_etre_et_le_neant_a_la_critique_de_la_raison_dialectique"
+            licence:
           - name: "L’ancien et le nouvel eugénisme : les leçons de l’Histoire"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/video/universite_de_bordeaux/l_ancien_et_le_nouvel_eugenisme_les_lecons_de_l_histoire.1834"
+            licence:
       - name: "Culture antique"
         resources:
           - name: "Lecture de textes en grec classique"
             type: "Cours complet ou MOOC"
             volume: "43h"
             url: "https://uoh.fr/front/noticefr/?uuid=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
+            licence:
           - name: "Litterature grecque antique : Platon, Lysis"
             type: "Cours complet ou MOOC"
             volume: "30min"
             url: "http://www.uoh.fr/front/document/721ab6ca/cf66/4a69/721ab6ca-cf66-4a69-b376-1963e3bca5e7.pdf"
+            licence:
           - name: "Visage de l’Autre : les barbares de l’empire romain"
             type: "Grain ou élément de cours"
             volume: "1h40"
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2006-2007-l-autre/visage-de-l-autre-les-barbares-de-l-empire-romain"
+            licence:
           - name: "Mortelles civilisations : décadence de la Rome antique. Deux regards conjoints d’auteurs anciens"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/video/universite_de_bordeaux/mortelles_civilisations_decadence_de_la_rome_antique_deux_regards_conjoints_d_auteurs_anciens.3902"
+            licence:
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie I)"
             type: "Cours complet ou MOOC **"
             volume: "20h"
             url: "https://www.fun-campus.fr/fr/cours/la-sculpture-grecque-dalexandre-cleopatre-partie-i/"
+            licence:
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie II)"
             type: "Cours complet ou MOOC **"
             volume: "20h"
             url: "https://www.fun-campus.fr/fr/cours/la-sculpture-grecque-dalexandre-cleopatre-partie-ii/"
+            licence:
       - name: "Littérature"
         resources:
           - name: "La littérature des voyages"
             type: "Cours complet ou MOOC"
             volume: "25h"
             url: "https://uoh.fr/front/noticefr/?uuid=c2aeaa6b-4dd4-4519-8c3f-9318653003df"
+            licence:
           - name: "Sartre : de l’être et le néant à la critique de la raison dialectique"
             type: "Grain ou élément de cours"
             volume: "7h"
             url: "https://www.canal-u.tv/producteurs/ens_paris/les_grandes_lecons/sartre_de_l_etre_et_le_neant_a_la_critique_de_la_raison_dialectique"
+            licence:
           - name: "Albert Camus : littérature, morale, philosophie"
             type: "Grain ou élément de cours"
             volume: "9h"
             url: "https://www.canal-u.tv/producteurs/ens_paris/les_grandes_lecons/albert_camus_litterature_morale_philosophie"
+            licence:
           - name: "La liberté de penser. La conférence du Vieux-Colombier d’Antonin Artaud"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2003-2004-demain/la-liberte-de-penser-la-conference-du-vieux-colombier"
+            licence:
           - name: "Les manuscrits de Madame Bovary"
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=ee592fd2-3ece-4df6-8658-0afd348aa622"
+            licence:
           - name: "« Sermon sur la mort ou continuité de la vie » de Bossuet"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2004-2005-la-mort-regards-croises/sermon-sur-la-mort-ou-continuite-de"
+            licence:
           - name: "Guillevic et ses peintres"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=295622ff-7997-4764-878a-90610e89fcb4"
+            licence:
           - name: "Les Bretagnes de Colette"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://uoh.fr/front/noticefr/?uuid=820cd89a-a99a-4a03-863f-88787d3847b8"
+            licence:
           - name: "Cruauté ordinaire et extraordinaire: Gogol, Soirées du Hameau et Nouvelles de Saint-Pétersbourg et Villiers de L’Isle-Adam, Contes Cruels et Nouveaux contes cruels"
             type: "Module"
             volume: "30min"
             url: "https://uoh.fr/front/noticefr/?uuid=6a29228e-15d5-4442-a8d0-ec2c7583d393"
+            licence:
           - name: "Connaissances du paysage chez Edouard Glissant et Mohammed Dib"
             type: "Module"
             volume: "20min"
             url: "https://uoh.fr/front/noticefr/?uuid=7d749954-222e-406a-9e87-b882f3bd449a"
+            licence:
           - name: "Présentation d’un poème de Rachid Boudjedra : “Le café”"
             type: "Module"
             volume: "20min"
             url: "https://uoh.fr/front/noticefr/?uuid=743942f8-5f02-47f6-8b5a-098e5cf35d55"
+            licence:
       - name: "Langues vivantes"
         resources:
           - name: "Rail and Culture : chemin de fer et civilisation britannique"
             type: "Cours complet ou MOOC"
             volume: "15h"
             url: "https://uoh.fr/front/noticefr/?uuid=00b50e59-d88c-4d06-b2aa-596a1de2be4b"
+            licence:
           - name: "Petite introduction à l’histoire de la Grande-Bretagne"
             type: "Grain ou élément de cours"
             volume: "45min"
             url: "https://uoh.fr/front/noticefr/?uuid=01973a44-b8e3-4f52-bd19-89b6f19d1edc"
+            licence:
           - name: "Les minorités ethniques en Grande-Bretagne"
             type: "Grain ou élément de cours"
             volume: "45min"
             url: "https://uoh.fr/front/noticefr/?uuid=71dbc99f-fbcd-495a-a36f-b30abc6c5929"
+            licence:
           - name: "Aux origines du roman : la littérature picaresque espagnole"
             type: "Cours complet ou MOOC"
             volume: "50h"
             url: "https://uoh.fr/front/noticefr/?uuid=fe93a0de-3473-406f-a1d2-7a45374dce63"
+            licence:
           - name: "Langues en actes"
             type: "Cours complet ou MOOC"
             volume: "75h"
             url: "https://uoh.fr/front/noticefr/?uuid=ebb0257b-f91d-4bcc-bc57-edc38473b7bb"
+            licence:
           - name: "Lexique de l’Espagne moderne"
             type: "TD, étude de cas"
             volume: "10h"
             url: "https://uoh.fr/front/noticefr/?uuid=4cff444d-7aa3-493b-a192-19c0d2727281"
+            licence:
           - name: "Aux premiers temps de l’Inquisition espagnole : 1478-1561"
             type: "Cours complet ou MOOC"
             volume: "9h"
             url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/aux_premiers_temps_de_l_inquisition_espagnole_1478_1561"
+            licence:
           - name: "« La liberté, Sancho, est un don précieux…II, 58 »"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2008-2009-actualites/la-liberte-sancho-est-un-don-precieuxii-58"
+            licence:
       - name: "Initiation à la recherche"
         resources:
           - name: "Faire parler les pierres taillées de la Préhistoire"
             type: "Cours complet ou MOOC **"
             volume: "8h"
             url: "https://www.fun-campus.fr/fr/cours/faire-parler-les-pierres-taillees-de-la-prehistoire/"
+            licence:
           - name: "Archives orales : entretien, corpus et récit"
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=57982906-fa16-425d-9b17-4e47add54ab7"
+            licence:
           - name: "L’histoire à venir : rencontre avec Gérard Noiriel"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/ut2j/rencontre-avec-gerard-noiriel"
+            licence:
           - name: "L’atelier numérique de l’histoire : mettre la main à la pâte numérique"
             type: "TD, étude de cas"
             volume: "40min"
             url: "https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/digital-history/l-atelier-numerique-de-l-histoire-mettre-la"
+            licence:
           - name: "Psychométrie et statistique : éléments d’auto-formation pour les étudiants en sciences humaines"
             type: "Module"
             volume: "20h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8efef40-eb94-4db8-abc2-148d66665608"
+            licence:

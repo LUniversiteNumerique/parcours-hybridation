@@ -16,46 +16,58 @@ resources:
     type: "Cours complet ou MOOC"
     volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
+    licence:
   - name: "Niveau débutant"
     type: "TP, exercice, quiz"
     volume: "20min"
     url: "https://www.uved.fr/menu-ressources/positionnement/quiz/1"
+    licence:
   - name: "Niveau intermédiaire"
     type: "TP, exercice, quiz"
     volume: "20min"
     url: "https://www.uved.fr/menu-ressources/positionnement/quiz/2"
+    licence:
   - name: "Niveau avancé"
     type: "TP, exercice, quiz"
     volume: "20min"
     url: "https://www.uved.fr/menu-ressources/positionnement/quiz/3"
+    licence:
   - name: "Biodiversité"
     type: "Cours complet ou MOOC"
     volume: "14h"
     url: "https://www.canal-u.tv/chaines/canal-uved/biodiversite"
+    licence:
   - name: "Causes et enjeux du changement climatique"
     type: "Cours complet ou MOOC"
     volume: "12h"
     url: "https://www.canal-u.tv/chaines/canal-uved/causes-et-enjeux-du-changement-climatique"
+    licence:
   - name: "Objectifs de Développement durable"
     type: "Cours complet ou MOOC"
     volume: "10h"
     url: "https://www.canal-u.tv/chaines/canal-uved/objectifs-de-developpement-durable"
+    licence:
   - name: "Vivre avec les autres animaux"
     type: "Cours complet ou MOOC"
     volume: "7h"
     url: "https://www.canal-u.tv/chaines/canal-uved/vivre-avec-les-autres-animaux"
+    licence:
   - name: "Biodiversité & changements globaux"
     type: "Cours complet ou MOOC"
     volume: "7h"
     url: "https://www.canal-u.tv/chaines/canal-uved/biodiversite-et-changements-globaux"
+    licence:
   - name: "Économie circulaire et innovation"
     type: "Cours complet ou MOOC"
     volume: "8h"
     url: "https://www.canal-u.tv/chaines/canal-uved/economie-circulaire-innovation"
+    licence:
   - name: "Éducation à l'Environnement et au Développement durable"
     type: "Cours complet ou MOOC"
     volume: "15h"
     url: "https://www.canal-u.tv/chaines/canal-uved/education-a-l-environnement-et-au-developpement-durable"
+    licence:
+
 years:
   - name: "A la découverte des 17 Objectifs de Développement Durable"
     ue:
@@ -65,256 +77,311 @@ years:
             types: "Module *"
             volume: "17min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=1"
+            licence:
           - name: "L’incontournable rapport Brundtland"
             type: "Grain ou élément de cours"
             volume: "6min"
             url: "https://www.uved.fr/fiche/ressource/lincontournable-rapport-brundtland"
+            licence:
           - name: "Une introduction historique aux ODD"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/une-introduction-historique-aux-odd"
+            licence:
           - name: "Une vision commune du futur de l’humanité"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/une-vision-commune-du-futur-de-lhumanite"
+            licence:
           - name: "Universalité géographique des ODD : un agenda pour tous les pays"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/universalite-geographique-des-odd-un-agenda-pour-tous-les-pays"
+            licence:
           - name: "Universalité sectorielle des ODD : tous les domaines sont concernés"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/universalite-sectorielle-des-odd-tous-les-domaines-sont-couverts"
+            licence:
       - name: "ODD 1 : Pas de pauvreté"
         resources:
           - name: "ODD1 pas de pauvreté"
             type: "Module *"
             volume: "16min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=2"
+            licence:
           - name: "L’économie sociale et solidaire"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/leconomie-sociale-et-solidaire"
+            licence:
           - name: "Résilience, vulnérabilité et adaptation aux changements globaux"
             type: "Grain ou élément de cours"
             volume: "6min"
             url: "https://www.uved.fr/fiche/ressource/resilience-adaptation-et-vulnerabilite-aux-changements-globaux"
+            licence:
       - name: "ODD 2 : Faim zéro"
         resources:
           - name: "ODD 2 : Faim zéro"
             type: "Module *"
             volume: "12min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=3"
+            licence:
           - name: "Biodiversité et agronomie : l’agroécologie"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/biodiversite-et-agronomie-lagroecologie"
+            licence:
           - name: "L’ingénierie agroécologique"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/lingenierie-agroecologique-1"
+            licence:
       - name: "ODD 3 : Bonne santé et bien-être"
         resources:
           - name: "ODD 3 : Bonne santé et bien-être"
             type: "Module *"
             volume: "17min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=4"
+            licence:
           - name: "Le microbiote qui nous habite : un écosystème limité mais particulier"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/le-microbiote-qui-nous-habite-un-ecosysteme-limite-mais-particulier"
+            licence:
           - name: "Changement climatique et maladies infectieuses"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/changement-climatique-et-maladies-infectieuses"
+            licence:
       - name: "ODD 4 : Education de qualité"
         resources:
           - name: "ODD 4 : Education de qualité"
             type: "Module *"
             volume: "14min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=5"
+            licence:
           - name: "Les finalités de l’éducation au développement durable"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/les-finalites-dune-education-au-developpement-durable"
+            licence:
           - name: "Les modèles d’apprentissage en éducation au développement durable"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/les-modeles-dapprentissage-en-education-au-developpement-durable"
+            licence:
       - name: "ODD 5 : Egalité entre les sexes"
         resources:
           - name: "ODD 5 : Egalité entre les sexes"
             type: "Module *"
             volume: "9min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=6"
+            licence:
           - name: "Inégalités de genre et développement durable"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/persistance-des-inegalites-de-genre-presentation-elisabeth-hofmann"
+            licence:
           - name: "Comment renforcer les capabilités des femmes ?"
             type: "Grain ou élément de cours"
             volume: "14min"
             url: "https://www.uved.fr/fiche/ressource/comment-renforcer-les-capabilites-des-femmes"
+            licence:
       - name: "ODD 6 : Eau propre et assainissement"
         resources:
           - name: "ODD 6 : Eau propre et assainissement"
             type: "Module *"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=7"
+            licence:
       - name: "ODD 7 : Energie propre et à un coût acceptable"
         resources:
           - name: "ODD 7 : Energie propre et à un coût acceptable"
             type: "Module *"
             volume: "16min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=8"
+            licence:
           - name: "Transition énergétique : pourquoi et comment ?"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/la-transition-energetique-pourquoi-et-comment"
+            licence:
           - name: "Le stockage de l’énergie : généralités"
             type: "Grain ou élément de cours"
             volume: "6min"
             url: "https://www.uved.fr/fiche/ressource/generalites-sur-le-stockage-de-lenergie"
+            licence:
       - name: "ODD 8 : Travail décent et croissance économique"
         resources:
           - name: "ODD 8 : Travail décent et croissance économique"
             type: "Module *"
             volume: "17min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=9"
+            licence:
           - name: "Exemples d’économie de fonctionnalité"
             type: "Grain ou élément de cours"
             volume: "13min"
             url: "https://www.uved.fr/fiche/ressource/exemples-deconomie-de-fonctionnalite"
+            licence:
           - name: "Devoir de vigilance et chaîne de valeur étendue pour un management responsable"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/devoir-de-vigilance-et-chaine-de-valeur-etendue-pour-un-management-responsable"
+            licence:
       - name: "ODD 9 : Industrie, innovation et infrastructures"
         resources:
           - name: "ODD 9 : Industrie, innovation et infrastructures"
             type: "Module *"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=10"
+            licence:
           - name: "S’inspirer du vivant"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/sinspirer-du-vivant"
+            licence:
           - name: "Exemples actuels d’ingénierie écologique"
             type: "Grain ou élément de cours"
             volume: "13min"
             url: "https://www.uved.fr/fiche/ressource/ingenierie-ecologique"
+            licence:
       - name: "ODD 10 : Inégalités réduites"
         resources:
           - name: "ODD 10 : Inégalités réduites"
             type: "Module *"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=11"
+            licence:
           - name: "La justice environnementale"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/la-justice-environnementale"
+            licence:
           - name: "Migrations environnementales"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/migrations-environnementales"
+            licence:
       - name: "ODD 11 : Villes et communautés durables"
         resources:
           - name: "ODD 11 : Villes et communautés durables"
             type: "Module *"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=12"
+            licence:
           - name: "Transitions urbaines à la durabilité"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/transitions-urbaines-a-la-durabilite"
+            licence:
           - name: "Des outils pour accompagner la transition des villes et des territoires"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/des-outils-pour-accompagner-la-transition-des-villes-et-des-territoires"
+            licence:
       - name: "ODD 12 : Consommation et production responsables"
         resources:
           - name: "ODD 12 : Consommation et production responsables"
             types: "Module *"
             volume: "21min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=13"
+            licence:
           - name: "L’économie circulaire comme principe d’organisation : exemples et initiatives concrètes"
             type: "Grain ou élément de cours"
             volume: "13min"
             url: "https://www.uved.fr/fiche/ressource/leconomie-circulaire-comme-principe-dorganisation-exemples-et-initiatives-concretes"
+            licence:
           - name: "Analyse conceptuelle de la RSE"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/analyse-conceptuelle-de-la-rse"
+            licence:
       - name: "ODD 13 : Mesures relatives à la lutte contre le changement climatique"
         resources:
           - name: "ODD 13 : Mesures relatives à la lutte contre le changement climatique"
             type: "Module *"
             volume: "16min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=14"
+            licence:
           - name: "Introduction aux impacts régionaux associés au changement climatique"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/introduction-sur-les-impacts-regionaux-associees-au-changement-climatique"
+            licence:
           - name: "L’accord de Paris sur le climat : de la COP21 à la transformation du monde"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/laccord-de-paris-sur-le-climat-de-la-cop21-a-la-transformation-du-monde"
+            licence:
       - name: "ODD 14 : Vie aquatique"
         resources:
           - name: "ODD 14 : Vie aquatique"
             type: "Module *"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=15"
+            licence:
           - name: "L’approche écosystémique des pêches : réconcilier exploitation et conservation des ressources marines"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/lapproche-ecosystemique-des-peches-reconcilier-conservation-et-exploitation-marine"
+            licence:
           - name: "Aquaculture : les nouveaux modes de production durables"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://uved-formation-aquaculture.cirad.fr/10-la-production-durable/video-principale"
+            licence:
       - name: "ODD 15 : Vie terrestre"
         resources:
           - name: "ODD 15 : Vie terrestre"
             type: "Module *"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=16"
+            licence:
           - name: "Préserver la biodiversité demain"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/preserver-la-biodiversite-demain"
+            licence:
           - name: "Stratégies de gestion de la biodiversité face aux pressions directes"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/strategies-de-gestion-de-la-biodiversite-face-aux-pressions-directes"
+            licence:
       - name: "ODD 16 : Paix, justice et institutions efficaces"
         resources:
           - name: "ODD 16 : Paix, justice et institutions efficaces"
             type: "Module *"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=17"
+            licence:
           - name: "Mise en œuvre des ODD par les Etats : un panorama général"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/mise-en-oeuvre-des-odd-par-les-etats-un-panorama-general"
+            licence:
           - name: "Les ODD sont-ils adaptés aux pays les plus fragiles ?"
             type: "Grain ou élément de cours"
             volume: "14min"
             url: "https://www.uved.fr/fiche/ressource/les-odd-sont-ils-adaptes-aux-pays-les-plus-fragiles"
+            licence:
       - name: "ODD 17 : Partenariats pour la réalisation des ODD"
         resources:
           - name: "ODD 17 : Partenariats pour la réalisation des ODD"
             type: "Module *"
             volume: "22min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=41&section=18"
+            licence:
           - name: "Les acteurs de l’adaptation aux changements globaux"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/les-acteurs-de-ladaptation-aux-changements-globaux"
+            licence:
           - name: "On réussira les ODD avec les citoyens"
             type: "Grain ou élément de cours"
             volume: "13min"
             url: "https://www.uved.fr/fiche/ressource/on-reussira-les-odd-avec-les-citoyens"
+            licence:
 
   - name: "Les enjeux environnementaux"
     ue:
@@ -324,200 +391,247 @@ years:
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/definition-de-la-biodiversite"
+            licence:
           - name: "Les grandes crises de la biodiversité"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/les-grandes-crises-de-la-biodiversite"
+            licence:
           - name: "L’évaluation globale de la biodiversité et des services écosystémiques l’IPBES (2019)"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/levaluation-globale-de-la-biodiversite-et-des-services-ecosystemiques-de-lipbes-2019"
+            licence:
           - name: "La flexibilité du vivant dans les scénarios de biodiversité"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/la-flexibilite-du-vivant-dans-les-scenarios-de-biodiversite"
+            licence:
           - name: "Outils et cultures chez les autres animaux"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/outils-et-cultures-chez-les-autres-animaux"
+            licence:
           - name: "L’humain dans la biodiversité"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://www.uved.fr/fiche/ressource/lhumain-dans-la-biodiversite"
+            licence:
           - name: "Les avenirs possbiles de la biodiversité"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/les-avenirs-possibles-de-la-biodiversite"
+            licence:
       - name: "Regards croisés sur l’enjeu biodiversité"
         resources:
           - name: "S’inspirer du vivant"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/sinspirer-du-vivant"
+            licence:
           - name: "Introduction au droit animal"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/introduction-au-droit-animal"
+            licence:
           - name: "Quelle valeur donner aux animaux vivants ?"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/quelle-valeur-donner-aux-animaux-vivants"
+            licence:
           - name: "Ethiques environnementales"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/ethiques-environnementales"
+            licence:
           - name: "Apprendre autrement la protection de la biodiversité"
             type: "Grain ou élément de cours"
             volume: "13min"
             url: "https://www.uved.fr/fiche/ressource/apprendre-autrement-la-protection-de-la-biodiversite"
+            licence:
           - name: "Anthropologie et ingénierie écologique : quelle place pour les savoirs écologiques traditionnels ?"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/anthropologie-et-ingenierie-ecologique-quelle-place-pour-les-savoirs-ecologiques-traditionnels"
+            licence:
           - name: "Ingénierie écologique"
             type: "Cours complet ou MOOC"
             volume: "5h10"
             url: "https://www.canal-u.tv/chaines/canal-uved/ingenierie-ecologique"
+            licence:
           - name: "Le microbiote qui nous habite : un écosystème limité mais particulier"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/le-microbiote-qui-nous-habite-un-ecosysteme-limite-mais-particulier"
+            licence:
           - name: "Ecologie politique et préservation de la biodiversité"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/ecologie-politique-et-preservation-de-la-biodiversite"
+            licence:
           - name: "Biodiversité en société : appropriations, réinterprétations et contestation d’un terme pluriel"
             type: "Grain ou élément de cours"
             volume: "14min"
             url: "https://www.uved.fr/fiche/ressource/biodiversite-en-societe-appropriations-reinterpretations-contestations-dun-terme-pluriel"
+            licence:
           - name: "Biodiversité et changements globaux"
             type: "Cours complet ou MOOC"
             volume: "5h10"
             url: "https://www.canal-u.tv/chaines/canal-uved/biodiversite-et-changements-globaux"
+            licence:
           - name: "Agronomie et biodiversité : l’agroécologie"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/biodiversite-et-agronomie-lagroecologie"
+            licence:
           - name: "La modélisation comme outil d’intégration des processus écologiques"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/la-modelisation-comme-outils-dintegration-des-processus-ecologiques"
+            licence:
           - name: "Absorption du CO2 par les écosystèmes"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/absorption-co2-par-les-ecosystemes-terrestres-et-oceaniques-bilan-global"
+            licence:
       - name: "Le climat : définition, état, scénarios"
         resources:
           - name: "Le système climatique : échelles d’espaces et échelles de temps"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/le-systeme-climatique-echelles-despace-et-de-temps"
+            licence:
           - name: "Le changement climatique : naissance d’une problématique"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/changement-climatique-la-naissance-dune-problematique"
+            licence:
           - name: "Les gaz à effet de serre"
             type: "Grain ou élément de cours"
             volume: "2h30"
             url: "https://www.canal-u.tv/chaines/canal-uved/les-gaz-a-effet-de-serre"
+            licence:
           - name: "Attribution des changements climatiques : le rôle des activités humaines"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/la-detection-et-lattribution-des-changements-climatiques-le-role-des-activites-humaines"
+            licence:
           - name: "Les projections climatiques : la température"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/les-projections-climatiques-temperature"
+            licence:
       - name: "Regards croisés sur l’enjeu climatique"
         resources:
           - name: "L’organisation des négociations sur le climat et l’Accord de Paris"
             type: "Grain ou élément de cours"
             volume: "21min"
             url: "https://www.uved.fr/fiche/ressource/lorganisation-des-negociations-sur-le-climat-et-laccord-de-paris"
+            licence:
           - name: "L’Accord de Paris sur le climat : de la COP 21 à la transformation du monde"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/laccord-de-paris-sur-le-climat-de-la-cop21-a-la-transformation-du-monde"
+            licence:
           - name: "Changement climatique et cognition humaine"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/changement-climatique-et-cognition-humaine"
+            licence:
           - name: "Changement climatique et maladies infectieuses"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/changement-climatique-et-maladies-infectieuses"
+            licence:
           - name: "Impact du changement climatique sur la biodiversité et les écosystèmes"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/impacts-du-changement-climatique-sur-les-ecosystemes-et-la-biodiversite"
+            licence:
           - name: "Peuples autochtones et communautés locales en prise avec le changement"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/peuples-autochtones-et-communautes-locales-en-prise-avec-le-changement"
+            licence:
           - name: "Les modèles de climat"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/les-modeles-de-climat"
+            licence:
           - name: "Maîtriser les esprits animaux de la finance au service de la transition bas carbone"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/maitriser-les-esprits-animaux-de-la-finance-au-service-de-la-transition-bas-carbone"
+            licence:
           - name: "Introduction aux impacts régionaux associés au changement climatique"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/introduction-sur-les-impacts-regionaux-associees-au-changement-climatique"
+            licence:
           - name: "Les Objectifs de Développement Durable : vers une nouvelle citoyenneté mondiale"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/les-odd-comme-nouvelle-citoyennete-mondiale"
+            licence:
       - name: "Les ressources naturelles (biologiques, minérales et énergétiques)"
         resources:
           - name: "La finitude des ressources : énergie et métaux"
             type: "Grain ou élément de cours"
             volume: "14min"
             url: "https://www.uved.fr/fiche/ressource/la-finitude-des-ressources"
+            licence:
           - name: "La ressource solaire : importance et moyens de caractérisation"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/la-ressource-solaire-importance-et-moyens-de-caracterisation"
+            licence:
           - name: "Caractéristiques et dynamiques des énergies disponibles en milieu marin"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/caracteristiques-et-dynamique-des-energies-disponibles-en-milieu-marin"
+            licence:
           - name: "L’origine de la chaleur exploitée en géothermie"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/lorigine-de-la-chaleur-exploitee-en-geothermie"
+            licence:
           - name: "Définition, caractérisation et propriétés de la biomasse ligno-cellulosique"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/definition-caracterisation-et-proprietes-de-la-biomasse-ligno-cellulosique"
+            licence:
           - name: "La surpêche et ses effets sur la biodiversité et sur le fonctionnement des écosystèmes"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/surpeche-et-effets-sur-la-biodiversite-et-le-fonctionnement-des-ecosystemes"
+            licence:
       - name: "Regards croisés sur la transition énergétique"
         resources:
           - name: "Énergies renouvelables"
             type: "Cours complet ou MOOC"
             volume: "16h"
             url: "https://www.canal-u.tv/chaines/canal-uved/energies-renouvelables"
+            licence:
           - name: "Les énergies renouvelables : remise en contexte historique"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/les-energies-renouvelables-remise-en-contexte-historique"
+            licence:
           - name: "Les énergies renouvelables, sources de conflits"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/les-energies-renouvelables-source-de-conflits"
+            licence:
           - name: "Impacts environnemantaux des dispositifs d’exploitation des énergies marines"
             type: "Grain ou élément de cours"
             volume: "17min"
             url: "https://www.uved.fr/fiche/ressource/impacts-environnementaux-des-dispositifs-dexploitation-des-energies-marines"
+            licence:
           - name: "Contexte technologique des énergies marines renouvelables"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/contexte-technologique-des-energies-marines-renouvelables"
+            licence:
   - name: "A la découverte des métiers de la Transition écologique"
     ue:
       - name: "Introduction"
@@ -526,112 +640,139 @@ years:
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=602"
+            licence:
           - name: "Métiers de la Transition écologique - L'engagement de la jeunesse"
             type: "Module"
             volume: "35min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=603"
+            licence:
           - name: "Métiers de la Transition écologique - Réinsertion et reconversion professionnelles"
             type: "Module"
             volume: "40min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=604"
+            licence:
       - name: "1. Des métiers d'avenir"
         resources:
           - name: "Métiers de la Transition écologique - Les secteurs qui recrutent"
             type: "Module"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=605"
+            licence:
           - name: "Métiers de la Transition écologique - Panorama des métiers et des formations"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=606"
+            licence:
           - name: "Les compétences attendues pour exercer un métier de la Transition écologique"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=708"
+            licence:
       - name: "2. Les métiers et formations par secteurs d'activité"
         resources:
           - name: "Agriculture & alimentation durables"
             type: "Cours complet ou MOOC"
             volume: "1h15"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=135"
+            licence:
           - name: "Air et climat"
             type: "Cours complet ou MOOC"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=129"
+            licence:
           - name: "Bâtiment durable"
             type: "Cours complet ou MOOC"
             volume: "1h20"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=133"
+            licence:
           - name: "Déchets et économie circulaire"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=130"
+            licence:
           - name: "Droit de l'environnement"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=143"
+            licence:
           - name: "Éducation au développement durable"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=137"
+            licence:
           - name: "Finance verte"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=138"
+            licence:
           - name: "Gestion de projets & RSE"
             type: "Module"
             volume: "45min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=142"
+            licence:
           - name: "Ingénierie écologique"
             type: "Module"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=128"
+            licence:
           - name: "Mobilité & logistique durables"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=136"
+            licence:
           - name: "Nature & biodiversité"
             type: "Cours complet ou MOOC"
             volume: "1h10"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=127"
+            licence:
           - name: "Ressources naturelles"
             type: "Cours complet ou MOOC"
             volume: "50min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=131"
+            licence:
           - name: "Tourisme, hôtellerie, restauration"
             type: "Module"
             volume: "35min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=139"
+            licence:
           - name: "Urbanisme & aménagement durables"
             type: "Cours complet ou MOOC"
             volume: "45min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=134"
+            licence:
       - name: "3. Des projets collaboratifs"
         resources:
           - name: "Projet de construction d'un écoquartier"
             type: "Module"
             volume: "45min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=708"
+            licence:
           - name: "Projet de renouvellement d'un bassin minier"
             type: "Module"
             volume: "35min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=709"
+            licence:
           - name: "Projet d'efficacité énergétique du bâtiment"
             type: "Module"
             volume: "40min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=710"
+            licence:
           - name: "Projets de prospective alimentaire en Ardèche"
             type: "Module"
             volume: "40min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=711"
+            licence:
           - name: "Projet de Plan Climat Air Énergie Territorial"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=712"
+            licence:
           - name: "Projet de protection des écosystèmes"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=713"
+            licence:
+
   - name: "Environnement et développement durable"
     ue:
       - name: "1. Environnement, écodéveloppement et développement durable"
@@ -640,163 +781,202 @@ years:
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=791"
+            licence:
           - name: "Le rapport Meadows (1972)"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=792"
+            licence:
           - name: "Origine et histoire du concept d'écodéveloppement"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=795"
+            licence:
           - name: "L'incontournable rapport Brundtland"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=796"
+            licence:
           - name: "Les grandes conférences internationales de Stockholm à Rio+20"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=797"
+            licence:
           - name: "Les maux et les mots des problèmes écologiques contemporains"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=798"
+            licence:
           - name: "Développement durable : regards croisés entre Nord et Sud"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=799"
+            licence:
           - name: "Le développement durable est-il une notion dépassée ?"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=800"
+            licence:
       - name: "2. Les savoirs au cœur du développement durable"
         resources:
           - name: "Introduction à la notion de biodiversité"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=808"
+            licence:
           - name: "Le développement durable vu par les économistes : durabilité faible ou durabilité forte ?"
             type: "Module"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=810"
+            licence:
           - name: "L'histoire scolaire : quelle contribution à l'éducation au développement durable ?"
             type: "Module"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=812"
+            licence:
           - name: "Le développement durable en géographie"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=813"
+            licence:
           - name: "Quels peuvent être les apports de la géographie dans la lecture du développement durable ?"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=815"
+            licence:
           - name: "Philosophie et développement durable"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=816"
+            licence:
           - name: "La science politique et le développement durable"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=817"
+            licence:
           - name: "L'équation de Kaya"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=818"
+            licence:
       - name: "3. Les clés d'entrée pour comprendre le développement durable"
-        resources: 
+        resources:
           - name: "Les Questions Socialement Vives (QSV) comme enjeux d'une société plus durable"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=819"
+            licence:
           - name: "La pensée complexe pas si compliquée !"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=820"
+            licence:
           - name: "L'analyse systémique"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=821"
+            licence:
           - name: "Multi, pluri, inter ou transdisciplinarité ?"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=823"
+            licence:
           - name: "Les différentes dimensions du développement durable"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=824"
+            licence:
           - name: "La question des échelles spatio-temporelles : quels enjeux en EDD"
             type: "Module"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=825"
+            licence:
           - name: "Les valeurs associées au développement durable"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=826"
+            licence:
       - name: "4. Le développement durable, un changement de modèle ?"
-        resources: 
+        resources:
           - name: "Le développement durable : simple concept ou nouveau modèle ?"
             type: "Module"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=827"
+            licence:
           - name: "Modes de production et de consommation"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=831"
+            licence:
           - name: "La décroissance ou les limites du développement durable"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=833"
+            licence:
           - name: "L'économie écologique"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=838"
+            licence:
           - name: "Sustainability Science : de quoi s'agit-il ?"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=839"
+            licence:
           - name: "L'économie sociale et solidaire"
             type: "Module"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=840"
+            licence:
           - name: "Les monnaies locales"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=841"
+            licence:
       - name: "5. Les objets du développement durable"
-        resources: 
+        resources:
           - name: "Agroécologie : translation ou métamorphose ?"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=847"
+            licence:
           - name: "Le tourisme durable"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=848"
+            licence:
           - name: "Villes soutenables"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=849"
+            licence:
           - name: "Transitions urbaines à la durabilité"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=850"
+            licence:
           - name: "L'écologie industrielle : un paradoxe ?"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=853"
+            licence:
           - name: "L’eau au cœur de la stratégie du développement durable"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=854"
+            licence:
           - name: "La transition énergétique : pourquoi et comment ?"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=855"
+            licence:
           - name: "La transition énergétique et la géothermie"
             type: "Module"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=856"
+            licence:
           - name: "Population, environnement et développement"
             type: "Module"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=874"
+            licence:

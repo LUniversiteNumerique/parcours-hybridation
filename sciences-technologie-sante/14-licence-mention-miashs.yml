@@ -16,446 +16,552 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12340"
+            licence:
           - name: "Les formulaires ( Django Framework)"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
+            licence:
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
+            licence:
           - name: "Programmation C++ (2019)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
+            licence:
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
+            licence:
           - name: "Programmation Python (2019)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
+            licence:
           - name: "Analyse Numérique en Python"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
+            licence:
           - name: "Analyse numérique"
             type: "Cours complet ou MOOC **"
             volume: "56h"
             url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
+            licence:
           - name: "Algorithmique et programmation"
             type: "Module"
             volume: "40h"
             url: "https://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/co/aa00module1_web.html"
+            licence:
           - name: "Algorithmique"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
+            licence:
           - name: "Pharo"
             type: "Module"
             volume: "7h"
             url: "https://unisciel.org/r/25.4/pharo/WebPortal/co/50.html"
+            licence:
           - name: "Java’s Cool-Proglets"
             type: "Module"
             volume: "5h"
             url: "https://proglets.algorea.org/contents/5403/"
+            licence:
           - name: "Apprendre à programmer avec des cartes"
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
+            licence:
           - name: "OEF Petits tests de programmation"
             type: "TP, exercice, quiz"
             volume: "50min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
+            licence:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://socles3.unisciel.fr/course/view.php?id=40"
+            licence:
           - name: "Nombres réels, suites et fonctions"
             type: "Module"
             volume: "40min"
             url: "https://uel.unisciel.fr/mathematiques/analyse1/analyse1/co/analyse1.html"
+            licence:
           - name: "Séries entières"
             type: "Module"
             volume: "8h"
             url: "https://uel.unisciel.fr/mathematiques/series_ent/series_ent/co/series_ent.html"
+            licence:
           - name: "Suites numériques"
             type: "Module"
             volume: "4h"
             url: "https://ressources.unisciel.fr/ramses/517-521-suites/co/517-521_webUnisciel.html"
+            licence:
           - name: "Suites de nombres réels"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/25.4/46/47/SuitesNumeriques/co/SuitesNumeriques.html"
+            licence:
           - name: "Suites et séries de fonctions"
             type: "Module"
             volume: "2h"
             url: "https://uel.unisciel.fr/mathematiques/suites_fonctions/suites_fonctions/co/suites_fonctions.html"
+            licence:
       - name: "Logique et raisonnement"
         resources:
           - name: "L1 : Logique et raisonnements"
             type: "Cours complet ou MOOC *"
             volume: "55h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=13"
+            licence:
           - name: "Logique et langage des ensembles"
             type: "Module"
             volume: "9h"
             url: "https://uel.unisciel.fr/mathematiques/logique1/logique1/co/logique1.html"
+            licence:
           - name: "Logique et raisonnements – partie 1 : logique"
             type: "Module"
             volume: "20min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/logique-ensembles-raisonnements/chapitre-logique-et-raisonnements-partie-1"
+            licence:
           - name: "Logique et raisonnements – partie 2 : raisonnements"
             type: "Module"
             volume: "10min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/logique-ensembles-raisonnements/logique-et-raisonnements-partie-2"
+            licence:
           - name: "Notion d’ensemble"
             type: "Module"
             volume: "3h"
             url: "https://uel.unisciel.fr/mathematiques/logique1/logique1_ch02/co/apprendre_ch2_01.html"
+            licence:
           - name: "Cardinal d’un ensemble"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/2uel.4/6/43/43_ch09/co/apprendre_ch9.html"
+            licence:
           - name: "Ensembles et applications"
             type: "Module"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/65/ch_ensembles.pdf"
+            licence:
           - name: "Logique, ensembles, raisonnements"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00002.pdf"
+            licence:
           - name: "Dénombrement"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00005.pdf"
+            licence:
       - name: "Algèbre linéaire"
         resources:
           - name: "Algèbre linéaire"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
+            licence:
           - name: "L1 : Algèbre linéaire"
             type: "Cours complet ou MOOC *"
             volume: "60h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
+            licence:
           - name: "Algèbre linéaire – calcul matriciel"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/2uel.4/6/calculmat1/calculmat1/co/calculmat1.html"
+            licence:
           - name: "Réduction des matrices : diagonalisation des endomorphismes et des matrices"
             type: "Module"
             volume: "5h"
             url: "https://unisciel.org/r/2uel.4/6/reducmat1/reducmat1/co/reducmat1.html"
+            licence:
           - name: "Déterminants"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/2uel.4/6/determinant1/determinant1/co/determinant1.html"
+            licence:
           - name: "Matrices"
             type: "Grain ou élément de cours"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/18_Matrices.pdf"
+            licence:
           - name: "Réductions des endomorphismes"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/7/6/exos_algebre_lineaire_2a_pc/res/z-alg-4.pdf"
+            licence:
           - name: "Réduction des endomorphismes"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/14_Reduction_des_endomorphismes/co/14_Reduction_des_endomorphismes_web.html"
+            licence:
           - name: "Systèmes linéaires à coefficients constants"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/2uel.4/6/56/56_ch02/co/apprendre_02.html"
+            licence:
           - name: "Systèmes linéaires"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
+            licence:
       - name: "Nombres complexes"
         resources:
           - name: "L1 : Nombres réels & complexes"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=54"
+            licence:
           - name: "Nombres complexes"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/36/511-14-nbr-complexes/co/511-14_webUnisciel.html"
+            licence:
           - name: "Cardinal d’un ensemble – Le continu : les nombres complexes"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://unisciel.org/r/2uel.4/6/43/43_ch09/co/apprendre_ch9_05.html"
+            licence:
           - name: "Nombres complexes"
             type: "TP, exercice, quiz"
             volume: "6h"
             url: "https://unisciel.org/r/221.2470/29/fic00001.pdf"
+            licence:
           - name: "Exercices sur les nombres complexes"
             type: "TP, exercice, quiz"
             volume: "10h"
             url: "https://unisciel.org/r/25.4/iel/exo_complexe/28.html"
+            licence:
           - name: "Ensemble des nombres complexes"
             type: "TP, exercice, quiz"
             volume: "6h"
             url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/06_Nombres_complexes/co/06_Nombres_complexes_web.html"
+            licence:
           - name: "Exercices d’algèbre"
             type: "TP, exercice, quiz"
             volume: "6h"
             url: "https://unisciel.org/r/25.4/7/6/exos_ats_algebre/co/27.html"
+            licence:
           - name: "Exercices d’algèbre"
             type: "TP, exercice, quiz"
             volume: "8h"
             url: "https://unisciel.org/r/25.4/7/6/exos_algebre_ecs/co/27.html"
+            licence:
       - name: "Équations différentielles"
         resources:
-          - name : "Modèle d’un système : Introduction"
+          - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9115"
+            licence:
           - name: "Modèle d’un système – Obtention d’une représentation d’état "
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9114"
+            licence:
           - name: "Équations différentielles"
             type: "Module"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
+            licence:
           - name: "Équations différentielles"
             type: "Module"
             volume: "7h"
             url: "https://unisciel.org/r/2uel.4/6/45/45/co/45.html"
+            licence:
           - name: "Équations Différentielles Ordinaires"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
+            licence:
           - name: "Systèmes différentiels"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/2uel.4/6/56/56_ch01/co/56_ch01.html"
+            licence:
           - name: "Équations différentielles"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/221.2470/29/fic00016.pdf"
+            licence:
           - name: "Travaux pratiques : Une équation linéaire du premier ordre"
             type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_03.html"
+            licence:
           - name: "Travaux pratiques : Une équation linéaire du second ordre"
             type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://unisciel.org/r/2uel.4/6/45/45_ch07/co/observer_TP_04.html"
+            licence:
           - name: "Équations différentielles"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/66/13_Equations_differentielles/co/13_Equations_differentielles_web.html"
+            licence:
           - name: "Exercices de calcul différentiel"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/co/27.html"
+            licence:
       - name: "Géométrie"
         resources:
           - name: "Géométrie analytique"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/2uel.4/6/59/59/co/59.html"
+            licence:
           - name: "Produits scalaires dans l’espace – Droites et plans dans l’espace"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/25.4/36/514-113a-produit-scalaire/co/514-113a_webUnisciel.html"
+            licence:
           - name: "Sections planes de surfaces"
             type: "Module"
             volume: "2h30"
             url: "https://unisciel.org/r/25.4/36/514-113b-sections-planes/co/514-113b_webUnisciel.html"
+            licence:
           - name: "Similitudes directes, similitudes indirectes"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/25.4/36/514-11-similitudes/co/514-11_webUnisciel.html"
+            licence:
           - name: "Cours de géométrie élémentaire"
             type: "Grain ou élément de cours"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/7/6/geometrie/co/27.html"
+            licence:
           - name: "Rappels de géométrie, Courbes et surfaces"
             type: "Grain ou élément de cours"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
+            licence:
           - name: "Géométrie du plan"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/7/6/exos_ats_geometrie/co/27.html"
+            licence:
           - name: "Sous-variétés"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
+            licence:
       - name: "Anglais scientifique"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"
             volume: "60h"
             url: "https://unisciel.org/r/248.4/"
+            licence:
       - name: "Méthodologie"
         resources:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
+            licence:
           - name: "Méthodologie de travail universitaire pour étudiant"
             type: "Cours complet ou MOOC *"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
             url: "https://uoh.fr/front/noticefr/?uuid=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
+            licence:
           - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/2e-65.9-lr70/UNT/darwin/"
+            licence:
           - name: "Appui pour apprendre à apprendre"
             type: "Module"
             volume: "26h"
             url: "https://unisciel.org/r/2ics.utc70/appuis_apprendre/co/apprendre.html"
+            licence:
           - name: "Infosphère : gagner du temps et réaliser de meilleurs transversaux"
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
+            licence:
           - name: "Rechercher de l'information"
             type: "Cours complet ou MOOC"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+            licence:
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet ou MOOC"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
+            licence:
           - name: "Méthodologie"
             type: "Cours complet ou MOOC"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
+            licence:
           - name: "Rechercher l'information : réussir sa pêche aux informations"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ba868799-0063-408f-bb65-afc0918e18ce"
+            licence:
           - name: "Méthodologie de la prise de note"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=6f1b0ef7-2ef3-40f3-83bb-2b272e0946bd"
+            licence:
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
+            licence:
           - name: "Réussir ses cours en ligne"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ef1337fc-e2ad-462f-957e-afa0adf2f513"
+            licence:
           - name: "Lire et se relire efficacement"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
+            licence:
           - name: "La gestion du temps"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0dba42c3-1f2e-4ca5-bbfe-1e4e93b7886c"
+            licence:
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=28e5c655-99aa-4dd0-bb68-a6dc4744f1d5"
+            licence:
           - name: "Les méthodes pour améliorer son expression orale. De l'art de séduire son auditoire"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
+            licence:
           - name: "Face à un jury"
             type: "Cours complet ou MOOC"
             volume: "4min"
             url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
+            licence:
           - name: "Faire l'inventaire de ses compétences"
             type: "Cours complet ou MOOC"
             volume: "6h"
             url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            licence:
           - name: "De l'équipe au projet"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
+            licence:
           - name: "Boîte à outils de révision"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
+            licence:
           - name: "Organiser le travail de groupe"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=802"
+            licence:
           - name: "Citer sans plagier"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=803"
+            licence:
           - name: "Rédiger ses fiches de révision"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=804"
+            licence:
           - name: "Travailler en groupe à distance"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=805"
+            licence:
           - name: "Eviter le hors sujet"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=806"
+            licence:
           - name: "Evaluer l'information"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=836"
+            licence:
           - name: "Zotero premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+            licence:
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=834"
+            licence:
           - name: "Rechercher de la documentation"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=832"
+            licence:
           - name: "Réaliser une fiche de lecture"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=830"
+            licence:
           - name: "Réaliser une synthèse de documents"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=846"
+            licence:
           - name: "Bien disserter"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=845"
+            licence:
           - name: "Word - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=844"
+            licence:
           - name: "Powerpoint - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=843"
+            licence:
           - name: "Lire de manière active"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=868"
+            licence:
           - name: "Débuter avec R et RStudio"
             type: "Grain ou élément de cours"
             volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"  
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
           - name: "Excel - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+            licence:
           - name: "Disserter en géographie"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+            licence:
           - name: "Prendre des notes"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+            licence:
       - name: "Orthographe scientifique"
         resources:
       - name: "Français écrit"
@@ -464,10 +570,12 @@ years:
             type: "Cours complet ou MOOC *"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+            licence:
           - name: "Améliorer ses écrits"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
+            licence:
 
   - name: "2ème année"
     ue:
@@ -477,300 +585,371 @@ years:
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=21"
+            licence:
           - name: "Arithmétique"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/2uel.4/6/arithmetique/arithmetique/co/arithmetique.html"
+            licence:
           - name: "Arithmétique"
             type: "Module"
             volume: "10h"
             url: "https://unisciel.org/r/25.4/36/511-1-arithmetique/co/511-1_webUnisciel.html"
+            licence:
           - name: "Arithmétique – partie 1 : division euclidienne et pgcd"
             type: "Module"
             volume: "14min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/arithmetique-dans-z/chapitre-arithmetique-partie-1-division-euclidienne-et"
+            licence:
           - name: "Arithmétique – partie 2 : théorème de Bézout"
             type: "Module"
             volume: "19min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/arithmetique-dans-z/chapitre-arithmetique-partie-2-theoreme-de-bezout"
+            licence:
           - name: "Arithmétique – partie 3 : nombres premiers"
             type: "Module"
             volume: "12min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/arithmetique-dans-z/chapitre-arithmetique-partie-2-theoreme-de-bezout"
+            licence:
           - name: "Arithmétique dans Z"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00006.pdf"
+            licence:
           - name: "Arithmétique dans Z (exercices corrigés filmés)"
             type: "TP, exercice, quiz"
             volume: "1h40"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/arithmetique-dans-z"
+            licence:
           - name: "Congruence"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00029.pdf"
+            licence:
       - name: "Polynômes"
         resources:
           - name: "Interpolation de Lagrange et phénomène de Runge"
             type: "Grain ou élément de cours"
             volume: "15min"
-            url : "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9003"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9003"
+            licence:
           - name: "Lagrange’s parameters for/in Lagrange’s Equation"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8710"
+            licence:
           - name: "L1: Polynômes"
             type: "Cours complet ou MOOC *"
             volume: "55h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=43"
+            licence:
           - name: "Polynômes"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/2uel.4/6/polynomes1/polynomes1/co/polynomes1.html"
+            licence:
           - name: "Polynômes"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/07_Polynomes/co/07_Polynomes_web.html"
+            licence:
           - name: "Polynômes"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/04_Polynomes.pdf"
+            licence:
           - name: "Polynôme minimal"
             type: "Module"
             volume: "7h"
             url: "https://unisciel.org/r/2uel.4/6/reducmat1/reducmat1_ch03/co/apprendre_03.html"
+            licence:
           - name: "Polynômes"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00007.pdf"
+            licence:
           - name: "Fractions rationnelles"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00008.pdf"
+            licence:
           - name: "Accordance"
             type: "TP, exercice, quiz"
             volume: "15min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/algebra/accordance.fr"
+            licence:
           - name: "Coïncidence Polynome"
             type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/algebra/coincpoly.fr"
+            licence:
           - name: "Coïncidence Polyracines"
             type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/algebra/coincpolyroots.fr"
+            licence:
           - name: "Ordre polynôme"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=tool/algebra/polyorder.fr"
+            licence:
           - name: "Primpoly"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=tool/algebra/primpoly.fr"
+            licence:
           - name: "Balai polynomial"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=tool/algebra/sweeppoly.fr"
+            licence:
       - name: "Intégration"
         resources:
           - name: "L1: Intégration"
             type: "Cours complet ou MOOC *"
             volume: "45h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=47"
+            licence:
           - name: "Intégrales"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/25.4/46/47/Integrales/co/Integrales_01.html"
+            licence:
           - name: "Calcul intégral"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/25.4/36/517-3-calcul-integral/co/517-3_webUnisciel.html"
+            licence:
           - name: "Intégration"
             type: "Module"
             volume: "5h"
             url: "https://unisciel.org/r/2uel.4/6/49/49/co/49.html"
+            licence:
           - name: "Intégrales impropres"
             type: "Module"
             volume: "5h"
             url: "https://unisciel.org/r/2uel.4/6/intimp/intimp/co/intimp.html"
+            licence:
           - name: "Méthode d’intégration"
             type: "Module"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/iel/methodes_49/28.html"
+            licence:
           - name: "Intégration"
             type: "Module"
             volume: "45min"
             url: "https://unisciel.org/r/25.4/7/6/54/res/09_Integration.pdf"
+            licence:
           - name: "Intégration d’une fonction numérique"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/66/08_Integration_1/co/08_Integration_1_web.html"
+            licence:
           - name: "Calculs d’intégrales"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/221.2470/29/fic00015.pdf"
+            licence:
           - name: "Exercices d’analyse"
             type: "TP, exercice, quiz"
             volume: "10h"
             url: "https://unisciel.org/r/25.4/7/6/exos_analyse_ecs/co/27.html"
+            licence:
           - name: "Calculs d’intégrales (cours et correction d’exercices filmés)"
             type: "TP, exercice, quiz"
             volume: "4h"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/calculs-d-integrales"
+            licence:
       - name: "Espaces vectoriels"
         resources:
           - name: "Espaces vectoriels"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch01/co/apprendre_01.html"
+            licence:
           - name: "Forme bilinéaire, forme quadratique sur R ou C"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/2uel.4/6/formes1/formes1/co/formes1.html"
+            licence:
           - name: "Sous-espaces vectoriels"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch02/co/sexercer_01.html"
+            licence:
           - name: "Espaces vectoriels"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/25.4/7/6/65_2a_ece/res/chap1_2010.pdf"
+            licence:
           - name: "Espaces vectoriels"
             type: "TP, exercice, quiz"
             volume: "4h"
             url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/09_Espaces_vectoriels/co/09_Espaces_vectoriels_web.html"
+            licence:
           - name: "Applications linéaires – Sous-espaces vectoriels de R^n"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://unisciel.org/r/221.2470/29/fic00069.pdf"
+            licence:
           - name: "Espaces vectoriels de dimension finie"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/221.2470/29/fic00019.pdf"
+            licence:
           - name: "Structure d’espace vectoriel"
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://unisciel.org/r/221.2470/29/fic00074.pdf"
+            licence:
           - name: "Espaces vectoriels"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/221.2470/29/fic00017.pdf"
+            licence:
           - name: "Sous-espaces vectoriels"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch02/co/sexercer_01.html"
+            licence:
       - name: "Fonctions de variables"
         resources:
           - name: "Étude globale des fonctions de classe Cn"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/2uel.4/6/analyse2/analyse2/co/analyse2.html"
+            licence:
           - name: "Limite, Continuité, Dérivée, Sens de Variation"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/25.4/36/517-17-fonctions-num/co/517-17_webUnisciel.html"
+            licence:
           - name: "Développements limités"
             type: "Module"
             volume: "12h"
             url: "https://unisciel.org/r/2uel.4/6/dev_limites/dev_limites/co/dev_limites.html"
+            licence:
           - name: "Généralités sur les fonctions"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/2uel.4/6/55/55_ch03/co/55_ch03.html"
+            licence:
           - name: "Etude locale des fonctions d’une variable réelle"
             type: "Module"
             volume: "16h"
             url: "https://unisciel.org/r/2uel.4/6/55/55_ch04/co/55_ch04.html"
+            licence:
           - name: "Fonctions usuelles et fonctions réciproques"
             type: "Module"
             volume: "50min"
             url: "https://unisciel.org/r/2uel.4/6/analyse3/analyse3_ch02/co/apprendre_ch02_001.html"
+            licence:
           - name: "Etude de fonctions (fonctions numériques)"
             type: "TP, exercice, quiz"
             volume: "5h"
             url: "https://unisciel.org/r/25.4/36/517-17-fonctions-num/co/32_517-17_4.html"
+            licence:
           - name: "Fonctions numériques usuelles"
             type: "TP, exercice, quiz"
             volume: "5h"
             url: "https://unisciel.org/r/25.4/7/6/66/07_Fonctions_usuelles/co/07_Fonctions_usuelles_web.html"
+            licence:
           - name: "Développements limités"
             type: "Grain ou élément de cours"
             volume: "5h30"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/developpements-limites"
+            licence:
       - name: "Statistiques et Probabilités"
         resources:
           - name: "Introduction aux séries temporelles"
             type: "Cours complet ou MOOC **"
             volume: "30h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
+            licence:
           - name: "L2 : Traitement analyse et modélisation des données"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=126"
+            licence:
           - name: "Probabilités et statistiques"
             type: "Module"
             volume: "6h"
             url: "https://unisciel.org/r/25.4/36/519-21_probabilites/co/519-21_webUnisciel.html"
+            licence:
           - name: "Variables aléatoires discrètes"
             type: "Module"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/14_Variables_aleatoires_discretes.pdf"
+            licence:
           - name: "Opérations sur les variables aléatoires discrètes"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/15_Operations_sur_les_variables_aleatoires_discretes.pdf"
+            licence:
           - name: "Espaces probabilisés"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/13_Espaces_probabilises.pdf"
+            licence:
           - name: "Kézako : Pourquoi la tartine tombe toujours du côté beurré ?"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/kezako-pourquoi-la-tartine-tombe-toujours-du-cote-beurre"
+            licence:
           - name: "OEF Probabilités conditionnelles"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H6/probability/oefprobacondit.fr"
+            licence:
           - name: "OEF Probabilités et variables aléatoires simples"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/proba/oefbases70"
+            licence:
           - name: "OEF proba"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H6/probability/oefproba70"
+            licence:
       - name: "Algorithmes"
         resources:
           - name: "Algorithmique et programmation"
             type: "Module"
             volume: "40h"
             url: "https://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/co/aa00module1_web.html"
+            licence:
           - name: "Complexité des algorithmes"
             type: "Module"
             volume: "36h"
             url: "https://unisciel.org/r/25.4/algoprog/s34plexite/e32s/cx00ma651/co/cx00ma651_web.html"
+            licence:
           - name: "Doc autour de l’algorithme d’Euclide"
             type: "Grain ou élément de cours"
             volume: "5h"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doceuclide70"
+            licence:
           - name: "Doc notion d’algorithmique"
             type: "Grain ou élément de cours"
             volume: "4h"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doccomplexity70"
+            licence:
           - name: "Algorithmique"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
+            licence:
           - name: "OEF algorithme en arithmétique"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
+            licence:
       - name: "Anglais scientifique"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"
             volume: "60h"
             url: "https://unisciel.org/r/248.4/"
+            licence:
 
   - name: "3ème année"
     ue:
@@ -780,181 +959,222 @@ years:
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/2e-5.9-avignon70/sgbd/co/sgbd_webUnisciel.html"
+            licence:
       - name: "Anneaux de polynômes"
         resources:
           - name: "Interpolation de Lagrange et phénomène de Runge"
             type: "Grain ou élément de cours"
             volume: "15min"
-            url : "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9003"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9003"
+            licence:
           - name: "Lagrange’s parameters for/in Lagrange’s Equation"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8710"
+            licence:
           - name: "Polynômes"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/2uel.4/6/polynomes1/polynomes1/co/polynomes1.html"
+            licence:
           - name: "Théorème de Bézout"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/2uel.4/6/arithmetique/arithmetique_ch03/co/apprendre_ch3_02.html"
+            licence:
           - name: "Anneaux et idéaux"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00030.pdf"
+            licence:
           - name: "Anneaux de polynômes I"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/221.2470/29/fic00031.pdf"
+            licence:
           - name: "Anneaux de polynômes II, anneaux quotients"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00032.pdf"
+            licence:
           - name: "Anneaux de polynômes III"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00033.pdf"
+            licence:
       - name: "Calcul Différentiel"
         resources:
-          - name : "Modèle d’un système : Introduction"
+          - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9115"
+            licence:
           - name: "Modèle d’un système – Obtention d’une représentation d’état"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9114"
+            licence:
           - name: "Systèmes différentiels"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/2uel.4/6/56/56/co/56.html"
+            licence:
           - name: "Calcul différentiel"
             type: "Module"
             volume: "5h"
             url: "https://unisciel.org/r/25.4/7/6/66/14_Calcul_Differentiel/co/14_Calcul_Differentiel_web.html"
+            licence:
           - name: "Calcul différentiel – Préalables, rappels"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00046.pdf"
+            licence:
           - name: "Exercices de calcul différentiel"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/co/27.html"
+            licence:
           - name: "Théorème des accroissements finis"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00048.pdf"
+            licence:
           - name: "Théorème d’inversion locale, difféomorphismes"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://unisciel.org/r/221.2470/29/fic00050.pdf"
+            licence:
           - name: "Différentielles secondes, extremums"
             type: "TP, exercice, quiz"
             volume: "40min"
             url: "https://unisciel.org/r/221.2470/29/fic00052.pdf"
+            licence:
       - name: "Intégration 2"
         resources:
           - name: "Intégrales"
             type: "Module"
             volume: "4h"
             url: "https://unisciel.org/r/25.4/46/47/Integrales/co/Integrales_01.html"
+            licence:
           - name: "Intégration"
             type: "Module"
             volume: "5h"
             url: "https://unisciel.org/r/2uel.4/6/49/49/co/49.html"
+            licence:
           - name: "Intégrale"
             type: "TP, exercice, quiz"
             volume: "10h"
             url: "https://unisciel.org/r/25.4/7/6/exos_analyse_2a_pc/res/z-ana-3.pdf"
+            licence:
       - name: "Géométrie différentielle"
         resources:
           - name: "Rappels de géométrie, courbes et surfaces"
             type: "Grain ou élément de cours"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/46/47/Courb_Surf/co/Courb_Surf_01.html"
+            licence:
           - name: "Géométrie différentielle"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/25.4/7/6/exos_calculdiff_2a_pc/res/z-cal-3.pdf"
+            licence:
           - name: "Sous-variétés"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://unisciel.org/r/221.2470/29/fic00051.pdf"
+            licence:
       - name: "Topologie"
         resources:
           - name: "Rappel [Topologie]"
             type: "TP, exercice, quiz"
             volume: "1h30"
             url: "https://unisciel.org/r/221.2470/29/fic00036.pdf"
+            licence:
           - name: "Topologie générale"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00037.pdf"
+            licence:
           - name: "Espaces complets"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/221.2470/29/fic00041.pdf"
+            licence:
       - name: "Probabilité"
         resources:
           - name: "Introduction aux séries temporelles"
             type: "Cours complet ou MOOC **"
             volume: "30h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
+            licence:
           - name: "Espaces probabilisés"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/13_Espaces_probabilises.pdf"
+            licence:
           - name: "Problème de convergence et approximations en probabilité"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/25.4/7/6/65_2a_ece/res/chap10_2010.pdf"
+            licence:
           - name: "Probabilités discrètes"
             type: "Module"
             volume: "45min"
             url: "https://unisciel.org/r/25.4/7/6/65_2a_ece/res/chap3_2010.pdf"
+            licence:
           - name: "OEF Chaînes de Markov"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/proba/oefmarkov70"
+            licence:
       - name: "Espaces vectoriels et applications linéaires"
         resources:
           - name: "Application linéaire (module espaces vectoriels)"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/2uel.4/6/espacevect1/espacevect1_ch04/co/espacevect1_ch04.html"
+            licence:
           - name: "Espaces vectoriels normés"
             type: "Module"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/66/10_Espaces_vectoriels_normes/co/10_Espaces_vectoriels_normes_web.html"
+            licence:
           - name: "Espaces vectoriels normés"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/exos_analyse_2a_pc/res/z-ana-1.pdf"
+            licence:
           - name: "Espaces vectoriels normés de fonctions"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/25.4/7/6/exos_analyse_2a_pc/res/z-ana-5.pdf"
+            licence:
           - name: "Espace préhilbertien"
             type: "TP, exercice, quiz"
             volume: "3h"
             url: "https://unisciel.org/r/25.4/7/6/exos_algebre_bilineaire_pc/res/z-bil-1.pdf"
+            licence:
           - name: "Théorème de Stone-Weierstrass – Théorème d’Ascoli"
             type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://unisciel.org/r/221.2470/29/fic00042.pdf"
+            licence:
       - name: "Approximation de fonction, d’intégrale et d’équation différentielle"
         resources:
           - name: "Approximations numériques"
             type: "Module"
             volume: "1h"
             url: "https://uel.unisciel.fr/mathematiques/integration/integration_ch05/co/integration_ch05.html"
+            licence:
           - name: "OEF Systèmes linéaires et modélisation"
             type: "TP, exercice, quiz"
             volume: "5h"
             url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/algebra/oefmodelisation70"
+            licence:
       - name: "Anglais scientifique"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"
             volume: "60h"
             url: "https://unisciel.org/r/248.4/"
+            licence:

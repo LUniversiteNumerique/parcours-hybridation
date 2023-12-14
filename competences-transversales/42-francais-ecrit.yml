@@ -11,15 +11,19 @@ resources:
     type: "Cours complet ou MOOC *"
     volume: "20h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
+    licence:
   - name: "Renforcer ses compétences orthographiques"
     type: "Cours complet ou MOOC **"
     volume: "12h"
     url: "https://www.fun-campus.fr/fr/cours/renforcer-ses-competences-orthographiques/"
+    licence:
   - name: "J'améliore mon français écrit"
     Type: "Cours complet ou MOOC *"
     volume: "26h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+    licence:
   - name: "Grammaire élémentaire de la langue française"
     type: "Module *"
     volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=44"
+    licence:
