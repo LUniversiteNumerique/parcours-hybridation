@@ -10,254 +10,317 @@ resources:
     type: "Cours complet ou MOOC"
     volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=720"
+    licence:
   - name: "Identifier et Développer ses Compétences Transversales"
     type: "TP, exercice, quiz *"
     volume: "1h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
+    licence:
   - name: "Méthodologie de travail universitaire pour futur étudiant"
     type: "Cours complet ou MOOC *"
     volume: "7h"
     url: "https://socles3.unisciel.fr/course/view.php?id=159"
+    licence:
   - name: "La méthodologie documentaire avec le tutoriel CERISE"
     type: "Cours complet ou MOOC"
     volume: "3h"
     url: "https://uoh.fr/front/noticefr/?uuid=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
+    licence:
   - name: "Infosphère : gagner du temps et réaliser de meilleurs transversaux"
     type: "Cours complet ou MOOC"
     volume: "4h"
     url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
+    licence:
   - name: "Module 1 : préparer sa recherche [Infosphère]"
     type: "Module"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=5a065f2d-2275-4db3-8806-b39d2c33fa94"
+    licence:
   - name: "Module 2 : rechercher l'information [Infosphère]"
     type: "Module"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=2f09af40-7234-4336-9373-fb904a6e2d9c"
+    licence:
   - name: "Module 3 : analyser l'information [Infosphère]"
     type: "Module"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=c6d7baf9-09ac-4a52-a88b-c2422b03eb58"
+    licence:
   - name: "Module 4 : rédiger un travail [Infosphère]"
     type: "Module"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=1b460191-1caa-4802-aadd-85c1f5bd757f"
+    licence:
   - name: "FOCUS TICE 1 : dynamiser l'enseignement pour accentuer l'engagement étudiant"
     type: "Module"
     volume: "40min"
     url: "https://uoh.fr/front/noticefr/?uuid=e6f2f392-a83f-46b8-871c-587768fc2dcc"
+    licence:
   - name: "FOCUS TICE 2 : apprendre à apprendre ensemble avec une évaluation par les pairs"
     type: "Module"
     volume: "20min"
     url: "https://uoh.fr/front/noticefr/?uuid=48d5ccee-ca4d-46de-b6e1-00228278e9e3"
+    licence:
   - name: "FOCUS TICE 3 : enseigner et apprendre avec des vidéos"
     type: "Module"
     volume: "25min"
     url: "https://uoh.fr/front/noticefr/?uuid=81430444-2209-49bb-9853-965229e5c54d"
+    licence:
   - name: "FOCUS TICE 4 : enseigner autrement en amphi"
     type: "Module"
     volume: "13min"
     url: "https://uoh.fr/front/noticefr/?uuid=807ef201-0385-4de3-80b4-978c840ab367"
+    licence:
   - name: "FOCUS TICE 5 : mettre en place des examens à l'aide du numérique"
     type: "Module"
     volume: "30min"
     url: "https://uoh.fr/front/noticefr/?uuid=5bf8beab-edaa-4652-99ff-4d5b921a2046"
+    licence:
   - name: "Guide pour la réalisation du mémoire de master"
     type: "Cours complet ou MOOC"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=52d91ede-70fc-4a96-946b-35468b815b49"
+    licence:
   - name: "Rechercher de l'information"
     type: "Cours complet ou MOOC"
     volume: "5h15"
     url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+    licence:
   - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
     type: "Cours complet ou MOOC"
     volume: "5h"
     url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
+    licence:
   - name: "Méthodologie"
     type: "Cours complet ou MOOC"
     volume: "2h30"
     url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
+    licence:
   - name: "Rechercher l'information : réussir sa pêche aux informations"
     type: "Cours complet ou MOOC *"
     volume: "2h"
     url: "https://uoh.fr/front/noticefr/?uuid=ba868799-0063-408f-bb65-afc0918e18ce"
+    licence:
   - name: "Méthodologie de la prise de note"
     type: "Cours complet ou MOOC *"
     volume: "2h"
     url: "https://uoh.fr/front/noticefr/?uuid=6f1b0ef7-2ef3-40f3-83bb-2b272e0946bd"
+    licence:
   - name: "Préparer et passer ses examens"
     type: "Cours complet ou MOOC *"
     volume: "2h"
     url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
+    licence:
   - name: "Réussir ses cours en ligne"
     type: "Cours complet ou MOOC"
     volume: "2h"
     url: "https://uoh.fr/front/noticefr/?uuid=ef1337fc-e2ad-462f-957e-afa0adf2f513"
+    licence:
   - name: "Lire et se relire efficacement"
     type: "Cours complet ou MOOC"
     volume: "2h"
     url: "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
+    licence:
   - name: "La gestion du temps"
     type: "Cours complet ou MOOC"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=0dba42c3-1f2e-4ca5-bbfe-1e4e93b7886c"
+    licence:
   - name: "L'apéro des profs Présentation"
     type: "Cours complet ou MOOC"
     volume: "7h"
     url: "https://uoh.fr/front/noticefr/?uuid=abb375af-7531-4133-a682-9dda94922629"
+    licence:
   - name: "Colloque international : 'Des critiques du sport - Controverses interdisciplinaires' "
     type: "Cours complet ou MOOC"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=f1df3f08-b962-4f8c-82d3-adfba10172bc"
+    licence:
   - name: "La pédagogie universitaire à l’heure du numérique. Questionnement et éclairage de la recherche à partir des travaux de deux chercheures"
     type: "Module"
     volume: "30min"
     url: "https://uoh.fr/front/noticefr/?uuid=8a804137-3a6f-4e8a-873e-458fcf2b87df"
+    licence:
   - name: "A. Faire apprendre par les pédagogies actives : concepts et principes de base (série A1 à A10)"
     type: "Module"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=4d146fc3-bd8e-4e73-985f-3ff71722520e"
+    licence:
   - name: "B. Faire apprendre par les pédagogies actives : acquis d'apprentissage et évaluation (série B1 à B4)"
     type: "Module"
     volume: "20min"
     url: "https://uoh.fr/front/noticefr/?uuid=b3cb6da5-7842-4c50-b0b0-36e5560ab861"
+    licence:
   - name: "C. Faire apprendre par les pédagogies actives : les projets pour l'apprentissage / la pédagogie par projet (série C1 à C4)"
     type: "Module"
     volume: "16min"
     url: "https://uoh.fr/front/noticefr/?uuid=f64c5713-35ed-48e8-9e57-bb0717615563"
+    licence:
   - name: "D. Faire apprendre par les pédagogies actives : la mise en oeuvre de projets pour l'apprentissage (série D1 à D11)"
     type: "Module"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=956d380c-1076-41f5-8567-4b84ff7ea0ce"
+    licence:
   - name: "E. Faire apprendre par les pédagogies actives : les outils pour les projets (Série E1 à E3)"
     type: "Module"
     volume: "19min"
     url: "https://uoh.fr/front/noticefr/?uuid=73114eff-3a9b-4340-ba0d-8f5709374290"
+    licence:
   - name: "F. Faire apprendre par les pédagogies actives : fondements théoriques (Série F1 à F3)"
     type: "Module"
     volume: "15min"
     url: "https://uoh.fr/front/noticefr/?uuid=976e33c0-00dc-47bc-8ae1-4051d842154c"
+    licence:
   - name: "Reussir ma classe virtuelle"
     type: "Cours complet ou MOOC"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=ecb08dcb-8f3a-49e2-bbdc-89475b183e46"
+    licence:
   - name: "D'un bon enseignement vers un enseignement d'excellence"
     type: "Cours complet ou MOOC"
     volume: "1h30"
     url: "https://uoh.fr/front/noticefr/?uuid=5b05f4b1-54c1-47aa-90ea-f07183d3aabb"
+    licence:
   - name: "Informatique et société"
     type: "Cours complet ou MOOC *"
     volume: "15h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
+    licence:
   - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
     type: "Cours complet ou MOOC"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=28e5c655-99aa-4dd0-bb68-a6dc4744f1d5"
+    licence:
   - name: "Les méthodes pour améliorer son expression orale. De l'art de séduire son auditoire"
     type: "Cours complet ou MOOC"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
+    licence:
   - name: "Face à un jury"
     type: "Grain ou élément de cours"
     volume: "4min"
     url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
+    licence:
   - name: "Faire l'inventaire de ses compétences"
     type: "Cours complet ou MOOC"
     volume: "6h"
     url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+    licence:
   - name: "Auto-positionnement"
     type: "TP, exercice, quiz *"
     volume: "1h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=119"
+    licence:
   - name: "Appuis pour apprendre à apprendre"
     type: "Cours complet ou MOOC"
     volume: "26h"
     url: "https://uoh.fr/front/noticefr/?uuid=cc2b2954-1353-48a3-a887-8a6af523f91f"
+    licence:
   - name: "De l'équipe au projet"
     type: "Cours complet ou MOOC *"
     volume: "2h"
     url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
+    licence:
   - name: "Boîte à outils de révision"
     type: "Cours complet ou MOOC *"
     volume: "20h"
     url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
+    licence:
   - name: "Organiser le travail de groupe"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=802"
+    licence:
   - name: "Citer sans plagier"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=803"
+    licence:
   - name: "Rédiger ses fiches de révision"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=804"
+    licence:
   - name: "Travailler en groupe à distance"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=805"
+    licence:
   - name: "Eviter le hors sujet"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=806"
+    licence:
   - name: "Evaluer l'information"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=836"
+    licence:
   - name: "Zotero premiers pas"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+    licence:
   - name: "Rédiger une bibliographie AFNOR"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=834"
+    licence:
   - name: "Rechercher de la documentation"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=832"
+    licence:
   - name: "Réaliser une fiche de lecture"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=830"
+    licence:
   - name: "Réaliser une synthèse de documents"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=846"
+    licence:
   - name: "Bien disserter"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=845"
+    licence:
   - name: "Word - Premiers pas"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=844"
+    licence:
   - name: "Powerpoint - Premiers pas"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=843"
+    licence:
   - name: "Lire de manière active"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=868"
+    licence:
   - name: "Débuter avec R et RStudio"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+    licence:
   - name: "Excel - Premiers pas"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+    licence:
   - name: "Disserter en géographie"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+    licence:
   - name: "Prendre des notes"
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+<<<<<<< HEAD
   - name: "Communiquer avec ses enseignants"
     type: "Grain ou élément de cours"
     volume: "30min"
@@ -266,7 +329,11 @@ resources:
     type: "Grain ou élément de cours"
     volume: "30min"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1023"
+=======
+    licence:
+>>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
   - name: "Parcours d'auto-apprentissage à la démarche ePortfolio"
     type: "Cours complet ou MOOC"
     volume: "12h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=864"
+    licence:

@@ -22,253 +22,312 @@ years:
             type: "Grain ou élément de cours *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7ea9kso6ue7/"
+            licence:
           - name: "L’Internet"
             type: "Module"
             volume: "5min"
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4734"
+            licence:
           - name: "Les révolutions de la connaissance"
             type: "Module"
             volume: "12min"
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4572"
+            licence:
           - name: "Les droits d’auteur"
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "https://www.canal-u.tv/video/c2i/les_droits_d_auteur.38533"
+            licence:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            licence:
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
             url: "https://ikigai.games/games/gameDetails/1"
+            licence:
           - name: "Dépêche ton Info !"
             type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://ikigai.games/games/gameDetails/1000"
+            licence:
       - name: "1.2. Gérer des données"
         resources:
           - name: "L’économie des biens immatériels"
             type: "Module"
             volume: "12min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4745"
+            licence:
           - name: "Gérer des données"
             type: "Grain ou élément de cours *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e7fpefycp2/iframe/"
+            licence:
       - name: "1.3. Traiter des données"
         resources:
           - name: "Traiter des données"
             type: "Grain ou élément de cours *"
             volume: "3min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e8f1tenfi2/iframe/"
+            licence:
           - name: "L’interopérabilité"
             type: "Module"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4746"
+            licence:
           - name: "L’interopérabilité en bref"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://www.canal-u.tv/video/c2i/l_interoperabilite.38527"
+            licence:
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
             url: "https://ikigai.games/games/gameDetails/1"
+            licence:
           - name: "Dépêche ton Info !"
             type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://ikigai.games/games/gameDetails/1000"
+            licence:
       - name: "2.1. Interagir"
         resources:
           - name: "Interagir"
             type: "Grain ou élément de cours"
             volume: "1min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e31bplnk0u/iframe/"
+            licence:
           - name: "L’interopérabilité"
             type: "Module"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4746"
+            licence:
           - name: "Le courriel"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4750"
+            licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Module"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4737"
+            licence:
       - name: "2.2. Partager et publier"
         resources:
           - name: "Partager et publier"
             type: "Grain ou élément de cours *"
             volume: "3min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e36u5uxapj/iframe/"
+            licence:
           - name: "Le courriel"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4750"
+            licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Module"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4737"
+            licence:
           - name: "Le droit applicable au courriel"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4782"
+            licence:
           - name: "Le droit applicable au web"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4783"
+            licence:
           - name: "Les licences"
             type: "Module"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4748"
+            licence:
           - name: "Les licences de logiciels"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4749"
+            licence:
           - name: "Travailler dans le cloud"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://www.canal-u.tv/video/c2i/travailler_dans_le_cloud.38523"
+            licence:
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            licence:
           - name: "Soyez acteurs du web"
             type: "Cours complet ou MOOC *"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=115"
+            licence:
           - name: "Partyright"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://ikigai.games/games/gameDetails/102"
+            licence:
       - name: "2.3. Collaborer"
         resources:
           - name: "Collaborer"
             type: "Grain ou élément de cours  *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e42nbssmh5/iframe/"
+            licence:
           - name: "Le droit applicable au courriel"
             type: "Module"
             volume: "2min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4782"
+            licence:
           - name: "Le droit applicable au web"
             type: "Module"
             volume: "2min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4783"
+            licence:
           - name: "Les licences"
             type: "Module"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4748"
+            licence:
           - name: "Les licences de logiciels"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4749"
+            licence:
           - name: "L’édition collaborative"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://www.canal-u.tv/video/c2i/l_edition_collaborative.38529"
+            licence:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            licence:
       - name: "2.4. S’insérer dans le monde numérique"
         resources:
           - name: "S’insérer dans le monde numérique"
             type: "Grain ou élément de cours  *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e3ckgpr15d/iframe/"
+            licence:
           - name: "L’économie des biens immatériels"
             type: "Module"
             volume: "12min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4745"
+            licence:
           - name: "Les licences"
             type: "Module"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4748"
+            licence:
           - name: "Les licences de logiciels"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4749"
+            licence:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            licence:
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
             url: "https://ikigai.games/games/gameDetails/1"
+            licence:
           - name: "Dépêche ton Info !"
             type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://ikigai.games/games/gameDetails/1000"
+            licence:
           - name: "Let us in"
             type: "TP, exercice, quiz"
             volume: "15min"
             url: "https://ikigai.games/games/gameDetails/103"
+            licence:
       - name: "3.1. Développer des documents textuels"
         resources:
           - name: "Développer des documents textuels"
             type: "Grain ou élément de cours *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e49qydw94u/iframe/"
+            licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Module"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4737"
+            licence:
           - name: "Les licences"
             type: "Module"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4748"
+            licence:
           - name: "Les licences de logiciels"
             type: "Module"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4749"
+            licence:
           - name: "Traitement de texte et structure"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://www.canal-u.tv/video/c2i/traitement_de_texte_et_structure.38361"
+            licence:
           - name: "Illustration, introduction"
             type: "Grain ou élément de cours"
             volume: "1min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/illustration-introduction"
+            licence:
           - name: "Documents dans le Cloud"
             type: " Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            licence:
       - name: "3.2. Développer des documents multimédia"
         resources:
           - name: "Développer des documents multimédias"
             type: "Grain ou élément de cours *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e7c7p9ccc5/iframe/"
+            licence:
           - name: "Retouche et manipulation d'images avec Gimp"
             type: "TP, exercice, quiz *"
             volume: "2h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=152"
+            licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Grains ou élément de cours"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4737"
+            licence:
           - name: "Les licences"
             type: "Grains ou élément de cours"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4748"
+            licence:
           - name: "Les licences de logiciels"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4749"
+            licence:
           - name: "Produire un document multimédia, introduction"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://www.canal-u.tv/video/c2i/produire_un_document_multimedia_introduction.38429"
+            licence:
           - name: "Les diaporamas"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://www.canal-u.tv/video/c2i/les_diaporamas.38433"
+            licence:
           - name: "Manipuler les images"
             type: "Grain ou élément de cours"
             volume: "2min"
+<<<<<<< HEAD
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/manipuler-les-images"
           - name: "Images matricielles, images vectorielles"
             type: "Grain ou élément de cours"
@@ -282,137 +341,184 @@ years:
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-vectorielles"
+=======
+            url: "https://www.canal-u.tv/video/c2i/manipuler_les_images.38421"
+            licence:
+          - name: "Images matricielles, images vectorielles"
+            type: "Grain ou élément de cours"
+            volume: "3min"
+            url: "https://www.canal-u.tv/video/c2i/images_matricielles_images_vectorielles.38423"
+            licence:
+          - name: "Traitement des images matricielles"
+            type: "Grain ou élément de cours"
+            volume: "3min"
+            url: "https://www.canal-u.tv/video/c2i/traitement_des_images_matricielles.38425"
+            licence:
+          - name: "Traitement des images vectorielles"
+            type: "Grain ou élément de cours"
+            volume: "2min"
+            url: "https://www.canal-u.tv/video/c2i/traitement_des_images_vectorielles.38427"
+            licence:
+>>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            licence:
       - name: "3.3. Adapter les documents à leur finalité"
         resources:
           - name: "Adapter les documents à leur finalité"
             type: "Grain ou élément de cours *"
             volume: "2min"
             url: "https://web-tv.univ-lyon3.fr/permalink/v1261befa7e42nbssmh5/iframe/"
+            licence:
           - name: "Les licences"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/les-licences"
+            licence:
           - name: "Le plagiat"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/le-plagiat"
+            licence:
           - name: "Accessibilité"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/accessibilite"
+            licence:
       - name: "3.4. Programmer"
         resources:
           - name: "Appréhender les enjeux du numérique"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/apprehender-les-enjeux-du-numerique"
+            licence:
           - name: "Données et algorithmes"
             type: " Cours complet ou MOOC **"
             volume: "6h"
             url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
+            licence:
       - name: "4.1. Sécuriser l’environnement numérique"
         resources:
-         # - name: "Sécuriser l’environnement numérique"
+          # - name: "Sécuriser l’environnement numérique"
           #  type: "Grain ou élément de cours *"
           #  volume: "30min"
-        #    url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=90"
+          #  url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=90"
+          #  licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Module"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4737"
+            licence:
           - name: "Les pourriels"
             type: "Module"
             volume: "5min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4765"
+            licence:
           - name: "Les arnaques par courriel"
             type: "Module"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4773"
+            licence:
           - name: "Les canulars par courriel"
             type: "Module"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4781"
+            licence:
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
             url: "https://ikigai.games/games/gameDetails/1"
+            licence:
           - name: "Dépêche ton Info !"
             type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://ikigai.games/games/gameDetails/1000"
+            licence:
           - name: "Block chain battle"
             type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://ikigai.games/games/gameDetails/5"
+            licence:
       - name: "4.2. Protéger les données personnelles et la vie privée"
         resources:
           - name: "L’identité numérique"
             type: "Module *"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4738"
-        #  - name: "Protéger les données personnelles et la vie privée"
-         #   type: "Grain ou élément de cours *"
-          #  volume: "30min"
-         #   url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=91"
+            # - name: "Protéger les données personnelles et la vie privée"
+            #  type: "Grain ou élément de cours *"
+            #  volume: "30min"
+            #  url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=91"
+            #  licence:
           - name: "Protection de la vie privée"
             type: "Cours complet ou MOOC **"
             volume: "10h"
             url: "https://www.fun-campus.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
+            licence:
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
             url: "https://ikigai.games/games/gameDetails/1"
+            licence:
           - name: "Dépêche ton Info !"
             type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://ikigai.games/games/gameDetails/1000"
+            licence:
       - name: "4.3. Protéger la santé, le bien-être et l’environnement"
         resources:
-         # - name: "Protéger la santé, le bien-être et l’environnement"
+          # - name: "Protéger la santé, le bien-être et l’environnement"
           #  type: "Grain ou élément de cours *"
           #  volume: "20min"
           #  url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=92"
+          #  licence:
       - name: "5.1. Résoudre des problèmes techniques"
         resources:
-         # - name: "Résoudre des problèmes techniques"
+          # - name: "Résoudre des problèmes techniques"
           #  type: "Grain ou élément de cours *"
-           # volume: "10min"
-            #url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=93"
+          #  volume: "10min"
+          #  url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=93"
+          #  licence:
       - name: "5.2. Construire un environnement numérique"
         resources:
           - name: "Les révolutions de la connaissance"
             type: "Module"
             volume: "12min"
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4572"
+            licence:
           - name: "L’Internet"
             type: "Module"
             volume: "5min"
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4734"
-         # - name: "Construire un environnement numérique"
-          #  type: "Grain ou élément de cours *"
-         #   volume: "20min"
-          #  url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=94"
+            # - name: "Construire un environnement numérique"
+            #  type: "Grain ou élément de cours *"
+            #  volume: "20min"
+            #  url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=94"
+            #  licence:
           - name: "Culture numérique : introduction 1re partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
+            licence:
           - name: "Culture numérique : introduction 2e partie"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+            licence:
           - name: "Informatique et société"
             type: "Cours complet ou MOOC *"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
+            licence:
           - name: "Explorez le panorama des objets connectés"
             type: "Cours complet ou MOOC *"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=31"
+            licence:
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=322"
+            licence:

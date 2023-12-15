@@ -17,358 +17,442 @@ years:
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=123"
+            licence:
           - name: "Qu’est-ce que le management ?"
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "https://www.canal-u.tv/chaines/canal-aunege/management/qu-est-ce-que-le-management"
+            licence:
       - name: "Aide à la décision"
         resources:
           - name: "Prise de décision"
             type: "Grain ou élément cours"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
+            licence:
           - name: "Techniques statistiques"
             type: "Module"
             volume: "1h"
             url: "https://www.canal-u.tv/video/eco_gestion/techniques_statistiques.768"
+            licence:
           - name: "Statistiques"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://courlis-pf.univ-lorraine.fr/"
+            licence:
       - name: "Comptabilité – contrôle de gestion"
         resources:
           - name: "Introduction à la gestion des entreprises"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
+            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
+            licence:
           - name: "Les fondamentaux – 1 – à quoi sert la comptabilité ?"
             type: "Grain ou élément de cours"
             volume: "32min"
             url: "https://www.canal-u.tv/chaines/eco-gestion/comptabilite/les-fondamentaux-en-comptabilite-1-a-quoi-sert-la-comptabilite"
+            licence:
           - name: "Les fondamentaux – 2 – la comptabilité, qu’est-ce que cela produit ?"
             type: "Grain ou élément de cours"
             volume: "27min"
             url: "https://www.canal-u.tv/chaines/eco-gestion/comptabilite/les-fondamentaux-en-comptabilite-2-la-comptabilite-qu-est-ce-que"
+            licence:
           - name: "Les fondamentaux – 3 – la comptabilité, comment cela marche ?"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/video/eco_gestion/les_fondamentaux_en_comptabilite_3_la_comptabilite_comment_cela_marche.3700"
+            licence:
           - name: "Les fondamentaux – 4 – la comptabilité privée, comment cela se passe ?"
             type: "Grain ou élément de cours"
             volume: "45min"
             url: "https://www.canal-u.tv/video/eco_gestion/les_fondamentaux_en_comptabilite_4_la_comptabilite_privee_comment_cela_se_passe.3773"
+            licence:
           - name: "Les fondamentaux – 5 – La comptabilité publique, comment cela se passe ?"
             type: "Grain ou élément de cours"
             volume: "31min"
             url: "https://www.canal-u.tv/video/eco_gestion/les_fondamentaux_en_comptabilite_5_la_comptabilite_publique_comment_cela_se_passe.3206"
+            licence:
           - name: "Comptabilité générale"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-261"
+            licence:
           - name: "Introduction au contrôle de gestion"
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "http://ressources.aunege.fr/notice/view/aunege-727"
+            licence:
           - name: "Ce que contrôler veut dire"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://www.canal-u.tv/video/canal_aunege/ce_que_controler_veut_dire.10403"
+            licence:
           - name: "Comptabilité générale"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
+            licence:
       - name: "Droit et fiscalité"
         resources:
           - name: "Droit du travail"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=837"
+            licence:
           - name: "Introduction au droit des sociétés"
             type: "Module"
             volume: "6h"
             url: "http://ressources.aunege.fr/nuxeo/site/esupversions/af6a3c6d-97b8-4c28-a91d-3a7fad1b5f0f/index.html"
+            licence:
       - name: "Economie"
         resources:
           - name: "Economie monétaire et bancaire"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=726"
+            licence:
           - name: "Introduction à l'analyse économique"
             type: "Cours complet ou MOOC **"
             volume: "30h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
+            licence:
           - name: "Histoire des faits économiques"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
+            licence:
           - name: "Histoire de la pensée économique"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=150"
+            licence:
           - name: "Macro-économie 1"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=62"
+            licence:
           - name: "Macro-économie 2"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=590"
+            licence:
           - name: "Micro-économie 1"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=60"
+            licence:
           - name: "Micro-économie 2"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=725"
+            licence:
           - name: "Introduction à l’économie"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/unistra/religion-et-economie-la-crise-de-toutes-les-croyances/petite-introduction-a-l"
+            licence:
           - name: "Economistes néo-classiques contre hétérodoxes"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://www.canal-u.tv/chaines/unistra/religion-et-economie-la-crise-de-toutes-les-croyances/petite-introduction-a-l"
+            licence:
           - name: "Les élasticités de la demande"
             type: "Module"
             volume: "4h"
             url: "http://ressources.aunege.fr/notice/view/aunege-937"
+            licence:
           - name: "Le choix du consommateur"
             type: "Module"
             volume: "4h"
             url: "http://ressources.aunege.fr/notice/view/aunege-931"
+            licence:
       - name: "Finance"
         resources:
           - name: "Analyse financière : lire les états financiers"
             type: "Module"
             volume: "6h"
             url: "https://www.canal-u.tv/producteurs/universite_paris_1_pantheon_sorbonne/lire_les_etats_financiers"
+            licence:
           - name: "Analyse financière"
             type: "Cours complet ou MOOC"
             volume: "65h"
             url: "http://ressources.aunege.fr/notice/view/aunege-485"
+            licence:
       - name: "Logistique et supply chain"
         resources:
           - name: "Supply chain management"
             type: "Cours complet ou MOOC **"
             volume: "100h"
             url: "https://www.fun-campus.fr/fr/cours/supply-chain-management/"
+            licence:
           - name: "La logistique au coeur des sciences de gestion"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1445"
+            licence:
           - name: "Gestion de projet"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "http://ressources.aunege.fr/notice/view/aunege-253"
+            licence:
           - name: "Gestion de projet"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=822"
+            licence:
       - name: "Langue étrangère"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
+            licence:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
+            licence:
           - name: "How to write an email in English"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
+            licence:
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
             type: "TP, exercice, quiz *"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/course/view.php?id=240"
+            licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
+            licence:
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
+            licence:
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+            licence:
           - name: "Consolidation des acquis en arabe littéral"
             type: "Cours complet ou MOOC"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+            licence:
           - name: "Grammaire pratique du russe"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
+            licence:
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
             type: "Cours complet ou MOOC *"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
             url: "https://uoh.fr/front/noticefr/?uuid=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
+            licence:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=51"
+            licence:
           - name: "Infosphère : gagner du temps et réaliser de meilleurs transversaux"
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
+            licence:
           - name: "Rechercher de l'information"
             type: "Cours complet ou MOOC"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+            licence:
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet ou MOOC"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
+            licence:
           - name: "Méthodologie"
             type: "Cours complet ou MOOC"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
+            licence:
           - name: "Rechercher l'information : réussir sa pêche aux informations"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ba868799-0063-408f-bb65-afc0918e18ce"
+            licence:
           - name: "Méthodologie de la prise de note"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=6f1b0ef7-2ef3-40f3-83bb-2b272e0946bd"
+            licence:
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
+            licence:
           - name: "Appuis pour apprendre à apprendre"
             type: "Cours complet ou MOOC"
             volume: "26h"
             url: "https://uoh.fr/front/noticefr/?uuid=cc2b2954-1353-48a3-a887-8a6af523f91f"
+            licence:
           - name: "Réussir ses cours en ligne"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ef1337fc-e2ad-462f-957e-afa0adf2f513"
+            licence:
           - name: "Lire et se relire efficacement"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
+            licence:
           - name: "La gestion du temps"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0dba42c3-1f2e-4ca5-bbfe-1e4e93b7886c"
+            licence:
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=28e5c655-99aa-4dd0-bb68-a6dc4744f1d5"
+            licence:
           - name: "Les méthodes pour améliorer son expression orale. De l'art de séduire son auditoire"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
+            licence:
           - name: "Face à un jury"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
+            licence:
           - name: "Faire l'inventaire de ses compétences"
             type: "Cours complet ou MOOC"
             volume: "6h"
             url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            licence:
           - name: "De l'équipe au projet"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
+            licence:
           - name: "Boîte à outils de révision"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
+            licence:
           - name: "Organiser le travail de groupe"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=802"
+            licence:
           - name: "Citer sans plagier"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=803"
+            licence:
           - name: "Rédiger ses fiches de révision"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=804"
+            licence:
           - name: "Travailler en groupe à distance"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=805"
+            licence:
           - name: "Eviter le hors sujet"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=806"
+            licence:
           - name: "Evaluer l'information"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=836"
+            licence:
           - name: "Zotero premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+            licence:
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=834"
+            licence:
           - name: "Rechercher de la documentation"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=832"
+            licence:
           - name: "Réaliser une fiche de lecture"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=830"
+            licence:
           - name: "Réaliser une synthèse de documents"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=846"
+            licence:
           - name: "Bien disserter"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=845"
+            licence:
           - name: "Word - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=844"
+            licence:
           - name: "Powerpoint - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=843"
+            licence:
           - name: "Lire de manière active"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=868"
+            licence:
           - name: "Débuter avec R et RStudio"
             type: "Grain ou élément de cours"
             volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"  
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
           - name: "Excel - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+            licence:
           - name: "Disserter en géographie"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+            licence:
           - name: "Prendre des notes"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+<<<<<<< HEAD
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -377,16 +461,21 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1023"
+=======
+            licence:
+>>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+            licence:
           - name: "Améliorer ses écrits"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
+            licence:
 
   - name: "2ème année"
     ue:
@@ -396,238 +485,292 @@ years:
             type: "Grain ou élément cours"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
+            licence:
           - name: "Modèles d’aide à la décision"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-225"
+            licence:
       - name: "Comptabilité – contrôle de gestion"
         resources:
           - name: "Théorie des organisations"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=105"
+            licence:
           - name: "Introduction à la gestion des entreprises"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
+            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
+            licence:
           - name: "Comptabilité générale"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
+            licence:
           - name: "Comptabilité analytique"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "http://ressources.aunege.fr/notice/view/aunege-285"
+            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-257"
+            licence:
       - name: "Droit et fiscalité"
         resources:
           - name: "Droit du travail"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=837"
+            licence:
           - name: "Fiscalité des entreprises"
             type: "Cours complet ou MOOC"
             volume: "24h"
             url: "http://ressources.aunege.fr/notice/view/aunege-259"
+            licence:
           - name: "Résultat comptable – résultat fiscal"
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "https://www.canal-u.tv/video/canal_aunege/resultat_comptable_resultat_fiscal.14551"
+            licence:
           - name: "Les conditions de déduction des provisions"
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A16540"
+            licence:
           - name: "Qu’est-ce qu’un paradis fiscal ?"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A13300"
+            licence:
       - name: "Economie"
         resources:
           - name: "Economie monétaire et bancaire"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=726"
+            licence:
           - name: "Histoire des faits économiques"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
+            licence:
           - name: "Histoire de la pensée économique"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=150"
+            licence:
           - name: "Macro-économie 1"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=62"
+            licence:
           - name: "Macro-économie 2"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=590"
+            licence:
           - name: "Micro-économie 1"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=60"
+            licence:
           - name: "Micro-économie 2"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=725"
+            licence:
           - name: "Economie managériale"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-245"
+            licence:
       - name: "Finance"
         resources:
           - name: "Le beta"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A16630"
+            licence:
       - name: "Logistique et supply chain"
         resources:
           - name: "Supply chain management"
             type: "Cours complet ou MOOC **"
             volume: "100h"
             url: "https://www.fun-campus.fr/fr/cours/supply-chain-management/"
+            licence:
       - name: "Management des ressources humaines"
         resources:
           - name: "Initiation au management"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
+            licence:
           - name: "Gestion des Ressources Humaines"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
+            licence:
           - name: "Enjeux stratégiques des ressources humaines"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1149"
+            licence:
       - name: "Marketing"
         resources:
           - name: "Eléments d’histoire et d’organisation du commerce"
             type: "Module"
             volume: "6h"
             url: "http://ressources.aunege.fr/notice/view/aunege-933"
+            licence:
           - name: "Marketing fondamental"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "http://ressources.aunege.fr/notice/view/aunege-233"
+            licence:
           - name: "Le prix"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A17022"
+            licence:
           - name: "Le business plan"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A13439"
+            licence:
           - name: "Structurer la force de vente"
             type: "Grain ou élément de cours"
             volume: "6min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A14188"
+            licence:
           - name: "Marketing et Internet"
             type: "Grain ou élément de cours"
             volume: "6min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A13959"
+            licence:
           - name: "E-business"
             type: "Cours complet ou MOOC"
             volume: "24h"
             url: "http://ressources.aunege.fr/notice/view/aunege-27"
+            licence:
           - name: "Les entreprises et les réseaux sociaux, quelles conditions de réussite ?"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A10010"
+            licence:
       - name: "Stratégie et politique d’entreprise"
         resources:
           - name: "Stratégie d'entreprise"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=721"
+            licence:
           - name: "Qu’est-ce que la stratégie ?"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A10513"
+            licence:
       - name: "Langue étrangère"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
+            licence:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
+            licence:
           - name: "How to write an email in English"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
+            licence:
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
             type: "TP, exercice, quiz *"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/course/view.php?id=240"
+            licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
+            licence:
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
+            licence:
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+            licence:
           - name: "Consolidation des acquis en arabe littéral"
             type: "Cours complet ou MOOC"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+            licence:
           - name: "Grammaire pratique du russe"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
+            licence:
       - name: "Culture numérique"
         resources:
           - name: "pix.fr"
             type: "TP, exercice, quiz"
             volume: "50h"
             url: "https://pix.fr/"
+            licence:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            licence:
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            licence:
           - name: "Données et algorithmes"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
+            licence:
           - name: "Protection de la vie privée dans le monde numérique"
             type: "Cours complet ou MOOC **"
             volume: "10h"
             url: "https://www.fun-campus.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
+            licence:
           - name: "Culture numérique : introduction 1re partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
+            licence:
           - name: "Culture numérique : introduction 2e partie"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+            licence:
           - name: "Informatique et société"
             type: "Cours complet ou MOOC *"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
+            licence:
 
   - name: "3ème année"
     ue:
@@ -637,229 +780,282 @@ years:
             type: "Grain ou élément cours"
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
+            licence:
           - name: "Econométrie des séries chronologiques"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "http://ressources.aunege.fr/notice/view/aunege-1009"
+            licence:
           - name: "Séries chronologiques"
             type: "Module"
             volume: "12h"
             url: "http://ressources.aunege.fr/notice/view/aunege-857"
+            licence:
       - name: "Comptabilité – contrôle de gestion"
         resources:
           - name: "Théorie des organisations"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=105"
+            licence:
           - name: "Introduction à la gestion des entreprises"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
+            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
+            licence:
           - name: "Comptabilité générale"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
+            licence:
           - name: "Coût cible – target costing"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A16574"
+            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-257"
+            licence:
           - name: "ABC/ABM (Management à base d’activité)"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A13373"
+            licence:
       - name: "Droit et fiscalité"
         resources:
           - name: "Justice et management : enjeux et défis"
             type: "Module"
             volume: "1h"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A5895"
+            licence:
       - name: "Economie"
         resources:
           - name: "Economie monétaire et bancaire"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=726"
+            licence:
           - name: "Histoire des faits économiques"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
+            licence:
           - name: "Histoire de la pensée économique"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=150"
+            licence:
           - name: "Macro-économie 1"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=62"
+            licence:
           - name: "Macro-économie 2"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=590"
+            licence:
           - name: "Micro-économie 1"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=60"
+            licence:
           - name: "Micro-économie 2"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=725"
+            licence:
           - name: "Introduction à la psycho-économie: étude des comportements individuels"
             type: "Module"
             volume: "7h"
             url: "http://ressources.aunege.fr/notice/view/aunege-699"
+            licence:
           - name: "Introduction à la psycho-économie: étude des comportements sociaux"
             type: "Module"
             volume: "3h30"
             url: "http://ressources.aunege.fr/notice/view/aunege-701"
+            licence:
           - name: "Innovation : définition et mesure"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-955"
+            licence:
           - name: "S’approprier l’innovation et la protéger"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-957"
+            licence:
           - name: "Les structures industrielles et l’innovation"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-959"
+            licence:
           - name: "Diffusion de l’innovation, espace et échelles territoriales des politiques d’innovation"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-961"
+            licence:
       - name: "Finance"
         resources:
           - name: "Les fonctions économiques des systèmes financiers"
             type: "Module"
             volume: "4h"
             url: "http://ressources.aunege.fr/notice/view/aunege-827"
+            licence:
           - name: "Rationalité des comportements financiers"
             type: "Module"
             volume: "4h"
             url: "http://ressources.aunege.fr/notice/view/aunege-833"
+            licence:
           - name: "La gestion de portefeuille"
             type: "Module"
             volume: "4h"
             url: "http://ressources.aunege.fr/notice/view/aunege-835"
+            licence:
           - name: "L’information fournie par le bilan"
             type: "Module"
             volume: "6h"
             url: "http://ressources.aunege.fr/notice/view/aunege-351"
+            licence:
           - name: "Calcul actuariel et applications aux produits financiers : Les fonctions financières de base du tableur"
             type: "Module"
             volume: "7h30"
             url: "http://ressources.aunege.fr/notice/view/aunege-771"
+            licence:
       - name: "Logistique et supply chain"
         resources:
           - name: "Gestion des flux de production"
             type: "Cours complet ou MOOC"
             volume: "29h"
             url: "http://ressources.aunege.fr/notice/view/aunege-281"
+            licence:
           - name: "L’ERP (Enterprise Resource Planning)"
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A12277"
+            licence:
           - name: "Qualité et organisation"
             type: "Module"
             volume: "1h"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A775"
+            licence:
           - name: "Supply chain management"
             type: "Cours complet ou MOOC **"
             volume: "100h"
             url: "https://www.fun-campus.fr/fr/cours/supply-chain-management/"
+            licence:
       - name: "Management des ressources humaines"
         resources:
           - name: "Initiation au management"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
+            licence:
           - name: "Le hip-hop manager"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1105"
+            licence:
           - name: "Qu’est-ce qu’un leader ?"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A50125"
+            licence:
           - name: "Qu’est-ce qu’une équipe ?"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A50119"
+            licence:
           - name: "Quand la colère fait tomber les masques"
             type: "TD, Etudes de cas"
             volume: "35min"
             url: "https://www.canal-u.tv/chaines/cerimes/quand-la-colere-fait-tomber-les-masques-prix-ffup-de-la-meilleure-experimentation"
+            licence:
           - name: "Gestion des ressources humaines : mutation ou éclatement ?"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1047"
+            licence:
           - name: "Former et développer les compétences : innovation et pilotage"
             type: "Cours complet ou MOOC **"
             volume: "12h"
             url: "https://www.fun-campus.fr/fr/cours/former-et-developper-les-competences-innovation-et-pilotage/"
+            licence:
           - name: "Gestion des Ressources Humaines"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
+            licence:
       - name: "Marketing"
         resources:
           - name: "Distribution"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-221"
+            licence:
           - name: "Fondements et environnement du marketing international"
             type: "Cours complet ou MOOC"
             volume: "15h"
             url: "http://ressources.aunege.fr/notice/view/aunege-829"
+            licence:
           - name: "Stratégie marketing international"
             type: "Cours complet ou MOOC"
             volume: "24h"
             url: "http://ressources.aunege.fr/notice/view/aunege-279"
+            licence:
       - name: "Stratégie et politique d’entreprise"
         resources:
           - name: "Evolution des modèles d’organisation"
             type: "Cours complet ou MOOC"
             volume: "24h"
             url: "http://ressources.aunege.fr/notice/view/aunege-479"
+            licence:
           - name: "L’approche cognitive de la stratégie d’entreprise"
             type: "Module"
             volume: "6h"
             url: "http://ressources.aunege.fr/notice/view/aunege-1177"
+            licence:
           - name: "Stratégie d'entreprise"
             type: "Cours complet ou MOOC *"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=721"
+            licence:
       - name: "Langues étrangères"
         resources:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
             volume: "10h"
             url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
+            licence:
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"
             url: "https://www.fun-campus.fr/fr/cours/unlock-your-english-session-1/"
+            licence:
           - name: "Reclutamiento"
             type: "Module *"
             volume: "3h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/espagnol/barriere/reclutamiento/index.html"
+            licence:
           - name: "Espagnol – Le monde du travail"
             type: "TP, exercice, quiz *"
             volume: "1h30"
             url: "https://miel.iutenligne.net/enrol/index.php?id=209"
+            licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
+            licence:
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
+            licence:

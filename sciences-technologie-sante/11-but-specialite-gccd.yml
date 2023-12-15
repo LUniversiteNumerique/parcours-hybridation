@@ -18,544 +18,674 @@ years:
             type: "TD, étude de cas *"
             volume: "20h"
             url: "https://www.iutenligne.net/ressources/exercices-de-statique.html"
+            licence:
           - name: "Eléments de Résistance Des Matériaux"
             type: "Cours complet ou MOOC *"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
+            licence:
           - name: "Quiz – Dimensionnement des structures – Statique 2D – Équilibre solide complet"
             type: "TP, exercice, quiz *"
             volume: "30min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3472"
+            licence:
           - name: "Caractéristiques Géométriques : centres de gravité"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/caracteristiques-geometriques-centres-de-gravite.html"
+            licence:
           - name: "Caractéristiques Géométriques : moments quadratiques"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/caracteristiques-geometriques-moments-quadratiques.html"
+            licence:
           - name: "Caractéristiques Géométriques : Aires"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/caracteristiques-geometriques-aires.html"
+            licence:
       - name: "Structures"
         resources:
           - name: "Eurocode 1 – étude du vent sur les ouvrages"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/eurocode-1-etude-du-vent-sur-les-ouvrages.html"
+            licence:
           - name: "Béton armé : Calcul de poutres en flexion simple à l’ELU"
             type: "Module *"
             volume: "6h"
             url: "https://www.iutenligne.net/ressources/beton-arme-calcul-de-poutres-en-flexion-simple-l-elu.html"
+            licence:
           - name: "Le béton armé et précontraint en IUT – Travaux Pratiques"
             type: "TD, étude de cas *"
             volume: "30min"
             url: "https://www.iutenligne.net/ressources/le-beton-arme-et-precontraint-en-iut-travaux-pratiques.html"
+            licence:
           - name: "Diagramme des 3 pivots (animation)"
             type: "Grain ou élément de cours *"
             volume: "30min"
             url: "https://www.iutenligne.net/ressources/diagramme-des-3-pivots-animation.html"
+            licence:
       - name: "Matériaux"
         resources:
           - name: "Chimie du solide et matériaux"
             type: "Module *"
             volume: "3h"
             url: "https://public.iutenligne.net/chimie/valls/chimie-du-solide/chimie_du_solide.htm"
+            licence:
           - name: "Roches et minéraux courants : genèse, identification et utilisations"
             type: "Cours complet ou MOOC **"
             volume: "14h"
             url: "https://www.fun-mooc.fr/fr/cours/roches-et-mineraux-courants-genese-identification-et-utilisations/"
+            licence:
           - name: "MX2 : TP – Mélange granulaire Binaire – document enseignant"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://prive.iutenligne.net/9EO5st3WIvmQdmd4/sciences-des-materiaux/courtin/TP-melangeGranulaire_ens_web/co/module_TP-melangeGranulaire_ens.html"
+            licence:
           - name: "MX2 : TP – Mélange granulaire Binaire"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://public.iutenligne.net/sciences-des-materiaux/courtin/TP-melangeGranulaire_web/co/TP-melangeGranulaire_web.html"
+            licence:
           - name: "Carte d’identité d’un milieu granulaire"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjm7cOr9NPzAhWBAmMBHYgHAsAQFnoECAkQAQ&url=http%3A%2F%2Fprive.iutenligne.net%2FCNGnlzRnv7O0G39E%2Fsciences-des-materiaux%2Fcourtin%2FCarteIdentite.pdf&usg=AOvVaw2V0bwb8tiBMCyxjosSMh9h"
+            licence:
       - name: "Construction"
         resources:
           - name: "Construction d’un bâtiment type ERP – Réalisation du gros œuvre béton armé"
             type: "TD, étude de cas *"
             volume: "1h"
             url: "https://www.iutenligne.net/ressources/construction-d-un-batiment-type-erp-realisation-du-gros-oeuvre-beton-arme.html"
+            licence:
           - name: "Construction d’un viaduc autoroutier à ossature mixte acier-béton"
             type: "TD, étude de cas *"
             volume: "6h"
             url: "https://public.iutenligne.net/genie-civil/beton-arme/barrault/viaduc/index.html"
+            licence:
           - name: "Principes généraux des pieux"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://www.iutenligne.net/ressources/principes-generaux-des-pieux.html"
+            licence:
           - name: "Les pieux forés simples"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://www.iutenligne.net/ressources/les-pieux-fores-simples.html"
+            licence:
           - name: "Parois moulées"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/parois-moulees.html"
+            licence:
           - name: "Palplanches"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/palplanches.html"
+            licence:
           - name: "Colonnes ballastées"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/colonnes-ballastees.html"
+            licence:
       - name: "Organisation"
         resources:
           - name: "Coefficient prix entreprise BTP"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/coefficient-prix-entreprise-btp.html"
+            licence:
           - name: "Organisation de Chantier – Matrice d’Antériorité"
             type: "Grain ou élément de cours *"
             volume: "10min"
             url: "https://www.iutenligne.net/ressources/organisation-de-chantier-matrice-d-anteriorite.html"
+            licence:
       - name: "Physique du Bâtiment"
         resources:
           - name: "Poutres Longues : Forces intérieures"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9730"
+            licence:
           - name: "Poutres Longues : Contraintes - Déformations"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9729"
+            licence:
           - name: "Linear Vibration"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8716"
+            licence:
           - name: "Vibrations nodes and bellies"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8711"
+            licence:
           - name: "Shock and vibration illustrations"
             type: "Cours complet ou MOOC"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8715"
+            licence:
           - name: "Propriétés des fluides"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/mecanique/mecanique-des-fluides/courtin/proprietes-des-fluides/co/Proprietes%20des%20fluides_web.html"
+            licence:
           - name: "Théorème de Bernoulli"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/theoreme-de-bernoulli.html"
+            licence:
           - name: "Pression dans les fluides"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/pression-dans-les-fluides.html"
+            licence:
           - name: "Pertes de charge linéiques"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/pertes-de-charge-lineiques.html"
+            licence:
           - name: "Formulaire de mécanique des fluides"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/formulaire-de-mecanique-des-fluides.html"
+            licence:
           - name: "Le décibel en acoustique"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://www.iutenligne.net/ressources/le-decibel-en-acoustique.html"
+            licence:
           - name: "Électricité générale"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://public.iutenligne.net/electrotechnique/marty/Elec/index.html"
+            licence:
           - name: "Baselecpro : cours et exercices d’électricité"
             type: "Cours complet ou MOOC *"
             volume: "13h"
             url: "https://public.iutenligne.net/electronique/piou_fruitet_fortun/baselecpro/acquisition/"
+            licence:
           - name: "Chaleur et thermométrie"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/chaleur-et-thermometrie.html"
+            licence:
       - name: "Mathématiques"
         resources:
-          - name : "Modèle d’un système : Introduction"
+          - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9115"
+            licence:
           - name: "Modèle d’un système – Obtention d’une représentation d’état"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9114"
+            licence:
           - name: "Quaternion Addition and Multiplication"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12906"
+            licence:
           - name: "Degré de liberté"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8719"
+            licence:
           - name: "Algèbre linéaire : trigonalisation - Thomas HELART"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9001"
+            licence:
           - name: "Fonctions holomorphes et conditions de Cauchy - Riemann"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9002"
+            licence:
           - name: "Quaternion Algebraic Properties"
             type: "Grain ou élément de cours"
             volume: "35min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12907"
+            licence:
           - name: "Quaternion Kinematics"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
+            licence:
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=11"
+            licence:
           - name: "Analyse 2"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=12"
+            licence:
           - name: "Algèbre 1"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
+            licence:
           - name: "Algèbre 2"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=10"
+            licence:
           - name: "Remise à niveau en mathématiques"
             type: "TP, exercice, quiz *"
             volume: "17h"
             url: "https://miel.iutenligne.net/course/view.php?id=241"
+            licence:
           - name: "Algèbre – Nombres complexes"
             type: "TP, exercice, quiz *"
             volume: "30min"
             url: "https://miel.iutenligne.net/enrol/index.php?id=228"
+            licence:
           - name: "Racines de polynômes à coefficients réels ou complexes"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3137"
+            licence:
           - name: "Interpolation de Lagrange et phénomène de Runge"
             type: "Grain ou élément de cours"
             volume: "15min"
-            url : "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9003"
+            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9003"
+            licence:
           - name: "Lagrange’s parameters for/in Lagrange’s Equation"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8710"
+            licence:
           - name: "Analyse – Fonctions d’une variable"
             type: "TP, exercice, quiz *"
             volume: "30min"
             url: "https://miel.iutenligne.net/course/view.php?id=247"
+            licence:
           - name: "Analyse – Intégration"
             type: "TP, exercice, quiz *"
             volume: "20min"
             url: "https://miel.iutenligne.net/course/view.php?id=249"
+            licence:
           - name: "Équations différentielles linéaires du 2nd ordre à coefficients constants : sans second membre"
             type: "TP, exercice, quiz *"
             volume: "15min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3569"
+            licence:
           - name: "Équations différentielles linéaires du 2nd ordre à coefficients constants : recherche d’une solution particulière"
             type: "TP, exercice, quiz *"
             volume: "25min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3567"
+            licence:
           - name: "Équations différentielles linéaires à coefficients constants"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://www.iutenligne.net/ressources/equations-differentielles-lineaires-coefficients-constants.html"
+            licence:
           - name: "Équations Différentielles Ordinaires"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=16"
+            licence:
           - name: "Méthodes d’intégration"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/mathematiques/analyse/arrou-vignod/MethodesIntegration/"
+            licence:
           - name: "Décomposition des fractions rationnelles"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://www.iutenligne.net/ressources/decomposition-des-fractions-rationnelles-cours-et-exercices.html"
+            licence:
       - name: "Informatique"
         resources:
           - name: "Excel"
             type: "Cours complet ou MOOC"
             volume: "14h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
+            licence:
           - name: "La présentation PowerPoint"
             type: "Grain ou élément de cours"
             volume: "7h"
             url: "https://public.iutenligne.net/communication/vaudel/ppt/index.html"
+            licence:
           - name: "PowerPoint 2010"
             type: "Cours complet ou MOOC *"
             volume: "5h"
             url: "https://www.iutenligne.net/ressources/powerpoint-2010.html"
+            licence:
           - name: "Fiches pratiques Word 2007"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/informatique/bureautique/afchain/word/index.html"
+            licence:
           - name: "Word en 2 minutes"
             type: "Grain ou élément de cours *"
             volume: "40min"
             url: "https://www.iutenligne.net/ressources/word-2010-en-2-minutes.html"
+            licence:
           - name: "Excel en 2 minutes"
             type: "Grain ou élément de cours *"
             volume: "40min"
             url: "https://public.iutenligne.net/informatique/bureautique/morice/word_excel_2010_en_2_minutes/excel.html"
+            licence:
           - name: "Automatisation des tableaux de bord avec Excel"
             type: "Grain ou élément de cours"
             volume: "4h"
             url: "https://public.iutenligne.net/informatique/bureautique/raffinat/TableauBordExcel/"
+            licence:
           - name: "Excel"
             type: "TP, exercice, quiz *"
             volume: "55min"
             url: "https://miel.iutenligne.net/course/view.php?id=236"
+            licence:
           - name: "Documents dans le cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            licence:
           - name: "Usage du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            licence:
       - name: "Expression – Communication"
         resources:
           - name: "Le téléphone"
             type: "Grain ou élément de cours *"
             volume: "5h"
             url: "https://prive.iutenligne.net/OOC7Jr8Jcm2D52zD/communication/breistroff/telephone/index.html"
+            licence:
           - name: "Le téléphone, progressez"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://prive.iutenligne.net/M7lHXCLOyyP3WV6I/communication/breistroff/telephone-progressez/index.html"
+            licence:
           - name: "Le téléphone, Un outil professionnel : compléments"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://prive.iutenligne.net/EH34UukHZxuln4i4/communication/breistroff/telephone-comp1/index.html"
+            licence:
           - name: "Collection “Savoir dire pour savoir penser”"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://public.iutenligne.net/expression/savoir-dire-pour-savoir-penser/index.html"
+            licence:
           - name: "Renforcer ses compétences orthographiques"
             type: "Cours complet ou MOOC **"
             volume: "12h"
             url: "https://www.fun-campus.fr/fr/cours/renforcer-ses-competences-orthographiques/"
+            licence:
           - name: "La prise de parole en public (exposés, soutenances)"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://public.iutenligne.net/expression/depoorter/parler_en_public/index.html"
+            licence:
           - name: "Analyser pour communiquer"
             type: "Cours complet ou MOOC *"
             volume: "6h"
             url: "https://www.iutenligne.net/resources.html?text=analyser+pour+communiquer&diplome=All&domaines=38262&ct=1&title=analyser+pour+communiquer&resume=&keywords="
+            licence:
           - name: "Se situer dans son cursus"
             type: "Module *"
             volume: "4h"
             url: "https://public.iutenligne.net/expression/parouty_riccio/se_situer/index.html"
+            licence:
       - name: "Langues"
         resources:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
+            licence:
           - name: "How to write an email in English"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
+            licence:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/course/view.php?id=240"
+            licence:
           - name: "Anglais – Culture générale"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://miel.iutenligne.net/course/view.php?id=50"
+            licence:
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
             type: "TP, exercice, quiz *"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=c2410a9c-2ad8-463a-86b9-2b8f072964ab"
+            licence:
           - name: "Espagnol – compréhension orale"
             type: "TP, exercice, quiz *"
             volume: "2h"
             url: "https://miel.iutenligne.net/course/view.php?id=232"
+            licence:
           - name: "Tests formatifs espagnol"
             type: "TP, exercice, quiz *"
             volume: "2h"
             url: "https://prive.iutenligne.net/wIXI9oUZuuhuZaWg/langues-vivantes-et-civilisation/espagnol/fasano/MEF101-A1C2/index.html"
+            licence:
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+            licence:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
             type: "Cours complet ou MOOC *"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
+            licence:
           - name: "Améliorer ses écrits"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
+            licence:
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
             type: "Cours complet ou MOOC *"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=449447d4-fa02-4ea0-a126-2e6f231cc779"
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
             url: "https://uoh.fr/front/noticefr/?uuid=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
+            licence:
           - name: "Infosphère : gagner du temps et réaliser de meilleurs transversaux"
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
+            licence:
           - name: "Rechercher de l'information"
             type: "Cours complet ou MOOC"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+            licence:
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet ou MOOC"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
+            licence:
           - name: "Méthodologie"
             type: "Cours complet ou MOOC"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
+            licence:
           - name: "Rechercher l'information : réussir sa pêche aux informations"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ba868799-0063-408f-bb65-afc0918e18ce"
+            licence:
           - name: "Méthodologie de la prise de note"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=6f1b0ef7-2ef3-40f3-83bb-2b272e0946bd"
+            licence:
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
+            licence:
           - name: "Réussir ses cours en ligne"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=ef1337fc-e2ad-462f-957e-afa0adf2f513"
+            licence:
           - name: "Lire et se relire efficacement"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=09006a24-0d6d-45dd-8b80-34a164aca6ef"
+            licence:
           - name: "La gestion du temps"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0dba42c3-1f2e-4ca5-bbfe-1e4e93b7886c"
+            licence:
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=28e5c655-99aa-4dd0-bb68-a6dc4744f1d5"
+            licence:
           - name: "Les méthodes pour améliorer son expression orale. De l'art de séduire son auditoire"
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=5d3fe86f-1120-4e86-a302-b57568d47bf8"
+            licence:
           - name: "Face à un jury"
             type: "Cours complet ou MOOC"
             volume: "4min"
             url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
+            licence:
           - name: "Faire l'inventaire de ses compétences"
             type: "Cours complet ou MOOC"
             volume: "6h"
             url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            licence:
           - name: "De l'équipe au projet"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
+            licence:
           - name: "Boîte à outils de révision"
             type: "Cours complet ou MOOC *"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
+            licence:
           - name: "Organiser le travail de groupe"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=802"
+            licence:
           - name: "Citer sans plagier"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=803"
+            licence:
           - name: "Rédiger ses fiches de révision"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=804"
+            licence:
           - name: "Travailler en groupe à distance"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=805"
+            licence:
           - name: "Eviter le hors sujet"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=806"
+            licence:
           - name: "Evaluer l'information"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=836"
+            licence:
           - name: "Zotero premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+            licence:
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=834"
+            licence:
           - name: "Rechercher de la documentation"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=832"
+            licence:
           - name: "Réaliser une fiche de lecture"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=830"
+            licence:
           - name: "Réaliser une synthèse de documents"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=846"
+            licence:
           - name: "Bien disserter"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=845"
+            licence:
           - name: "Word - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=844"
+            licence:
           - name: "Powerpoint - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=843"
+            licence:
           - name: "Lire de manière active"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=868"
+            licence:
           - name: "Débuter avec R et RStudio"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+            licence:
           - name: "Excel - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+            licence:
           - name: "Disserter en géographie"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+            licence:
           - name: "Prendre des notes"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+<<<<<<< HEAD
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -564,52 +694,66 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1023"
+=======
+            licence:
+>>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
       - name: "Stage – PPP"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"
             volume: "2h"
             url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+            licence:
           - name: "Projet professionnel personnalisé : connaissance de soi"
             type: "Module *"
             volume: "13h30"
             url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+            licence:
           - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
             type: "Module *"
             volume: "4h"
             url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
+            licence:
           - name: "Rapport ou mémoire de stage"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/rapport-ou-memoire-de-stage.html"
+            licence:
           - name: "Le stage en entreprise"
             type: "Cours complet ou MOOC *"
             volume: "8h"
             url: "https://public.iutenligne.net/stage/bezelgues/cours-stage/html/Cours_Stage/general/index.html"
+            licence:
           - name: "Le CV et la lettre de motivation"
             type: "Module *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/le-cv-et-la-lettre-de-motivation-exemples-commentes-et-corriges.html"
+            licence:
           - name: "The CV and cover letter : suggestions and corrected examples (US & UK)"
             type: "Module *"
             volume: "30min"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/koene/cv-and-letters/index.html"
+            licence:
           - name: "Collection « savoir dire pour savoir penser »"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://www.iutenligne.net/resources.html?text=savoir+dire+pour+savoir+penser&diplome=All&domaines=All&ct=1&title=savoir+dire+pour+savoir+penser"
+            licence:
           - name: "Savoir gérer un projet"
             type: "Module *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/tutoriel-openproj.html"
+            licence:
           - name: "Découvrir la démarche portfolio"
             type: "Grain ou élément de cours"
             volume: "1min"
             url: "https://uoh.fr/front/noticefr/?uuid=03fb718e-38a8-46ce-91f2-50daefa38236"
+            licence:
           - name: "Construire son identité numérique/ Faire une recherche de personne"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
+            licence:
 
   - name: "2ème année"
     ue:
@@ -619,322 +763,399 @@ years:
             type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLGgg1I6eO8ijXi8qGTmjsKf"
+            licence:
           - name: "Matière manip scientifique"
             type: "Cours complet ou MOOC"
             volume: "42min"
             url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLHHWnYXVCCKxZRL-7ddT46E"
+            licence:
           - name: "Grains de bâtisseurs : expériences scientifiques autour de la matière"
             type: "Cours complet ou MOOC"
             volume: "1h10"
             url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLE9-fQjWs6LR45UWRU2XAIf"
+            licence:
           - name: "Principe de résolution des structures hyperstatiques"
             type: "Module *"
             volume: "2h"
             url: "https://public.iutenligne.net/mecanique/mecanique-des-structures/fauqueux/structures_hyperstatiques/co/Structures_hyperstatiques.html"
+            licence:
           - name: "Lignes d’influence"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/mecanique/mecanique-des-structures/fauqueux/lignes_d_influence/co/Lignes_d_influence_web.html"
+            licence:
           - name: "Vidéos pour initiation Revit"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://public.iutenligne.net/dessin-industriel/fauqueux/initiationrevit/co/Initiation_Revit.html"
+            licence:
           - name: "Eléments de Résistance Des Matériaux"
             type: "Cours complet ou MOOC *"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=19"
+            licence:
           - name: "Smart Building"
             type: "Cours complet ou MOOC **"
             volume: "15h"
             url: "https://www.fun-mooc.fr/fr/cours/smart-building/"
+            licence:
       - name: "Organisation"
         resources:
           - name: "Viaduc autoroutier"
             type: "TD, étude de cas *"
             volume: "6h"
             url: "https://public.iutenligne.net/genie-civil/beton-arme/barrault/viaduc/index.html"
+            licence:
       - name: "Physique du Bâtiment"
         resources:
           - name: "Poutres Longues : Forces intérieures"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9730"
+            licence:
           - name: "Poutres Longues : Contraintes - Déformations"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9729"
+            licence:
           - name: "Linear Vibration"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8716"
+            licence:
           - name: "Vibrations nodes and bellies"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8711"
+            licence:
           - name: "Shock and vibration illustrations"
             type: "Cours complet ou MOOC"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8715"
+            licence:
           - name: "RT 2012 : SHOB-SHON-SHAB-SU"
             type: "Grain ou élément de cours *"
             volume: "1h"
             url: "https://public.iutenligne.net/genie-civil/confort/courtin/SHOB-SHON-SHAB-SU_web/co/SHOB-SHON-SHAB-SU_web.html"
+            licence:
           - name: "Echangeurs de chaleur"
             type: "Module *"
             volume: "3h"
             url: "https://public.iutenligne.net/genie-civil/confort/courtin/echangeurs-de-chaleur/index.html"
+            licence:
       - name: "Gestion"
         resources:
           - name: "Droit du travail : la législation applicable à l’embauche"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/droit-gestion-juridique/coudray-betoulle/Droit_TD5_Droit_du_travail_La_legislation_applicable_a_l_embauche/index.html"
+            licence:
           - name: "Droit du travail : introduction au droit du travail, le contrat de travail"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/droit-gestion-juridique/coudray-betoulle/Droit_TD6_Droit_du_travail_Introduction_droit_travail_Le_contrat_de_travail/index.html"
+            licence:
           - name: "Droit du travail : modification et rupture du contrat de travail"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/droit-gestion-juridique/coudray-betoulle/Droit_TD8_Droit_du_travail_Modifications_et_rupture_du_contrat_de_travail/index.html"
+            licence:
           - name: "Introduction au droit : notion de droit des contrats"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/droit-gestion-juridique/coudray-betoulle/Droit_TD2_Notions_de_droit_des_contrats/index.html"
+            licence:
           - name: "5 minutes pour comprendre – la comptabilité financière"
             type: "Grain ou élément de cours *"
             volume: "1h20"
             url: "https://public.iutenligne.net/comptabilite/comptabilite-financiere/5mnpourcomprendre/index.html"
+            licence:
           - name: "Notions juridiques"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://www.iutenligne.net/resources.html?text=Quiz+-+Notions+juridiques&diplome=All&domaines=All&ct=1&title=Quiz+-+Notions+juridiques&resume=&keywords=&code=&aname=&asname=&lrt=All&level=All"
+            licence:
       - name: "Mathématiques"
         resources:
-          - name : "Modèle d’un système : Introduction"
+          - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9115"
+            licence:
           - name: "Modèle d’un système – Obtention d’une représentation d’état"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9114"
+            licence:
           - name: "Quaternion Addition and Multiplication"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12906"
+            licence:
           - name: "Degré de liberté"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8719"
+            licence:
           - name: "Algèbre linéaire : trigonalisation - Thomas HELART"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9001"
+            licence:
           - name: "Fonctions holomorphes et conditions de Cauchy - Riemann"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9002"
+            licence:
           - name: "Quaternion Algebraic Properties"
             type: "Grain ou élément de cours"
             volume: "35min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12907"
+            licence:
           - name: "Quaternion Kinematics"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12955"
+            licence:
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=11"
+            licence:
           - name: "Analyse 2"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=12"
+            licence:
           - name: "Algèbre 1"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
+            licence:
           - name: "Algèbre 2"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=10"
+            licence:
           - name: "Déterminants"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/determinants/index.html"
+            licence:
           - name: "Calcul de déterminant"
             type: "TD, étude de cas *"
             volume: "5min"
             url: "https://public.iutenligne.net/mathematiques/algebre/richard/Exercices/d_det.htm"
+            licence:
           - name: "Systèmes d’équations linéaires – Méthode des tableaux"
             type: "Grain ou élément de cours *"
             volume: "20h"
             url: "https://www.iutenligne.net/ressources/systemes-d-equations-lineaires-methode-des-tableaux.html"
+            licence:
           - name: "Matrices"
             type: "Grain ou élément de cours *"
             volume: "20h"
             url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/matrices/index.html"
+            licence:
           - name: "Calcul du produit de deux matrices"
             type: "TP, exerice, quiz *"
             volume: "5min"
             url: "https://public.iutenligne.net/mathematiques/algebre/richard/Exercices/d_prodmat.htm"
+            licence:
           - name: "Calcul de l’inverse d’une matrice"
             type: "TP, exercice, quiz *"
             volume: "10min"
             url: "https://public.iutenligne.net/mathematiques/algebre/richard/Exercices/d_inv.htm"
+            licence:
           - name: "Coefficients binomiaux et triangle de Pascal"
             type: "Grain ou élément de cours *"
             volume: "15min"
             url: "https://public.iutenligne.net/mathematiques/algebre/millaud/coef_bino/general/index.html"
+            licence:
           - name: "Ensemble de quiz – Mathématiques – Statistiques descriptives"
             type: "TP, exercice, quiz *"
             volume: "3h"
             url: "https://miel.iutenligne.net/course/view.php?id=244"
+            licence:
           - name: "Résumés d’une série statistique"
             type: "Module *"
             volume: "12h"
             url: "https://public.iutenligne.net/mathematiques/statistiques-et-probabilites/millaud/resumes_statistiques/co/ResumesStatistiques_web.html"
+            licence:
           - name: "Introduction du vocabulaire de la statistique descriptive"
             type: "Module *"
             volume: "12h"
             url: "https://public.iutenligne.net/mathematiques/statistiques-et-probabilites/millaud/vocabulaire_statistique/co/VocabulaireStatistique_web.html"
+            licence:
           - name: "Ajustement affine"
             type: "Cours complet ou MOOC"
             volume: "6h"
             url: "https://www.iutenligne.net/ressources/ajustement-affine.html"
+            licence:
           - name: "Tables et représentations des lois binomiale, Poisson, Normale"
             type: "Grain ou élément de cours *"
             volume: "5min"
             url: "https://www.iutenligne.net/ressources/tables-et-representations-des-lois-binomiale-poisson-normale.html"
+            licence:
           - name: "Méthodes d’intégration"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://public.iutenligne.net/mathematiques/analyse/arrou-vignod/MethodesIntegration/"
+            licence:
           - name: "Décomposition des fractions rationnelles"
             type: "Grain ou élément de cours *"
             volume: "4h"
             url: "https://www.iutenligne.net/ressources/decomposition-des-fractions-rationnelles-cours-et-exercices.html"
+            licence:
           - name: "Ensemble de quiz – Mathématiques – Algèbre – Polynômes, fractions rationnelles"
             type: "TP, exercice, quiz *"
             volume: "30min"
             url: "https://miel.iutenligne.net/course/view.php?id=248"
+            licence:
           - name: "Equations différentielles – Equations différentielles linéaires du 2nd ordre à coefficients constants : sans second membre"
             type: "TP, exercice, quiz *"
             volume: "15min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3569"
+            licence:
           - name: "Equations différentielles linéaires du 2nd ordre à coefficients constants : recherche d’une solution particulière"
             type: "TP, exercice, quiz *"
             volume: "25min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3567"
+            licence:
           - name: "Techniques de résolution d’équations différentielles"
             type: "Grain ou élément de cours *"
             volume: "3h"
             url: "https://public.iutenligne.net/mathematiques/analyse/arrou-vignod/IUT-EQ/index.html"
+            licence:
           - name: "Applications linéaires et matrices"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/applications_lineaires_matrices/index.html"
+            licence:
           - name: "Changement de base"
             type: "Grain ou élément de cours *"
             volume: "3h"
             url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/changement_de_base/index.html"
+            licence:
           - name: "Applications linéaires (avec Noyau et Image)"
             type: "Module *"
             volume: "20h"
             url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/applications_lineaires/index.html"
+            licence:
           - name: "Algèbre Linéaire en Dimension Finie – Troisième Partie"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/algebre-lineaire-en-dimension-finie-troisieme-partie.html"
+            licence:
           - name: "Algèbre linéaire"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
+            licence:
           - name: "Espaces vectoriels de dimension finie"
             type: "Grain ou élément de cours *"
             volume: "2h"
             url: "https://public.iutenligne.net/mathematiques/algebre/arrou-vignod/EV_dim_finie/index.html"
+            licence:
       - name: "Stage – PPP"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"
             volume: "2h"
             url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+            licence:
           - name: "Projet professionnel personnalisé : connaissance de soi"
             type: "Module *"
             volume: "13h30"
             url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+            licence:
           - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
             type: "Module *"
             volume: "4h"
             url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
+            licence:
           - name: "Rapport ou mémoire de stage"
             type: "Cours complet ou MOOC *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/rapport-ou-memoire-de-stage.html"
+            licence:
           - name: "Le stage en entreprise"
             type: "Cours complet ou MOOC *"
             volume: "8h"
             url: "https://public.iutenligne.net/stage/bezelgues/cours-stage/html/Cours_Stage/general/index.html"
+            licence:
           - name: "Le CV et la lettre de motivation"
             type: "Module *"
             volume: "3h"
             url: "https://www.iutenligne.net/ressources/le-cv-et-la-lettre-de-motivation-exemples-commentes-et-corriges.html"
+            licence:
           - name: "The CV and cover letter : suggestions and corrected examples (US & UK)"
             type: "Module *"
             volume: "30min"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/koene/cv-and-letters/index.html"
+            licence:
           - name: "Collection « savoir dire pour savoir penser »"
             type: "Cours complet ou MOOC *"
             volume: "12h"
             url: "https://www.iutenligne.net/resources.html?text=savoir+dire+pour+savoir+penser&diplome=All&domaines=All&ct=1&title=savoir+dire+pour+savoir+penser"
+            licence:
           - name: "Savoir gérer un projet"
             type: "Module *"
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/tutoriel-openproj.html"
+            licence:
           - name: "Découvrir la démarche portfolio"
             type: "Grain ou élément de cours"
             volume: "1min"
             url: "https://uoh.fr/front/noticefr/?uuid=03fb718e-38a8-46ce-91f2-50daefa38236"
+            licence:
           - name: "Construire son identité numérique/ Faire une recherche de personne"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
+            licence:
       - name: "Langues"
         resources:
           - name: "Anglais – Le monde du travail – CV, entretien et lettre de motivation"
             type: "TP, exercice, quiz *"
             volume: "20min"
             url: "https://miel.iutenligne.net/course/view.php?id=188#section-1"
+            licence:
           - name: "Anglais technique pour l’Informatique"
             type: "TP, exercice, quiz *"
             volume: "1h"
             url: "https://miel.iutenligne.net/course/view.php?id=258"
+            licence:
           - name: "Anglais – Entraînement aux certifications – Reconnaître des énoncés erronés"
             type: "TP, exercice, quiz *"
             volume: "5min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=1676"
+            licence:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
             volume: "10h"
             url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
+            licence:
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"
             url: "https://www.fun-campus.fr/fr/cours/unlock-your-english-session-1/"
+            licence:
           - name: "Reclutamiento"
             type: "Module *"
             volume: "3h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/espagnol/barriere/reclutamiento/index.html"
+            licence:
           - name: "Espagnol – Le monde du travail"
             type: "TP, exercice, quiz *"
             volume: "1h30"
             url: "https://miel.iutenligne.net/enrol/index.php?id=209"
+            licence:
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=fc11312a-8712-47e3-a8b2-5bdbe98a1236"
+            licence:
 
   - name: "3ème année"
     ue:
