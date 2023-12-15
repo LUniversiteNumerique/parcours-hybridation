@@ -327,22 +327,22 @@ years:
           - name: "Manipuler les images"
             type: "Grain ou élément de cours"
             volume: "2min"
-<<<<<<< HEAD
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/manipuler-les-images"
+            licence:
           - name: "Images matricielles, images vectorielles"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/images-matricielles-images-vectorielles"
+            licence:
           - name: "Traitement des images matricielles"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-matricielles"
+            licence:
           - name: "Traitement des images vectorielles"
             type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-vectorielles"
-=======
-            url: "https://www.canal-u.tv/video/c2i/manipuler_les_images.38421"
             licence:
           - name: "Images matricielles, images vectorielles"
             type: "Grain ou élément de cours"
@@ -359,7 +359,6 @@ years:
             volume: "2min"
             url: "https://www.canal-u.tv/video/c2i/traitement_des_images_vectorielles.38427"
             licence:
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"

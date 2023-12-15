@@ -377,15 +377,12 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://unisciel.org/r/2culturesciences25.ens-1470/XML/db/cs25/63/LOM_CSP_Couleur.xml"
-<<<<<<< HEAD
-=======
             licence:
           - name: "Le principe de Fermat : un principe variationnel"
             type: "TP, exercice, quiz"
             volume: "10min"
             url: "http://res-nlp.univ-lemans.fr/NLP_C_M03_G03/co/Contenu_25.html"
             licence:
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
           - name: "OEF optique"
             type: "TP, exercice, quiz"
             volume: "2h"
@@ -401,13 +398,11 @@ years:
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
-<<<<<<< HEAD
             url: "https://socles3.unisciel.fr/enrol/index.php?id=17"
+            licence:
           - name: "Mécanique"
             type: "Module"
             volume: "10h"
-            url: "https://uel.unisciel.fr/physique/meca/meca/co/meca.html"
-=======
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=17"
             licence:
           - name: "Mécanique"
@@ -415,17 +410,14 @@ years:
             volume: "10h"
             url: "https://unisciel.org/r/2uel.4/25/meca/meca/co/meca.html"
             licence:
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
           - name: "Mécanique"
             type: "Module"
             volume: "3h"
-<<<<<<< HEAD
             url: "https://ressources.unisciel.fr/DAEU/physique/mecanique/co/Bloc4_web.html"
+            licence:
           - name: "Mécanique - 1ère année de CPGE scientifique, voie MPSI"
             type: "Cours complet ou MOOC"
             volume: "11h"
-            url: "https://ressources.unisciel.fr/sillages/physique/meca_mpsi/co/menu.html"
-=======
             url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
             licence:
           - name: "Mécanique 1"
@@ -433,7 +425,6 @@ years:
             volume: "11h"
             url: "https://unisciel.org/r/25.4/7/25/meca_mpsi/co/27.html"
             licence:
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
           - name: "Cinématique du point. (Mécanique I : forces, champs, énergie)"
             type: "Grain ou élément de cours"
             volume: "3h"
@@ -448,9 +439,6 @@ years:
             type: "TD, étude de cas"
             volume: "10h"
             url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
-<<<<<<< HEAD
-          - name: "Physique à main levée – Mécanique des solides"
-=======
             licence:
           - name: "Mesure d’un moment d’inertie"
             type: "TP, exercice, quiz"
@@ -463,7 +451,6 @@ years:
             url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
             licence:
           - name: "Mécanique des solides"
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
             type: "Grain ou élément de cours"
             volume: "24min "
             url: "https://unisciel.org/r/2phymain.4/category/mecanique-des-solides/"
@@ -801,18 +788,17 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-<<<<<<< HEAD
+            licence:
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1021"
+            licence:
           - name: "Rédiger une bibliographie norme Chicago Manual of Style"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1023"
-=======
             licence:
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
       - name: "Orthographe scientifique"
         resources:
       - name: "Français écrit"

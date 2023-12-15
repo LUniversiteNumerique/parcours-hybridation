@@ -516,18 +516,17 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-<<<<<<< HEAD
+            licence:
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1021"
+            licence:
           - name: "Rédiger une bibliographie norme Chicago Manual of Style"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1023"
-=======
             licence:
->>>>>>> f282fab7e488d376d86bc3c1e8dfbfb59de285a2
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
