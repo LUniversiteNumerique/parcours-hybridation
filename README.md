@@ -17,6 +17,7 @@ years:
             type: TYPE DE LA RESSOURCE
             volume: VOLUME DE LA RESSOURCE
             url: URL DE LA RESSOURCE
+            licence: LICENCE DE LA RESSOURCE (ou vide)
 ```
 
 ## Ajouter une nouvelle entrée dans un champ disciplinaire :
