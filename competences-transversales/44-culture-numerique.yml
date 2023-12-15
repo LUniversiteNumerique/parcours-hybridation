@@ -300,17 +300,17 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=152"
             licence:
           - name: "Le droit du numérique et la Netiquette"
-            type: "Module"
+            type: "Grains ou élément de cours"
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4737"
             licence:
           - name: "Les licences"
-            type: "Module"
+            type: "Grains ou élément de cours"
             volume: "3min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4748"
             licence:
           - name: "Les licences de logiciels"
-            type: "Module"
+            type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://moodle.luniversitenumerique.fr/mod/hvp/view.php?id=4749"
             licence:
@@ -327,7 +327,22 @@ years:
           - name: "Manipuler les images"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://www.canal-u.tv/video/c2i/manipuler_les_images.38421"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/manipuler-les-images"
+            licence:
+          - name: "Images matricielles, images vectorielles"
+            type: "Grain ou élément de cours"
+            volume: "3min"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/images-matricielles-images-vectorielles"
+            licence:
+          - name: "Traitement des images matricielles"
+            type: "Grain ou élément de cours"
+            volume: "3min"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-matricielles"
+            licence:
+          - name: "Traitement des images vectorielles"
+            type: "Grain ou élément de cours"
+            volume: "2min"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-vectorielles"
             licence:
           - name: "Images matricielles, images vectorielles"
             type: "Grain ou élément de cours"

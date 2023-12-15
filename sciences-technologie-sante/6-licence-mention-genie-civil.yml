@@ -56,6 +56,11 @@ years:
           - name: "L1: Mécanique du point"
             type: "Cours complet ou MOOC *"
             volume: "50h"
+            url: "https://socles3.unisciel.fr/enrol/index.php?id=17"
+            licence:
+          - name: "Mécanique"
+            type: "Module"
+            volume: "10h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=17"
             licence:
           - name: "Mécanique"
@@ -64,8 +69,13 @@ years:
             url: "https://unisciel.org/r/2uel.4/25/meca/meca/co/meca.html"
             licence:
           - name: "Mécanique"
-            type: "Grain ou élément de cours"
+            type: "Module"
             volume: "3h"
+            url: "https://ressources.unisciel.fr/DAEU/physique/mecanique/co/Bloc4_web.html"
+            licence:
+          - name: "Mécanique - 1ère année de CPGE scientifique, voie MPSI"
+            type: "Cours complet ou MOOC"
+            volume: "11h"
             url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
             licence:
           - name: "Mécanique 1"
@@ -340,7 +350,7 @@ years:
             licence:
           - name: "L1: Électrocinétique en régime continu permanent"
             type: "Cours complet ou MOOC *"
-            volume: "8h"
+            volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"
             licence:
           - name: "L1: Électrocinétique en régime sinusoïdal permanent"
@@ -690,6 +700,16 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+            licence:
+          - name: "Communiquer avec ses enseignants"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1021"
+            licence:
+          - name: "Rédiger une bibliographie norme Chicago Manual of Style"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1023"
             licence:
       - name: "Français écrit"
         resources:
