@@ -1103,7 +1103,7 @@ years:
             url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/01-Atomistique_web.html"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Structure et propriétés de l’atome"
             type: "Module"
             volume: "1h"

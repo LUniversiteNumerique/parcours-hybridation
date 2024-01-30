@@ -883,7 +883,7 @@ years:
             url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Comment se forme un tsunami ?"
             type: "Grain ou élément de cours"
             volume: "4min"

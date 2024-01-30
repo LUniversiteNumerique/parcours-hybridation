@@ -870,7 +870,7 @@ years:
             url: "https://unisciel.org/r/269.4/69-comment-predit-on-la-meteo/"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Qu’est ce que l’effet de serre ?"
             type: "Grain ou élément de cours"
             volume: "3min"
