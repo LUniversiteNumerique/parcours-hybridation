@@ -1914,7 +1914,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1_ch01/co/apprendre_01.html"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géodynamique externe"
         resources:
           - name: "Comment différencier les enveloppes atmosphériques"
@@ -1923,63 +1923,63 @@ years:
             url: "https://unisciel.org/r/216-18.ens-1470/22/structure-atmosphere2.xml"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Quel est le rôle de l’ozone dans la séparation troposphère/stratosphère"
             type: "Module"
             volume: "10min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/ozone-stratosphere.xml"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Analogies et expériences simples pour comprendre la physique du climat"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/25-des-climats.xml"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Historique de l’effet de serre"
             type: "Module"
             volume: "20min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/histoire-effet-de-serre.xml"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Rayonnement thermique, bilan radiatif et effet de serre"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/216-18.ens-1470/5/dossiers-thematiques/bilan-radiatif-18"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La mystérieuse « force de Coriolis »"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/216-18.ens-1470/22/force-de-coriolis.xml"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Comment prédit-on la météo ?"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://unisciel.org/r/269.4/69-comment-predit-on-la-meteo/"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Qu’est ce que l’effet de serre ?"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Comment se forme un tsunami ?"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Mécanique des solides"
         resources:
           - name: "Poutres Longues : Forces intérieures"
@@ -2074,7 +2074,7 @@ years:
             url: "https://unisciel.org/r/216-18.ens-1470/22/vade-mecum-granites.xml"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Connaissance de l’entreprise"
         resources:
           - name: "Stratégie d'entreprise"
@@ -2161,7 +2161,7 @@ years:
             url: "https://www.canal-u.tv/chaines/unit/panorama-des-objets-connectes"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Objets connectés : des radiofréquences aux réseaux"
             type: "Cours complet ou MOOC **"
             volume: "16h"
@@ -2184,7 +2184,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"
