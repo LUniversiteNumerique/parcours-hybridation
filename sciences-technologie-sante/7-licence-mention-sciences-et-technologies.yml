@@ -856,7 +856,7 @@ years:
             volume: "6h"
             url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G03/co/NLP_C_M15_G03_web.html"
             licence:
-         - name: "L1: Électrocinétique en régime continu permanent"
+          - name: "L1: Électrocinétique en régime continu permanent"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"

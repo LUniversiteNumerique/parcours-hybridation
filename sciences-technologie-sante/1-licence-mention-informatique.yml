@@ -1051,7 +1051,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"

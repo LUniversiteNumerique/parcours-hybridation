@@ -819,7 +819,7 @@ years:
             url: "https://unisciel.org/r/216-18.ens-1470/22/seisme-magnitude-moment-energie.xml"
             licence:
                - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Enregistrement des ondes sismiques sur un sismogramme"
             type: "Module"
             volume: "20min"

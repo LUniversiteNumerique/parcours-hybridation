@@ -1216,7 +1216,7 @@ years:
             licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-         - name: "Espaces probabilisés"
+          - name: "Espaces probabilisés"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/13_Espaces_probabilises.pdf"

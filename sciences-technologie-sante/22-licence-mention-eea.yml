@@ -587,7 +587,7 @@ years:
             url: "https://unisciel.org/r/25.4/7/25/td_meca/co/27.html"
             licence:
               - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"licence:
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Mesure d’un moment d’inertie"
             type: "TP, exercice, quiz"
             volume: "10min"
@@ -619,7 +619,7 @@ years:
             licence:
       - name: "Électricité/ électrocinétique/ électronique"
         resources:
-         - name: "L1: Électrocinétique en régime continu permanent"
+          - name: "L1: Électrocinétique en régime continu permanent"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"

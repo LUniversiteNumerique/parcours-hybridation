@@ -595,6 +595,7 @@ years:
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=f8bf7732-7cd7-4683-b40c-a1a525bae1f6"
+            licence:
               - name: "CC by NC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La lettre Riabova : étude d’une lettre de dénonciation dans l’Union Soviétique des années 30"

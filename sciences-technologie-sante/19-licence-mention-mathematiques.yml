@@ -73,7 +73,7 @@ years:
             licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-         - name: "Apprendre à programmer avec des cartes"
+          - name: "Apprendre à programmer avec des cartes"
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
@@ -715,7 +715,7 @@ years:
             volume: "10min"
             url: "https://ikigai.games/games/gameDetails/20"
             licence:
-         - name: "L1: Électrocinétique en régime continu permanent"
+          - name: "L1: Électrocinétique en régime continu permanent"
             type: "Cours complet ou MOOC *"
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"
