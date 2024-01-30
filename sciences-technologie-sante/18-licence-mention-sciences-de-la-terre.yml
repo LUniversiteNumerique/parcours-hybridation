@@ -829,8 +829,6 @@ years:
                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géodynamique externe"
         resources:
-              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Quel est le rôle de l’ozone dans la séparation troposphère / stratosphère"
             type: "Module"
             volume: "10min"
