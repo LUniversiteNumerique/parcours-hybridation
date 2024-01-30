@@ -1,10 +1,10 @@
 id: 36
 name: "Licence mention humanités"
 description: |
-  Ce parcours type met à disposition des ressources éducatives libres pour enseigner les différentes 
-  disciplines de cette formation, rassemblées autour d’un tronc commun correspondant à ce qu’on appelle 
-  traditionnellement les humanités : <strong>lettres, philosophie, histoire, culture classique</strong>. 
-  Il propose également des contenus pour l’étude renforcée de <strong>langues vivantes</strong> et des 
+  Ce parcours type met à disposition des ressources éducatives libres pour enseigner les différentes
+  disciplines de cette formation, rassemblées autour d’un tronc commun correspondant à ce qu’on appelle
+  traditionnellement les humanités : <strong>lettres, philosophie, histoire, culture classique</strong>.
+  Il propose également des contenus pour l’étude renforcée de <strong>langues vivantes</strong> et des
   <strong>enseignements transversaux</strong> (compétences informatiques, méthodologie).
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -475,7 +475,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
