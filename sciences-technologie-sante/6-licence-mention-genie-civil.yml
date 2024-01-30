@@ -689,12 +689,8 @@ years:
             volume: "26h"
             url: "https://uoh.fr/front/noticefr/?uuid=cc2b2954-1353-48a3-a887-8a6af523f91f"
             licence:
-              - name: "CC"
-                image: "https://luniversitenumerique.fr/images/cc.svg"
-              - name: "BY"
-                image: "https://luniversitenumerique.fr/images/by.svg"
-              - name: "NC"
-                image: "https://luniversitenumerique.fr/images/nc.svg"
+              - name: "CC by NC"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -2239,7 +2235,7 @@ years:
             url: "https://www.uved.fr/fiche/ressource/la-geothermie-haute-temperature-non-conventionnelle-aujourdhui-le-projet-ecogi"
             licence:
                - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Restauration des écosystèmes"
         resources:
           - name: "Restauration écologique et/ou ingénierie écologique ?"

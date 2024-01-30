@@ -607,14 +607,14 @@ years:
             volume: "5h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
             licence:
-                - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
           - name: "Lire Montesquieu. les enjeux d’une édition"
             type: "Cours complet ou MOOC"
             volume: "8h"
             url: "https://uoh.fr/front/noticefr/?uuid=47d1262a-da6c-4503-93f6-ead7226fb15e"
             licence:
-                - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
           - name: "Pourquoi les corps tombent-ils ? Une histoire de la gravité d’Aristote à Einstein"
             type: "Module"
@@ -636,21 +636,21 @@ years:
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/les-odd-comme-nouvelle-citoyennete-mondiale"
             licence:
-                - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
           - name: "L’humain dans la biodiversité"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://www.uved.fr/fiche/ressource/lhumain-dans-la-biodiversite"
             licence:
-                - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
           - name: "Nous et les autres animaux demain : approche philosophique"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/nous-et-les-autres-animaux-demain-approche-philosophique"
             licence:
-                - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
       - name: "Maîtriser une langue étrangère"
         resources:
