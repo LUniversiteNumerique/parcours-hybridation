@@ -368,7 +368,6 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-                image: "https://luniversitenumerique.fr/images/nc.svg"
           - name: "Des outils pour accompagner la transition des villes et des territoires"
             type: "Grain ou élément de cours"
             volume: "12min"
@@ -1213,7 +1212,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=827"
             licence:
                - name: "CC by NC"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Modes de production et de consommation"
             type: "Module"
             volume: "20min"

@@ -1550,7 +1550,7 @@ years:
             volume: "30h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
             licence:
-         - name: "Espaces probabilisés"
+          - name: "Espaces probabilisés"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/25.4/7/6/54/res/13_Espaces_probabilises.pdf"

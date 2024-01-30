@@ -303,7 +303,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=71"
             licence:
                - name: "CC by NC"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Découvrir les différents types de machines-outils"
             type: "Cours complet ou MOOC"
             volume: "5h"

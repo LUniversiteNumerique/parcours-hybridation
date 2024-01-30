@@ -826,7 +826,7 @@ years:
             url: "https://unisciel.org/r/216-18.ens-1470/22/sismogramme.xml"
             licence:
                - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géodynamique externe"
         resources:
               - name: "CC by NC SA"

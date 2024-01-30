@@ -1225,7 +1225,7 @@ years:
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A12277"
             licence:
                - name: "CC by NC"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Qualité et organisation"
             type: "Module"
             volume: "1h"
