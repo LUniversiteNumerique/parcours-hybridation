@@ -740,7 +740,7 @@ years:
             url: "https://unisciel.org/r/25.4/petronille/co/petronille_web.html"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Vade-mecum sur l’origine des granites"
             type: "Module"
             volume: "10min"

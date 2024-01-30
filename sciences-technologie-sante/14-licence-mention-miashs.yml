@@ -86,7 +86,7 @@ years:
             licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-         - name: "Apprendre à programmer avec des cartes"
+          - name: "Apprendre à programmer avec des cartes"
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"

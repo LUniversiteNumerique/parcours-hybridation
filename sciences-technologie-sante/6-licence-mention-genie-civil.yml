@@ -424,7 +424,7 @@ years:
             volume: "40h"
             url: "http://www.unit.eu/cours/Cfacile/co/C_facile_web.html"
             licence:
-             - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Électricité et électronique"
         resources:
