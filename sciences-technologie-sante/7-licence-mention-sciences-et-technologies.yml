@@ -1880,7 +1880,7 @@ years:
             licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Atomistique"²
+      - name: "Atomistique"
         resources:
           - name: "La chimie par le web – Atomistique (Structure et propriétés des atomes)"
             type: "Module"
