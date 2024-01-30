@@ -110,7 +110,7 @@ years:
             url: "https://ressources.unisciel.fr/DAEU/physique/mecanique/co/Bloc4_web.html"
             licence: 
                - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"           
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"           
           - name: "Mécanique - 1ère année de CPGE scientifique, voie MPSI"
             type: "Cours complet ou MOOC"
             volume: "11h"

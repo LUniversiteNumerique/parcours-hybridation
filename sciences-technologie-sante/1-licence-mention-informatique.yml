@@ -25,7 +25,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Advanced Object-Oriented Design"
             type: "Grain ou élément de cours"
             volume: "30h30"

@@ -102,7 +102,7 @@ years:
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=53"
             licence:
-               - name: "CC by NC ND"
+              - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les philosophes et la Bible"
             type: "Cours complet ou MOOC"

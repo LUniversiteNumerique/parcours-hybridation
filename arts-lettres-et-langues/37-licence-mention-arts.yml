@@ -91,7 +91,7 @@ years:
             type: "Cours complet ou MOOC **"
             volume: "20h"
             url: "https://www.fun-campus.fr/fr/cours/la-sculpture-grecque-dalexandre-cleopatre-partie-ii/"
-            licence:"
+            licence:
       - name: "Atelier de découverte"
         resources:
           - name: "L’image photographique"
