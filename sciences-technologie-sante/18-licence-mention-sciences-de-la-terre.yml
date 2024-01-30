@@ -880,7 +880,7 @@ years:
             url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géotechniques"
         resources:
           - name: "Détermination de l’altitude des montagnes par la méthode géodésique"

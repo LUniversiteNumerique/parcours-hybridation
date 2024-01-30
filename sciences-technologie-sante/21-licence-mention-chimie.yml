@@ -1114,7 +1114,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII_ch02/co/modelisationII_ch02_1.html"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Propriétés atomiques"
             type: "Module"
             volume: "1h"
