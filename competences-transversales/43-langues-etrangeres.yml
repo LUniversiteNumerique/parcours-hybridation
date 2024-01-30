@@ -1,7 +1,7 @@
 id: 43
 name: "Langues étrangères"
 description: |
-  Les ressources et formations listées sont utilisées dans le cadre d’enseignements ou en auto-formation 
+  Les ressources et formations listées sont utilisées dans le cadre d’enseignements ou en auto-formation
   pour <strong>développer les compétences en langues vivantes étrangères</strong> des étudiants.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -351,7 +351,7 @@ years:
             url: "https://eformation.univ-grenoble-alpes.fr/course/index.php?categoryid=414"
             licence:
               - name: "CC by NC"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Actu FLE"
             type: "Cours complet ou MOOC"
             volume: "52h"

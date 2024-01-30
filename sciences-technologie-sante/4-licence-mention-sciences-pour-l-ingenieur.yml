@@ -1772,7 +1772,7 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7033"
             licence:
-           - name: "Utilisation industrielle de la modélisation (Module M4 de MECAGORA)"
+          - name: "Utilisation industrielle de la modélisation (Module M4 de MECAGORA)"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-673"
