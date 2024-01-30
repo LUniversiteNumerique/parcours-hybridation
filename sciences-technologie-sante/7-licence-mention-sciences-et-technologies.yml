@@ -1900,7 +1900,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/51/51_ch04/co/51_ch04.html"
             licence:
              - name: "CC by NC SA"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Orbitales atomiques"
             type: "Module"
             volume: "1h"
