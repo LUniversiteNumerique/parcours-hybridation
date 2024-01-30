@@ -8,22 +8,28 @@ description: |
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 resources:
   - name: "Améliorer ses écrits"
-    type: "Cours complet ou MOOC *"
+    type: "Cours complet ou MOOC"
     volume: "20h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
     licence:
+      - name: "CC by NC SA"
+        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Renforcer ses compétences orthographiques"
     type: "Cours complet ou MOOC **"
     volume: "12h"
-    url: "https://www.fun-campus.fr/fr/cours/renforcer-ses-competences-orthographiques/"
+    url: "https://uoh.fr/front/noticefr/?uuid=b2e045b1-b8f8-4756-8986-56f3001a402e"
     licence:
   - name: "J'améliore mon français écrit"
-    Type: "Cours complet ou MOOC *"
+    Type: "Cours complet ou MOOC"
     volume: "26h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
     licence:
+      - name: "CC by NC SA"
+        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Grammaire élémentaire de la langue française"
-    type: "Module *"
+    type: "Module"
     volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=44"
     licence:
+      - name: "CC by NC SA"
+        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

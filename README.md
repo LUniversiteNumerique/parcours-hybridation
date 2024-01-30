@@ -17,7 +17,13 @@ years:
             type: TYPE DE LA RESSOURCE
             volume: VOLUME DE LA RESSOURCE
             url: URL DE LA RESSOURCE
-            licence: LICENCE DE LA RESSOURCE (ou vide)
+            licence:
+              - name: "CC"
+                image: "https://luniversitenumerique.fr/images/cc.svg"
+              - name: "BY"
+                image: "https://luniversitenumerique.fr/images/by.svg"
+              - name: "NC"
+                image: "https://luniversitenumerique.fr/images/nc.svg" LICENCE DE LA RESSOURCE (ou vide)
 ```
 
 ## Ajouter une nouvelle entrée dans un champ disciplinaire :
