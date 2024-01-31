@@ -167,9 +167,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Données et algorithmes"
             type: "Cours complet ou MOOC **"
-            volume: "6h"
-            url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
+            volume: "18h"
+            url: "https://www.fun-mooc.fr/fr/cours/donnees-et-algorithmes/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "Base de données"
         resources:
           - name: "Le langage UML"
@@ -192,8 +194,10 @@ years:
           - name: "Bases de données relationnelles : comprendre pour maitriser"
             type: "Cours complet ou MOOC **"
             volume: "24h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-de-donnees-relationnelles-comprendre-pour-maitriser/"
+            url: "https://www.fun-mooc.fr/fr/cours/bases-de-donnees-relationnelles-comprendre-pour-maitriser/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"   
       - name: "Services sur Réseaux"
         resources:
           - name: "Comprendre le cœur d’internet : les réseaux d’opérateurs"
@@ -457,13 +461,13 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Zotero premiers pas"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+        #  - name: "Zotero premiers pas"
+         #   type: "Grain ou élément de cours"
+          #  volume: "30min"
+           # url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+          #  licence:
+           #   - name: "CC by NC ND"
+            #    image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -527,34 +531,34 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Débuter avec R et RStudio"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Excel - Premiers pas"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Disserter en géographie"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Prendre des notes"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #    - name: "Débuter avec R et RStudio"
+       #     type: "Grain ou élément de cours"
+        #    volume: "30min"
+         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+         #   licence:
+          #    - name: "CC by NC ND"
+           #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+   #       - name: "Excel - Premiers pas"
+    #        type: "Grain ou élément de cours"
+     #       volume: "30min"
+      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+       #     licence:
+       #       - name: "CC by NC ND"
+        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+     #     - name: "Disserter en géographie"
+      #      type: "Grain ou élément de cours"
+      #      volume: "30min"
+      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+       #     licence:
+       #       - name: "CC by NC ND"
+        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Prendre des notes"
+       #     type: "Grain ou élément de cours"
+        #    volume: "30min"
+         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+         #   licence:
+         #     - name: "CC by NC ND"
+          #      image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -589,8 +593,10 @@ years:
           - name: "Protection des données personnelles : le nouveau droit"
             type: "Cours complet ou MOOC **"
             volume: "12h"
-            url: "https://www.fun-campus.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
+            url: "https://www.fun-mooc.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Maths pour le web/audiovisuel"
         resources:
           - name: "Matrices"
@@ -667,8 +673,10 @@ years:
           - name: "Programmation objet : premiers pas en Java"
             type: "Cours complet ou MOOC **"
             volume: "35h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-objet-premiers-pas-en-java/"
+            url: "https://www.fun-mooc.fr/fr/cours/programmation-objet-premiers-pas-en-java/"
             licence:
+              - name: "CC by NC SA"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Python 3 : des fondamentaux aux concepts avancés du langage"
             type: "Cours complet ou MOOC **"
             volume: "81h"
@@ -690,9 +698,11 @@ years:
         resources:
           - name: "Défis et enjeux de la cybersécurité"
             type: "Cours complet ou MOOC **"
-            volume: "12h"
-            url: "https://www.fun-campus.fr/fr/cours/defis-et-enjeux-de-la-cybersecurite/"
+            volume: "11h"
+            url: "https://www.fun-mooc.fr/fr/cours/defis-et-enjeux-de-la-cybersecurite/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Intégration Web"
         resources:
           - name: "Animation d’une page Web avec Javascript et SVG"
@@ -769,13 +779,16 @@ years:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
             volume: "10h"
-            url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
+            url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"             
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"
-            url: "https://www.fun-campus.fr/fr/cours/unlock-your-english-session-1/"
+            url: "https://www.fun-mooc.fr/fr/cours/unlock-your-english/"
             licence:
-
+              - name: "CC by NC SA"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "3ème année"
     ue:

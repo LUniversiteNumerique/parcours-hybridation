@@ -3,11 +3,11 @@ name: "Culture numérique"
 description: |
   <p>Le parcours proposé ici permet de se former aux compétences numériques. Il vise notamment à préparer la 
   <a href="https://pix.fr/" target="_blank" title="lien vers le site Pix">certification Pix</a>.</p>
-  <p>Pix est un service public permettant à ses utilisateurs d’évaluer, développer et certifier leurs compétences 
-  numériques. Pix propose également une certification des compétences numériques, reconnue par l’État et le monde 
+  <p>Pix est un service public permettant à ses utilisateurs d’évaluer, développer et certifier leurs compétences
+  numériques. Pix propose également une certification des compétences numériques, reconnue par l’État et le monde
   professionnel.</p>
   <br>
-  <p>Les formations suivantes sont utilisées dans le cadre d’enseignements et en auto-formation pour développer 
+  <p>Les formations suivantes sont utilisées dans le cadre d’enseignements et en auto-formation pour développer
   la culture et les compétences numériques.</p>
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.
@@ -47,8 +47,10 @@ years:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
@@ -199,8 +201,10 @@ years:
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Partyright"
             type: "TP, exercice, quiz"
             volume: "45min"
@@ -253,8 +257,10 @@ years:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "2.4. S’insérer dans le monde numérique"
         resources:
           - name: "S’insérer dans le monde numérique"
@@ -286,8 +292,10 @@ years:
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/usages-du-web/"
+            url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Hellink"
             type: "TP, exercice, quiz"
             volume: "8h"
@@ -350,10 +358,12 @@ years:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Documents dans le Cloud"
-            type: " Cours complet ou MOOC **"
+            type: "Cours complet ou MOOC **"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Word"
             type: "Cours complet ou MOOC"
             volume: "60h"
@@ -462,8 +472,10 @@ years:
           - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "3.3. Adapter les documents à leur finalité"
         resources:
           - name: "Adapter les documents à leur finalité"
@@ -503,9 +515,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Données et algorithmes"
             type: " Cours complet ou MOOC **"
-            volume: "6h"
-            url: "https://www.fun-campus.fr/fr/cours/donnees-et-algorithmes/"
+            volume: "18h"
+            url: "https://www.fun-mooc.fr/fr/cours/donnees-et-algorithmes/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "4.1. Sécuriser l’environnement numérique"
         resources:
           - name: "Sécuriser l’environnement numérique"

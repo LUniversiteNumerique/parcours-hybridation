@@ -1,10 +1,10 @@
 id: 32
 name: "BUT spécialité techniques de commercialisation"
 description: |
-  Ce parcours propose des ressources permettant de <strong>se former à tous les champs de métiers du 
-  commerce</strong>. Le diplômé TC est polyvalent, il intervient dans toutes les étapes de la 
-  commercialisation : de l’étude de marché à la vente en passant par la stratégie marketing, 
-  la communication commerciale, la négociation achat et la négociation vente, la relation client, etc. 
+  Ce parcours propose des ressources permettant de <strong>se former à tous les champs de métiers du
+  commerce</strong>. Le diplômé TC est polyvalent, il intervient dans toutes les étapes de la
+  commercialisation : de l’étude de marché à la vente en passant par la stratégie marketing,
+  la communication commerciale, la négociation achat et la négociation vente, la relation client, etc.
   Il opère dans tous les secteurs de l’activité́ économique. PARCOURS EN TRAVAUX BUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -105,7 +105,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -607,13 +607,13 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Zotero premiers pas"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+        #  - name: "Zotero premiers pas"
+         #   type: "Grain ou élément de cours"
+          #  volume: "30min"
+           # url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+          #  licence:
+           #   - name: "CC by NC ND"
+            #    image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -660,7 +660,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -677,31 +677,34 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Débuter avec R et RStudio"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-          - name: "Excel - Premiers pas"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Disserter en géographie"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Prendre des notes"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Débuter avec R et RStudio"
+        #    type: "Grain ou élément de cours"
+        #    volume: "30min"
+         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+         #   licence: 
+          #    - name: "CC by NC ND"
+           #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+   #       - name: "Excel - Premiers pas"
+    #        type: "Grain ou élément de cours"
+     #       volume: "30min"
+      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+       #     licence:
+       #       - name: "CC by NC ND"
+        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+     #     - name: "Disserter en géographie"
+      #      type: "Grain ou élément de cours"
+      #      volume: "30min"
+      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+       #     licence:
+       #       - name: "CC by NC ND"
+        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Prendre des notes"
+       #     type: "Grain ou élément de cours"
+        #    volume: "30min"
+         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+         #   licence:
+         #     - name: "CC by NC ND"
+          #      image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -968,9 +971,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Protection des données personnelles : le nouveau droit"
             type: "Cours complet ou MOOC **"
-            volume: "12h"
-            url: "https://www.fun-campus.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
+            volume: "15h"
+            url: "https://www.fun-mooc.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Mathématiques"
         resources:
           - name: "Utiliser des statistiques dans l’analyse économique"
@@ -1061,13 +1066,17 @@ years:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
             volume: "10h"
-            url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
+            url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"
-            url: "https://www.fun-campus.fr/fr/cours/unlock-your-english-session-1/"
+            url: "https://www.fun-mooc.fr/fr/cours/unlock-your-english/"
             licence:
+              - name: "CC by NC SA"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Reclutamiento"
             type: "Module *"
             volume: "3h"

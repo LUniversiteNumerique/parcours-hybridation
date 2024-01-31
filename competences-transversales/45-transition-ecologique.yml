@@ -87,7 +87,7 @@ resources:
     type: "Cours complet ou MOOC"
     volume: "18h"
     url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=376"
-    licence: 
+    licence:
         - name: "CC by NC SA"
           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
@@ -529,42 +529,42 @@ years:
             url: "https://www.uved.fr/fiche/ressource/les-grandes-crises-de-la-biodiversite"
             licence:
               - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"    
           - name: "L’évaluation globale de la biodiversité et des services écosystémiques l’IPBES (2019)"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/levaluation-globale-de-la-biodiversite-et-des-services-ecosystemiques-de-lipbes-2019"
             licence:
               - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La flexibilité du vivant dans les scénarios de biodiversité"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/la-flexibilite-du-vivant-dans-les-scenarios-de-biodiversite"
             licence:
               - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Outils et cultures chez les autres animaux"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/outils-et-cultures-chez-les-autres-animaux"
             licence:
               - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’humain dans la biodiversité"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://www.uved.fr/fiche/ressource/lhumain-dans-la-biodiversite"
             licence:
               - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les avenirs possbiles de la biodiversité"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/les-avenirs-possibles-de-la-biodiversite"
             licence:
               - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Regards croisés sur l’enjeu biodiversité"
         resources:
           - name: "S’inspirer du vivant"
@@ -1320,3 +1320,4 @@ years:
             licence:
               - name: "CC by NC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+   

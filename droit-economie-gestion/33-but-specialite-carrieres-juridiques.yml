@@ -1,11 +1,11 @@
 id: 33
 name: "BUT spécialités carrières juridiques"
 description: |
-  Ce parcours type propose des ressources pour hybrider une <strong>formation pluridisciplinaire à dominante 
-  juridique, destinée à former des techniciens du droit</strong> dans des domaines variés. Il propose trois 
-  voies d’insertion professionnelle (Administration publique, Banque-Assurance, Juriste d’entreprise) qui 
-  permettent au diplômé de s’insérer dans différents environnements : juridique, entreprises privées, 
-  assurances, banques, organismes de crédit, associations, collectivités territoriales, fonctions publiques 
+  Ce parcours type propose des ressources pour hybrider une <strong>formation pluridisciplinaire à dominante
+  juridique, destinée à former des techniciens du droit</strong> dans des domaines variés. Il propose trois
+  voies d’insertion professionnelle (Administration publique, Banque-Assurance, Juriste d’entreprise) qui
+  permettent au diplômé de s’insérer dans différents environnements : juridique, entreprises privées,
+  assurances, banques, organismes de crédit, associations, collectivités territoriales, fonctions publiques
   d’État et territoriale (concours). PARCOURS EN TRAVAUX BUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -331,7 +331,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "CC by NC SA"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Excel 2010 en 2 minutes"
@@ -349,11 +349,13 @@ years:
             volume: "5h"
             url: "https://www.iutenligne.net/ressources/powerpoint-2010.html"
             licence:
-          - name: "Documents dans le cloud"
+          - name: "Documents dans le Cloud"
             type: "Cours complet ou MOOC **"
             volume: "18h"
-            url: "https://www.fun-campus.fr/fr/cours/documents-dans-le-cloud/"
+            url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
+              - name: "CC by"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Usage du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -702,13 +704,13 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Zotero premiers pas"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+        #  - name: "Zotero premiers pas"
+         #   type: "Grain ou élément de cours"
+          #  volume: "30min"
+           # url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+          #  licence:
+           #   - name: "CC by NC ND"
+            #    image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -765,31 +767,34 @@ years:
             licence:
               - name: "CC by NC ND"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Débuter avec R et RStudio"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-          - name: "Excel - Premiers pas"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Disserter en géographie"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Prendre des notes"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-            licence:
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Débuter avec R et RStudio"
+        #    type: "Grain ou élément de cours"
+        #    volume: "30min"
+         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+         #   licence: 
+          #    - name: "CC by NC ND"
+           #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+   #       - name: "Excel - Premiers pas"
+    #        type: "Grain ou élément de cours"
+     #       volume: "30min"
+      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+       #     licence:
+       #       - name: "CC by NC ND"
+        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+     #     - name: "Disserter en géographie"
+      #      type: "Grain ou élément de cours"
+      #      volume: "30min"
+      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+       #     licence:
+       #       - name: "CC by NC ND"
+        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Prendre des notes"
+       #     type: "Grain ou élément de cours"
+        #    volume: "30min"
+         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+         #   licence:
+         #     - name: "CC by NC ND"
+          #      image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -879,13 +884,17 @@ years:
           - name: "Former et développer les compétences : innovation et pilotage"
             type: "Cours complet ou MOOC **"
             volume: "12h"
-            url: "https://www.fun-campus.fr/fr/cours/former-et-developper-les-competences-innovation-et-pilotage/"
+            url: "https://www.fun-mooc.fr/fr/cours/mooc-former-et-developper-les-competences-innovation-et-pilotage/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Protection des données personnelles : le nouveau droit"
             type: " Cours complet ou MOOC **"
-            volume: "12h"
-            url: "https://www.fun-campus.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
+            volume: "15h"
+            url: "https://www.fun-mooc.fr/fr/cours/protection-des-donnees-personnelles-le-nouveau-droit/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Fiscalité"
         resources:
           - name: "Fiscalité : mécanisme et principes généraux de la TVA"
@@ -1061,8 +1070,10 @@ years:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
             volume: "10h"
-            url: "https://www.fun-campus.fr/fr/cours/conduite-de-reunion-en-anglais/"
+            url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
+              - name: "CC by NC ND"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
           - name: "Espagnol – Grammaire"
             type: "Module *"
             volume: "1h"
