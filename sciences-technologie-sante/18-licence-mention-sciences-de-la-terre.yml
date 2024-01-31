@@ -674,9 +674,6 @@ years:
          #   licence: 
           #    - name: "CC by NC ND"
            #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-            licence: 
-              - name: "CC by NC ND"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
    #       - name: "Excel - Premiers pas"
     #        type: "Grain ou élément de cours"
      #       volume: "30min"
