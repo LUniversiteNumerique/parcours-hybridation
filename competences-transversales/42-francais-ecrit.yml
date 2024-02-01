@@ -12,7 +12,7 @@ resources:
     volume: "20h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
     licence:
-      - name: "CC by NC SA"
+      - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Renforcer ses compétences orthographiques"
     type: "Cours complet ou MOOC **"
@@ -24,12 +24,12 @@ resources:
     volume: "26h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
     licence:
-      - name: "CC by NC SA"
+      - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Grammaire élémentaire de la langue française"
     type: "Module"
     volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=44"
     licence:
-      - name: "CC by NC SA"
+      - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
