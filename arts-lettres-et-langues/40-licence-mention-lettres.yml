@@ -827,7 +827,7 @@ years:
           - name: "Séminaire « Le Rendez-vous des Lettres » : Pourquoi et comment transmettre aujourd’hui ?"
             type: "Grain ou élément de cours"
             volume: "36min"
-            url: "https://www.canal-u.tv/video/eduscol/theme_1_pourquoi_et_comment_transmettre_aujourd_hui_partie_3.33055"
+            url: "https://www.canal-u.tv/chaines/eduscol/2016-2017/theme-1-pourquoi-et-comment-transmettre-aujourd-hui-partie-3"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -892,7 +892,7 @@ years:
           - name: "Albert Camus : littérature, morale, philosophie"
             type: "Grain ou élément de cours"
             volume: "9h"
-            url: "https://www.canal-u.tv/producteurs/ens_paris/les_grandes_lecons/albert_camus_litterature_morale_philosophie"
+            url: "https://www.canal-u.tv/chaines/ens-paris/albert-camus-litterature-morale-philosophie"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -1017,7 +1017,7 @@ years:
           - name: "Aux premiers temps de l’Inquisition espagnole : 1478-1561"
             type: "Cours complet ou MOOC"
             volume: "9h"
-            url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/aux_premiers_temps_de_l_inquisition_espagnole_1478_1561"
+            url: "https://www.canal-u.tv/chaines/ens-de-lyon/aux-premiers-temps-de-l-inquisition-espagnole-1478-1561"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -1038,7 +1038,7 @@ years:
           - name: "Philosophie chinoise"
             type: "Grain ou élément de cours"
             volume: "4h"
-            url: "https://www.canal-u.tv/producteurs/ecole_normale_superieure_de_lyon/cours/philosophie_chinoise"
+            url: "https://www.canal-u.tv/chaines/ens-de-lyon/philosophie-chinoise"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

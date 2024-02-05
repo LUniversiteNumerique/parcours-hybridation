@@ -39,7 +39,7 @@ years:
           - name: "Techniques statistiques"
             type: "Module"
             volume: "1h"
-            url: "https://www.canal-u.tv/video/eco_gestion/techniques_statistiques.768"
+            url: "https://www.canal-u.tv/chaines/eco-gestion/gestion-de-la-qualite/techniques-statistiques"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -77,21 +77,21 @@ years:
           - name: "Les fondamentaux – 3 – la comptabilité, comment cela marche ?"
             type: "Grain ou élément de cours"
             volume: "1h"
-            url: "https://www.canal-u.tv/video/eco_gestion/les_fondamentaux_en_comptabilite_3_la_comptabilite_comment_cela_marche.3700"
+            url: "https://www.canal-u.tv/chaines/eco-gestion/comptabilite/les-fondamentaux-en-comptabilite-4-la-comptabilite-privee-comment"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Les fondamentaux – 4 – la comptabilité privée, comment cela se passe ?"
             type: "Grain ou élément de cours"
             volume: "45min"
-            url: "https://www.canal-u.tv/video/eco_gestion/les_fondamentaux_en_comptabilite_4_la_comptabilite_privee_comment_cela_se_passe.3773"
+            url: "https://www.canal-u.tv/chaines/eco-gestion/comptabilite/les-fondamentaux-en-comptabilite-4-la-comptabilite-privee-comment"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Les fondamentaux – 5 – La comptabilité publique, comment cela se passe ?"
             type: "Grain ou élément de cours"
             volume: "31min"
-            url: "https://www.canal-u.tv/video/eco_gestion/les_fondamentaux_en_comptabilite_5_la_comptabilite_publique_comment_cela_se_passe.3206"
+            url: "https://www.canal-u.tv/chaines/eco-gestion/comptabilite/les-fondamentaux-en-comptabilite-5-la-comptabilite-publique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -112,7 +112,7 @@ years:
           - name: "Ce que contrôler veut dire"
             type: "Grain ou élément de cours"
             volume: "4min"
-            url: "https://www.canal-u.tv/video/canal_aunege/ce_que_controler_veut_dire.10403"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/controle-de-gestion/ce-que-controler-veut-dire"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -704,7 +704,7 @@ years:
           - name: "Résultat comptable – résultat fiscal"
             type: "Grain ou élément de cours"
             volume: "5min"
-            url: "https://www.canal-u.tv/video/canal_aunege/resultat_comptable_resultat_fiscal.14551"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/fiscalite/resultat-comptable-resultat-fiscal"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"

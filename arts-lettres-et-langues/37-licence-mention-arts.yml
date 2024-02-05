@@ -601,7 +601,7 @@ years:
           - name: "L’analyse de l’image"
             type: "Grain ou élément de cours"
             volume: "1h15"
-            url: "https://www.canal-u.tv/video/universite_de_tous_les_savoirs_au_lycee/l_analyse_de_l_image_bernard_darras.4088"
+            url: "https://www.canal-u.tv/chaines/utls-lycee/l-analyse-de-l-image-bernard-darras"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

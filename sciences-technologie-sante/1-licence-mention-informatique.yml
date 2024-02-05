@@ -1668,7 +1668,7 @@ years:
           - name: "Web sémantique et web de données"
             type: "Cours complet ou MOOC"
             volume: "5h"
-            url: "https://www.canal-u.tv/producteurs/inria/cours_en_ligne/web_semantique_et_web_de_donnees"
+            url: "https://www.canal-u.tv/chaines/inria/formation-cours/cours-en-ligne/web-semantique-et-web-de-donnees"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

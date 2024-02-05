@@ -40,7 +40,7 @@ years:
           - name: "Les droits d’auteur"
             type: "Grain ou élément de cours"
             volume: "5min"
-            url: "https://www.canal-u.tv/video/c2i/les_droits_d_auteur.38533"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/les-droits-d-auteur"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -96,7 +96,7 @@ years:
           - name: "L’interopérabilité en bref"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://www.canal-u.tv/video/c2i/l_interoperabilite.38527"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/l-interoperabilite"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -194,7 +194,7 @@ years:
           - name: "Travailler dans le cloud"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://www.canal-u.tv/video/c2i/travailler_dans_le_cloud.38523"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/travailler-dans-le-cloud"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -250,7 +250,7 @@ years:
           - name: "L’édition collaborative"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://www.canal-u.tv/video/c2i/l_edition_collaborative.38529"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/l-edition-collaborative"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -346,7 +346,7 @@ years:
           - name: "Traitement de texte et structure"
             type: "Grain ou élément de cours"
             volume: "3min"
-            url: "https://www.canal-u.tv/video/c2i/traitement_de_texte_et_structure.38361"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-de-texte-et-structure"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -409,14 +409,14 @@ years:
           - name: "Produire un document multimédia, introduction"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://www.canal-u.tv/video/c2i/produire_un_document_multimedia_introduction.38429"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/produire-un-document-multimedia-introduction"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Les diaporamas"
             type: "Grain ou élément de cours"
             volume: "3min"
-            url: "https://www.canal-u.tv/video/c2i/les_diaporamas.38433"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/les-diaporamas"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -451,21 +451,21 @@ years:
           - name: "Images matricielles, images vectorielles"
             type: "Grain ou élément de cours"
             volume: "3min"
-            url: "https://www.canal-u.tv/video/c2i/images_matricielles_images_vectorielles.38423"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/images-matricielles-images-vectorielles"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Traitement des images matricielles"
             type: "Grain ou élément de cours"
             volume: "3min"
-            url: "https://www.canal-u.tv/video/c2i/traitement_des_images_matricielles.38425"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-matricielles"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Traitement des images vectorielles"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://www.canal-u.tv/video/c2i/traitement_des_images_vectorielles.38427"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-documents-dans-le-cloud/traitement-des-images-vectorielles"
             licence:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"

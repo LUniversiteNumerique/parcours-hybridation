@@ -715,7 +715,7 @@ years:
           - name: "L’informatique dans les années 70 : révolution ou maturité ?"
             type: "Grain ou élément de cours"
             volume: "1h"
-            url: "https://www.canal-u.tv/video/universite_de_bordeaux/l_informatique_dans_les_annees_70_revolution_ou_maturite.3898"
+            url: "https://www.canal-u.tv/chaines/univ-bordeaux/sciences-annees-70/l-informatique-dans-les-annees-70-revolution-ou-maturite"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
