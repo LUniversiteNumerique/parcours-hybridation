@@ -843,20 +843,27 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Rechercher l'information : réussir sa pêche aux informations"
+          - name: "Rechercher l'information"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Méthodologie de la prise de note"
+          - name: "Prendre des notes"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "KIT : apprendre à apprendre"
+            type: "Cours complet ou MOOC"
+            volume: "4h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
@@ -864,11 +871,10 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Réussir ses cours en ligne"
+          - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
-            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
@@ -902,14 +908,7 @@ years:
           - name: "Face à un jury"
             type: "Grain ou élément de cours"
             volume: "4min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Faire l'inventaire de ses compétences"
-            type: "Cours complet ou MOOC"
-            volume: "6h"
-            url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/expression-orale-et-ecrite/face-a-un-jury"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -1097,8 +1096,8 @@ years:
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
 
   - name: "2ème année"
     ue:
