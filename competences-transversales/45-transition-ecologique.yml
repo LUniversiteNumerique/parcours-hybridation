@@ -24,16 +24,22 @@ resources:
     volume: "20min"
     url: "https://www.uved.fr/menu-ressources/positionnement/quiz/1"
     licence:
+        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Niveau intermédiaire"
     type: "TP, exercice, quiz"
     volume: "20min"
     url: "https://www.uved.fr/menu-ressources/positionnement/quiz/2"
     licence:
+        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Niveau avancé"
     type: "TP, exercice, quiz"
     volume: "20min"
     url: "https://www.uved.fr/menu-ressources/positionnement/quiz/3"
     licence:
+        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Biodiversité"
     type: "Cours complet ou MOOC"
     volume: "14h"
@@ -551,7 +557,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "L’humain dans la biodiversité"
+          - name: "L’Humain dans la biodiversité"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://www.uved.fr/fiche/ressource/lhumain-dans-la-biodiversite"
@@ -670,11 +676,15 @@ years:
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/le-systeme-climatique-echelles-despace-et-de-temps"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le changement climatique : naissance d’une problématique"
             type: "Grain ou élément de cours"
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/changement-climatique-la-naissance-dune-problematique"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les gaz à effet de serre"
             type: "Grain ou élément de cours"
             volume: "2h30"

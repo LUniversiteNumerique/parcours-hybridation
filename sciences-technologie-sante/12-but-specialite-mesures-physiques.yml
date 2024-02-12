@@ -549,17 +549,17 @@ years:
           - name: "Découvrir la démarche portfolio"
             type: "Grain ou élément de cours"
             volume: "1min"
-            url: "https://uoh.fr/front/noticefr/?uuid=03fb718e-38a8-46ce-91f2-50daefa38236"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-internet-les-autres-et-moi/decouvrir-la-demarche-e-portfolio-module-35"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Construire son identité numérique/ Faire une recherche de personne"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-internet-les-autres-et-moi/faire-une-recherche-de-personne-module-32"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Langues"
         resources:
           - name: "How to write an email key note"
@@ -634,6 +634,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"

@@ -417,6 +417,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"

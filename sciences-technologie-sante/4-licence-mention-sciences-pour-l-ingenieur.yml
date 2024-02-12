@@ -213,7 +213,7 @@ years:
           - name: "Systèmes linéaires"
             type: "TP, exercice, quiz"
             volume: "3h"
-            url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
+            url: "https://uel.unisciel.fr/mathematiques/geometrie_analytique/geometrie_analytique_ch05/co/geometrie_analytique_ch05.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -744,6 +744,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
@@ -1276,6 +1283,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "L2: Thermodynamique"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -1485,6 +1494,8 @@ years:
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -1757,6 +1768,8 @@ years:
             volume: "25h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-859"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Conversion Thermodynamique de la Chaleur : Modéliser et Simuler"
             type: "Cours complet ou MOOC **"
             volume: "15h"
@@ -1769,6 +1782,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Thermodynamique Expérimentale"
             type: "Cours complet ou MOOC **"
             volume: "60h"
@@ -1790,6 +1805,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7033"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Utilisation industrielle de la modélisation (Module M4 de MECAGORA)"
             type: "Cours complet ou MOOC"
             volume: "60h"
@@ -1797,13 +1814,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Choix de Matériaux et de Procédés"
+          - name: "Choix de matériaux et de procédés"
             type: "Cours complet ou MOOC"
             volume: "40h"
-            url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-673"
+            url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3871"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
       - name: "Méthodes numériques et calcul scientifique"
         resources:
           - name: "MATLAB, pour la résolution de problèmes numériques"

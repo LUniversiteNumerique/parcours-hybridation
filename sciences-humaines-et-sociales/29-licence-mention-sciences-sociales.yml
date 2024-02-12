@@ -202,6 +202,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -496,6 +503,8 @@ years:
             volume: "50h"
             url: "https://pix.fr/"
             licence:
+              - name: "AGPL3"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/agpl3.svg"
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -619,7 +628,7 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Histoire / géographie / civilisation"
         resources:
-          - name: "La Géographie du Canada et sa diversité culturelle"
+          - name: "La géographie du Canada et sa diversité culturelle"
             type: "Cours complet ou MOOC"
             volume: "16h"
             url: "https://uoh.fr/front/noticefr/?uuid=073fc30a-f4d4-4ab8-b9ea-1f869eed7039"
@@ -779,10 +788,12 @@ years:
       - name: "Compétences numériques"
         resources:
           - name: "pix.fr"
-            type: "TP, exercice; quiz"
+            type: "TP, exercice, quiz"
             volume: "50h"
             url: "https://pix.fr/"
             licence:
+              - name: "AGPL3"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/agpl3.svg"
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -1079,7 +1090,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "La Géographie du Canada et sa diversité culturelle"
+          - name: "La géographie du Canada et sa diversité culturelle"
             type: "Cours complet ou MOOC"
             volume: "16h"
             url: "https://uoh.fr/front/noticefr/?uuid=073fc30a-f4d4-4ab8-b9ea-1f869eed7039"

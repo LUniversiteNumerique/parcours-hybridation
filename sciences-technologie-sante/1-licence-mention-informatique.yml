@@ -88,6 +88,8 @@ years:
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -290,6 +292,8 @@ years:
             volume: "50h"
             url: "https://socles3.unisciel.fr/course/view.php?id=40"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Nombres réels, suites et fonctions"
             type: "Module"
             volume: "40min"
@@ -463,7 +467,7 @@ years:
           - name: "Systèmes linéaires"
             type: "TP, exercice, quiz"
             volume: "3h"
-            url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
+            url: "https://uel.unisciel.fr/mathematiques/geometrie_analytique/geometrie_analytique_ch05/co/geometrie_analytique_ch05.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -484,14 +488,14 @@ years:
           - name: "Nombres complexes"
             type: "Module"
             volume: "3h"
-            url: "https://unisciel.org/r/25.4/36/511-14-nbr-complexes/co/511-14_webUnisciel.html"
+            url: "https://ressources.unisciel.fr/ramses/511-14-nbr-complexes/co/511-14_webUnisciel.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Cardinal d’un ensemble – Le continu : les nombres complexes"
             type: "Grain ou élément de cours"
             volume: "10min"
-            url: "https://unisciel.org/r/2uel.4/6/43/43_ch09/co/apprendre_ch9_05.html"
+            url: "https://uel.unisciel.fr/mathematiques/logique1/logique1_ch09/co/apprendre_ch9_05.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -505,28 +509,28 @@ years:
           - name: "Exercices sur les nombres complexes"
             type: "TP, exercice, quiz"
             volume: "10h"
-            url: "https://unisciel.org/r/25.4/iel/exo_complexe/28.html"
+            url: "https://ressources.unisciel.fr/iel/exo_complexe/index.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Ensemble des nombres complexes"
             type: "TP, exercice, quiz"
             volume: "6h"
-            url: "https://unisciel.org/r/25.4/7/6/algebre_revisions/06_Nombres_complexes/co/06_Nombres_complexes_web.html"
+            url: "https://ressources.unisciel.fr/sillages/mathematiques/algebre_revisions/06_Nombres_complexes/co/06_Nombres_complexes_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Exercices d’algèbre"
             type: "TP, exercice, quiz"
             volume: "6h"
-            url: "https://unisciel.org/r/25.4/7/6/exos_ats_algebre/co/27.html"
+            url: "https://ressources.unisciel.fr/sillages/mathematiques/exos_ats_algebre/co/menu.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Exercices d’algèbre"
             type: "TP, exercice, quiz"
             volume: "8h"
-            url: "https://unisciel.org/r/25.4/7/6/exos_algebre_ecs/co/27.html"
+            url: "https://ressources.unisciel.fr/sillages/mathematiques/exos_algebre_ecs/co/menu.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -699,6 +703,11 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
             type: "Module"
             volume: "3h"
@@ -1690,6 +1699,8 @@ years:
             volume: "40h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5961"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
       - name: "Parallélisation et informatique répartie"
         resources:
           - name: "Informatique Répartie"
@@ -1723,6 +1734,8 @@ years:
             volume: "24h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-1113"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Espaces probabilisés"
             type: "Module"
             volume: "24h"
@@ -1934,14 +1947,14 @@ years:
           - name: "Découvrir la démarche portfolio"
             type: "Grain ou élément de cours"
             volume: "1min"
-            url: "https://uoh.fr/front/noticefr/?uuid=03fb718e-38a8-46ce-91f2-50daefa38236"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-internet-les-autres-et-moi/decouvrir-la-demarche-e-portfolio-module-35"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Construire son identité numérique/ Faire une recherche de personne"
             type: "Grain ou élément de cours"
             volume: "2min"
-            url: "https://uoh.fr/front/noticefr/?uuid=2dd76f07-b9cb-455c-ad92-eb64ff57f3c9"
+            url: "https://www.canal-u.tv/chaines/c2i/mooc-internet-les-autres-et-moi/faire-une-recherche-de-personne-module-32"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

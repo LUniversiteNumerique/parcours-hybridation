@@ -330,7 +330,7 @@ years:
           - name: "Systèmes linéaires"
             type: "TP, exercice, quiz"
             volume: "3h"
-            url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
+            url: "https://uel.unisciel.fr/mathematiques/geometrie_analytique/geometrie_analytique_ch05/co/geometrie_analytique_ch05.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -671,6 +671,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
             type: "Module"
             volume: "3h"
@@ -1349,6 +1356,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "L2: Thermodynamique"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -1464,6 +1473,8 @@ years:
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -1681,6 +1692,8 @@ years:
             volume: "30h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-501"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Modélisation des systèmes mécaniques, études cinématiques et statiques, solides indéformables (Module M1 de MECAGORA)"
             type: "Cours complet ou MOOC"
             volume: "50h"
@@ -1712,11 +1725,15 @@ years:
             volume: "25h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-859"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Thermoptim : la thermodynamique appliquée aux systèmes énergétiques"
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Thermodynamique Expérimentale"
             type: "Cours complet ou MOOC **"
             volume: "60h"
@@ -1761,6 +1778,8 @@ years:
             volume: "30h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-503"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Mécanique des Milieux Continus"
             type: "Cours complet ou MOOC"
             volume: "10h"
@@ -1791,6 +1810,8 @@ years:
             volume: "50h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7015"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Pratiques du Dimensionnement en Mécanique – Partie 2"
             type: "Cours complet ou MOOC **"
             volume: "6h"
@@ -1803,11 +1824,15 @@ years:
             volume: "30h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5065"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Choix de matériaux et de procédés"
             type: "Cours complet ou MOOC"
             volume: "40h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3871"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
       - name: "Électronique – Électrotechnique – Automatique"
         resources:
           - name: "Traitement du signal"
