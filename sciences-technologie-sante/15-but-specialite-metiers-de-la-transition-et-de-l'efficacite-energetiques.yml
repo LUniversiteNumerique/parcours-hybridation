@@ -330,7 +330,7 @@ years:
             volume: "4h"
             url: "https://public.iutenligne.net/expression/parouty_riccio/se_situer/index.html"
             licence:
-      - name: "PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"
@@ -950,7 +950,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Expression-communication-entreprise"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
             type: "Module *"

@@ -96,7 +96,7 @@ years:
           - name: "La dissection de la souris"
             type: "Grain ou élément de cours"
             volume: "27min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/la_dissection_de_la_souris.8912"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/dissection-des-animaux/la-dissection-de-la-souris"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -281,7 +281,7 @@ years:
           - name: "Équations différentielles"
             type: "Module"
             volume: "2h"
-            url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
+            url: "https://ressources.unisciel.fr/pfci/parcours/Eq_Diff/co/Eq_Diff_01.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

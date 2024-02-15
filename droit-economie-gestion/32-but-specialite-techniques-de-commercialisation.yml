@@ -312,11 +312,15 @@ years:
             volume: "42min"
             url: "https://www.youtube.com/watch?v=Ml_NLgHfmV4"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La facture et sa comptabilisation"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.youtube.com/watch?v=xmEHmLadcTM"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La facturation"
             type: "TP, exercice, quiz *"
             volume: "15min"
@@ -1022,7 +1026,7 @@ years:
             volume: "12h"
             url: "https://www.iutenligne.net/resources.html?text=savoir+dire+pour+savoir+penser&diplome=All&domaines=All&ct=1&title=savoir+dire+pour+savoir+penser"
             licence:
-      - name: "PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"

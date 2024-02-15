@@ -354,14 +354,14 @@ years:
           - name: "Équations différentielles"
             type: "Module"
             volume: "2h"
-            url: "https://unisciel.org/r/25.4/46/47/Eq_Diff/co/Eq_Diff_01.html"
+            url: "https://ressources.unisciel.fr/pfci/parcours/Eq_Diff/co/Eq_Diff_01.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Équations différentielles"
             type: "Module"
             volume: "7h"
-            url: "https://unisciel.org/r/2uel.4/6/45/45/co/45.html"
+            url: "https://uel.unisciel.fr/mathematiques/eq_diff/eq_diff/co/eq_diff.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

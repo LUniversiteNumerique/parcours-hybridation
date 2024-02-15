@@ -15,7 +15,7 @@ years:
     ue:
       - name: "Ecriture pour les médias numériques"
         resources:
-      - name: "Bureautique"
+      - name: "Informatique"
         resources:
           - name: "Excel"
             type: "Cours complet ou MOOC"
@@ -59,7 +59,7 @@ years:
             volume: "5h"
             url: "https://www.iutenligne.net/ressources/powerpoint-2010.html"
             licence:
-      - name: "PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé : connaissance de soi"
             type: "Module *"
@@ -231,7 +231,7 @@ years:
             volume: "12h"
             url: "https://www.iutenligne.net/resources.html?text=savoir+dire+pour+savoir+penser&diplome=All&domaines=All&ct=1&title=savoir+dire+pour+savoir+penser"
             licence:
-      - name: "Anglais"
+      - name: "Langues"
         resources:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours"
@@ -604,7 +604,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Maths pour le web/audiovisuel"
+      - name: "Mathématiques"
         resources:
           - name: "Matrices"
             type: "Module *"
@@ -687,7 +687,7 @@ years:
           - name: "Python 3 : des fondamentaux aux concepts avancés du langage"
             type: "Cours complet ou MOOC **"
             volume: "81h"
-            url: "https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about"
+            url: "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -722,7 +722,7 @@ years:
             volume: "2h"
             url: "https://public.iutenligne.net/informatique/langages/coniel/html5/co/graphe_web.html"
             licence:
-      - name: "Expression – communication – entreprise"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"
@@ -766,7 +766,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Anglais"
+      - name: "Langues"
         resources:
           - name: "Anglais – Le monde du travail – CV, entretien et lettre de motivation"
             type: "TP, exercice, quiz *"

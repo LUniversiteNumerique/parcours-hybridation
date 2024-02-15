@@ -13,13 +13,13 @@ years:
     ue:
       - name: "Découvrir les fondamentaux en psychologie"
         resources:
-          - name: "Introduction à la psychologie à l’Université – repères"
+          - name: "Introduction à la psychologie à l’Université"
             type: "Grain ou élément de cours"
             volume: "3h"
-            url: "https://intro-psycho-uoh.univ-tlse2.fr/#MENU_REPERES"
+            url: "https://uoh.fr/front/noticefr/?uuid=60e9eb54-dd1a-4daa-93e2-6304696da527"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction aux neurosciences en psychologie"
             type: "Cours complet ou MOOC"
             volume: "8h"
@@ -653,13 +653,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Appréhender les domaines d’application"
         resources:
-          - name: "Introduction à la psychologie à l’Université – focus"
+          - name: "Introduction à la psychologie à l’Université"
             type: "Grain ou élément de cours"
             volume: "3h"
-            url: "https://intro-psycho-uoh.univ-tlse2.fr/#MENU_FOCUS"
+            url: "https://uoh.fr/front/noticefr/?uuid=60e9eb54-dd1a-4daa-93e2-6304696da527"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction aux neurosciences en psychologie"
             type: "Cours complet ou MOOC"
             volume: "8h"

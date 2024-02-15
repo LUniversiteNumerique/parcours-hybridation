@@ -413,7 +413,7 @@ years:
             volume: "15min"
             url: "https://miel.iutenligne.net/course/view.php?id=246"
             licence:
-      - name: "Expression-communication- droit"
+      - name: "Expression-communication"
         resources:
           - name: "La prise de parole en public (exposés, soutenances)"
             type: "Cours complet ou MOOC *"
@@ -430,7 +430,7 @@ years:
             volume: "12h"
             url: "https://www.iutenligne.net/resources.html?text=savoir+dire+pour+savoir+penser&diplome=All&domaines=All&ct=1&title=savoir+dire+pour+savoir+penser"
             licence:
-      - name: "PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"
@@ -461,7 +461,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Anglais"
+      - name: "Langues"
         resources:
           - name: "How to write an email key note"
             type: "Grain ou élément de cours"
@@ -856,7 +856,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Expression – communication – entreprise"
+      - name: "Expression – communication"
         resources:
           - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
             type: "Module *"
@@ -905,7 +905,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Anglais"
+      - name: "Langues"
         resources:
           - name: "Anglais – Le monde du travail – CV, entretien et lettre de motivation"
             type: "TP, exercice, quiz *"

@@ -482,7 +482,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé : connaissance de soi"
             type: "Module *"
@@ -986,7 +986,7 @@ years:
             volume: "2h"
             url: "https://www.iutenligne.net/ressources/creation-ou-reprise-d-entreprise-le-contexte-juridique-et-institutionnel.html"
             licence:
-      - name: "Expression – communication – stage"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Collection « savoir dire pour savoir penser »"
             type: "Cours complet ou MOOC *"

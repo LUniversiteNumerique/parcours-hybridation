@@ -334,7 +334,7 @@ years:
             volume: "7h"
             url: "https://public.iutenligne.net/communication/vaudel/ppt/index.html"
             licence:
-      - name: "Expression-communication-entreprise"
+      - name: "Expression-communication"
         resources:
           - name: "Rapport ou mémoire de stage"
             type: "Cours complet ou MOOC *"
@@ -396,7 +396,7 @@ years:
             volume: "2h"
             url: "https://prive.iutenligne.net/M7lHXCLOyyP3WV6I/communication/breistroff/telephone-progressez/index.html"
             licence:
-      - name: "PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"
@@ -1029,7 +1029,7 @@ years:
             volume: "5h"
             url: "https://public.iutenligne.net/mecanique/mecanique-des-fluides/courtin/Mecanique_des_fluides_formulaire/co/Mecanique%20des%20fluides%20formulaires_web.html"
             licence:
-      - name: "Stage-PPP"
+      - name: "Projet Professionnel Personnalisé"
         resources:
           - name: "Projet professionnel personnalisé"
             type: "Module *"

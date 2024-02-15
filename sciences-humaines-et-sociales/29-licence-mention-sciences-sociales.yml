@@ -926,7 +926,7 @@ years:
           - name: "Le prédateur contre l’entrepreneur : mafia, économie et démocratie"
             type: "Grain ou élément de cours"
             volume: "20min"
-            url: "https://www.youtube.com/watch?v=s4tmZWqKH1E&index=72&list=PLO9xMtCoQUxEb4cgnb48F58wVqtNOxeaC"
+            url: "https://www.youtube.com/watch?v=s4tmZWqKH1E"
             licence:
           - name: "Une histoire de la finance"
             type: "Cours complet ou MOOC"
