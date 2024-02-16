@@ -80,6 +80,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -122,20 +129,27 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Rechercher l'information : réussir sa pêche aux informations"
+          - name: "Rechercher l'information"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Méthodologie de la prise de note"
+          - name: "Prendre des notes"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "KIT : apprendre à apprendre"
+            type: "Cours complet ou MOOC"
+            volume: "4h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
@@ -143,7 +157,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Réussir ses cours en ligne"
+          - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
@@ -169,6 +183,8 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=f1df3f08-b962-4f8c-82d3-adfba10172bc"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -186,14 +202,7 @@ years:
           - name: "Face à un jury"
             type: "Grain ou élément de cours"
             volume: "4min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Faire l'inventaire de ses compétences"
-            type: "Cours complet ou MOOC"
-            volume: "6h"
-            url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/expression-orale-et-ecrite/face-a-un-jury"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -370,7 +379,7 @@ years:
           - name: "Religions et représentation figurée"
             type: "Cours complet ou MOOC"
             volume: "10h"
-            url: "https://hemed.univ-lemans.fr/2014-2015-religions-representation-figuree/"
+            url: "https://uoh.fr/front/noticefr/?uuid=041385c8-4416-407d-9029-ac52ce54c508"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -452,7 +461,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
@@ -503,8 +512,8 @@ years:
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
 
   - name: "2ème année"
     ue:
@@ -587,7 +596,7 @@ years:
       - name: "Sources et représentations de l’histoire"
         resources:
           - name: "Mémoires de civils"
-            type: "Module"
+            type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=91a865a5-dcc0-4695-82e5-1a846c403675"
             licence:
@@ -601,7 +610,7 @@ years:
       - name: "Découverte des métiers de l’histoire"
         resources:
           - name: "Gérard Noiriel, un historien dans la cité"
-            type: "Cours complet ou MOOC"
+            type: "Grain ou élément de cours"
             volume: "1h40"
             url: "https://www.canal-u.tv/chaines/clermontmsh/gerard-noiriel-un-historien-dans-la-cite"
             licence:
@@ -626,6 +635,8 @@ years:
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/lhistoire-scolaire-quelle-contribution-a-leducation-au-developpement-durable"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues anciennes"
         resources:
           - name: "Lecture de textes en grec classique"
@@ -676,7 +687,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
@@ -760,6 +771,8 @@ years:
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/profondeur-historique-des-problemes-environnementaux"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les énergies renouvelables : remise en contexte historique"
             type: "Grain ou élément de cours"
             volume: "6min"
@@ -786,11 +799,15 @@ years:
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/le-rapport-meadows-1972"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
           - name: "Origine et histoire du concept d’écodéveloppement"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/origine-et-histoire-du-concept-decodeveloppement"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
           - name: "L’incontournable rapport Brundtland"
             type: "Grain ou élément de cours"
             volume: "6min"
@@ -798,7 +815,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Une introduction historique aux Objectifs de Développement Durable"
+          - name: "Une introduction historique aux ODD"
             type: "Grain ou élément de cours"
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/une-introduction-historique-aux-odd"
@@ -815,7 +832,7 @@ years:
       - name: "Statistiques"
         resources:
           - name: "Psychométrie et statistique : éléments d’auto-formation pour les étudiants en sciences humaines"
-            type: "Module"
+            type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8efef40-eb94-4db8-abc2-148d66665608"
             licence:
@@ -833,7 +850,7 @@ years:
           - name: "L’atelier numérique de l’histoire : mettre la main à la pâte numérique"
             type: "TD, étude de cas"
             volume: "40min"
-            url: "https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/digital-history/l-atelier-numerique-de-l-histoire-mettre-la"
+            url: "https://www.canal-u.tv/chaines/ut2j/digital-history/l-atelier-numerique-de-l-histoire-mettre-la-main-a-la-pate-numerique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -846,7 +863,7 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Faire parler les pierres taillées de la Préhistoire"
             type: "Cours complet ou MOOC **"
-            volume: "8h"
+            volume: "10h"
             url: "https://www.fun-mooc.fr/fr/cours/faire-parler-les-pierres-taillees-de-la-prehistoire/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
@@ -861,7 +878,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Kit de survie du latiniste"
-            type: "Cours complet ou MOOC"
+            type: "Module"
             volume: "2h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=49"
             licence:
@@ -908,7 +925,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"

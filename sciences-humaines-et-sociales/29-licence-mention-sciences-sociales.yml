@@ -58,7 +58,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérard Noiriel, un historien dans la cité"
-            type: "Cours complet ou MOOC"
+            type: "Grain ou élément de cours"
             volume: "1h40"
             url: "https://www.canal-u.tv/chaines/clermontmsh/gerard-noiriel-un-historien-dans-la-cite"
             licence:
@@ -76,6 +76,8 @@ years:
             volume: "37h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/pour-une-histoire-critique-et-citoyenne-le-cas-de-l-histoire-franco-algerienne"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Sciences politiques"
         resources:
           - name: "Que font nos politiques ? Exploration sociologique de l’Agenda et de l’emploi du temps des élus"
@@ -149,7 +151,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
@@ -200,6 +202,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -242,20 +251,27 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Rechercher l'information : réussir sa pêche aux informations"
+          - name: "Rechercher l'information"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Méthodologie de la prise de note"
+          - name: "Prendre des notes"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "KIT : apprendre à apprendre"
+            type: "Cours complet ou MOOC"
+            volume: "4h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
@@ -263,7 +279,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Réussir ses cours en ligne"
+          - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
@@ -308,14 +324,7 @@ years:
           - name: "Face à un jury"
             type: "Grain ou élément de cours"
             volume: "4min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Faire l'inventaire de ses compétences"
-            type: "Cours complet ou MOOC"
-            volume: "6h"
-            url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/expression-orale-et-ecrite/face-a-un-jury"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -494,6 +503,8 @@ years:
             volume: "50h"
             url: "https://pix.fr/"
             licence:
+              - name: "AGPL3"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/agpl3.svg"
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -557,8 +568,8 @@ years:
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
 
   - name: "2ème année"
     ue:
@@ -609,7 +620,7 @@ years:
       - name: "Méthodologie de l’enquête"
         resources:
           - name: "Psychométrie et statistique : éléments d’auto-formation pour les étudiants en sciences humaines"
-            type: "Module"
+            type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8efef40-eb94-4db8-abc2-148d66665608"
             licence:
@@ -617,7 +628,7 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Histoire / géographie / civilisation"
         resources:
-          - name: "La Géographie du Canada et sa diversité culturelle"
+          - name: "La géographie du Canada et sa diversité culturelle"
             type: "Cours complet ou MOOC"
             volume: "16h"
             url: "https://uoh.fr/front/noticefr/?uuid=073fc30a-f4d4-4ab8-b9ea-1f869eed7039"
@@ -737,7 +748,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
@@ -777,10 +788,12 @@ years:
       - name: "Compétences numériques"
         resources:
           - name: "pix.fr"
-            type: "TP, exercice; quiz"
+            type: "TP, exercice, quiz"
             volume: "50h"
             url: "https://pix.fr/"
             licence:
+              - name: "AGPL3"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/agpl3.svg"
           - name: "Usages du web"
             type: "Cours complet ou MOOC **"
             volume: "18h"
@@ -913,7 +926,7 @@ years:
           - name: "Le prédateur contre l’entrepreneur : mafia, économie et démocratie"
             type: "Grain ou élément de cours"
             volume: "20min"
-            url: "https://www.youtube.com/watch?v=s4tmZWqKH1E&index=72&list=PLO9xMtCoQUxEb4cgnb48F58wVqtNOxeaC"
+            url: "https://www.youtube.com/watch?v=s4tmZWqKH1E"
             licence:
           - name: "Une histoire de la finance"
             type: "Cours complet ou MOOC"
@@ -1077,7 +1090,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "La Géographie du Canada et sa diversité culturelle"
+          - name: "La géographie du Canada et sa diversité culturelle"
             type: "Cours complet ou MOOC"
             volume: "16h"
             url: "https://uoh.fr/front/noticefr/?uuid=073fc30a-f4d4-4ab8-b9ea-1f869eed7039"
@@ -1134,7 +1147,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"

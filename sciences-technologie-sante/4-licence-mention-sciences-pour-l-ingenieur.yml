@@ -213,7 +213,7 @@ years:
           - name: "Systèmes linéaires"
             type: "TP, exercice, quiz"
             volume: "3h"
-            url: "https://unisciel.org/r/2uel.4/6/59/59_ch05/co/apprendre_ch05.html"
+            url: "https://uel.unisciel.fr/mathematiques/geometrie_analytique/geometrie_analytique_ch05/co/geometrie_analytique_ch05.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -744,6 +744,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
@@ -768,7 +775,7 @@ years:
           - name: "Renforcer ses compétences orthographiques"
             type: "Cours complet ou MOOC"
             volume: "12h"
-            url: "https://www.fun-mooc.fr/courses/course-v1:unicaen+48002+session04/about"
+            url: "https://www.fun-mooc.fr/fr/cours/renforcer-ses-competences-orthographiques/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -800,20 +807,27 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Rechercher l'information : réussir sa pêche aux informations"
+          - name: "Rechercher l'information"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Méthodologie de la prise de note"
+          - name: "Prendre des notes"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "KIT : apprendre à apprendre"
+            type: "Cours complet ou MOOC"
+            volume: "4h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
@@ -821,7 +835,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Réussir ses cours en ligne"
+          - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
@@ -859,14 +873,7 @@ years:
           - name: "Face à un jury"
             type: "Grain ou élément de cours"
             volume: "4min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Faire l'inventaire de ses compétences"
-            type: "Cours complet ou MOOC"
-            volume: "6h"
-            url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/expression-orale-et-ecrite/face-a-un-jury"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -1105,8 +1112,8 @@ years:
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
 
   - name: "2ème année"
     ue:
@@ -1160,35 +1167,35 @@ years:
           - name: "Expérience de Michelson Morley"
             type: "Grain ou élément de cours"
             volume: "11min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/l_experience_de_michelson_morley.37471/"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/l-experience-de-michelson-morley"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Propagation d’ondes dans les solides"
             type: "Grain ou élément de cours"
             volume: "9min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/propagation_d_ondes_dans_les_solides.18390"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/propagation-d-ondes-dans-les-solides"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Le pendule ondulant"
             type: "Grain ou élément de cours"
             volume: "5min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/le_pendule_ondulant.24130"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/le-pendule-ondulant"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Battements acoustiques, superposition de phénomènes ondulatoires"
             type: "Grain ou élément de cours"
             volume: "8min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/battements_acoustiques_superposition_de_phenomenes_ondulatoires.36239"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/battements-acoustiques-superposition-de-phenomenes-ondulatoires"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Vibrations transversales d’une corde, équation de d’Alembert"
             type: "Grain ou élément de cours"
             volume: "10min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/vibrations_transversales_d_une_corde_equation_de_d_alembert.18171"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/vibrations-transversales-d-une-corde-equation-de-d-alembert"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -1276,6 +1283,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "L2: Thermodynamique"
             type: "Cours complet ou MOOC *"
             volume: "50h"
@@ -1485,6 +1494,8 @@ years:
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -1757,6 +1768,8 @@ years:
             volume: "25h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-859"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Conversion Thermodynamique de la Chaleur : Modéliser et Simuler"
             type: "Cours complet ou MOOC **"
             volume: "15h"
@@ -1769,6 +1782,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-483"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Thermodynamique Expérimentale"
             type: "Cours complet ou MOOC **"
             volume: "60h"
@@ -1790,6 +1805,8 @@ years:
             volume: "60h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-7033"
             licence:
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
           - name: "Utilisation industrielle de la modélisation (Module M4 de MECAGORA)"
             type: "Cours complet ou MOOC"
             volume: "60h"
@@ -1797,13 +1814,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Choix de Matériaux et de Procédés"
+          - name: "Choix de matériaux et de procédés"
             type: "Cours complet ou MOOC"
             volume: "40h"
-            url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-673"
+            url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3871"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+              - name: "CeCILL"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/cecill.svg"
       - name: "Méthodes numériques et calcul scientifique"
         resources:
           - name: "MATLAB, pour la résolution de problèmes numériques"
@@ -1860,28 +1877,28 @@ years:
           - name: "Ondes sonores dans les fluides"
             type: "Grain ou élément de cours"
             volume: "11min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/ondes_sonores_dans_les_fluides.18389"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/ondes-sonores-dans-les-fluides"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Force de viscosité pour un fluide, équation de Navier-Stokes"
             type: "Grain ou élément de cours"
             volume: "11min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/forces_de_viscosite_pour_un_fluide_equation_de_navier_stokes.18392"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/forces-de-viscosite-pour-un-fluide-equation-de-navier-stokes"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Écoulement de Poiseuille d’un fluide visqueux"
             type: "Grain ou élément de cours"
             volume: "8min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_de_poiseuille_d_un_fluide_visqueux.18169"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/ecoulement-de-poiseuille-d-un-fluide-visqueux"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Écoulement stationnaire d’un fluide parfait incompressible, théorème de Bernoulli"
             type: "Grain ou élément de cours"
             volume: "13min"
-            url: "https://unisciel.org/r/2www.17-u.tv/23/20/ecoulement_stationnaire_d_un_fluide_parfait_incompressible_theoreme_de_bernoulli.18391"
+            url: "https://www.canal-u.tv/chaines/canal-unisciel/ecoulement-stationnaire-d-un-fluide-parfait-incompressible-theoreme-de"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -2044,7 +2061,7 @@ years:
           - name: "Ecoconception de produits énergivores : application à un produit de grande consommation de type petit électroménager"
             type: "Module"
             volume: "25h"
-            url: "http://ecopem.univ-valenciennes.fr/"
+            url: "https://www.uved.fr/fiche/ressource/eco-conception-de-produits-energivores-15-grains"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

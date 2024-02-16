@@ -37,11 +37,15 @@ years:
             volume: "1h"
             url: "https://www.youtube.com/watch?v=xmEHmLadcTM"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Les amortissements linéaires et non linéaires"
             type: "TD, étude de cas"
             volume: "40min"
             url: "https://www.youtube.com/watch?v=lFX-LJIxZck"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Gestion financière"
         resources:
           - name: "Amortissement d’emprunt"
@@ -49,6 +53,8 @@ years:
             volume: "40min"
             url: "https://www.youtube.com/watch?v=a2bxG6DIJcg"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Comptabilité"
         resources:
           - name: "Comptabilité générale"
@@ -91,8 +97,18 @@ years:
             volume: "1h15"
             url: "https://miel.iutenligne.net/enrol/index.php?id=217"
             licence:
-      - name: "Informatique : outils de la bureautique"
+      - name: "Informatique"
         resources:
+          - name: "Excel par l’exemple (niveau 2)"
+            type: "Cours complet ou MOOC"
+            volume: "6h"
+            url: "https://www.iutenligne.net/ressources/excel-par-l-exemple-niveau-2.html"
+            licence:
+          - name: "Automatisation des tableaux de bord avec Excel"
+            type: "Grain ou élément de cours"
+            volume: "4h"
+            url: "https://public.iutenligne.net/informatique/bureautique/raffinat/TableauBordExcel/"
+            licence:
           - name: "Word en 2 minutes"
             type: "Grain ou élément de cours *"
             volume: "40min"
@@ -197,11 +213,15 @@ years:
             volume: "1h"
             url: "https://www.youtube.com/watch?v=aOJDmK6Za2M"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Statistiques : vidéo"
             type: "Module"
             volume: "30min"
             url: "https://www.youtube.com/watch?v=1MqP2WhsmrQ"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Les graphiques en statistique à une variable"
             type: "Module"
             volume: "3h"
@@ -211,18 +231,6 @@ years:
             type: "TP, exercice, quiz *"
             volume: "3h"
             url: "https://miel.iutenligne.net/course/view.php?id=244"
-            licence:
-      - name: "Informatique : utilisation approfondie d’un tableur"
-        resources:
-          - name: "Excel par l’exemple (niveau 2)"
-            type: "Cours complet ou MOOC"
-            volume: "6h"
-            url: "https://www.iutenligne.net/ressources/excel-par-l-exemple-niveau-2.html"
-            licence:
-          - name: "Automatisation des tableaux de bord avec Excel"
-            type: "Grain ou élément de cours"
-            volume: "4h"
-            url: "https://public.iutenligne.net/informatique/bureautique/raffinat/TableauBordExcel/"
             licence:
       - name: "Mathématiques appliquées"
         resources:
@@ -265,6 +273,8 @@ years:
             volume: "1h"
             url: "https://www.youtube.com/watch?v=L4eFKXMVC98"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Annuités constantes"
             type: "Module *"
             volume: "6h"
@@ -337,7 +347,7 @@ years:
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz *"
             volume: "10min"
-            url: "https://miel.iutenligne.net/course/view.php?id=240"
+            url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
           - name: "Anglais – Culture générale"
             type: "TP, exercice, quiz *"
@@ -408,8 +418,8 @@ years:
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
@@ -417,6 +427,13 @@ years:
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "To be in the norms"
+            type: "TP, exercice, quiz"
+            volume: "30min"
+            url: "https://ikigai.games/games/gameDetails/107"
+            licence: 
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -459,20 +476,27 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Rechercher l'information : réussir sa pêche aux informations"
+          - name: "Rechercher l'information"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Méthodologie de la prise de note"
+          - name: "Prendre des notes"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "KIT : apprendre à apprendre"
+            type: "Cours complet ou MOOC"
+            volume: "4h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
             type: "Cours complet ou MOOC *"
             volume: "2h"
@@ -480,7 +504,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Réussir ses cours en ligne"
+          - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
@@ -518,14 +542,7 @@ years:
           - name: "Face à un jury"
             type: "Grain ou élément de cours"
             volume: "4min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d748e219-1549-49fb-9cdf-6aa1d2b87b0c"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Faire l'inventaire de ses compétences"
-            type: "Cours complet ou MOOC"
-            volume: "6h"
-            url: "https://uoh.fr/front/noticefr/?uuid=3ca6d919-9144-408c-b25b-feee7bc751de"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/expression-orale-et-ecrite/face-a-un-jury"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -700,6 +717,8 @@ years:
             volume: "1h"
             url: "https://www.youtube.com/watch?v=UxfWfKogijw"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Calculs de coût et rentabilité des transports et de la logistique"
         resources:
           - name: "Comptabilité analytique, coût de revient, résultat analytique"
@@ -707,11 +726,15 @@ years:
             volume: "1h30"
             url: "https://www.youtube.com/watch?v=PUjv9Ua5db4"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Seuil de rentabilité, point mort, marges de sécurité"
             type: "TD, étude de cas"
             volume: "30min"
             url: "https://www.youtube.com/watch?v=H6dhlW0kYgU"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Outils de pilotage"
         resources:
           - name: "Comptabilité approfondie (cours)"
@@ -890,21 +913,29 @@ years:
             volume: "1h"
             url: "https://www.youtube.com/watch?v=eT8cAUarlrQ"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Loi binomiale : ( les 7 questions à connaître )"
             type: "Module"
             volume: "1h"
             url: "https://www.youtube.com/watch?v=rHZQ1DtfHx8"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Loi normale de Gauss"
             type: "Module"
             volume: "1h30"
             url: "https://www.youtube.com/watch?v=nhHd19Wappw"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"  
           - name: "Approcher une loi binomiale par une loi normale"
             type: "Module"
             volume: "40min"
             url: "https://www.youtube.com/watch?v=1DaI3e_26Ew"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "QCM probas"
             type: "TP, exercice, quiz"
             volume: "3h"
@@ -935,7 +966,7 @@ years:
             volume: "6h"
             url: "https://public.iutenligne.net/mathematiques/statistiques-et-probabilites/paronneau/Comp-moy/index.html"
             licence:
-      - name: "Informatique : gestion des bases de données"
+      - name: "Informatique"
         resources:
           - name: "Conception des bases de données"
             type: "Cours complet ou MOOC *"

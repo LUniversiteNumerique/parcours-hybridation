@@ -522,6 +522,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "4.1. Sécuriser l’environnement numérique"
         resources:
+          - name: "Stocker ses données de façon sécurisée"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1029"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"            
           - name: "Sécuriser l’environnement numérique"
             type: "Grain ou élément de cours *"
             volume: "30min"
