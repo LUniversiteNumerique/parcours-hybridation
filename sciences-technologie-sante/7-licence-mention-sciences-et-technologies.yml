@@ -9,7 +9,7 @@ description: |
 years:
   - name: "1re année"
     ue:
-      - name: "Mathématiques pour les études scientifiques"
+      - name: "Mathématiques"
         resources:
           - name: "Quaternion Addition and Multiplication"
             type: "Grain ou élément de cours"
@@ -519,6 +519,41 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Informatique"
         resources:
+          - name: "Usages du web"
+            type: "Cours complet ou MOOC **"
+            volume: "18h"
+            url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
+            licence:
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
+          - name: "Données et algorithmes"
+            type: "Cours complet ou MOOC **"
+            volume: "18h"
+            url: "https://www.fun-mooc.fr/fr/cours/donnees-et-algorithmes/"
+            licence:
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
+          - name: "Culture numérique : introduction 1re partie"
+            type: "Cours complet ou MOOC"
+            volume: "48min"
+            url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Culture numérique : introduction 2e partie"
+            type: "Cours complet ou MOOC"
+            volume: "1h"
+            url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Informatique et société"
+            type: "Cours complet ou MOOC *"
+            volume: "15h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Les URL"
             type: "Grain ou élément de cours"
             volume: "15min"
@@ -990,7 +1025,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Anglais"
+      - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
@@ -1006,7 +1041,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Méthodologie du travail universitaire / expression écrite et orale"
+      - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz *"
@@ -1311,6 +1346,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1021"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie norme Chicago Manual of Style"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -1327,43 +1365,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Culture numérique"
-        resources:
-          - name: "Usages du web"
-            type: "Cours complet ou MOOC **"
-            volume: "18h"
-            url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
-            licence:
-              - name: "Citer l'auteur"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
-          - name: "Données et algorithmes"
-            type: "Cours complet ou MOOC **"
-            volume: "18h"
-            url: "https://www.fun-mooc.fr/fr/cours/donnees-et-algorithmes/"
-            licence:
-              - name: "Citer l'auteur"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
-          - name: "Culture numérique : introduction 1re partie"
-            type: "Cours complet ou MOOC"
-            volume: "48min"
-            url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Culture numérique : introduction 2e partie"
-            type: "Cours complet ou MOOC"
-            volume: "1h"
-            url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Informatique et société"
-            type: "Cours complet ou MOOC *"
-            volume: "15h"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
@@ -1394,7 +1395,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
-      - name: "Informatique 2"
+      - name: "Informatique"
         resources:
           - name: "Les URL"
             type: "Grain ou élément de cours"
@@ -1486,6 +1487,8 @@ years:
             volume: "12h"
             url: "https://public.iutenligne.net/informatique/algorithme-et-programmation/roose/poo/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Python : des fondamentaux aux concepts avancés du langage"
             type: "Cours complet ou MOOC **"
             volume: "8h"
@@ -1542,7 +1545,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
-      - name: "Mathématiques pour les études scientifiques"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
@@ -2124,7 +2127,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-      - name: "Anglais"
+      - name: "Langues étrangères"
         resources:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
@@ -2138,11 +2141,15 @@ years:
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "How to write an email key note"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Lexico"
             type: "Grain ou élément de cours"
             volume: "60h"

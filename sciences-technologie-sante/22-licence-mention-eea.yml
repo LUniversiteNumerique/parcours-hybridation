@@ -756,7 +756,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Anglais scientifique"
+      - name: "Langues étrangères"
         resources:
           - name: "Lexico"
             type: " Grain ou élément de cours"
@@ -765,7 +765,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Méthodologie"
+      - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
@@ -1608,7 +1608,7 @@ years:
             volume: "120h"
             url: "https://www.fun-campus.fr/fr/cours/techniques-mathematiques-pour-linformatique-1/"
             licence:
-      - name: "Anglais scientifique"
+      - name: "Langues étrangères"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"
@@ -1740,7 +1740,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Outils mathématiques"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
@@ -1815,7 +1815,7 @@ years:
             volume: "120h"
             url: "https://www.fun-campus.fr/fr/cours/techniques-mathematiques-pour-linformatique-1/"
             licence:
-      - name: "Anglais scientifique"
+      - name: "Langues étrangères"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"

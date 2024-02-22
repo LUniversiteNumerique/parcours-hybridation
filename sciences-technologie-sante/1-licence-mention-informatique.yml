@@ -147,6 +147,8 @@ years:
             volume: "12h"
             url: "https://public.iutenligne.net/sciences-image-et-medias/infographie/vermaelen/cours_animation_javascript/"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les moteurs de recherche"
             type: "Cours complet ou MOOC"
             volume: "30min"
@@ -154,7 +156,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Base de données 1"
+      - name: "Base de données"
         resources:
           - name: "Reporting et data visualisation"
             type: "Cours complet ou MOOC"
@@ -671,7 +673,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Anglais"
+      - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
@@ -687,7 +689,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Méthodologie"
+      - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
@@ -1082,6 +1084,8 @@ years:
             volume: "12h"
             url: "https://public.iutenligne.net/informatique/algorithme-et-programmation/roose/poo/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Python : des fondamentaux aux concepts avancés du langage"
             type: "Cours complet ou MOOC **"
             volume: "8h"
@@ -1143,7 +1147,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Internet et outils 2"
+      - name: "Internet et outils"
         resources:
           - name: "Excel"
             type: "Cours complet ou MOOC"
@@ -1563,7 +1567,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Anglais"
+      - name: "Langues étrangères"
         resources:
           - name: "Conduite de réunion en anglais"
             type: "Cours complet ou MOOC **"
@@ -1577,11 +1581,15 @@ years:
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "How to write an email key note"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Lexico"
             type: "Grain ou élément de cours"
             volume: "60h"
@@ -1681,7 +1689,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Réseaux informatiques 3"
+      - name: "Réseaux informatiques"
         resources:
           - name: "Supervision de Réseaux et Services"
             type: "Cours complet ou MOOC **"
@@ -1815,7 +1823,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Intégration 2"
+      - name: "Intégration"
         resources:
           - name: "Intégrales"
             type: "Module"
@@ -1935,7 +1943,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Projet professionnel"
+      - name: "PProjet Professionnel Personnalisé"
         resources:
           - name: "ECSPER Gestion de projet – Objectif satellite"
             type: "TD, étude de cas"
