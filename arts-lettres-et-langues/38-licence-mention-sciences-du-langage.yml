@@ -1,11 +1,11 @@
 id: 38
 name: "Licence mention sciences du langage"
 description: |
-  Ce parcours type met à disposition des ressources éducatives libres pour hybrider une licence 
-  visant à fournir les <strong>connaissances théoriques et méthodologiques indispensables à toute 
-  réflexion où le langage humain et les langues jouent un rôle central</strong>. Ces formations 
-  sont centrées sur les langues : leurs propriétés, leurs manifestations, leur évolution, leur 
-  acquisition, leurs dysfonctionnements. Plus précisément, l’objectif est de comprendre les 
+  Ce parcours type met à disposition des ressources éducatives libres pour hybrider une licence
+  visant à fournir les <strong>connaissances théoriques et méthodologiques indispensables à toute
+  réflexion où le langage humain et les langues jouent un rôle central</strong>. Ces formations
+  sont centrées sur les langues : leurs propriétés, leurs manifestations, leur évolution, leur
+  acquisition, leurs dysfonctionnements. Plus précisément, l’objectif est de comprendre les
   fonctionnements langagiers.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -138,7 +138,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -199,7 +199,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -360,7 +360,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
