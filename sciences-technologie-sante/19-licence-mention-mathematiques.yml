@@ -840,7 +840,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      - name: "Anglais scientifique"
+      - name: "Langues étrangères"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"
@@ -849,7 +849,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Méthodologie"
+      - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
@@ -1722,7 +1722,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Anglais scientifique"
+      - name: "Langues étrangères"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"
@@ -1854,7 +1854,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Intégration 2"
+      - name: "Intégration"
         resources:
           - name: "Intégrales"
             type: "Module"
@@ -2013,7 +2013,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Anglais scientifique"
+      - name: "Langues étrangères"
         resources:
           - name: "Lexico"
             type: "Grain ou élément de cours"

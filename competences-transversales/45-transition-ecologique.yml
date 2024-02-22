@@ -158,6 +158,8 @@ years:
             volume: "12min"
             url: "https://www.uved.fr/fiche/ressource/leconomie-sociale-et-solidaire"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Résilience, vulnérabilité et adaptation aux changements globaux"
             type: "Grain ou élément de cours"
             volume: "6min"
@@ -402,6 +404,8 @@ years:
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/analyse-conceptuelle-de-la-rse"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "ODD 13 : Mesures relatives à la lutte contre le changement climatique"
         resources:
           - name: "ODD 13 : Mesures relatives à la lutte contre le changement climatique"
@@ -599,6 +603,8 @@ years:
             volume: "9min"
             url: "https://www.uved.fr/fiche/ressource/ethiques-environnementales"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Apprendre autrement la protection de la biodiversité"
             type: "Grain ou élément de cours"
             volume: "13min"
@@ -692,11 +698,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Citer l'auteur des changements climatiques : le rôle des activités humaines"
-            type: "Grain ou élément de cours"
-            volume: "8min"
-            url: "https://www.uved.fr/fiche/ressource/la-detection-et-lCiter l'auteur-des-changements-climatiques-le-role-des-activites-humaines"
-            licence:
           - name: "Les projections climatiques : la température"
             type: "Grain ou élément de cours"
             volume: "9min"
@@ -751,6 +752,8 @@ years:
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/les-modeles-de-climat"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Maîtriser les esprits animaux de la finance au service de la transition bas carbone"
             type: "Grain ou élément de cours"
             volume: "10min"

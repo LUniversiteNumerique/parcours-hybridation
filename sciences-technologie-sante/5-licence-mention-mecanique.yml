@@ -175,7 +175,7 @@ years:
             volume: "5min"
             url: "https://ikigai.games/games/gameDetails/2"
             licence:
-      - name: "Outils mathématiques"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
@@ -594,7 +594,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Initiation à la programmation informatique"
+      - name: "Programmation"
         resources:
           - name: "Les URL"
             type: "Grain ou élément de cours"
@@ -641,7 +641,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Anglais"
+      - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
@@ -657,7 +657,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Méthodologie"
+      - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz *"
@@ -1525,7 +1525,7 @@ years:
             volume: "50min"
             url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
             licence:
-      - name: "Outils mathématiques"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
@@ -1607,7 +1607,7 @@ years:
             volume: "120h"
             url: "https://www.fun-campus.fr/fr/cours/techniques-mathematiques-pour-linformatique-1/"
             licence:
-      - name: "Anglais"
+      - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
@@ -1628,11 +1628,15 @@ years:
             volume: "2h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "How to write an email key note"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/OralPresentationInEnglish/index.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Lexico"
             type: "Grain ou élément de cours"
             volume: "60h"
@@ -1856,7 +1860,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      - name: "Outils mathématiques"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"

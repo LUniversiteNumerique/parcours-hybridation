@@ -123,7 +123,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-      - name: "Mathématique"
+      - name: "Mathématiques"
         resources:
           - name: "Quaternion Addition and Multiplication"
             type: "Grain ou élément de cours"
@@ -474,7 +474,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-      - name: "Mathématique"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
@@ -825,7 +825,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-      - name: "Mathématique"
+      - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
