@@ -604,7 +604,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -618,7 +618,7 @@ years:
             type: "Cours complet ou MOOC *"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
@@ -786,7 +786,7 @@ years:
         #    type: "Grain ou élément de cours"
         #    volume: "30min"
          #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-         #   licence: 
+         #   licence:
           #    - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
            #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
    #       - name: "Excel - Premiers pas"
@@ -1278,7 +1278,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"         
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"

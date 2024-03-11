@@ -261,7 +261,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -329,7 +329,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -640,6 +640,7 @@ years:
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=2e2ca114-c22e-4936-b687-245eb5f51eac"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Le roman de la route: Jacques le Fataliste et le Roman comique, études synthétiques"
             type: "Module"
             volume: "1h"
@@ -659,16 +660,19 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0aa9292a-a767-4980-a722-e673f040152b"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "William Faulkner et Claude Simon"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1re partie) de Cervantès"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Philosophie"
         resources:
           - name: "Les essentiels : la philo par les mots"
@@ -771,7 +775,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-      - name: "LLangues étrangères"
+      - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
             type: "TD, étude de cas"
@@ -932,6 +936,7 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=42256ca3-03c0-4368-974e-4265477c3a90"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Sartre : de l’être et le néant à la critique de la raison dialectique"
             type: "Grain ou élément de cours"
             volume: "7h"
@@ -982,7 +987,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/la-sculpture-grecque-dalexandre-a-cleopatre-partie-i/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"        
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie II)"
             type: "Cours complet ou MOOC **"
             volume: "20h"
@@ -1039,16 +1044,19 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=295622ff-7997-4764-878a-90610e89fcb4"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Les Bretagnes de Colette"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://uoh.fr/front/noticefr/?uuid=820cd89a-a99a-4a03-863f-88787d3847b8"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Cruauté ordinaire et extraordinaire: Gogol, Soirées du Hameau et Nouvelles de Saint-Pétersbourg et Villiers de L’Isle-Adam, Contes Cruels et Nouveaux contes cruels"
             type: "Module"
             volume: "30min"
             url: "https://uoh.fr/front/noticefr/?uuid=6a29228e-15d5-4442-a8d0-ec2c7583d393"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Connaissances du paysage chez Edouard Glissant et Mohammed Dib"
             type: "Module"
             volume: "20min"

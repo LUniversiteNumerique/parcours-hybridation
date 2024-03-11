@@ -1,10 +1,10 @@
 id: 25
 name: "Licence mention philosophie"
 description: |
-  Ce parcours propose des ressources éducatives libres mobilisables pour enseigner <strong>la philosophie 
-  générale et l’histoire de la philosophie et les rapports de la philosophie avec les autres domaines du 
-  savoir</strong>. Ces ressources permettent de faire acquérir une culture philosophique, incluant à la 
-  fois des grands auteurs et des domaines de la philosophie, ainsi qu’une culture générale solide appréciée 
+  Ce parcours propose des ressources éducatives libres mobilisables pour enseigner <strong>la philosophie
+  générale et l’histoire de la philosophie et les rapports de la philosophie avec les autres domaines du
+  savoir</strong>. Ces ressources permettent de faire acquérir une culture philosophique, incluant à la
+  fois des grands auteurs et des domaines de la philosophie, ainsi qu’une culture générale solide appréciée
   dans des secteurs professionnels variés.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -210,7 +210,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -371,7 +371,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -633,50 +633,56 @@ years:
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"      
           - name: "Lire Montesquieu. les enjeux d’une édition"
             type: "Cours complet ou MOOC"
             volume: "8h"
             url: "https://uoh.fr/front/noticefr/?uuid=47d1262a-da6c-4503-93f6-ead7226fb15e"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Pourquoi les corps tombent-ils ? Une histoire de la gravité d’Aristote à Einstein"
             type: "Module"
             volume: "30min"
             url: "https://culturesciencesphysique.ens-lyon.fr/ressource/histoire-gravite-1-Aristote-Descartes.xml"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les débuts de la relativité restreinte"
             type: "Module"
             volume: "30min"
             url: "https://culturesciencesphysique.ens-lyon.fr/ressource/debut-relativite-restreinte-1.xml"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Historique : de Galilée à nos jours, évolution de la notion de vitesse de la lumière"
             type: "Module"
             volume: "30min"
             url: "https://culturesciencesphysique.ens-lyon.fr/ressource/VLum.xml"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les Objectifs de Développement Durable comme nouvelle citoyenneté mondiale"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/les-odd-comme-nouvelle-citoyennete-mondiale"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’Humain dans la biodiversité"
             type: "Grain ou élément de cours"
             volume: "25min"
             url: "https://www.uved.fr/fiche/ressource/lhumain-dans-la-biodiversite"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Nous et les autres animaux demain : approche philosophique"
             type: "Grain ou élément de cours"
             volume: "8min"
             url: "https://www.uved.fr/fiche/ressource/nous-et-les-autres-animaux-demain-approche-philosophique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
@@ -899,28 +905,28 @@ years:
             url: "https://www.canal-u.tv/chaines/ens-paris/sartre-de-l-etre-et-le-neant-a-la-critique-de-la-raison-dialectique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"       
           - name: "Camus et Heidegger : les noces avec le monde"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/ens-paris/albert-camus-litterature-morale-philosophie/camus-et-heidegger-les-noces-avec-le"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Albert Camus : À l’endroit la littérature, la philosophie à l’envers"
             type: "Grain ou élément de cours"
             volume: "45min"
             url: "https://www.canal-u.tv/chaines/ens-paris/albert-camus-litterature-morale-philosophie/albert-camus-a-l-endroit-la"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le moment de Camus"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/ens-paris/albert-camus-litterature-morale-philosophie/le-moment-de-camus"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Acquérir les méthodes de la philosophie"
         resources:
           - name: "Méthodologie en histoire des sciences"
@@ -929,21 +935,21 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=a69ecb22-6f28-4c76-a7b0-73c0a6b4e2ee"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le débat et les discussions à visée philosophique"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/le-debat-et-les-discussions-a-visee-philosophique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Problématisation, investigation et interdisciplinarité"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.uved.fr/fiche/ressource/problematisation-investigation-et-interdisciplinarite"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Maîtriser des domaines spécifiques"
         resources:
           - name: "Initiation à la lecture de Machiavel"
@@ -959,7 +965,7 @@ years:
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-art-de-gouverner-a-florence-1494-1530"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Averroès"
             type: "Cours complet ou MOOC"
             volume: "12h"
@@ -973,7 +979,7 @@ years:
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2004-2005-la-mort-regards-croises/l-ancien-et-le-nouvel-eugenisme-les"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’industrie en France, XVIIe-XXIe siècle"
             type: "Cours complet ou MOOC"
             volume: "60h"
@@ -987,14 +993,14 @@ years:
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/sciences-annees-70/le-conflit-des-createurs-fictions-juridiques-et-realites"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La prochaine éthique biomédicale"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2007-2008-demain-apres-demain/la-prochaine-ethique-biomedicale"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Ethiques de la protection de la nature"
             type: "Grain ou élément de cours"
             volume: "10min"
@@ -1022,7 +1028,7 @@ years:
             url: "https://www.uved.fr/fiche/ressource/epistemologie-ethique-et-ingenierie-ecologique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"

@@ -649,6 +649,7 @@ years:
             volume: "9h"
             url: "https://uoh.fr/front/noticefr/?uuid=22f18637-6794-484c-a7aa-d5002839e8b8"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Questions de pédagogie autour de la phonétique corrective"
             type: "Module"
             volume: "2h"

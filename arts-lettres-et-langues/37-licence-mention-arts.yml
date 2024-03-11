@@ -1,9 +1,9 @@
 id: 37
 name: "Licence mention arts"
 description: |
-  Ce parcours type offre des contenus permettant d’hybrider l’acquisition des <strong>connaissances à la 
-  fois fondatrices et innovantes de la culture artistique</strong>, des savoir-faire techniques et plasticiens, 
-  méthodologiques et scientifiques, des outils d’analyse critique, des savoir-créer et des savoir-penser 
+  Ce parcours type offre des contenus permettant d’hybrider l’acquisition des <strong>connaissances à la
+  fois fondatrices et innovantes de la culture artistique</strong>, des savoir-faire techniques et plasticiens,
+  méthodologiques et scientifiques, des outils d’analyse critique, des savoir-créer et des savoir-penser
   indispensables au développement d’un projet artistique singulier et actuel.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -52,11 +52,13 @@ years:
             volume: "11min"
             url: "https://uoh.fr/front/noticefr/?uuid=431e05dd-90e7-430d-9a55-ea0f6306d36e"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Diagrammes"
             type: "Grain ou élément de cours"
             volume: "11min"
             url: "https://uoh.fr/front/noticefr/?uuid=693b7e45-b04d-4afa-bbd3-8dc62e49f030"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Histoire des arts"
         resources:
           - name: "Qu’est-ce qu’une œuvre d’art (Yves Michaud)"
@@ -110,8 +112,6 @@ years:
             volume: "15min"
             url: "https://www.canal-u.tv/chaines/alcm/europe/les-techniques-de-gravure"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les techniques de l’estampe"
@@ -213,7 +213,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
@@ -267,7 +267,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -428,7 +428,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -580,11 +580,13 @@ years:
             volume: "11min"
             url: "https://uoh.fr/front/noticefr/?uuid=ebea6dd0-f432-4dc3-8148-62ad5d4e4acd"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Guillevic et ses peintres"
             type: "Grain ou élément de cours"
             volume: "47min"
             url: "https://uoh.fr/front/noticefr/?uuid=295622ff-7997-4764-878a-90610e89fcb4"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Images fixes et images en mouvement"
         resources:
           - name: "Conférence : « image fixe, image mouvante »"
@@ -592,6 +594,8 @@ years:
             volume: "20h"
             url: "https://www.canal-u.tv/chaines/utls/image-fixe-image-mouvante"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Les grandes leçons cinématographiques"
             type: "Cours complet ou MOOC"
             volume: "7h"
@@ -627,6 +631,7 @@ years:
             volume: "10min"
             url: "https://uoh.fr/front/noticefr/?uuid=47355fd8-f132-4de2-a43b-2cf4cb6396b7"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Le monde en images"
             type: "TD, étude de cas"
             volume: "10h"
@@ -647,7 +652,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"

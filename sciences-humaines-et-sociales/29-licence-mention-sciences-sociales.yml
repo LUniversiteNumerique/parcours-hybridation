@@ -1,10 +1,10 @@
 id: 29
 name: "Licence mention sciences sociales"
 description: |
-  Ce parcours type met à disposition des ressources pour hybrider cette formation proposant habituellement 
-  <strong>d’analyser les sociétés contemporaines</strong> (proches ou plus lointaines, dans l’espace et dans 
-  le temps) <strong>à travers des premières démarches d’enquête</strong>. Elle réunit souvent dans cette 
-  perspective quatre disciplines des sciences sociales (l’Anthropologie, l’Histoire, la Sociologie et la 
+  Ce parcours type met à disposition des ressources pour hybrider cette formation proposant habituellement
+  <strong>d’analyser les sociétés contemporaines</strong> (proches ou plus lointaines, dans l’espace et dans
+  le temps) <strong>à travers des premières démarches d’enquête</strong>. Elle réunit souvent dans cette
+  perspective quatre disciplines des sciences sociales (l’Anthropologie, l’Histoire, la Sociologie et la
   Science politique), auxquelles peuvent venir s’associer la Psychologie et/ou l’Économie.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -63,7 +63,7 @@ years:
             url: "https://www.canal-u.tv/chaines/clermontmsh/gerard-noiriel-un-historien-dans-la-cite"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Que peut l’histoire ? les étudiants en discussion avec Patrick Boucheron"
             type: "TD, étude de cas"
             volume: "1h30"
@@ -216,7 +216,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -277,7 +277,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -445,7 +445,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -658,7 +658,7 @@ years:
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-idee-d-etat-de-droit-michel-senellart"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"           
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Sociologie"
         resources:
           - name: "La sociologie peut-elle aider à comprendre l’économie ?"

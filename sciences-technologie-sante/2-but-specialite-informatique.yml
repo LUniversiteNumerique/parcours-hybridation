@@ -100,8 +100,9 @@ years:
           - name: "Algorithmique et programmation"
             type: "Cours complet ou MOOC *"
             volume: "9h"
-            url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
+            url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3437"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Algorithmique"
             type: "Cours complet ou MOOC"
             volume: "20h"
@@ -109,11 +110,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Bases de la programmation"
-            type: "Cours complet ou MOOC"
-            volume: "15h"
-            url: "http://www4.utc.fr/~lo01/pages/pages_cours/index.php"
-            licence:
           - name: "Animation d’une page web avec javascript et SVG"
             type: "Module *"
             volume: "12h"
