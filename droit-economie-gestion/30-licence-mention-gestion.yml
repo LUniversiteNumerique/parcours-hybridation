@@ -1118,6 +1118,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Economie"
         resources:
+          - name: "Intelligence économique"
+            type: "Cours complet ou MOOC"
+            volume: "60h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1025"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Economie monétaire et bancaire"
             type: "Cours complet ou MOOC"
             volume: "30h"
