@@ -142,6 +142,8 @@ years:
             volume: "40h"
             url: "https://moodle.insa-rouen.fr/course/view.php?id=153"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Animation d’une page Web avec Javascript et SVG"
             type: "Module *"
             volume: "12h"

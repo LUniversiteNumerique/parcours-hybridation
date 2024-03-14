@@ -31,7 +31,7 @@ resources:
     type: "TP, exercice, quiz"
     volume: "30min"
     url: "https://ikigai.games/games/gameDetails/107"
-    licence: 
+    licence:
   - name: "La méthodologie documentaire avec le tutoriel CERISE"
     type: "Cours complet ou MOOC"
     volume: "3h"
@@ -155,7 +155,7 @@ resources:
     type: "Cours complet ou MOOC"
     volume: "4h"
     url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-    licence: 
+    licence:
       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
   - name: "Préparer et passer ses examens"

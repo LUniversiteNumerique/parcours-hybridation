@@ -1,10 +1,10 @@
 id: 39
 name: "Licence mention arts du spectacle"
 description: |
-  Ce parcours type propose des ressources pour hybrider des enseignements transversaux (langue vivante), 
-  des enseignements <strong>pluridisciplinaires</strong> (via les UE d’ouverture et les cours communs au 
-  cinéma et au théâtre), des ateliers pratiques (jeu, cirque, marionnette, montage son, montage vidéo, 
-  scénographie, danse) et des <strong>enseignements disciplinaires spécifiques</strong> à chaque parcours 
+  Ce parcours type propose des ressources pour hybrider des enseignements transversaux (langue vivante),
+  des enseignements <strong>pluridisciplinaires</strong> (via les UE d’ouverture et les cours communs au
+  cinéma et au théâtre), des ateliers pratiques (jeu, cirque, marionnette, montage son, montage vidéo,
+  scénographie, danse) et des <strong>enseignements disciplinaires spécifiques</strong> à chaque parcours
   (théorie, histoire, esthétique, analyse, écriture…).
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -18,6 +18,7 @@ years:
             volume: "1h30"
             url: "https://uoh.fr/front/noticefr/?uuid=fc95ddfb-f40a-4f8c-9e92-f03761a86224"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Le péché originel dans le théâtre religieux du XVIe siècle"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -136,6 +137,7 @@ years:
             volume: "10min"
             url: "https://bandeviolons.hypotheses.org/1"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
@@ -228,7 +230,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
@@ -282,7 +284,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -443,7 +445,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -542,6 +544,7 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0dc2115d-3b13-44c7-95e5-59a1845ab43a"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Ecriture théâtrale"
         resources:
           - name: "La fabrique du spectacle"
@@ -556,6 +559,7 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=27d4d9c1-b1e2-4580-8559-d124b78d4b79"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Ecriture cinématographique"
         resources:
           - name: "Cinéma et Anthropologie"
@@ -593,6 +597,7 @@ years:
             volume: "2h"
             url: "https://journals.openedition.org/agon/1048"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Dispositifs scénographiques : son, effets spéciaux, mise en scène"
         resources:
           - name: "Jacques Demy : l’histoire en chanté du cinéma chanté"
@@ -636,7 +641,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
@@ -746,7 +751,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -838,6 +843,7 @@ years:
             volume: "1h"
             url: "https://www.erudit.org/fr/revues/im/2019-n33-im04907/1065016ar/"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Approches sociologiques des arts du spectacle"
         resources:
           - name: "De l’anthropologie classique à l’anthropologie visuelle"
@@ -866,6 +872,8 @@ years:
             volume: "50min"
             url: "https://popups.uliege.be/2593-4228/index.php?id=891"
             licence:
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "Master Class théâtre"
         resources:
           - name: "Leçons de l’Université : prises de parole au sein du Festival d’Avignon (32 entretiens)"

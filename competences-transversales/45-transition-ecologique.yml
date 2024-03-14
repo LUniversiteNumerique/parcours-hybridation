@@ -539,7 +539,7 @@ years:
             url: "https://www.uved.fr/fiche/ressource/les-grandes-crises-de-la-biodiversite"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"    
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’évaluation globale de la biodiversité et des services écosystémiques l’IPBES (2019)"
             type: "Grain ou élément de cours"
             volume: "11min"
@@ -1224,8 +1224,8 @@ years:
             volume: "15min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=827"
             licence:
-               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+                - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Modes de production et de consommation"
             type: "Module"
             volume: "20min"
@@ -1333,4 +1333,3 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-   

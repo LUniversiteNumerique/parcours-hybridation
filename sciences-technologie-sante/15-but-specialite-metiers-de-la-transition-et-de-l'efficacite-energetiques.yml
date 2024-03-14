@@ -1059,8 +1059,9 @@ years:
           - name: "Algorithmique et programmation"
             type: "Cours complet ou MOOC *"
             volume: "9h"
-            url: "https://moodle.insa-rouen.fr/course/view.php?id=87"
+            url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3437"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"

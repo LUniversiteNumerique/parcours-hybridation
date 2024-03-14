@@ -1,10 +1,10 @@
 id: 40
 name: "Licence mention lettres"
 description: |
-  Ce parcours type met à disposition des ressources éducatives libres pour enseigner les différentes 
-  disciplines de cette formation, rassemblées autour d’un tronc commun correspondant à ce qu’on appelle 
-  traditionnellement les lettres modernes : <strong>français, littérature, linguistique et langues 
-  anciennes</strong>. Il propose également des contenus pour l’étude renforcée d’une langue vivante et 
+  Ce parcours type met à disposition des ressources éducatives libres pour enseigner les différentes
+  disciplines de cette formation, rassemblées autour d’un tronc commun correspondant à ce qu’on appelle
+  traditionnellement les lettres modernes : <strong>français, littérature, linguistique et langues
+  anciennes</strong>. Il propose également des contenus pour l’étude renforcée d’une langue vivante et
   des enseignements transversaux (compétences informatiques, méthodologie universitaire).
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -244,7 +244,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -326,7 +326,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -487,7 +487,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -572,26 +572,25 @@ years:
             volume: "2h"
             url: "https://www.axl.cefan.ulaval.ca/francophonie/HIST_FR_s3_Ancien-francais.htm"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Histoire du français : le moyen français"
             type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://www.axl.cefan.ulaval.ca/francophonie/HIST_FR_s4_Moyen-francais.htm"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Dictionnaire étymologique de l’ancien français"
             type: "TD, étude de cas"
             volume: "10h"
             url: "https://www.hadw-bw.de/forschung/forschungsstelle/dictionnaire-etymologique-de-lancien-francais-deaf"
             licence:
-          - name: "Le système verbal du français"
-            type: "Cours complet ou MOOC"
-            volume: "3h"
-            url: "http://theses.univ-lyon2.fr/documents/lyon2/2000/choi_ej/pdfAmont/choi_ej_chap4.pdf"
-            licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.cairn.info/revue-langue-francaise-2004-1-page-56.htm"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Littérature grecque et latine"
         resources:
           - name: "Langue sage, langue folle : sur un mythe contemporain des rapports entre langue latine et langue romane en littérature médiévale / Michel Banniard"
@@ -664,6 +663,7 @@ years:
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=2e2ca114-c22e-4936-b687-245eb5f51eac"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Le roman de la route: Jacques le Fataliste et le Roman comique, études synthétiques"
             type: "Module"
             volume: "1h"
@@ -683,16 +683,19 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=0aa9292a-a767-4980-a722-e673f040152b"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "William Faulkner et Claude Simon"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1re partie) de Cervantès"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Introduction à la littérature comparée"
             type: "Module"
             volume: "2h"
@@ -707,6 +710,8 @@ years:
             volume: "1h"
             url: "https://www.persee.fr/doc/lgge_0458-726x_1978_num_12_49_1923"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "En français et ailleurs : éléments de phonologie"
             type: "Grain ou élément de cours"
             volume: "25min"
@@ -891,6 +896,7 @@ years:
             volume: "2h"
             url: "https://conde.hypotheses.org/259"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Littérature"
         resources:
           - name: "Initiation à la lecture de Machiavel"
@@ -947,16 +953,19 @@ years:
             volume: "45min"
             url: "https://uoh.fr/front/noticefr/?uuid=295622ff-7997-4764-878a-90610e89fcb4"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Les Bretagnes de Colette"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=820cd89a-a99a-4a03-863f-88787d3847b8"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Cruauté ordinaire et extraordinaire: Gogol, Soirées du Hameau et Nouvelles de Saint-Pétersbourg et Villiers de L’Isle-Adam, Contes Cruels et Nouveaux contes cruels"
             type: "Module"
             volume: "30min"
             url: "https://uoh.fr/front/noticefr/?uuid=6a29228e-15d5-4442-a8d0-ec2c7583d393"
             licence:
+              - name: "Gestion des droits réservée aux éditeurs"
           - name: "Connaissances du paysage chez Edouard Glissant et Mohammed Dib"
             type: "Module"
             volume: "20min"
@@ -974,7 +983,7 @@ years:
           - name: "1000 ans de littérature d’Oc"
             type: "Cours complet ou MOOC"
             volume: "50min"
-            url: "http://uoh.univ-montp3.fr/1000ans/"
+            url: "https://uoh.fr/front/noticefr/?uuid=909d6564-e3a5-41f4-9112-cc0bd2ca7e3a"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

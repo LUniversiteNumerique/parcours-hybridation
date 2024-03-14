@@ -130,11 +130,15 @@ years:
             volume: "10min"
             url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_12/co/NLP_E_M02_G01_12.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Calcul des moments d’inertie de différents solides simples"
             type: "TP, exercice, quiz"
             volume: "10min"
             url: "http://res-nlp.univ-lemans.fr/NLP_E_M02_G01_14/co/NLP_E_M02_G01_14.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Mécanique des solides"
             type: "Grain ou élément de cours"
             volume: "24min"
@@ -460,6 +464,8 @@ years:
             volume: "6h"
             url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G03/co/NLP_C_M15_G03_web.html"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Électrocinétique en régime continu permanent"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -500,7 +506,7 @@ years:
           - name: "La chimie par le web"
             type: "Cours complet ou MOOC"
             volume: "50h"
-            url: "http://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
+            url: "https://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -1143,11 +1149,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Cours de transferts thermiques"
-            type: "Module"
-            volume: "50h"
-            url: "http://www.legi.grenoble-inp.fr/people/Philippe.Marty/cours-thermique-L3.pdf"
-            licence:
           - name: "Les Bases de la Thermodynamique : les principes fondamentaux et leurs applications directes"
             type: "Module"
             volume: "25h"
@@ -2346,8 +2347,10 @@ years:
           - name: "ACVBAT : démarche d’analyse du cycle de vie appliquée aux matériaux et éléments de construction"
             type: "Cours complet ou MOOC"
             volume: "25h"
-            url: "http://stockage.univ-valenciennes.fr/MenetACVBAT20120704/acvbat/accueil/co/acvbat_010_accueil.html"
+            url: "https://www.uved.fr/fiche/ressource/acvbat-demarche-danalyse-du-cycle-de-vie-appliquee-aux-materiaux-et-elements-de-construction"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Ecoconstruction d’un bâtiment à énergie positive"
             type: "Cours complet ou MOOC"
             volume: "25h"
