@@ -1,0 +1,320 @@
+id: 50
+name: "Licence Sciences économiques"
+description: |
+  La Licence mention Sciences Economiques a pour objectif de former les étudiants à la compréhension des mécanismes économiques et l'analyse des comportements qui y sont rattachés. 
+  Les enseignements couvrent :
+  La microéconomie, qui étudie les comportements des agents économiques 
+  La macroéconomie, qui étudie le système économique au niveau agrégé à travers les relations entre les grands agrégats tels que la consommation, l’investissement, le revenu,
+  Les outils de l'économiste (statistiques, mathématiques, informatique) et l’application des méthodes quantitatives aux questions économiques et financières
+
+  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
+   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
+years:
+  - name: "1re année"
+    ue:
+      - name: "Introduction"
+        resources: 
+          - name: "Histoire des faits économiques"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Histoire de la pensée économique"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "hhttps://moodle.luniversitenumerique.fr/course/view.php?id=150"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Economistes néo-classiques contre hétérodoxes"
+            type: "Grain ou élément de cours"
+            volume: "20min"
+            url: "http://ressources.aunege.fr/notice/view/aunege-1195"
+            licence:
+          - name: "A quoi sert l'expérimentation en écomonie ? "
+            type: "Grain ou élément de cours"
+            volume: "5min"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/economie-comportementale/a-quoi-sert-l-experimentation-en-economie"
+            licence:
+      - name: "Macroéconomie"
+        resources: 
+          - name: "Macroéconomie 1"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=62"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Macroéconomie 2"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=590"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+      - name: "Microéconomie"
+        resources: 
+          - name: "Microéconomie 1"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=60"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Microéconomie 2"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=725"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Les élasticités de la demande"
+            type: "Module"
+            volume: "4h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-937"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Les préférences du consommateur"
+            type: "Module"
+            volume: "4h"
+            url: "http://ressources.aunege.fr/nuxeo/site/esupversions/ebcf8c7b-4457-4d69-8baf-6451070644d0/co/PUBLICATION_web.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Les choix du consommateur"
+            type: "Module"
+            volume: "4h"
+            url: "http://ressources.aunege.fr/nuxeo/site/esupversions/e6188409-e1fc-474b-9db0-390d0ba451fa/co/PUBLICATION_web.html"
+            licence:
+          - name: "Marché et concurrence"
+            type: "Grain ou élément de cours"
+            volume: "1h14"
+            url: "https://www.canal-u.tv/chaines/utls/production-et-circulation-des-richesses/marche-et-concurrence"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Après la consommation ? "
+            type: "Grain ou élément de cours"
+            volume: "1h25"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/sociologie-et-demographie-economiques/webinaire-apres-la-consommation"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+      - name: "Outils, techniques et méthodes quantitatives"
+        resources:
+          - name: "Statistiques"
+            type: "Cours complet ou MOOC **"
+            volume: "30h"
+            url: "https://courlis-pf.univ-lorraine.fr/"
+            licence:
+          - name: "Traitement des données avec tableur appliqué à l'économie et la gestion"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-255"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+
+  - name: "2ème année"
+    ue:
+      - name: "Introduction"
+        resources:
+          - name: "Histoire des faits économiques"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Histoire de la pensée économique"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=150"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+      - name: "Macroénonomie"
+        resources: 
+          - name: "Macroécnomie 3 - Economie monétaire et bancaire"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=726"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+      - name: "Outils, techniques et méthodes quantitatives"
+        resources: 
+          - name: "Economie et mathématiques"
+            type: "Grain ou élément de cours"
+            volume: "1h15"
+            url: "https://www.canal-u.tv/chaines/utls/perspectives-sur-les-mathematiques-actuelles/economie-et-mathematiques"
+            licence:
+         - name: "Statistiques"
+            type: "Cours complet ou MOOC **"
+            volume: "30h"
+            url: "https://courlis-pf.univ-lorraine.fr/"
+            licence:
+          - name: "Traitement des données avec tableur appliqué à l'économie et la gestion"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-255"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Séries chronologiques : introduction"
+            type: "Module"
+            volume: "12h"
+            url: "http://ressources.aunege.fr/nuxeo/site/esupversions/03b74816-96f1-45f6-a9fc-06796564c061/co/PUBLICATION_web.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Introduction à l'économétrie"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1032"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+
+  - name: "3ème année"
+    ue:
+      - name: "Démographie"
+        resources:
+          - name: "L'impact de l'immigration sur l'économie française"
+            type: "Grain ou élément de cours"
+            volume: "5min"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/sociologie-et-demographie-economiques/l-impact-de-l-immigration-sur-l-economie"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Les migrations internationales en Europe: une opportunité économique ?"
+            type: "Grain ou élément de cours"
+            volume: "46min"
+            url: "https://www.canal-u.tv/chaines/clermontmsh/les-migrations-internationales-en-europe-une-opportunite-economique"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Démographie et croissance économique"
+            type: "Grain ou élément de cours"
+            volume: "1h10"
+            url: "https://www.canal-u.tv/chaines/utls/demographie-croissance-et-mondialisation/demographie-et-croissance-economique"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Economie de l'innovation"
+        resources:
+          - name: "Economie et Innovation"
+            type: "Module"
+            volume: "1h10"
+            url: "https://www.canal-u.tv/chaines/utls/production-et-circulation-des-richesses/economie-et-innovation"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Innovation : définition et mesure"
+            type: "Module"
+            volume: "5h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-955"
+            licence:
+          - name: "S'approprier l'innovation et la protéger"
+            type: "Module"
+            volume: "5h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-957"
+            licence:
+          - name: "Les structures industrielles et l'innovation"
+            type: "Module"
+            volume: "5h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-959"
+            licence:
+          - name: "Diffusion de l'innovation, espace et échelles territoriales des politiques d'innovation"
+            type: "Module"
+            volume: "5h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-961"
+            licence:
+          - name: "L'économie de la connaissance"
+            type: "Grain ou élément de cours"
+            volume: "10min"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/consommer-responsable/l-economie-de-la-connaissance"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Economie et développement"
+        resources:
+          - name: "Vers un enseignement en économie compatible avec le développement durable"
+            type: "Grain ou élément de cours"
+            volume: "6min"
+            url: "https://www.canal-u.tv/chaines/canal-aunege/consommer-responsable/vers-un-enseignement-en-economie-compatible-avec-le"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Economie et entreprise"
+        resources:
+          - name: "Economie managériale"
+            type: "Cours complet ou MOOC"
+            volume: "40h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-245"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+      - name: "Economie et marchés financiers"
+        resources:
+          - name: "Les fonctions économiques des systèmes financiers"
+            type: "Module"
+            volume: "4h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-827"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+      - name: "Intelligence économique"
+        resources:
+          - name: "Intelligence économique"
+            type: "Cours complet ou MOOC"
+            volume: "60h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1025"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+      - name: "Psycho-économie"
+        resources:
+          - name: "Introduction à la psycho-économie: étude des comportements individuels"
+            type: "Module"
+            volume: "7h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-699"
+            licence:
+          - name: "Introduction à la psycho-économie: étude des comportements sociaux"
+            type: "Module"
+            volume: "3h30"
+            url: "http://ressources.aunege.fr/notice/view/aunege-701"
+            licence:
+      - name: "Outils, techniques et métjodes quantitatives"
+        resources: 
+          - name: "Séries chronologiques : introduction"
+            type: "Module"
+            volume: "12h"
+            url: "http://ressources.aunege.fr/nuxeo/site/esupversions/03b74816-96f1-45f6-a9fc-06796564c061/co/PUBLICATION_web.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Introduction à l'économétrie"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1032"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Prévision à court terme : Méthodes de lissage exponentiel"
+            type: "Module"
+            volume: "8h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-513"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Modèle d'aide à la décision"
+            type: "Cours complet ou MOOC"
+            volume: "40h"
+            url: "http://ressources.aunege.fr/notice/view/aunege-225"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"

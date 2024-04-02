@@ -77,6 +77,8 @@ fields:
         name: "BUT spécialités carrières juridiques"
       - id: 34
         name: "BUT spécialité Management de la Logistique et des Transports"
+      - id: 50
+        name: "Licence Sciences économiques"
 
   - name: "Arts, Lettres et Langues"
     diplomas:
