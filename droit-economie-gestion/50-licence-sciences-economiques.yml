@@ -152,7 +152,7 @@ years:
             volume: "1h15"
             url: "https://www.canal-u.tv/chaines/utls/perspectives-sur-les-mathematiques-actuelles/economie-et-mathematiques"
             licence:
-         - name: "Statistiques"
+          - name: "Statistiques"
             type: "Cours complet ou MOOC **"
             volume: "30h"
             url: "https://courlis-pf.univ-lorraine.fr/"
