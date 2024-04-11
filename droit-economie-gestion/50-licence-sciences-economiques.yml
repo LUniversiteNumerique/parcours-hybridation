@@ -138,7 +138,7 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Macroénonomie"
         resources: 
-          - name: "Macroécnomie 3 - Economie monétaire et bancaire"
+          - name: "Macroéconomie 3 - Economie monétaire et bancaire"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=726"
@@ -288,7 +288,7 @@ years:
             volume: "3h30"
             url: "http://ressources.aunege.fr/notice/view/aunege-701"
             licence:
-      - name: "Outils, techniques et métjodes quantitatives"
+      - name: "Outils, techniques et méthodes quantitatives"
         resources: 
           - name: "Séries chronologiques : introduction"
             type: "Module"

@@ -69,16 +69,16 @@ fields:
     diplomas:
       - id: 30
         name: "Licence mention gestion"
+      - id: 50
+        name: "Licence Sciences économiques"
+      - id: 33
+        name: "BUT spécialités carrières juridiques"
       - id: 31
         name: "BUT spécialité GEA"
       - id: 32
         name: "BUT spécialité techniques de commercialisation"
-      - id: 33
-        name: "BUT spécialités carrières juridiques"
       - id: 34
         name: "BUT spécialité Management de la Logistique et des Transports"
-      - id: 50
-        name: "Licence Sciences économiques"
 
   - name: "Arts, Lettres et Langues"
     diplomas:
