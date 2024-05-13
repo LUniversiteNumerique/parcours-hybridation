@@ -9,7 +9,7 @@ description: |
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1re année"
+  - name: "1ère année"
     ue:
       - name: "Découvrir les institutions et les professions"
         resources:
@@ -497,7 +497,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Culture numérique : introduction 1re partie"
+          - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
@@ -798,7 +798,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Culture numérique : introduction 1re partie"
+          - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
