@@ -71,6 +71,8 @@ fields:
         name: "Licence mention gestion"
       - id: 50
         name: "Licence Sciences économiques"
+      - id: 51
+        name: "Licence Administration économique et sociale (AES)"
       - id: 33
         name: "BUT spécialités carrières juridiques"
       - id: 31
@@ -79,6 +81,7 @@ fields:
         name: "BUT spécialité techniques de commercialisation"
       - id: 34
         name: "BUT spécialité Management de la Logistique et des Transports"
+
 
   - name: "Arts, Lettres et Langues"
     diplomas:
