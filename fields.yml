@@ -1,13 +1,29 @@
 fields:
   - name: "Sciences, Technologie, Santé"
     diplomas:
+      - id: 23
+        name: "BUT Génie biologique GB"
+      - id: 49
+        name: "BUT Génie mécanique et productique GMP"
       - id: 1
+        name: "BUT informatique"
+      - id: 3
+        name: "BUT réseaux et télécoms R&T"
+      - id: 4
+        name: "BUT Genie électrique et informatique industrielle GEII"
+      - id: 9
+        name: "BUT Hygiène, sécurité, environnement HSE"
+      - id: 10
+        name: "BUT Métiers du Multimédia et de l'Internet MMI"
+      - id: 11
+        name: "BUT Genie chimique-Génie des procédés GCCD"
+      - id: 12
+        name: "BUT mesures physiques MP"
+      - id: 13
+        name: "BUT Métiers de la Transition et de l'Efficacité Energétiques MT2E"
+      - id: 16
         name: "Licence mention informatique"
       - id: 2
-        name: "BUT spécialité informatique"
-      - id: 3
-        name: "BUT spécialité réseaux et télécoms"
-      - id: 4
         name: "Licence mention sciences pour l’ingénieur"
       - id: 5
         name: "Licence mention mécanique"
@@ -16,22 +32,10 @@ fields:
       - id: 7
         name: "Licence mention sciences et technologie"
       - id: 8
-        name: "BUT spécialité GEII"
-      - id: 9
-        name: "BUT spécialité HSE"
-      - id: 10
-        name: "BUT spécialité MMI"
-      - id: 11
-        name: "BUT spécialité GCCD"
-      - id: 12
-        name: "BUT spécialité mesures physiques"
-      - id: 13
         name: "Licence mention sciences de la vie"
       - id: 14
         name: "Licence mention MIASHS"
       - id: 15
-        name: "BUT spécialité Métiers de la Transition et de l'Efficacité Energétiques"
-      - id: 16
         name: "Licence mention physique"
       - id: 17
         name: "Licence mention SVT"
@@ -45,10 +49,7 @@ fields:
         name: "Licence mention chimie"
       - id: 22
         name: "Licence mention EEA"
-      - id: 23
-        name: "BUT spécialité génie biologique"
-      - id: 49
-        name: "BUT Génie mécanique et productique"
+
 
   - name: "Sciences Humaines et Sociales"
     diplomas:
@@ -67,20 +68,21 @@ fields:
 
   - name: "Droit, Économie et Gestion"
     diplomas:
+      - id: 33
+        name: "BUT carrières juridiques"
+      - id: 31
+        name: "BUT Gestion des entreprises et des administrations GEA"
+      - id: 32
+        name: "BUT techniques de commercialisation TC"
+      - id: 34
+        name: "BUT Management de la Logistique et des Transports MLT"
       - id: 30
         name: "Licence mention gestion"
       - id: 50
         name: "Licence Sciences économiques"
       - id: 51
         name: "Licence Administration économique et sociale (AES)"
-      - id: 33
-        name: "BUT spécialités carrières juridiques"
-      - id: 31
-        name: "BUT spécialité GEA"
-      - id: 32
-        name: "BUT spécialité techniques de commercialisation"
-      - id: 34
-        name: "BUT spécialité Management de la Logistique et des Transports"
+
 
 
   - name: "Arts, Lettres et Langues"

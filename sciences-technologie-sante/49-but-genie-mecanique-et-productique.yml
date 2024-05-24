@@ -178,6 +178,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h50"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=112"
+            licence:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
