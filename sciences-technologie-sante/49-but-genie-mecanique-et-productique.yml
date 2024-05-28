@@ -632,6 +632,9 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=119"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Amélioration Continue"
             type: "Cours complet ou MOOC"
             volume: "4h"
