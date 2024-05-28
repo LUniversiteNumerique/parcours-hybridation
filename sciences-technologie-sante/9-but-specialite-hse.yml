@@ -1,9 +1,9 @@
 id: 9
 name: "BUT spécialité Hygiène Sécurité Environnement"
 description: |
-  Ce parcours permet de préparer des techniciens supérieurs capables d’assurer la sécurité dans les entreprises et les 
-  administrations, d’appréhender les risques aussi bien en termes de santé et de sécurité pour les personnes, qu’en terme de 
-  protection de l’environnement au sein d’entreprises et administrations. Il veille ainsi à la qualité du cadre de travail 
+  Ce parcours permet de préparer des techniciens supérieurs capables d’assurer la sécurité dans les entreprises et les
+  administrations, d’appréhender les risques aussi bien en termes de santé et de sécurité pour les personnes, qu’en terme de
+  protection de l’environnement au sein d’entreprises et administrations. Il veille ainsi à la qualité du cadre de travail
   en informant l’employeur sur ses obligations et responsabilités. PARCOURS EN TRAVAUX BUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -23,7 +23,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Excel et Word 2010"
@@ -263,7 +263,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -416,7 +416,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Chimie-physico-chimique"
@@ -646,7 +646,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -656,11 +656,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
-            volume: "3h"
-            url: "https://uoh.fr/front/noticefr/?uuid=88ff5ffe-67a2-484e-9f3f-ffc4ffd62d21"
+            volume: "4h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -707,7 +707,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -815,13 +815,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-        #  - name: "Zotero premiers pas"
-         #   type: "Grain ou élément de cours"
-          #  volume: "30min"
-           # url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
-          #  licence:
-           #   - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-            #    image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Zotero premiers pas"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -878,34 +878,34 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      #    - name: "Débuter avec R et RStudio"
-       #     type: "Grain ou élément de cours"
-        #    volume: "30min"
-         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-         #   licence:
-          #    - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-           #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Excel - Premiers pas"
-    #        type: "Grain ou élément de cours"
-     #       volume: "30min"
-      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Disserter en géographie"
-      #      type: "Grain ou élément de cours"
-      #      volume: "30min"
-      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Prendre des notes"
-       #     type: "Grain ou élément de cours"
-        #    volume: "30min"
-         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-         #   licence:
-         #     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-          #      image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Débuter avec R et RStudio"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Excel - Premiers pas"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Disserter en géographie"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Prendre des notes"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
             volume: "30min"
