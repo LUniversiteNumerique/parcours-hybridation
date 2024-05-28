@@ -13,7 +13,7 @@ years:
   - name: "1ère année"
     ue:
       - name: "Droit et sciences politiques"
-        resources: 
+        resources:
           - name: "Les institutions européennes"
             type: "Cours complet ou MOOC"
             volume: "9h"
@@ -58,8 +58,8 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     - name: "Sciences sociales"
-       resources:
+      - name: "Sciences sociales"
+        resources:
           - name: "Introduction à la psychologie à l'université"
             type: "Cours complet ou MOOC"
             volume: "10h"
@@ -95,8 +95,8 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     - name: "Outils, techniques et méthodes"
-       resources:
+      - name: "Outils, techniques et méthodes"
+        resources:
           - name: "Statistiques"
             type: "Cours complet ou MOOC"
             volume: "30h"
@@ -128,7 +128,7 @@ years:
   - name: "2ème année"
     ue:
       - name: "Droit et sciences politiques"
-        resources: 
+        resources:
           - name: "Décentralisation et collectivités territoriales"
             type: "Cours complet ou MOOC"
             volume: "18h"
@@ -235,7 +235,7 @@ years:
   - name: "3ème année"
     ue:
       - name: "Droit et sciences politiques"
-        resources: 
+        resources:
           - name: "Droit du travail"
             type: "Cours complet ou MOOC"
             volume: "30h"
@@ -293,7 +293,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Economie Gestion"
-        resources: 
+        resources:
           - name: "Gestion de Ressources Humaines"
             type: "Cours complet ou MOOC"
             volume: "30h"
