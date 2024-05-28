@@ -661,7 +661,7 @@ years:
           - name: "L’école pour tous ? Les défis d’un système éducatif inclusif"
             type: "Grain ou élément de cours"
             volume: "1h"
-            url: https://www.canal-u.tv/chaines/upmf/l-ecole-pour-tous-les-defis-d-un-systeme-educatif-inclusif"
+            url: "https://www.canal-u.tv/chaines/upmf/l-ecole-pour-tous-les-defis-d-un-systeme-educatif-inclusif"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
