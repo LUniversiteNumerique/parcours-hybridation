@@ -30,21 +30,21 @@ years:
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/que-nous-apprennent-les-sciences-cognitives-sur-notre-capacite-a-gerer-les"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les particularités de la communication parlée"
             type: "Module"
             volume: "2h"
             url: "https://uoh.fr/front/noticefr/?uuid=1d0b457e-753b-4c01-a3ee-5f21ef45bcb8"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"   
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Demain, l’écriture"
             type: "Module"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/univ-bordeaux/saison-2007-2008-demain-apres-demain/demain-l-ecriture"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Jack Goody et l’empire de la littéracie"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -67,7 +67,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "3h"
@@ -163,7 +163,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -348,13 +348,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-        #  - name: "Zotero premiers pas"
-         #   type: "Grain ou élément de cours"
+          #  - name: "Zotero premiers pas"
+          #   type: "Grain ou élément de cours"
           #  volume: "30min"
-           # url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
+          # url: "https://moodle.luniversitenumerique.fr/course/view.php?id=835"
           #  licence:
-           #   - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-            #    image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #   - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #    image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie AFNOR"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -401,7 +401,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -418,33 +418,33 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      #    - name: "Débuter avec R et RStudio"
-       #     type: "Grain ou élément de cours"
-        #    volume: "30min"
-         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-         #   licence:
+          #    - name: "Débuter avec R et RStudio"
+          #     type: "Grain ou élément de cours"
+          #    volume: "30min"
+          #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
+          #   licence:
           #    - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-           #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Excel - Premiers pas"
-    #        type: "Grain ou élément de cours"
-     #       volume: "30min"
-      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Disserter en géographie"
-      #      type: "Grain ou élément de cours"
-      #      volume: "30min"
-      #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Prendre des notes"
-       #     type: "Grain ou élément de cours"
-        #    volume: "30min"
-         #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
-         #   licence:
-         #     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #     image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #       - name: "Excel - Premiers pas"
+          #        type: "Grain ou élément de cours"
+          #       volume: "30min"
+          #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=871"
+          #     licence:
+          #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Disserter en géographie"
+          #      type: "Grain ou élément de cours"
+          #      volume: "30min"
+          #      url: "https://moodle.luniversitenumerique.fr/course/view.php?id=872"
+          #     licence:
+          #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #   - name: "Prendre des notes"
+          #     type: "Grain ou élément de cours"
+          #    volume: "30min"
+          #   url: "https://moodle.luniversitenumerique.fr/course/view.php?id=873"
+          #   licence:
+          #     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
           #      image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Communiquer avec ses enseignants"
             type: "Grain ou élément de cours"
@@ -540,7 +540,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=b2e045b1-b8f8-4756-8986-56f3001a402e"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "MLangues étrangères"
         resources:
           - name: "Certif’langues – anglais"
