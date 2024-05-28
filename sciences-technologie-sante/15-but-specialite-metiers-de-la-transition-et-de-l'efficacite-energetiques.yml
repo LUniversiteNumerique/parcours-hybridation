@@ -1,10 +1,10 @@
 id: 15
 name: "BUT spécialité Métiers de la Transition et de l'Efficacité Energétiques"
 description: |
-  Ce parcours propose des ressources pour former des étudiants à bac + 2 capables de maîtriser les 
-  applications de l’énergie dans les secteurs du bâtiment, de l’industrie ou du transport : production 
-  de l’énergie, transfert de l’énergie, utilisation de l’énergie. <strong>La maîtrise de l’énergie, sur 
-  les plans techniques, économiques et environnementaux</strong>, sont les principaux objectifs de cette 
+  Ce parcours propose des ressources pour former des étudiants à bac + 2 capables de maîtriser les
+  applications de l’énergie dans les secteurs du bâtiment, de l’industrie ou du transport : production
+  de l’énergie, transfert de l’énergie, utilisation de l’énergie. <strong>La maîtrise de l’énergie, sur
+  les plans techniques, économiques et environnementaux</strong>, sont les principaux objectifs de cette
   formation qui répond à une forte demande des entreprises.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -46,7 +46,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -183,7 +183,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Baselecpro : cours et exercices d’électricité"
@@ -271,7 +271,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Thermodynamique"
@@ -280,7 +280,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Quiz thermodynamique – pression partielle et GP 1"
@@ -549,7 +549,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -610,7 +610,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -785,7 +785,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel - Premiers pas"
@@ -861,7 +861,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -1025,35 +1025,35 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=993"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à Python"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1019"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement de pages web dynamiques et introduction aux bases de données"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=991"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement web avec HTML5, CSS et Javascript"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=992"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique (java)"
             type: "Cours complet ou MOOC"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1010"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique et programmation"
@@ -1154,7 +1154,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"              
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"

@@ -149,7 +149,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -633,7 +633,7 @@ years:
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/introduction-a-la-philosophie-des-sciences-humaines"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"      
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Lire Montesquieu. les enjeux d’une édition"
             type: "Cours complet ou MOOC"
             volume: "8h"
@@ -905,7 +905,7 @@ years:
             url: "https://www.canal-u.tv/chaines/ens-paris/sartre-de-l-etre-et-le-neant-a-la-critique-de-la-raison-dialectique"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"       
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Camus et Heidegger : les noces avec le monde"
             type: "Grain ou élément de cours"
             volume: "1h"

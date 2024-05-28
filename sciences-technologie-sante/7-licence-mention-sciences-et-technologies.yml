@@ -1,8 +1,8 @@
 id: 7
 name: "Licence mention sciences et technologie"
 description: |
-  Le parcours proposé ici permet d’hybrider cette licence au caractère généraliste qui réunit de 
-  <strong>nombreuses disciplines scientifiques avec une spécialisation progressive</strong> permettant aux étudiants 
+  Le parcours proposé ici permet d’hybrider cette licence au caractère généraliste qui réunit de
+  <strong>nombreuses disciplines scientifiques avec une spécialisation progressive</strong> permettant aux étudiants
   de préciser leur orientation et leur projet professionnel (ici Télécommunications et Réseaux Informatiques).
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -107,7 +107,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -566,8 +566,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel"
             type: "Cours complet ou MOOC"
             volume: "14h"
@@ -625,8 +625,8 @@ years:
             volume: "40h"
             url: "http://www.unit.eu/cours/Cfacile/co/C_facile_web.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation C++ (2020)"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -888,7 +888,7 @@ years:
             url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G01/co/NLP_C_M15_G01_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"   
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Circuits de base"
             type: "Module"
             volume: "35h"
@@ -1067,7 +1067,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -1135,7 +1135,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -1303,7 +1303,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -1400,7 +1400,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/introduction-au-traitement-du-signal/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Informatique"
         resources:
           - name: "Les URL"
@@ -1415,8 +1415,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel"
             type: "Cours complet ou MOOC"
             volume: "14h"
@@ -1445,35 +1445,35 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=993"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement web avec HTML5, CSS et Javascript"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=992"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à Python"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1019"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement de pages web dynamiques et introduction aux bases de données"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=991"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique (java)"
             type: "Cours complet ou MOOC"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1010"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique et programmation"
@@ -1500,8 +1500,8 @@ years:
             volume: "8h"
             url: "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "À quoi sert un système d’exploitation ?"
             type: "Grain ou élément de cours"
             volume: "2h30"
@@ -1552,7 +1552,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/bases-de-donnees-relationnelles-apprendre-pour-utiliser/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Mathématiques"
         resources:
           - name: "Modèle d’un système : Introduction"
@@ -1630,7 +1630,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -1832,7 +1832,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/modelisation/modelisation/co/modelisation.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Les molécules"
             type: "Module"
             volume: "2h"
@@ -1846,7 +1846,7 @@ years:
             url: "https://unisciel.org/r/2uel.4/15/nomen/nomen_ch01/co/apprendre_ch1_02.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
             type: "Grain ou élément de cours"
             volume: "25min"
@@ -1860,35 +1860,35 @@ years:
             url: "https://unisciel.org/r/2www.youtube.com/watch0v=KEjcqf209I4"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Formules des molécules organiques"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://unisciel.org/r/2www.youtube.com/watch0v=cT9KWXMDhoQ"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 8 – Polarisation des molécules – Le dipôle"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/trilogique-sem-8-polarisation-des-molecules-le-dipole"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 8 – Polarisation des molécules – Polarisabilité"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/trilogique-sem-8-polarisation-des-molecules-polarisabilite"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 10 – Isométrie – Introduction"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/trilogique-sem-10-isometrie-introduction"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Chimie des éléments p"
             type: "Module"
             volume: "4h"
@@ -1917,36 +1917,36 @@ years:
             volume: "2h"
             url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/01-Atomistique_web.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Structure et propriétés de l’atome"
             type: "Module"
             volume: "2h"
             url: "https://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/01-Atomistique/co/module_01-Atomistique_3.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Les atomes polyélectroniques"
             type: "Module"
             volume: "2h"
             url: "https://unisciel.org/r/2uel.4/15/51/51_ch04/co/51_ch04.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Orbitales atomiques"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/2uel.4/15/modelisationII/modelisationII_ch02/co/modelisationII_ch02_1.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Propriétés atomiques"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/2uel.4/15/elementsp1/elementsp1_ch01/co/apprendre_01.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géodynamique externe"
         resources:
           - name: "Comment différencier les enveloppes atmosphériques"
@@ -1954,64 +1954,64 @@ years:
             volume: "20min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/structure-atmosphere2.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Quel est le rôle de l’ozone dans la séparation troposphère/stratosphère"
             type: "Module"
             volume: "10min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/ozone-stratosphere.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Analogies et expériences simples pour comprendre la physique du climat"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/25-des-climats.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Historique de l’effet de serre"
             type: "Module"
             volume: "20min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/histoire-effet-de-serre.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Rayonnement thermique, bilan radiatif et effet de serre"
             type: "Module"
             volume: "30min"
             url: "https://unisciel.org/r/216-18.ens-1470/5/dossiers-thematiques/bilan-radiatif-18"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La mystérieuse « force de Coriolis »"
             type: "Module"
             volume: "1h"
             url: "https://unisciel.org/r/216-18.ens-1470/22/force-de-coriolis.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Comment prédit-on la météo ?"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://unisciel.org/r/269.4/69-comment-predit-on-la-meteo/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Qu’est ce que l’effet de serre ?"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Comment se forme un tsunami ?"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Mécanique des solides"
         resources:
           - name: "Poutres Longues : Forces intérieures"
@@ -2105,8 +2105,8 @@ years:
             volume: "10min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/vade-mecum-granites.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Connaissance de l’entreprise"
         resources:
           - name: "Stratégie d'entreprise"
@@ -2145,7 +2145,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"              
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "How to write an email in English"
             type: "Grain ou élément de cours"
             volume: "2h"
@@ -2204,8 +2204,8 @@ years:
             volume: "30min"
             url: "https://www.canal-u.tv/chaines/unit/panorama-des-objets-connectes"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Objets connectés : des radiofréquences aux réseaux"
             type: "Cours complet ou MOOC **"
             volume: "16h"
@@ -2227,8 +2227,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"
@@ -2554,7 +2554,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L2: Thermodynamique"

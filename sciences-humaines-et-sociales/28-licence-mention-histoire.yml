@@ -1,10 +1,10 @@
 id: 28
 name: "Licence mention histoire"
 description: |
-  Ce parcours type propose des ressources éducatives libres pour hybrider une formation fondamentale en histoire. 
-  Elle initie à la connaissance des champs spécialisés de la discipline c’est-à-dire des <strong>quatre grandes 
-  périodes historiques</strong> et propose des ressources relatives aux <strong>méthodes de l’histoire et au métier 
-  d’historien</strong>. Elle propose des contenus concernant <strong>l’histoire et l’état actuel de la discipline</strong>, 
+  Ce parcours type propose des ressources éducatives libres pour hybrider une formation fondamentale en histoire.
+  Elle initie à la connaissance des champs spécialisés de la discipline c’est-à-dire des <strong>quatre grandes
+  périodes historiques</strong> et propose des ressources relatives aux <strong>méthodes de l’histoire et au métier
+  d’historien</strong>. Elle propose des contenus concernant <strong>l’histoire et l’état actuel de la discipline</strong>,
   ainsi que des outils et technologies développés dans ce champ.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -86,7 +86,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -147,7 +147,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -315,7 +315,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -540,7 +540,7 @@ years:
             url: "https://www.canal-u.tv/chaines/universite-paris-1/le-moyen-age-n-existe-pas"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"      
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Histoire moderne"
         resources:
           - name: "Les ruptures de l’époque moderne"
@@ -816,14 +816,14 @@ years:
             url: "https://www.uved.fr/fiche/ressource/le-rapport-meadows-1972"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Origine et histoire du concept d’écodéveloppement"
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://www.uved.fr/fiche/ressource/origine-et-histoire-du-concept-decodeveloppement"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’incontournable rapport Brundtland"
             type: "Grain ou élément de cours"
             volume: "6min"

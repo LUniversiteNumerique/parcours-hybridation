@@ -1,9 +1,9 @@
 id: 1
 name: "Licence mention informatique"
 description: |
-  Ce parcours d’<strong>informatique générale</strong> permet d’hybrider les enseignements 
-  des domaines suivants : concepts informatiques, algorithmique et programmation, systèmes 
-  d’exploitation, outils et technologies Internet, bases de données. Il propose également une 
+  Ce parcours d’<strong>informatique générale</strong> permet d’hybrider les enseignements
+  des domaines suivants : concepts informatiques, algorithmique et programmation, systèmes
+  d’exploitation, outils et technologies Internet, bases de données. Il propose également une
   composante mathématique importante.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -24,8 +24,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Advanced Object-Oriented Design"
             type: "Grain ou élément de cours"
             volume: "30h30"
@@ -55,8 +55,8 @@ years:
             volume: "40h"
             url: "http://www.unit.eu/cours/Cfacile/co/C_facile_web.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Algorithmique et programmation"
             type: "Cours complet ou MOOC"
             volume: "40h"
@@ -180,7 +180,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/bases-de-donnees-relationnelles-apprendre-pour-utiliser/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"   
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Systèmes d’exploitation"
         resources:
           - name: "À quoi sert un système d’exploitation ?"
@@ -265,7 +265,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -711,7 +711,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Enquête Darwin, se former à la méthodologie d’analyse de documents iconographiques"
             type: "Module"
             volume: "3h"
@@ -779,7 +779,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -940,7 +940,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -1026,7 +1026,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=993"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement web avec HTML5, CSS et Javascript"
@@ -1040,21 +1040,21 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1019"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement de pages web dynamiques et introduction aux bases de données"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=991"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique (java)"
             type: "Cours complet ou MOOC"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1010"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Les URL"
@@ -1069,8 +1069,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation en C"
             type: "Cours complet ou MOOC **"
             volume: "45h"
@@ -1093,8 +1093,8 @@ years:
             volume: "8h"
             url: "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation objet : premiers pas en Java"
             type: "Cours complet ou MOOC **"
             volume: "35h"
@@ -1577,7 +1577,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "How to write an email in English"
             type: "Grain ou élément de cours"
             volume: "2h"
@@ -1616,8 +1616,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Advanced Object-Oriented Design"
             type: "Grain ou élément de cours"
             volume: "30h30"

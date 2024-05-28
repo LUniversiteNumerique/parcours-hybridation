@@ -1,10 +1,10 @@
 id: 4
 name: "Licence mention sciences pour l’ingénieur"
 description: |
-  Ce parcours est composé de contenus pluridisciplinaires ayant pour objectif 
-  l’acquisition d’un <strong>tronc commun dans lequel s’articulent mathématiques, 
-  physique et informatique</strong>. Elle permet également de former les étudiants 
-  en sciences pour l’ingénieur dans les domaines de l’électronique, des matériaux, 
+  Ce parcours est composé de contenus pluridisciplinaires ayant pour objectif
+  l’acquisition d’un <strong>tronc commun dans lequel s’articulent mathématiques,
+  physique et informatique</strong>. Elle permet également de former les étudiants
+  en sciences pour l’ingénieur dans les domaines de l’électronique, des matériaux,
   de la mécanique etc.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -137,7 +137,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -329,15 +329,15 @@ years:
             volume: "40h"
             url: "http://www.unit.eu/cours/Cfacile/co/C_facile_web.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les formulaires (Django Framework)"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les URL"
             type: "Grain ou élément de cours"
             volume: "15min"
@@ -350,8 +350,8 @@ years:
             volume: "8h"
             url: "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Bases du web"
             type: "Cours complet ou MOOC **"
             volume: "48h"
@@ -517,7 +517,7 @@ years:
             url: "http://res-nlp.univ-lemans.fr/NLP_C_M15_G01/co/NLP_C_M15_G01_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Circuits de base"
             type: "Module"
             volume: "35h"
@@ -668,7 +668,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Premier principe de la thermodynamique"
@@ -756,7 +756,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -831,7 +831,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -992,7 +992,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -1255,7 +1255,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Bases physiques de l’énergie : définition et principes"
@@ -1411,7 +1411,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=993"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement web avec HTML5, CSS et Javascript"
@@ -1425,21 +1425,21 @@ years:
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1019"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement de pages web dynamiques et introduction aux bases de données"
             type: "Cours complet ou MOOC"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=991"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique (java)"
             type: "Cours complet ou MOOC"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1010"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Les URL"
@@ -1454,8 +1454,8 @@ years:
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=12449"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L'obsolescence"
             type: "Cours complet ou MOOC *"
             volume: "6h30"
@@ -1485,8 +1485,8 @@ years:
             volume: "8h"
             url: "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Technologies Web 1"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -1738,7 +1738,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "How to write an email in English"
             type: "Grain ou élément de cours"
             volume: "2h"

@@ -1,11 +1,11 @@
 id: 12
 name: "BUT spécialité mesures physiques"
 description: |
-  Ce parcours type propose des ressources pour former des techniciens supérieurs polyvalents capables 
-  de <strong>réaliser et d’exploiter des mesures dans tout type de domaines</strong>. Le titulaire de 
-  ce BUT assure la maintenance de systèmes industriels ou en conçoit de nouveaux. Quel que soit le secteur 
-  d’activités dans lequel il évolue, il assure le choix, l’implantation et la mise en œuvre de la chaîne 
-  de mesures depuis le capteur jusqu’à l’acquisition des signaux, l’exploitation des données et la 
+  Ce parcours type propose des ressources pour former des techniciens supérieurs polyvalents capables
+  de <strong>réaliser et d’exploiter des mesures dans tout type de domaines</strong>. Le titulaire de
+  ce BUT assure la maintenance de systèmes industriels ou en conçoit de nouveaux. Quel que soit le secteur
+  d’activités dans lequel il évolue, il assure le choix, l’implantation et la mise en œuvre de la chaîne
+  de mesures depuis le capteur jusqu’à l’acquisition des signaux, l’exploitation des données et la
   transmission des données. PARCOURS EN TRAVAUX BUT --> BUT.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -295,7 +295,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8710"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Modèle d’un système : Introduction"
@@ -373,7 +373,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -796,7 +796,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -857,7 +857,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -1018,7 +1018,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -1039,7 +1039,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel - Premiers pas"
@@ -1453,7 +1453,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"              
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Unlock your english"
             type: "Cours complet ou MOOC **"
             volume: "15h"

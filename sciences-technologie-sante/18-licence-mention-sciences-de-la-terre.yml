@@ -1,9 +1,9 @@
 id: 18
 name: "Licence mention sciences de la terre"
 description: |
-  Ce parcours met à disposition des ressources ayant pour but de fournir aux étudiants les <strong>bases scientifiques 
-  nécessaires pour comprendre le système Terre, sa formation et son évolution</strong>. Si la licence Sciences de la 
-  Terre se veut généraliste, elle reste cependant adossée aux grandes thématiques porteuses que sont les ressources 
+  Ce parcours met à disposition des ressources ayant pour but de fournir aux étudiants les <strong>bases scientifiques
+  nécessaires pour comprendre le système Terre, sa formation et son évolution</strong>. Si la licence Sciences de la
+  Terre se veut généraliste, elle reste cependant adossée aux grandes thématiques porteuses que sont les ressources
   minérales et énergétiques et l’environnement.
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
@@ -18,21 +18,21 @@ years:
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=32"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Organisation du vivant"
             type: "Cours complet ou MOOC *"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Expression, stabilité et variation du patrimoine génétique et évolution"
             type: "Grain ou élément de cours"
             volume: "3h"
             url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/module_P3.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la diversité du vivant animal"
             type: "Grain ou élément de cours"
             volume: "5h"
@@ -421,7 +421,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet ou MOOC"
             volume: "4h"
@@ -496,7 +496,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -657,7 +657,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Powerpoint - Premiers pas"
@@ -678,7 +678,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel - Premiers pas"
@@ -742,15 +742,15 @@ years:
             volume: "2h"
             url: "https://unisciel.org/r/25.4/petronille/co/petronille_web.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Vade-mecum sur l’origine des granites"
             type: "Module"
             volume: "10min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/vade-mecum-granites.xml"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géodynamique interne"
         resources:
           - name: "Histoire de la théorie de la tectonique des plaques"
@@ -821,15 +821,15 @@ years:
             volume: "1h"
             url: "https://unisciel.org/r/216-18.ens-1470/22/seisme-magnitude-moment-energie.xml"
             licence:
-               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+                - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Enregistrement des ondes sismiques sur un sismogramme"
             type: "Module"
             volume: "20min"
             url: "https://unisciel.org/r/216-18.ens-1470/22/sismogramme.xml"
             licence:
-               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+                - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géodynamique externe"
         resources:
           - name: "Quel est le rôle de l’ozone dans la séparation troposphère / stratosphère"
@@ -872,22 +872,22 @@ years:
             volume: "4min"
             url: "https://unisciel.org/r/269.4/69-comment-predit-on-la-meteo/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Qu’est ce que l’effet de serre ?"
             type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://unisciel.org/r/269.4/69-quest-ce-que-leffet-de-serre/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KEZAKO : Comment se forme un tsunami ?"
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://unisciel.org/r/269.4/69-comment-se-forme-un-tsunami/"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Géotechniques"
         resources:
           - name: "Détermination de l’altitude des montagnes par la méthode géodésique"

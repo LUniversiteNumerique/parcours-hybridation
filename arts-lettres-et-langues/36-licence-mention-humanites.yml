@@ -987,7 +987,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/la-sculpture-grecque-dalexandre-a-cleopatre-partie-i/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"        
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie II)"
             type: "Cours complet ou MOOC **"
             volume: "20h"

@@ -1,9 +1,9 @@
 id: 50
 name: "Licence mention sciences économiques"
 description: |
-  La Licence mention Sciences Economiques a pour objectif de former les étudiants à la compréhension des mécanismes économiques et l'analyse des comportements qui y sont rattachés. 
+  La Licence mention Sciences Economiques a pour objectif de former les étudiants à la compréhension des mécanismes économiques et l'analyse des comportements qui y sont rattachés.
   Les enseignements couvrent :
-  La microéconomie, qui étudie les comportements des agents économiques 
+  La microéconomie, qui étudie les comportements des agents économiques
   La macroéconomie, qui étudie le système économique au niveau agrégé à travers les relations entre les grands agrégats tels que la consommation, l’investissement, le revenu,
   Les outils de l'économiste (statistiques, mathématiques, informatique) et l’application des méthodes quantitatives aux questions économiques et financières
 
@@ -13,7 +13,7 @@ years:
   - name: "1ère année"
     ue:
       - name: "Introduction"
-        resources: 
+        resources:
           - name: "Histoire des faits économiques"
             type: "Cours complet ou MOOC"
             volume: "30h"
@@ -39,7 +39,7 @@ years:
             url: "https://www.canal-u.tv/chaines/canal-aunege/economie-comportementale/a-quoi-sert-l-experimentation-en-economie"
             licence:
       - name: "Macroéconomie"
-        resources: 
+        resources:
           - name: "Macroéconomie 1"
             type: "Cours complet ou MOOC"
             volume: "30h"
@@ -55,7 +55,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Microéconomie"
-        resources: 
+        resources:
           - name: "Microéconomie 1"
             type: "Cours complet ou MOOC"
             volume: "30h"
@@ -137,7 +137,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Macroénonomie"
-        resources: 
+        resources:
           - name: "Macroéconomie 3 - Economie monétaire et bancaire"
             type: "Cours complet ou MOOC"
             volume: "30h"
@@ -146,7 +146,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Outils, techniques et méthodes quantitatives"
-        resources: 
+        resources:
           - name: "Economie et mathématiques"
             type: "Grain ou élément de cours"
             volume: "1h15"
@@ -289,7 +289,7 @@ years:
             url: "http://ressources.aunege.fr/notice/view/aunege-701"
             licence:
       - name: "Outils, techniques et méthodes quantitatives"
-        resources: 
+        resources:
           - name: "Séries chronologiques : introduction"
             type: "Module"
             volume: "12h"
@@ -317,4 +317,4 @@ years:
             url: "http://ressources.aunege.fr/notice/view/aunege-225"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg
