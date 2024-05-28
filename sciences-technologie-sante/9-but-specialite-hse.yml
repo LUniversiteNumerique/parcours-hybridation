@@ -8,7 +8,7 @@ description: |
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1re année"
+  - name: "1ère année"
     ue:
       - name: "Informatique"
         resources:

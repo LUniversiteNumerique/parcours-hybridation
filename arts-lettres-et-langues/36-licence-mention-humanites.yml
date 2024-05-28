@@ -9,7 +9,7 @@ description: |
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1re année"
+  - name: "1ère année"
     ue:
       - name: "Histoire ancienne et moderne"
         resources:
@@ -667,7 +667,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-          - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1re partie) de Cervantès"
+          - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1ère partie) de Cervantès"
             type: "Module"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
@@ -884,7 +884,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Culture numérique : introduction 1re partie"
+          - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"

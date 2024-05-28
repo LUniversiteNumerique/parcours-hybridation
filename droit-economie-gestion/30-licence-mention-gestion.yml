@@ -1,15 +1,18 @@
 id: 30
 name: "Licence mention gestion"
 description: |
-  Ce parcours type propre des ressources éducatives libres permettant de dispenser les enseignements
-  fondamentaux de gestion, afin d’offrir aux étudiants les <strong>connaissances nécessaires pour
-  comprendre la situation et les décisions de l’entreprise dans son environnement</strong> politique,
-  juridique, économique et culturel, et aussi de connaître le fonctionnement des organisations et les
-  outils de leur gestion.
+ Ce parcours type propre des ressources éducatives libres permettant de dispenser les enseignements fondamentaux de gestion, 
+ afin d’offrir aux étudiants les connaissances nécessaires pour comprendre la situation et les décisions de l’entreprise dans son environnement politique, 
+ juridique, économique et culturel, et aussi de connaître le fonctionnement des organisations et les outils de leur gestion.
+ Les enseignements sont dispensés notamment par des UFR d’Economie-Gestion, dont les enseignements commencent en 1ère année de licence 
+ et par des Instituts d’Administration des Entreprises, dont les enseignements peuvent commencer en 1ère année de licence (quelques-uns), 
+ en 2ème année (peu), en 3ème année (beaucoup) ou en 1ère année de Master (très peu).
+ La répartition des cours selon les années peut donc varier entre les différentes composantes des différentes universités.
+
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1re année"
+  - name: "1ère année"
     ue:
       - name: "Introduction à la gestion"
         resources:
@@ -36,13 +39,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Techniques statistiques"
-            type: "Module"
-            volume: "1h"
-            url: "https://www.canal-u.tv/chaines/eco-gestion/gestion-de-la-qualite/techniques-statistiques"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Statistiques"
             type: "Cours complet ou MOOC *"
             volume: "40h"
@@ -57,6 +53,13 @@ years:
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
             licence:
+          - name: "Comptabilité générale (2023)"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1034"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC **"
             volume: "40h"
@@ -125,13 +128,6 @@ years:
             licence:
       - name: "Droit et fiscalité"
         resources:
-          - name: "Droit du travail"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=837"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Introduction au droit des sociétés"
             type: "Module"
             volume: "6h"
@@ -150,6 +146,13 @@ years:
             type: "Cours complet ou MOOC"
             volume: "65h"
             url: "http://ressources.aunege.fr/notice/view/aunege-485"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Analyse financière (2023)"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=983"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -589,27 +592,10 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Comptabilité – contrôle de gestion"
         resources:
-          - name: "Théorie des organisations"
-            type: "Cours complet ou MOOC"
-            volume: "30h"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=105"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Introduction à la gestion des entreprises"
-            type: "Cours complet ou MOOC **"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
-          - name: "Comptabilité générale"
-            type: "Cours complet ou MOOC **"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
             licence:
           - name: "Comptabilité analytique"
             type: "Cours complet ou MOOC"
@@ -664,6 +650,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Finance"
         resources:
+          - name: "Introduction à la finance d'entreprise"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1018"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le beta"
             type: "Grain ou élément de cours"
             volume: "4min"
@@ -680,6 +673,13 @@ years:
             licence:
       - name: "Management des ressources humaines"
         resources:
+          - name: "Théorie des organisations"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=105"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Initiation au management"
             type: "Cours complet ou MOOC"
             volume: "20h"
@@ -701,6 +701,13 @@ years:
             licence:
       - name: "Marketing"
         resources:
+          - name: "Marketing Fondamental (2023)"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1006"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"           
           - name: "Eléments d’histoire et d’organisation du commerce"
             type: "Module"
             volume: "6h"
@@ -771,6 +778,15 @@ years:
             volume: "3min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A10513"
             licence:
+      - name: "Entrepreneuriat"
+        resources: 
+          - name: "Initiation à l'entrepreneuriat"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1027&section=4"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
@@ -880,7 +896,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Culture numérique : introduction 1re partie"
+          - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
@@ -906,13 +922,13 @@ years:
     ue:
       - name: "Aide à la décision"
         resources:
-          - name: "Prise de décision"
-            type: "Grain ou élément cours"
-            volume: "15min"
-            url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=9116"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Introduction à l'économétrie"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1032"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
           - name: "Econométrie des séries chronologiques"
             type: "Cours complet ou MOOC"
             volume: "60h"
@@ -936,20 +952,10 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Introduction à la gestion des entreprises"
-            type: "Cours complet ou MOOC **"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
           - name: "Contrôle de gestion"
             type: "Cours complet ou MOOC **"
             volume: "40h"
             url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
-          - name: "Comptabilité générale"
-            type: "Cours complet ou MOOC **"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
             licence:
           - name: "Coût cible – target costing"
             type: "Grain ou élément de cours"
@@ -1048,11 +1054,11 @@ years:
             licence:
       - name: "Management des ressources humaines"
         resources:
-          - name: "Initiation au management"
+          - name: "Leadership"
             type: "Cours complet ou MOOC"
             volume: "20h"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
-            licence:
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=979"
+            licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le hip-hop manager"

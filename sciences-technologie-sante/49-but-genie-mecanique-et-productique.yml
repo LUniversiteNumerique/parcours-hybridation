@@ -13,7 +13,7 @@ description: |
   * Une authentification est obligatoire car imposée par la technologie Moodle ou encore IUTenLigne. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1re année"
+  - name: "1ère année"
     ue:
       - name: "Conception mécanique"
         resources:
@@ -178,6 +178,7 @@ years:
             type: "Cours complet ou MOOC"
             volume: "4h50"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=112"
+            licence:
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"

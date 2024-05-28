@@ -1,5 +1,5 @@
 id: 50
-name: "Licence Sciences économiques"
+name: "Licence mention sciences économiques"
 description: |
   La Licence mention Sciences Economiques a pour objectif de former les étudiants à la compréhension des mécanismes économiques et l'analyse des comportements qui y sont rattachés. 
   Les enseignements couvrent :
@@ -10,7 +10,7 @@ description: |
   <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
    ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
-  - name: "1re année"
+  - name: "1ère année"
     ue:
       - name: "Introduction"
         resources: 

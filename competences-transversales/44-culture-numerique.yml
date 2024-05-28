@@ -649,7 +649,7 @@ years:
             volume: "20min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=94"
             licence:
-          - name: "Culture numérique : introduction 1re partie"
+          - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet ou MOOC"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
