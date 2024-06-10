@@ -263,6 +263,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Mathématiques"
         resources:
+          - name: "Mathématiques 1"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1059"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Modèle d’un système : introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
