@@ -79,9 +79,9 @@ fields:
       - id: 30
         name: "Licence mention gestion"
       - id: 50
-        name: "Licence Sciences économiques"
+        name: "Licence mention Sciences économiques"
       - id: 51
-        name: "Licence Administration économique et sociale (AES)"
+        name: "Licence mention Administration économique et sociale (AES)"
 
 
 
