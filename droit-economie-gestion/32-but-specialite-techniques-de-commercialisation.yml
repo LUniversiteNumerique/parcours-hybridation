@@ -108,6 +108,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Mathématiques"
         resources:
+          - name: "Mathématiques 1"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1059"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Analyse 1"
             type: "TP, exercice, quiz"
             volume: "1h"
@@ -1161,6 +1168,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Mathématiques"
         resources:
+          - name: "Mathématiques 2"
+            type: "Cours complet ou MOOC"
+            volume: "30h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1065"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Utiliser des statistiques dans l’analyse économique"
             type: "Module *"
             volume: "2h"
