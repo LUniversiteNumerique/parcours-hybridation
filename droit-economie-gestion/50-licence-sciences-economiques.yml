@@ -265,13 +265,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Economie et entreprise"
         resources:
-          - name: "Economie managériale"
-            type: "Cours complet ou MOOC"
-            volume: "40h"
-            url: "http://ressources.aunege.fr/notice/view/aunege-245"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Economie et marchés financiers"
         resources:
           - name: "Les fonctions économiques des systèmes financiers"
