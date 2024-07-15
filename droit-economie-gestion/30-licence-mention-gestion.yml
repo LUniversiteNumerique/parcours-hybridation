@@ -929,13 +929,6 @@ years:
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
-          - name: "Econométrie des séries chronologiques"
-            type: "Cours complet ou MOOC"
-            volume: "60h"
-            url: "http://ressources.aunege.fr/notice/view/aunege-1009"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Séries chronologiques"
             type: "Module"
             volume: "12h"
