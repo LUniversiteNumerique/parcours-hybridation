@@ -4,22 +4,21 @@ description: |
   Ce parcours type propose des ressources permettant de dispenser une formation large
   couvrant <strong>deux champs disciplinaires</strong> scientifiques, les sciences de
   la vie et les sciences de la Terre possédant chacun des domaines très variés.
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
+
 years:
   - name: "1ère année"
     ue:
       - name: "Diversité du vivant"
         resources:
           - name: "L1 : Diversité et Unicité du Vivant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=32"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Organisation du vivant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=33"
             licence:
@@ -28,13 +27,13 @@ years:
           - name: "Expression, stabilité et variation du patrimoine génétique et évolution"
             type: "Grain ou élément de cours"
             volume: "3h"
-            url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/module_P3.html"
+            url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/P3_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la diversité du vivant animal"
-            type: "Grain ou élément de cours"
-            volume: "5h"
+            type: "Cours complet ou MOOC"
+            volume: "18h"
             url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
@@ -58,7 +57,7 @@ years:
           - name: "Structure, fonction et métabolisme de la cellule"
             type: "Grain ou élément de cours"
             volume: "4h"
-            url: "https://ressources.unisciel.fr/DAEU/biologie/P1/co/module_P1.html"
+            url: "https://ressources.unisciel.fr/DAEU/biologie/P1/co/P1_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -86,8 +85,8 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la diversité du vivant animal"
-            type: "Grain ou élément de cours"
-            volume: "5h"
+            type: "Cours complet ou MOOC"
+            volume: "18h"
             url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
@@ -181,14 +180,14 @@ years:
       - name: "Biochimie"
         resources:
           - name: "L1: Des Bases pour la Biochimie"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=58"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1 : Trilogique (semaines 2 à 7)"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=127"
             licence:
@@ -241,7 +240,7 @@ years:
       - name: "La Terre dans l’Univers"
         resources:
           - name: "L1: Système solaire – Planétologie"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=36"
             licence:
@@ -306,7 +305,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1 : Traitement analyse et modélisation des données"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=540"
             licence:
@@ -329,7 +328,7 @@ years:
       - name: "État de la matière"
         resources:
           - name: "L1: Structure microscopique de la matière"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=29"
             licence:
@@ -359,7 +358,7 @@ years:
       - name: "Chimie des solutions"
         resources:
           - name: "L1: Chimie en solution aqueuse"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=25"
             licence:
@@ -380,14 +379,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours "
             volume: "5h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 12 – Acides et bases"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours "
             volume: "5h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=12"
             licence:
@@ -424,7 +423,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -492,14 +491,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
@@ -513,28 +512,28 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -562,14 +561,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -927,7 +926,7 @@ years:
           - name: "Expression, stabilité et variation du patrimoine génétique et évolution"
             type: "Grain ou élément de cours"
             volume: "3h"
-            url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/module_P3.html"
+            url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/P3_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -1040,8 +1039,8 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la diversité du vivant animal"
-            type: "Grain ou élément de cours"
-            volume: "5h"
+            type: "Cours complet ou MOOC"
+            volume: "18h"
             url: "https://ressources.unisciel.fr/zoologie/theme_0_introduction/LSV%201_concepts.htm"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"

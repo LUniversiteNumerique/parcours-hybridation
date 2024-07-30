@@ -9,9 +9,7 @@ description: |
   <br>
   <p>Les formations suivantes sont utilisées dans le cadre d’enseignements et en auto-formation pour développer
   la culture et les compétences numériques.</p>
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.
-  Certains liens sont inaccessibles suite à des travaux en cours sur le site</p>
+
 
 years:
   - name: "Voir le parcours"
@@ -19,7 +17,7 @@ years:
       - name: "1.1. Mener une recherche et une veille d’information"
         resources:
           - name: "Mener une recherche et une veille d’information"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=27"
             licence:
@@ -45,7 +43,7 @@ years:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Usages du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
@@ -75,14 +73,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer des données"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=28"
             licence:
       - name: "1.3. Traiter des données"
         resources:
           - name: "Traiter des données"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=29"
             licence:
@@ -145,7 +143,7 @@ years:
       - name: "2.2. Partager et publier"
         resources:
           - name: "Partager et publier"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "3min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=24"
             licence:
@@ -199,7 +197,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Documents dans le Cloud"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
@@ -215,7 +213,7 @@ years:
       - name: "2.3. Collaborer"
         resources:
           - name: "Collaborer"
-            type: "Grain ou élément de cours  *"
+            type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=84"
             licence:
@@ -255,7 +253,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Usages du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
@@ -264,8 +262,7 @@ years:
       - name: "2.4. S’insérer dans le monde numérique"
         resources:
           - name: "S’insérer dans le monde numérique"
-            type: "Grain ou élément de cours  *"
-            volume: "2min"
+            type: "Grain ou élément de cours"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=85"
             licence:
           - name: "L’économie des biens immatériels"
@@ -290,7 +287,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Usages du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
@@ -318,7 +315,7 @@ years:
       - name: "3.1. Développer des documents textuels"
         resources:
           - name: "Développer des documents textuels"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=86"
             licence:
@@ -358,7 +355,7 @@ years:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Documents dans le Cloud"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
@@ -374,12 +371,12 @@ years:
       - name: "3.2. Développer des documents multimédia"
         resources:
           - name: "Développer des documents multimédias"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=87"
             licence:
           - name: "Retouche et manipulation d'images avec Gimp"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "2h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=152"
             licence:
@@ -470,7 +467,7 @@ years:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Documents dans le Cloud"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
@@ -479,7 +476,7 @@ years:
       - name: "3.3. Adapter les documents à leur finalité"
         resources:
           - name: "Adapter les documents à leur finalité"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "2min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=88"
             licence:
@@ -514,7 +511,7 @@ years:
               - name: "CC"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Données et algorithmes"
-            type: " Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/donnees-et-algorithmes/"
             licence:
@@ -530,7 +527,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Sécuriser l’environnement numérique"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=90"
             licence:
@@ -589,12 +586,12 @@ years:
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4738"
             licence:
           - name: "Protéger les données personnelles et la vie privée"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=91"
             licence:
           - name: "Protection de la vie privée"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "10h"
             url: "https://www.fun-mooc.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
             licence:
@@ -617,14 +614,14 @@ years:
       - name: "4.3. Protéger la santé, le bien-être et l’environnement"
         resources:
           - name: "Protéger la santé, le bien-être et l’environnement"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=92"
             licence:
       - name: "5.1. Résoudre des problèmes techniques"
         resources:
           - name: "Résoudre des problèmes techniques"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=93"
             licence:
@@ -645,7 +642,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Construire un environnement numérique"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=94"
             licence:

@@ -5,8 +5,7 @@ description: |
   des domaines suivants : concepts informatiques, algorithmique et programmation, systèmes
   d’exploitation, outils et technologies Internet, bases de données. Il propose également une
   composante mathématique importante.
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
+
 years:
   - name: "1ère année"
     ue:
@@ -34,17 +33,17 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Programmation en C"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
           - name: "Bases du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
           - name: "Socle en informatique"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "35h"
             url: "https://www.fun-mooc.fr/fr/cours/socle-en-informatique/"
             licence:
@@ -84,14 +83,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation C++ (2020)"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
             licence:
@@ -103,7 +102,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
             licence:
           - name: "Analyse numérique"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "56h"
             url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
@@ -138,14 +137,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Technologies Web 1"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "40h"
             url: "https://moodle.insa-rouen.fr/course/view.php?id=153"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Animation d’une page Web avec Javascript et SVG"
-            type: "Module *"
+            type: "Module "
             volume: "12h"
             url: "https://public.iutenligne.net/sciences-image-et-medias/infographie/vermaelen/cours_animation_javascript/"
             licence:
@@ -175,7 +174,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Bases de données relationnelles : apprendre pour utiliser"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "21h"
             url: "https://www.fun-mooc.fr/fr/cours/bases-de-donnees-relationnelles-apprendre-pour-utiliser/"
             licence:
@@ -198,7 +197,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Exploiter sa machine avec Unix"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "50h"
             url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
             licence:
@@ -283,14 +282,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Mathématiques : préparation à l’entrée dans l’enseignement supérieur (pour remise à niveau éventuelle)"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "20h"
             url: "https://www.fun-mooc.fr/fr/cours/mathematiques-preparation-a-lentree-dans-lenseignement-superieur/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Socle en mathématiques"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "42h"
             url: "https://www.fun-mooc.fr/fr/cours/socle-en-mathematiques/"
             licence:
@@ -299,7 +298,7 @@ years:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://socles3.unisciel.fr/course/view.php?id=40"
             licence:
@@ -350,12 +349,12 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la logique informatique – Partie 1 : calcul propositionnel"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "12h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-la-logique-informatique-partie-1-calcul-proposition/"
             licence:
           - name: "L1 : Logique et raisonnements"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "55h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=13"
             licence:
@@ -420,7 +419,7 @@ years:
       - name: "Algèbre linéaire"
         resources:
           - name: "L1 : Algèbre linéaire"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "60h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
             licence:
@@ -483,14 +482,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre linéaire"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "60h"
             url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
             licence:
       - name: "Nombres complexes"
         resources:
           - name: "L1 : Nombres réels & complexes"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=54"
             licence:
@@ -708,7 +707,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour étudiant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -769,14 +768,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
@@ -790,28 +789,28 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -839,14 +838,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -1011,14 +1010,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -1079,38 +1078,38 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation en C"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
           - name: "Bases du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
           - name: "Programmation orientée objet en C++"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "12h"
             url: "https://public.iutenligne.net/informatique/algorithme-et-programmation/roose/poo/index.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Python : des fondamentaux aux concepts avancés du langage"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "8h"
             url: "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation objet : premiers pas en Java"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "35h"
             url: "https://www.fun-mooc.fr/fr/cours/programmation-objet-premiers-pas-en-java/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Écrivez votre premier programme en Java"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "15h"
             url: "https://www.fun-mooc.fr/fr/cours/ecrivez-votre-premier-programme-avec-java/"
             licence:
@@ -1196,14 +1195,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Exploiter sa machine avec Unix"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "50h"
             url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
             licence:
       - name: "Réseaux informatiques"
         resources:
           - name: "Les réseaux locaux"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "20h"
             url: "https://www.fun-mooc.fr/fr/cours/les-reseaux-locaux/"
             licence:
@@ -1293,7 +1292,7 @@ years:
       - name: "Intégration"
         resources:
           - name: "L1: Intégration"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "45h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=47"
             licence:
@@ -1495,12 +1494,12 @@ years:
       - name: "Statistiques et Probabilités"
         resources:
           - name: "Introduction aux séries temporelles"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "30h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
             licence:
           - name: "L2 : Traitement analyse et modélisation des données"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=126"
             licence:
@@ -1572,7 +1571,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la logique informatique – Partie 2 : calcul des prédicats"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "12h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-la-logique-informatique-partie-2-calcul-des-predica/"
             licence:
@@ -1586,7 +1585,7 @@ years:
       - name: "Langues étrangères"
         resources:
           - name: "Conduite de réunion en anglais"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "10h"
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
@@ -1640,17 +1639,17 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Programmation en C"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
           - name: "Bases du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
           - name: "Développement d'applications mobiles : Android"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "50h"
             url: "https://www.fun-campus.fr/fr/cours/applications-mobiles/"
             licence:
@@ -1669,14 +1668,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Java EE Spring prêt à l’emploi"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "36h"
             url: "https://www.fun-mooc.fr/fr/cours/java-ee-spring-pret-a-lemploi/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Introduction to Functional Programming in OCaml"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "24h"
             url: "https://www.fun-mooc.fr/fr/cours/introduction-to-functional-programming-in-ocaml/"
             licence:
@@ -1708,7 +1707,7 @@ years:
       - name: "Réseaux informatiques"
         resources:
           - name: "Supervision de Réseaux et Services"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "20h"
             url: "https://www.fun-mooc.fr/fr/cours/supervision-de-reseaux-et-services/"
             licence:
@@ -1735,19 +1734,19 @@ years:
       - name: "Statistiques et probabilités"
         resources:
           - name: "Introduction aux séries temporelles"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "30h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Statistique pour l’ingénieur"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "35h"
             url: "https://www.fun-mooc.fr/fr/cours/statistique-pour-lingenieur/"
             licence:
           - name: "Fondamentaux en statistique"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "24h"
             url: "https://www.fun-mooc.fr/fr/cours/fondamentaux-en-statistique/"
             licence:

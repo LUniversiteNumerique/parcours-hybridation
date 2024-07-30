@@ -6,9 +6,6 @@ description: |
   La microéconomie, qui étudie les comportements des agents économiques
   La macroéconomie, qui étudie le système économique au niveau agrégé à travers les relations entre les grands agrégats tels que la consommation, l’investissement, le revenu,
   Les outils de l'économiste (statistiques, mathématiques, informatique) et l’application des méthodes quantitatives aux questions économiques et financières
-
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
   - name: "1ère année"
     ue:
@@ -113,7 +110,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Statistiques"
-            type: "Cours complet ou MOOC **"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://courlis-pf.univ-lorraine.fr/"
             licence:
@@ -167,7 +164,7 @@ years:
             url: "https://www.canal-u.tv/chaines/utls/perspectives-sur-les-mathematiques-actuelles/economie-et-mathematiques"
             licence:
           - name: "Statistiques"
-            type: "Cours complet ou MOOC **"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://courlis-pf.univ-lorraine.fr/"
             licence:

@@ -6,23 +6,20 @@ description: |
   L’étudiant développe ainsi des compétences qui lui permettent de se placer au carrefour de l’activité des organisations
   et d’occuper des fonctions diverses de gestion comptable, financière, commerciale, administrative ou juridique dans ces organisations des secteurs public, parapublic, associatif ou privé
 
-
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-   ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
   - name: "1ère année"
     ue:
       - name: "Droit et sciences politiques"
         resources:
           - name: "Les institutions européennes"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "9h"
             url: "https://www.fun-mooc.fr/fr/cours/les-institutions-europeennes/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le sens de l'action publique"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/le-sens-de-laction-publique/"
             licence:
@@ -61,7 +58,7 @@ years:
       - name: "Sciences sociales"
         resources:
           - name: "Introduction à la psychologie à l'université"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "10h"
             url: "https://www.fun-mooc.fr/fr/cours/introduction-a-la-psychologie-a-luniversite/"
             licence:
@@ -130,28 +127,28 @@ years:
       - name: "Droit et sciences politiques"
         resources:
           - name: "Décentralisation et collectivités territoriales"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/decentralisation-et-collectivites-territoriales/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les fondamentaux de l'action administrative"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "12h"
             url: "https://www.fun-mooc.fr/fr/cours/les-fondamentaux-de-laction-administrative/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La gouvernance territoriale"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "30h"
             url: "https://www.fun-mooc.fr/fr/cours/la-gouvernance-territoriale/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La dynamique de l'action publique au service du bien commun"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/la-dynamique-de-laction-publique-au-service-du-bien-commun/"
             licence:
@@ -237,56 +234,56 @@ years:
       - name: "Droit et sciences politiques"
         resources:
           - name: "Droit du travail"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "30h"
             url: "https://www.fun-mooc.fr/fr/cours/decentralisation-et-collectivites-territoriales/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les procédures déontologiques dans la fonction publique"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "4h"
             url: "https://www.fun-mooc.fr/fr/cours/les-procedures-deontologiques-dans-la-fonction-publique/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les fondamentaux de la fonction publique territoriale"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "24h"
             url: "https://www.fun-mooc.fr/fr/cours/les-fondamentaux-de-la-fonction-publique-territoriale/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les contentieux de la fonction publique"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "4h"
             url: "https://www.fun-mooc.fr/fr/cours/le-contentieux-de-la-fonction-publique/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les fondamentaux des marchés publics"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "8h"
             url: "https://www.fun-mooc.fr/fr/cours/les-fondamentaux-des-marches-publics-cours-a-jour-du-code/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les fondamentaux des finances locales"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "15h"
             url: "https://www.fun-mooc.fr/fr/cours/les-fondamentaux-des-finances-locales/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les fondamentaux du contentieux administratif"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "15h"
             url: "https://www.fun-mooc.fr/fr/cours/les-fondamentaux-du-contentieux-administratif/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La politique de la ville"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "12h"
             url: "https://www.fun-mooc.fr/fr/cours/la-politique-de-la-ville/"
             licence:
@@ -311,14 +308,14 @@ years:
       - name: "Sciences sociales"
         resources:
           - name: "Les fondamentaux de l'action sociale"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/les-fondamentaux-de-laction-sociale/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L'économie sociale et solidaire"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "15h"
             url: "https://www.fun-mooc.fr/fr/cours/leconomie-sociale-et-solidaire/"
             licence:

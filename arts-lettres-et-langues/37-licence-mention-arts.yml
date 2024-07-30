@@ -5,8 +5,6 @@ description: |
   fois fondatrices et innovantes de la culture artistique</strong>, des savoir-faire techniques et plasticiens,
   méthodologiques et scientifiques, des outils d’analyse critique, des savoir-créer et des savoir-penser
   indispensables au développement d’un projet artistique singulier et actuel.
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
 years:
   - name: "1ère année"
     ue:
@@ -85,14 +83,14 @@ years:
       - name: "Pratique des arts plastiques"
         resources:
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie 1)"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "20h"
             url: "https://www.fun-mooc.fr/fr/cours/la-sculpture-grecque-dalexandre-a-cleopatre-partie-i/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La sculpture grecque d’Alexandre à Cléopâtre (Partie 2)"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "20h"
             url: "https://www.fun-mooc.fr/fr/cours/la-sculpture-grecque-dalexandre-a-cleopatre-partie-ii/"
             licence:
@@ -121,6 +119,34 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Parchemin et papier"
+            type: "Module"
+            volume: "1h"
+            url: "https://www.canal-u.tv/chaines/ub/shs-arts-lettres-langues-communication/collection-metamorphoses-du-livre/niveau-1-les-0"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "L'estampe"
+            type: "Module"
+            volume: "40min"
+            url: "https://www.canal-u.tv/chaines/ub/shs-arts-lettres-langues-communication/collection-metamorphoses-du-livre/niveau-1-les-1"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Plomb et encre : aux origines de l’imprimerie typographique"
+            type: "Module"
+            volume: "20min"
+            url: "https://www.canal-u.tv/chaines/ub/shs-arts-lettres-langues-communication/collection-metamorphoses-du-livre/niveau-1-les-2"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Métamorphoses du livre et évolution des paradigmes culturels"
+            type: "Module"
+            volume: "30min"
+            url: "https://www.canal-u.tv/chaines/ub/shs-arts-lettres-langues-communication/collection-metamorphoses-du-livre/niveau-1-les-3"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"         
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
@@ -145,14 +171,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
@@ -203,7 +229,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -250,14 +276,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
@@ -271,28 +297,28 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -320,14 +346,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -497,28 +523,28 @@ years:
               - name: "AGPL3"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/agpl3.svg"
           - name: "Usages du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/usages-du-web/"
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Documents dans le Cloud"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Données et algorithmes"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/donnees-et-algorithmes/"
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Protection de la vie privée dans le monde numérique"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "10h"
             url: "https://www.fun-mooc.fr/fr/cours/protection-de-la-vie-privee-dans-le-monde-numerique/"
             licence:
@@ -642,7 +668,7 @@ years:
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -691,14 +717,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
@@ -851,14 +877,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "2h40"
             url: "https://miel.iutenligne.net/course/view.php?id=239"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
-            type: "TP, exercice, quiz *"
+            type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=2897"
             licence:
