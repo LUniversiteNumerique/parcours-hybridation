@@ -807,7 +807,7 @@ years:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Documents dans le Cloud"
-            type: "MOOC
+            type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/documents-dans-le-cloud/"
             licence:
