@@ -6,8 +6,7 @@ description: |
   pour une poursuite d’études dans un master de chimie ou une école d’ingénieur.<br>
   Tous les grands domaines scientifiques (mathématiques, informatique, physique, biologie) y sont abordés, tout en 
   respectant une progression pédagogique de la première année plus généraliste jusqu’à la troisième plus spécialisée en chimie. 
-  <p>* Une authentification est obligatoire car imposée par la technologie Moodle. Il est par conséquent nécessaire de créer un compte gratuitement ou de se connecter avec ses identifiants universitaires.
-  ** MOOC accessible uniquement aux enseignants et sur demande, hors session en cours.<p/>
+
 years:
   - name: "1ère année"
     ue:
@@ -28,26 +27,26 @@ years:
              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Bases du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
           - name: "Programmation C++ (2020)"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation en C"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
@@ -57,7 +56,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
             licence:
           - name: "Analyse numérique"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "56h"
             url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
@@ -104,10 +103,12 @@ years:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://socles3.unisciel.fr/course/view.php?id=40"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Nombres réels, suites et fonctions"
             type: "Module"
             volume: "40min"
@@ -146,7 +147,7 @@ years:
       - name: "Logique et raisonnement"
         resources:
           - name: "L1 : Logique et raisonnements"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "55h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=13"
             licence:
@@ -211,12 +212,12 @@ years:
       - name: "Algèbre linéaire"
         resources:
           - name: "Algèbre linéaire"
-            type: "Cours complet ou MOOC"
+            type: "MOOC"
             volume: "60h"
             url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
             licence:
           - name: "L1 : Algèbre linéaire"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "60h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
             licence:
@@ -274,7 +275,7 @@ years:
       - name: "Nombres complexes"
         resources:
           - name: "L1 : Nombres réels & complexes"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=54"
             licence:
@@ -469,7 +470,7 @@ years:
       - name: "Optique géométrique"
         resources:
           - name: "L1: Optique Géométrique"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
             licence:
@@ -525,7 +526,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L1: Mécanique du point"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://socles3.unisciel.fr/enrol/index.php?id=17"
             licence:
@@ -633,14 +634,14 @@ years:
             url: "https://ikigai.games/games/gameDetails/20"
             licence:
           - name: "L1: Électrocinétique en régime continu permanent"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Électrocinétique en régime sinusoïdal permanent"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "35h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=16"
             licence:
@@ -677,7 +678,7 @@ years:
       - name: "Etat de la matière"
         resources:
           - name: "L1: Structure microscopique de la matière"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=29"
             licence:
@@ -707,7 +708,7 @@ years:
       - name: "Chimie des solutions"
         resources:
           - name: "L1: Chimie en solution aqueuse"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=25"
             licence:
@@ -728,14 +729,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours "
             volume: "5h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 12 – Acides et bases"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours "
             volume: "5h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=12"
             licence:
@@ -781,7 +782,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -842,14 +843,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
@@ -863,28 +864,28 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -912,14 +913,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -1219,7 +1220,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 5 – Electrophèse – Vidéo d’introduction"
-            type: "Grain ou élément de cours *"
+            type: "Grain ou élément de cours "
             volume: "4min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/trilogique-sem-5-electrophorese-video-d-introduction"
             licence:
@@ -1374,31 +1375,31 @@ years:
           - name: "Travaux pratiques de cristallographie 1 : « structure cubique simple du polonium »"
             type: "TP, exercice, quiz"
             volume: "7h"
-            url: "https://ressources.unisciel.fr/cristallo/tp1-cubiquesimple/co/grain1-construction.html"
+            url: "https://ressources.unisciel.fr/cristallo/tp1-cubiquesimple/co/module_Cristallographie.html"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Travaux pratiques de cristallographie 2 : « structure cubique centrée du fer »"
             type: "TP, exercice, quiz"
             volume: "7h"
             url: "https://ressources.unisciel.fr/cristallo/tp2-cubiquecentre/co/module_Cristallographie.html"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Travaux pratiques de cristallographie 3 : « structure cubique à face centrée du cuivre »"
             type: "TP, exercice, quiz"
             volume: "7h"
             url: "https://ressources.unisciel.fr/cristallo/tp3-cubiquefacecentree/co/module_Cristallographie.html"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Travaux pratiques de cristallographie 4 : « structure hexagonale compacte du Cobalt »"
             type: "TP, exercice, quiz"
             volume: "6h"
             url: "https://ressources.unisciel.fr/cristallo/tp4-hexagonalcompact/co/module_Cristallographie.html"
             licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La chimie par le web – Cristallographie"
             type: "Grain ou élément de cours"
             volume: "4h"
@@ -1453,7 +1454,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L2: Thermodynamique"
-            type: "Cours complet ou MOOC *"
+            type: "Cours complet ou MOOC "
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=27"
             licence:
@@ -1576,12 +1577,12 @@ years:
              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation en C"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
           - name: "Bases du web"
-            type: "Cours complet ou MOOC **"
+            type: "MOOC"
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
