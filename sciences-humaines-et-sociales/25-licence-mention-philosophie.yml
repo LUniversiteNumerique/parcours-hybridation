@@ -13,14 +13,14 @@ years:
       - name: "Maîtriser les grandes notions"
         resources:
           - name: "Les essentiels : la philo par les mots"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=55"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La philo en petits morceaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=53"
             licence:
@@ -43,7 +43,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Initiation à la lecture de Machiavel"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=100"
             licence:
@@ -57,21 +57,21 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Philosophie chinoise"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=101"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Averroès"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=98"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les grands mathématiciens"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://ressources.unisciel.fr/iel/grands_mathématiciens/general/index.html"
             licence:
@@ -89,7 +89,7 @@ years:
       - name: "Découvrir des domaines connexes"
         resources:
           - name: "Alfred Binet : naissance de la psychologie scientifique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "40h"
             url: "https://uoh.fr/front/noticefr/?uuid=19089ca4-8b3d-4748-b854-bf64732ebfb9"
             licence:
@@ -103,14 +103,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Latin remise à niveau"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=644"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lecture de textes en grec classique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "43h"
             url: "https://uoh.fr/front/noticefr/?uuid=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
             licence:
@@ -122,7 +122,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/18e-siecle-le-combat-des-lumieres/"
             licence:
           - name: "Lire Montesquieu. les enjeux d’une édition"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://uoh.fr/front/noticefr/?uuid=47d1262a-da6c-4503-93f6-ead7226fb15e"
             licence:
@@ -150,7 +150,7 @@ years:
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
@@ -164,28 +164,28 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
@@ -206,7 +206,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence:
@@ -367,7 +367,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence:
@@ -432,14 +432,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -534,14 +534,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -553,14 +553,14 @@ years:
       - name: "Maîtriser les grandes notions"
         resources:
           - name: "Les philosophes et la Bible"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://uoh.fr/front/noticefr/?uuid=f27d21fd-6628-4fcf-883e-461cb80e1997"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La philo en petits morceaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=53"
             licence:
@@ -588,21 +588,21 @@ years:
       - name: "Connaître les grands courants"
         resources:
           - name: "Initiation à la lecture de Machiavel"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=100"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Philosophie chinoise"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=101"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Averroès"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=98"
             licence:
@@ -634,7 +634,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Lire Montesquieu. les enjeux d’une édition"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://uoh.fr/front/noticefr/?uuid=47d1262a-da6c-4503-93f6-ead7226fb15e"
             licence:
@@ -734,14 +734,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -785,21 +785,21 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Culture numérique : introduction 1ère partie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "48min"
             url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Culture numérique : introduction 2e partie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Informatique et société"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=139"
             licence:
@@ -841,14 +841,14 @@ years:
       - name: "Maîtriser les grandes notions"
         resources:
           - name: "L’idée d’état de droit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "17h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-idee-d-etat-de-droit-michel-senellart"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La philo en petits morceaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=53"
             licence:
@@ -878,14 +878,14 @@ years:
       - name: "Connaître les grands courants"
         resources:
           - name: "Spinoza"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "32h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/spinoza"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Philosophie chinoise"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=101"
             licence:
@@ -929,7 +929,7 @@ years:
       - name: "Acquérir les méthodes de la philosophie"
         resources:
           - name: "Méthodologie en histoire des sciences"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://uoh.fr/front/noticefr/?uuid=a69ecb22-6f28-4c76-a7b0-73c0a6b4e2ee"
             licence:
@@ -952,21 +952,21 @@ years:
       - name: "Maîtriser des domaines spécifiques"
         resources:
           - name: "Initiation à la lecture de Machiavel"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=100"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’art de gouverner à Florence (1494-1530)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "25h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-art-de-gouverner-a-florence-1494-1530"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Averroès"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=98"
             licence:
@@ -980,7 +980,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’industrie en France, XVIIe-XXIe siècle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://uoh.fr/front/noticefr/?uuid=5179c7a0-f6ac-4353-b3a8-fd38a16ffa68"
             licence:
@@ -1073,7 +1073,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -1087,14 +1087,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
