@@ -21,7 +21,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Eléments de Résistance Des Matériaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1017"
             licence:
@@ -213,7 +213,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Shock and vibration illustrations"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8715"
             licence:
@@ -285,7 +285,7 @@ years:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1059"
             licence:
@@ -363,14 +363,14 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
             licence:
           - name: "Algèbre linaire 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=930"
             licence:
@@ -447,7 +447,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Équations Différentielles Ordinaires"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=931"
             licence:
@@ -470,7 +470,7 @@ years:
       - name: "Informatique"
         resources:
           - name: "Excel"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "14h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
             licence:
@@ -491,7 +491,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence: 
@@ -656,14 +656,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -691,35 +691,35 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
@@ -740,7 +740,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence: 
@@ -1041,21 +1041,21 @@ years:
       - name: "Résistance des matériaux et Structure"
         resources:
           - name: "Matière à construire : manip scientifique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLGgg1I6eO8ijXi8qGTmjsKf"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Matière manip scientifique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "42min"
             url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLHHWnYXVCCKxZRL-7ddT46E"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grains de bâtisseurs : expériences scientifiques autour de la matière"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h10"
             url: "https://www.youtube.com/playlist?list=PLr_Fjwu4UMLE9-fQjWs6LR45UWRU2XAIf"
             licence:
@@ -1083,7 +1083,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Eléments de Résistance Des Matériaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1017"
             licence:
@@ -1136,7 +1136,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Shock and vibration illustrations"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8715"
             licence:
@@ -1203,7 +1203,7 @@ years:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1065"
             licence:
@@ -1281,14 +1281,14 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
             licence:
           - name: "Algèbre linaire 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=930"
             licence:
@@ -1365,7 +1365,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Ajustement affine"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://www.iutenligne.net/ressources/ajustement-affine.html"
             licence:

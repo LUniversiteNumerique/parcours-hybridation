@@ -12,14 +12,14 @@ years:
       - name: "Introduction"
         resources:
           - name: "Histoire des faits économiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Histoire de la pensée économique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "hhttps://moodle.luniversitenumerique.fr/course/view.php?id=150"
             licence:
@@ -38,14 +38,14 @@ years:
       - name: "Macroéconomie"
         resources:
           - name: "Macroéconomie 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=62"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Macroéconomie 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=590"
             licence:
@@ -54,14 +54,14 @@ years:
       - name: "Microéconomie"
         resources:
           - name: "Microéconomie 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=60"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Microéconomie 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=725"
             licence:
@@ -103,7 +103,7 @@ years:
       - name: "Outils, techniques et méthodes quantitatives"
         resources:
           - name: "Mathématiques 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1059"
             licence:
@@ -115,7 +115,7 @@ years:
             url: "https://courlis-pf.univ-lorraine.fr/"
             licence:
           - name: "Traitement des données avec tableur appliqué à l'économie et la gestion"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "http://ressources.aunege.fr/notice/view/aunege-255"
             licence:
@@ -127,14 +127,14 @@ years:
       - name: "Introduction"
         resources:
           - name: "Histoire des faits économiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=402"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Histoire de la pensée économique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=150"
             licence:
@@ -143,7 +143,7 @@ years:
       - name: "Macroénonomie"
         resources:
           - name: "Macroéconomie 3 - Economie monétaire et bancaire"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=726"
             licence:
@@ -152,7 +152,7 @@ years:
       - name: "Outils, techniques et méthodes quantitatives"
         resources:
           - name: "Mathématiques 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1065"
             licence:
@@ -169,7 +169,7 @@ years:
             url: "https://courlis-pf.univ-lorraine.fr/"
             licence:
           - name: "Traitement des données avec tableur appliqué à l'économie et la gestion"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "http://ressources.aunege.fr/notice/view/aunege-255"
             licence:
@@ -183,7 +183,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Introduction à l'économétrie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1032"
             licence:
@@ -274,7 +274,7 @@ years:
       - name: "Intelligence économique"
         resources:
           - name: "Intelligence économique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1025"
             licence:
@@ -302,7 +302,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Introduction à l'économétrie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1032"
             licence:
@@ -316,7 +316,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Modèle d'aide à la décision"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "40h"
             url: "http://ressources.aunege.fr/notice/view/aunege-225"
             licence:

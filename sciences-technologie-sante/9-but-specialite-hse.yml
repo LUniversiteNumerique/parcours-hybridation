@@ -12,14 +12,14 @@ years:
       - name: "Informatique"
         resources:
           - name: "Excel"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "14h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence:
@@ -230,7 +230,7 @@ years:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1059"
             licence:
@@ -266,14 +266,14 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
             licence:
           - name: "Algèbre linaire 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=930"
             licence:
@@ -419,7 +419,7 @@ years:
       - name: "Thermodynamique"
         resources:
           - name: "Les systèmes énergétiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
             licence:
@@ -477,7 +477,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Shock and vibration illustrations"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20min"
             url: "https://moodle.luniversitenumerique.fr/mod/naas/view.php?id=8715"
             licence:
@@ -505,7 +505,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Eléments de Résistance Des Matériaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1017"
             licence:
@@ -519,7 +519,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le décibel en acoustique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://www.iutenligne.net/ressources/le-decibel-en-acoustique.html"
             licence:
@@ -533,7 +533,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Cinématique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
             licence:
@@ -626,14 +626,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -661,35 +661,35 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
@@ -710,7 +710,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence:
@@ -985,7 +985,7 @@ years:
       - name: "Protection de l’environnement"
         resources:
           - name: "Transition, adaptation et réliience des socio-écosystèmes au changement global"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
             licence:

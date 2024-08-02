@@ -56,7 +56,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
           - name: "Analyse Numérique en Python"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
             licence:
@@ -73,7 +73,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=4"
             licence:
@@ -87,7 +87,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Apprendre à programmer avec des cartes"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://unisciel.org/r/25.4/progcartes/co/_web.html"
             licence:
@@ -394,7 +394,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Équations Différentielles Ordinaires"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=931"
             licence:
@@ -559,7 +559,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Mécanique - 1ère année de CPGE scientifique, voie MPSI"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "11h"
             url: "https://unisciel.org/r/25.4/38/25/mecanique/co/Bloc4_web.html"
             licence:
@@ -580,7 +580,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Cinématique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
             licence:
@@ -646,21 +646,21 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Électronique numérique : concevez vos premiers circuits mémoires"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=35"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Analysez les signaux 1D"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=30"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Électronique numérique : concevez vos premiers circuits combinatoires"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=33"
             licence:
@@ -813,7 +813,7 @@ years:
             url: "https://ikigai.games/games/gameDetails/107"
             licence: 
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
@@ -834,28 +834,28 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
@@ -876,7 +876,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence: 
@@ -1037,7 +1037,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence: 
@@ -1104,14 +1104,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -1123,7 +1123,7 @@ years:
       - name: "Thermodynamique"
         resources:
           - name: "Les systèmes énergétiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
             licence: 
@@ -1167,21 +1167,21 @@ years:
       - name: "Électromagnétisme"
         resources:
           - name: "Électromagnétisme 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1013"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Électromagnétisme 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1012"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction aux circuits électriques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1011"
             licence:
@@ -1348,7 +1348,7 @@ years:
       - name: "Physique quantique"
         resources:
           - name: "Introduction to quantum information and its associated technologies"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
             licence:
@@ -1429,7 +1429,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Propagation des ondes mécaniques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=53"
             licence:
@@ -1443,14 +1443,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Électronique numérique : concevez vos premiers circuits mémoires"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=35"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Électronique numérique : concevez vos premiers circuits combinatoires"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=33"
             licence:
@@ -1487,35 +1487,35 @@ years:
       - name: "Programmation"
         resources:
           - name: "Soyez acteurs du web"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=993"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement web avec HTML5, CSS et Javascript"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=992"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à Python"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1019"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement de pages web dynamiques et introduction aux bases de données"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=991"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique (java)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1010"
             licence: 
@@ -1564,7 +1564,7 @@ years:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1065"
             licence:
@@ -1613,7 +1613,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "14h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=368"
             licence:
@@ -1641,7 +1641,7 @@ years:
       - name: "Thermodynamique et cinétique chimique"
         resources:
           - name: "Les systèmes énergétiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "55h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=377"
             licence: 
@@ -1736,7 +1736,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Mécanique des milieux continus"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=151"
             licence:

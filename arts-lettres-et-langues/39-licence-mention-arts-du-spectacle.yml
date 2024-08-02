@@ -39,21 +39,21 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les grandes leçons cinématographiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "7h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=59"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Cinéma et Anthropologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Penser le cinéma documentaire"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=109"
             licence:
@@ -62,7 +62,7 @@ years:
       - name: "Introduction à l’esthétique des arts du spectacle"
         resources:
           - name: "L’art de la mise en scène : essai d’esthétique théâtrale (L. Becq de Fouquières)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://gallica.bnf.fr/ark:/12148/bpt6k204285r.pdf"
             licence:
@@ -71,21 +71,21 @@ years:
       - name: "Introduction à l’analyse des arts du spectacle"
         resources:
           - name: "Les grandes leçons cinématographiques"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "7h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=59"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Cinéma et Anthropologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Penser le cinéma documentaire"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=109"
             licence:
@@ -181,7 +181,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -195,14 +195,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -218,7 +218,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -230,84 +230,84 @@ years:
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -335,14 +335,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -440,7 +440,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence:
@@ -505,14 +505,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -546,7 +546,7 @@ years:
       - name: "Ecriture théâtrale"
         resources:
           - name: "La fabrique du spectacle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=116"
             licence:
@@ -561,14 +561,14 @@ years:
       - name: "Ecriture cinématographique"
         resources:
           - name: "Cinéma et Anthropologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Penser le cinéma documentaire"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "3h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=109"
             licence:
@@ -584,14 +584,14 @@ years:
       - name: "Analyse du spectacle"
         resources:
           - name: "Opéra Contro : l’œuvre de rupture sur la scène contemporaine italienne"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://www.canal-u.tv/chaines/ut2j/opera-contro-l-oeuvre-de-rupture-sur-la-scene-contemporaine-italienne/la-scene-en-tant"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Théâtre et dramaturgie : le metteur en scène et son dramaturge"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://journals.openedition.org/agon/1048"
             licence:
@@ -629,7 +629,7 @@ years:
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -641,14 +641,14 @@ years:
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -746,7 +746,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence:
@@ -804,7 +804,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -818,14 +818,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -852,7 +852,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Cinéma et anthropologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=107"
             licence:
@@ -866,7 +866,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Représentation ou présentification – les enjeux du « vivant-mourant » dans les arts du spectacle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50min"
             url: "https://popups.uliege.be/2593-4228/index.php?id=891"
             licence:
@@ -949,7 +949,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -963,14 +963,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:

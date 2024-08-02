@@ -12,7 +12,7 @@ description: |
  
 resources:
   - name: "Transition, adaptation et réliience des socio-écosystèmes au changement global"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "10h"
     url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=352"
     licence:
@@ -40,56 +40,56 @@ resources:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Biodiversité"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "14h"
     url: "https://www.canal-u.tv/chaines/canal-uved/biodiversite"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
   - name: "Causes et enjeux du changement climatique"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "12h"
     url: "https://www.canal-u.tv/chaines/canal-uved/causes-et-enjeux-du-changement-climatique"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Objectifs de Développement durable"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "10h"
     url: "https://www.canal-u.tv/chaines/canal-uved/objectifs-de-developpement-durable"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Vivre avec les autres animaux"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "7h"
     url: "https://www.canal-u.tv/chaines/canal-uved/vivre-avec-les-autres-animaux"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Biodiversité & changements globaux"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "7h"
     url: "https://www.canal-u.tv/chaines/canal-uved/biodiversite-et-changements-globaux"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Économie circulaire et innovation"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "8h"
     url: "https://www.canal-u.tv/chaines/canal-uved/economie-circulaire-innovation"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Éducation à l'Environnement et au Développement durable"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "15h"
     url: "https://www.canal-u.tv/chaines/canal-uved/education-a-l-environnement-et-au-developpement-durable"
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Énergie & changement climatique"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "18h"
     url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=376"
     licence:
@@ -619,7 +619,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Ingénierie écologique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h10"
             url: "https://www.canal-u.tv/chaines/canal-uved/ingenierie-ecologique"
             licence:
@@ -647,7 +647,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Biodiversité et changements globaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h10"
             url: "https://www.canal-u.tv/chaines/canal-uved/biodiversite-et-changements-globaux"
             licence:
@@ -821,7 +821,7 @@ years:
       - name: "Regards croisés sur la transition énergétique"
         resources:
           - name: "Énergies renouvelables"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "16h"
             url: "https://www.canal-u.tv/chaines/canal-uved/energies-renouvelables"
             licence:
@@ -906,21 +906,21 @@ years:
       - name: "2. Les métiers et formations par secteurs d'activité"
         resources:
           - name: "Agriculture & alimentation durables"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h15"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=135"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Air et climat"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=129"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Bâtiment durable"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h20"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=133"
             licence:
@@ -976,14 +976,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Nature & biodiversité"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h10"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=127"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Ressources naturelles"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=131"
             licence:
@@ -997,7 +997,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Urbanisme & aménagement durables"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "45min"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=134"
             licence:

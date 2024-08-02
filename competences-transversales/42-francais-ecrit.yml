@@ -6,21 +6,21 @@ description: |
   dans le cadre de formations à distance accompagnées par du tutorat (enseignant et/ou étudiant).
 resources:
   - name: "Améliorer ses écrits"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "20h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
     licence:
       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "Renforcer ses compétences orthographiques"
-    type: "Cours complet ou MOOC"
+    type: "Cours complet"
     volume: "12h"
     url: "https://uoh.fr/front/noticefr/?uuid=b2e045b1-b8f8-4756-8986-56f3001a402e"
     licence:
       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
   - name: "J'améliore mon français écrit"
-    Type: "Cours complet ou MOOC"
+    Type: "Cours complet"
     volume: "26h"
     url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
     licence:

@@ -20,7 +20,7 @@ years:
       - name: "Histoire médiévale"
         resources:
           - name: "Politique, religions et constructions étatiques (XIe-XVIe/XIXe siècles)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://uoh.fr/front/noticefr/?uuid=b22e4e4b-4459-432f-a43f-a1797f80eac3"
             licence:
@@ -29,7 +29,7 @@ years:
       - name: "Histoire moderne"
         resources:
           - name: "Politique, religions et constructions étatiques (XIe-XVIe/XIXe siècles)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://uoh.fr/front/noticefr/?uuid=b22e4e4b-4459-432f-a43f-a1797f80eac3"
             licence:
@@ -38,7 +38,7 @@ years:
       - name: "Histoire contemporaine"
         resources:
           - name: "L’industrie en France, XVIIe–XXIe siècle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://uoh.fr/front/noticefr/?uuid=5179c7a0-f6ac-4353-b3a8-fd38a16ffa68"
             licence:
@@ -94,35 +94,35 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
@@ -143,7 +143,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence:
@@ -311,7 +311,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence:
@@ -376,28 +376,28 @@ years:
       - name: "Introduction aux domaines d’application (disciplines connexes à l’histoire)"
         resources:
           - name: "Religions et représentation figurée"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "10h"
             url: "https://uoh.fr/front/noticefr/?uuid=041385c8-4416-407d-9029-ac52ce54c508"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Hononer les dieux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "24h"
             url: "https://uoh.fr/front/noticefr/?uuid=7e5ec6b0-ecaa-47ed-a099-76c115f93b17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Migrations religieuses"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://uoh.fr/front/noticefr/?uuid=3ca932ed-d402-4a28-aceb-49fbb83c9f35"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Projet Demenÿ : Histoire de l'éducation physique depuis le milieu du XIXe siècle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=124"
             licence:
@@ -413,21 +413,21 @@ years:
       - name: "Langues anciennes"
         resources:
           - name: "Latin pour débutant"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "44h"
             url: "https://uoh.fr/front/noticefr/?uuid=34c4e11f-2b7a-4c36-94a2-9fbdd8541b62"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Site d’initiation au grec ancien"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://uoh.fr/front/noticefr/?uuid=a2d5335f-019c-45b4-aa0f-94419e003d75"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Approche raisonnée de la langue latine"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
             licence:
@@ -478,7 +478,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -492,14 +492,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -508,14 +508,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -550,7 +550,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’art de gouverner à Florence (1494-1530)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "25h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-art-de-gouverner-a-florence-1494-1530"
             licence:
@@ -608,7 +608,7 @@ years:
             url: "https://uoh.fr/front/noticefr/?uuid=91a865a5-dcc0-4695-82e5-1a846c403675"
             licence:
           - name: "Guerre et Paix en Islam"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=99"
             licence:
@@ -631,7 +631,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Devenir archéologue"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://www.canal-u.tv/chaines/universite-paris-1/series-thematiques/devenir-archeologue"
             licence:
@@ -647,21 +647,21 @@ years:
       - name: "Langues anciennes"
         resources:
           - name: "Lecture de textes en grec classique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "43h"
             url: "https://uoh.fr/front/noticefr/?uuid=0127f4b5-9e36-40f1-8a13-ab33b0ea421a"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Latin remise à niveau"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=644"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Approche raisonnée de la langue latine"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
             licence:
@@ -712,7 +712,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -726,14 +726,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -752,7 +752,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L’art de gouverner à Florence (1494-1530)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "25h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/l-art-de-gouverner-a-florence-1494-1530"
             licence:
@@ -768,14 +768,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La lettre Riabova : étude d’une lettre de dénonciation dans l’Union Soviétique des années 30"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://uoh.fr/front/noticefr/?uuid=086c76bc-3dfa-4ab4-ab2a-8e68c8caaa9c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Pour une histoire critique et citoyenne - le cas de l’histoire franco-algérienne"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "37h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/pour-une-histoire-critique-et-citoyenne-le-cas-de-l-histoire-franco-algerienne"
             licence:
@@ -847,7 +847,7 @@ years:
       - name: "Statistiques"
         resources:
           - name: "Psychométrie et statistique : éléments d’auto-formation pour les étudiants en sciences humaines"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://uoh.fr/front/noticefr/?uuid=c8efef40-eb94-4db8-abc2-148d66665608"
             licence:
@@ -900,14 +900,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Version grecque"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "35h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=47"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Approche raisonnée de la langue latine"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=50"
             licence:
@@ -958,7 +958,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -972,14 +972,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:

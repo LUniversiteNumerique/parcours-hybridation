@@ -94,7 +94,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Rail and Culture : chemin de fer et civilisation britannique"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://uoh.fr/front/noticefr/?uuid=00b50e59-d88c-4d06-b2aa-596a1de2be4b"
             licence:
@@ -115,7 +115,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "53h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=242"
             licence:
@@ -173,14 +173,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Aux origines du roman : la littérature picaresque espagnole"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://uoh.fr/front/noticefr/?uuid=fe93a0de-3473-406f-a1d2-7a45374dce63"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Langues en actes"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "75h"
             url: "https://uoh.fr/front/noticefr/?uuid=ebb0257b-f91d-4bcc-bc57-edc38473b7bb"
             licence:
@@ -194,7 +194,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Aux premiers temps de l’Inquisition espagnole : 1478-1561"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "9h"
             url: "https://www.canal-u.tv/chaines/ens-de-lyon/aux-premiers-temps-de-l-inquisition-espagnole-1478-1561"
             licence:
@@ -208,7 +208,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Espagnol"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "25h30"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=337"
             licence:
@@ -273,7 +273,7 @@ years:
       - name: "Allemand"
         resources:
           - name: "Allemand"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "25h30"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=378"
             licence:
@@ -308,7 +308,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -317,7 +317,7 @@ years:
       - name: "Italien"
         resources:
           - name: "Italien"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "15h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=497"
             licence:
@@ -361,7 +361,7 @@ years:
       - name: "Arabe"
         resources:
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
@@ -370,7 +370,7 @@ years:
       - name: "Russe"
         resources:
           - name: "Grammaire pratique du russe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
@@ -379,14 +379,14 @@ years:
       - name: "Français (FLE)"
         resources:
           - name: "French Intercultural and LInguistic Program for Engineering"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "200h"
             url: "https://eformation.univ-grenoble-alpes.fr/course/index.php?categoryid=414"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Actu FLE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "52h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=766"
             licence:
@@ -407,14 +407,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Phonétique corrective pratique et théorique en français langue étrangère "
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/front/noticefr/?uuid=c7ca65ed-00db-4d7a-b6c7-6c239466dbf3"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "ExoFLE"
-            type: "cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=785"
             licence:
