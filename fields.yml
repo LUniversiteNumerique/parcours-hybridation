@@ -3,66 +3,68 @@ fields:
     diplomas:
       - id: 23
         name: "BUT Génie biologique (GB)"
-      - id: 49
-        name: "BUT Génie mécanique et productique (GMP)"
-      - id: 2
-        name: "BUT Informatique"
-      - id: 3
-        name: "BUT Réseaux et télécoms (R&T)"
-      - id: 8
-        name: "BUT Genie électrique et informatique industrielle (GEII)"
-      - id: 9
-        name: "BUT Hygiène, sécurité, environnement (HSE)"
-      - id: 10
-        name: "BUT Métiers du multimédia et de l'internet (MMI)"
       - id: 11
         name: "BUT Genie chimique-génie des procédés (GCCD)"
-      - id: 12
-        name: "BUT Mesures physiques (MP)"
+      - id: 8
+        name: "BUT Genie électrique et informatique industrielle (GEII)"
+      - id: 49
+        name: "BUT Génie mécanique et productique (GMP)"
+      - id: 9
+        name: "BUT Hygiène, sécurité, environnement (HSE)"
+      - id: 2
+        name: "BUT Informatique"
       - id: 15
         name: "BUT Métiers de la transition et de l'efficacité énergétiques (MT2E)"
-      - id: 1
-        name: "Licence mention Informatique"
-      - id: 4
-        name: "Licence mention Sciences pour l’ingénieur"
-      - id: 5
-        name: "Licence mention Mécanique"
-      - id: 6
-        name: "Licence mention Génie civil"
-      - id: 7
-        name: "Licence mention Sciences et technologie"
-      - id: 13
-        name: "Licence mention Sciences de la vie"
-      - id: 14
-        name: "Licence mention Mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS)"
-      - id: 16
-        name: "Licence mention Physique"
-      - id: 17
-        name: "Licence mention Sciences et vie de la terre (SVT)"
-      - id: 18
-        name: "Licence mention Sciences de la terre"
-      - id: 19
-        name: "Licence mention Mathématiques"
-      - id: 20
-        name: "Licence mention Physique–chimie"
+      - id: 10
+        name: "BUT Métiers du multimédia et de l'internet (MMI)"
+      - id: 12
+        name: "BUT Mesures physiques (MP)"
+      - id: 3
+        name: "BUT Réseaux et télécoms (R&T)"
       - id: 21
         name: "Licence mention Chimie"
       - id: 22
         name: "Licence mention Electronique, énergie électrique, automatique (EEA)"
+      - id: 6
+        name: "Licence mention Génie civil"
+      - id: 1
+        name: "Licence mention Informatique"
+      - id: 19
+        name: "Licence mention Mathématiques"
+      - id: 14
+        name: "Licence mention Mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS)"
+      - id: 5
+        name: "Licence mention Mécanique"
+      - id: 16
+        name: "Licence mention Physique"
+      - id: 20
+        name: "Licence mention Physique–chimie"
+      - id: 18
+        name: "Licence mention Sciences de la terre"
+      - id: 13
+        name: "Licence mention Sciences de la vie"
+      - id: 7
+        name: "Licence mention Sciences et technologie"
+      - id: 17
+        name: "Licence mention Sciences et vie de la terre (SVT)"
+      - id: 4
+        name: "Licence mention Sciences pour l’ingénieur"
+
+
 
 
   - name: "Sciences Humaines et Sociales"
     diplomas:
-      - id: 24
-        name: "Licence mention Psychologie"
-      - id: 25
-        name: "Licence mention Philosophie"
-      - id: 26
-        name: "Licence mention Sciences de l’éducation"
       - id: 27
         name: "Licence mention Géographie et aménagement"
       - id: 28
         name: "Licence mention Histoire"
+      - id: 25
+        name: "Licence mention Philosophie"
+      - id: 24
+        name: "Licence mention Psychologie"
+      - id: 26
+        name: "Licence mention Sciences de l’éducation"
       - id: 29
         name: "Licence mention Sciences sociales"
 
@@ -72,42 +74,45 @@ fields:
         name: "BUT Carrières juridiques (CJ)"
       - id: 31
         name: "BUT Gestion des entreprises et des administrations (GEA)"
-      - id: 32
-        name: "BUT Techniques de commercialisation (TC)"
       - id: 34
         name: "BUT Management de la logistique et des transports (MLT)"
+      - id: 32
+        name: "BUT Techniques de commercialisation (TC)"
+      - id: 51
+        name: "Licence mention Administration économique et sociale (AES)"
       - id: 30
         name: "Licence mention Gestion"
       - id: 50
         name: "Licence mention Sciences économiques"
-      - id: 51
-        name: "Licence mention Administration économique et sociale (AES)"
+
 
 
 
   - name: "Arts, Lettres et Langues"
     diplomas:
-      - id: 36
-        name: "Licence mention Humanités"
       - id: 37
         name: "Licence mention Arts"
-      - id: 38
-        name: "Licence mention Sciences du langage"
       - id: 39
         name: "Licence mention Arts du spectacle"
+      - id: 36
+        name: "Licence mention Humanités"
       - id: 40
         name: "Licence mention Lettres"
+      - id: 38
+        name: "Licence mention Sciences du langage"
+
+
 
   - name: "Compétences transversales"
     diplomas:
-      - id: 41
-        name: "Méthodologie"
+      - id: 44
+        name: "Culture numérique"
       - id: 42
         name: "Français écrit"
       - id: 43
         name: "Langues étrangères"
-      - id: 44
-        name: "Culture numérique"
+      - id: 41
+        name: "Méthodologie"
       - id: 45
         name: "Transition écologique"
 

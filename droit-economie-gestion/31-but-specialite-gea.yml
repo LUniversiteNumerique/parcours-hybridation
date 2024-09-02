@@ -18,7 +18,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
             licence:
           - name: "La comptabilité financière (cours)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "44h"
             url: "https://public.iutenligne.net/comptabilite/comptabilite-financiere/antraigue_januario/index.html"
             licence:
@@ -39,7 +39,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La comptabilité des sociétés (cours)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://www.iutenligne.net/resources.html?text=compta+des+soci%C3%A9t%C3%A9s+&diplome=All&domaines=All&ct=1&title=compta+des+soci%C3%A9t%C3%A9s+&resume=&keywords=&code=&aname=&asname=&lrt=cours&level=All"
             licence:
@@ -83,7 +83,7 @@ years:
       - name: "Bureautique"
         resources:
           - name: "Word"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
             licence:
@@ -118,7 +118,7 @@ years:
       - name: "Fiscalité – droit"
         resources:
           - name: "L’impôt sur les sociétés"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "3h"
             url: "https://www.iutenligne.net/resources.html?text=l%27IS&diplome=All&domaines=All&ct=1&title=l%27IS&resume=&keywords=&code=&aname=la+calcul+de+l%27IS&asname=&lrt=All&level=All"
             licence:
@@ -132,7 +132,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La TVA – territorialité"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://public.iutenligne.net/fiscalite/virondeau/TVA2_territorialite/index.html"
             licence:
@@ -153,7 +153,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les BIC"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://public.iutenligne.net/droit-gestion-juridique/bapteste/M412-S1/M412-S1-global/"
             licence:
@@ -167,7 +167,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le système juridique et judiciaire"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "21h"
             url: "https://public.iutenligne.net/droit-gestion-juridique/bapteste/M412-S1/M412-S1-global/"
             licence:
@@ -183,7 +183,7 @@ years:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1059"
             licence:
@@ -205,14 +205,14 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
             licence:
           - name: "Algèbre linaire 1"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=930"
             licence:
@@ -247,7 +247,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Emprunts indivis"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://www.iutenligne.net/ressources/emprunts-indivis-annuites-constantes-amortissements-constants.html"
             licence:
@@ -333,21 +333,21 @@ years:
       - name: "Expression – communication"
         resources:
           - name: "La prise de parole en public (exposés, soutenances)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://public.iutenligne.net/expression/depoorter/parler_en_public/index.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Analyser pour communiquer"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "6h"
             url: "https://www.iutenligne.net/resources.html?text=analyser+pour+communiquer&diplome=All&domaines=38262&ct=1&title=analyser+pour+communiquer&resume=&keywords="
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Collection « savoir dire pour savoir penser »"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://public.iutenligne.net/expression/savoir-dire-pour-savoir-penser/index.html"
             licence:
@@ -426,14 +426,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
@@ -442,14 +442,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -458,7 +458,7 @@ years:
       - name: "Méthodologie du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -477,84 +477,84 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1064"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Infosphère : gagner du temps et réaliser de meilleurs travaux"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://uoh.fr/front/noticefr/?uuid=4b8a32de-fea8-4099-8f09-ca911eef8b71"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher de l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h15"
             url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "5h"
             url: "https://uoh.fr/front/noticefr/?uuid=d5513a47-f731-4a40-b240-46888d5b0a44"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Méthodologie"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h30"
             url: "https://uoh.fr/front/noticefr/?uuid=be4e5913-e7fa-42b4-b2ed-95f32e3fe1eb"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "KIT : apprendre à apprendre"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Lire et se relire efficacement"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -582,7 +582,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
@@ -810,14 +810,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Contrôle de gestion et gestion prévisionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "12h"
             url: "https://public.iutenligne.net/gestion/gestion-previsionnelle/antraigue_januario/partie6_control_gest_841-S4/avecmenu/Gestion-Partie-06/index.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Trésorerie et diagnostic financier approfondi"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "9h"
             url: "https://public.iutenligne.net/gestion/gestion-financiere/antraigue_januario/partie8_tresor_diagnostic/avecmenu/Gestion-Partie-08/index.html"
             licence:
@@ -826,7 +826,7 @@ years:
       - name: "Ressources humaines"
         resources:
           - name: "Gestion des Ressources Humaines"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=104"
             licence:
@@ -849,7 +849,7 @@ years:
       - name: "Management des organisations"
         resources:
           - name: "Initiation au management"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=591"
             licence:
@@ -993,7 +993,7 @@ years:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 2"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1065"
             licence:
@@ -1016,7 +1016,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le stage en entreprise"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "8h"
             url: "https://public.iutenligne.net/stage/bezelgues/cours-stage/html/Cours_Stage/general/index.html"
             licence:
@@ -1116,7 +1116,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PRIMA - La langue allemande dans la vie professionnelle"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "50h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=631"
             licence:
@@ -1137,7 +1137,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "70h"
             url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
             licence:
