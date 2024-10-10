@@ -1554,13 +1554,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF proba"
-            type: "TP, exercice, quiz"
-            volume: "45min"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=H6/probability/oefproba70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Systèmes logiques et numériques"
         resources:
           - name: "Cours de logique"
@@ -1948,13 +1941,6 @@ years:
             type: "Module"
             volume: "1h"
             url: "https://uel.unisciel.fr/mathematiques/integration/integration_ch05/co/integration_ch05.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Systèmes linéaires et modélisation"
-            type: "TP, exercice, quiz"
-            volume: "5h"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/algebra/oefmodelisation70"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

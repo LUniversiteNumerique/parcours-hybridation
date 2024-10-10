@@ -591,11 +591,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Interaction cognition-conation"
-            type: "Module"
-            volume: "1h"
-            url: "https://uoh.fr/front/noticefr/?uuid=071be14b-78a2-4063-a475-3ca21e34ace5"
-            licence:
           - name: "Psychologie cognitive/Mémoire/Travail collaboratif et gestion des conflits"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -796,11 +791,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Interaction cognition-conation"
-            type: "Module"
-            volume: "1h"
-            url: "https://uoh.fr/front/noticefr/?uuid=071be14b-78a2-4063-a475-3ca21e34ace5"
-            licence:
           - name: "Metacognition"
             type: "Grain ou élément de cours"
             volume: "10min"
