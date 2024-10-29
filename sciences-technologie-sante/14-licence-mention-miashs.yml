@@ -30,25 +30,25 @@ years:
             volume: "48h"
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
-          - name: "Programmation C++ (2020)"
-            type: "Cours complet ou MOOC "
-            volume: "40h"
-            url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+  #        - name: "Programmation C++ (2020)"
+  #          type: "Cours complet ou MOOC "
+  #          volume: "40h"
+  #          url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
+  #          licence:
+  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation en C"
             type: "MOOC"
             volume: "45h"
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
-          - name: "Programmation Python (2019)"
-            type: "Cours complet ou MOOC "
-            volume: "40h"
-            url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "Programmation Python (2019)"
+    #        type: "Cours complet ou MOOC "
+    #        volume: "40h"
+    #        url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Analyse Numérique en Python"
             type: "Cours complet"
             volume: "40h"
@@ -1243,13 +1243,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Probabilités et variables aléatoires simples"
-            type: "TP, exercice, quiz"
-            volume: "45min"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/proba/oefbases70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "OEF Probabilités et variables aléatoires simples"
+    #        type: "TP, exercice, quiz"
+     #       volume: "45min"
+      #      url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/proba/oefbases70"
+       #     licence:
+        #      - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+         #       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Algorithmes"
         resources:
           - name: "Soyez acteurs du web"
@@ -1301,20 +1301,20 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Doc autour de l’algorithme d’Euclide"
-            type: "Grain ou élément de cours"
-            volume: "5h"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doceuclide70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Doc notion d’algorithmique"
-            type: "Grain ou élément de cours"
-            volume: "4h"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doccomplexity70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "Doc autour de l’algorithme d’Euclide"
+     #       type: "Grain ou élément de cours"
+     #       volume: "5h"
+     #       url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doceuclide70"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+     #     - name: "Doc notion d’algorithmique"
+     #       type: "Grain ou élément de cours"
+     #       volume: "4h"
+     #       url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/doccomplexity70"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algorithmique"
             type: "Cours complet"
             volume: "20h"
@@ -1322,13 +1322,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF algorithme en arithmétique"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+     #     - name: "OEF algorithme en arithmétique"
+     #       type: "TP, exercice, quiz"
+     #       volume: "1h"
+     #       url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U3/algo/oefalgoarithm70"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Lexico"
@@ -1570,13 +1570,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Chaînes de Markov"
-            type: "TP, exercice, quiz"
-            volume: "3h"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/proba/oefmarkov70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "OEF Chaînes de Markov"
+    #        type: "TP, exercice, quiz"
+    #        volume: "3h"
+    #        url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U2/proba/oefmarkov70"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Espaces vectoriels et applications linéaires"
         resources:
           - name: "Application linéaire (module espaces vectoriels)"

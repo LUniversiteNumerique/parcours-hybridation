@@ -129,13 +129,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie végétale"
         resources:
-          - name: "Biologie cellulaire et physiologie végétales"
-            type: "Module"
-            volume: "30min"
-            url: "https://unisciel.org/r/25.9-3070/35/UNT/UNISCIEL/371/web/co/Biologie_web.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Photosynthèse"
             type: "Module"
             volume: "3h"

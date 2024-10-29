@@ -137,13 +137,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie végétale"
         resources:
-          - name: "Biologie cellulaire et physiologie végétales"
-            type: "Module"
-            volume: "30min"
-            url: "https://unisciel.org/r/25.9-3070/35/UNT/UNISCIEL/371/web/co/Biologie_web.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Photosynthèse"
             type: "Module"
             volume: "3h"
@@ -410,6 +403,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Méthodologie du travail universitaire"
         resources:
+          - name: "Rédiger un cahier de laboratoire"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1078"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
             volume: "1h"
