@@ -336,6 +336,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Analyser une consigne pour éviter le hors sujet"
+            type: "Module"
+            volume: "30min"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=104"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Appuis pour apprendre à apprendre"
             type: "Cours complet"
             volume: "26h"
@@ -350,10 +357,17 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Lire et se relire efficacement"
+          - name: "Faire des fiches de lecture"
+            type: "Cous complet"
+            volume: "1h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Se relire efficacement"
             type: "Cours complet"
             volume: "2h"
-            url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=105"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
