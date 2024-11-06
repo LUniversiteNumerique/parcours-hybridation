@@ -1521,13 +1521,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-            - name: "Programmation Python (2019)"
-              type: "Cours complet ou MOOC "
-              volume: "40h"
-              url: "https://socles3.unisciel.fr/enrol/index.php?id=749"
-              licence:
-               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Programmation Python (2019)"
+            type: "Cours complet ou MOOC "
+            volume: "40h"
+            url: "https://socles3.unisciel.fr/enrol/index.php?id=749"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Analyse Numérique en Python"
             type: "Cours complet ou MOOC "
             volume: "40h"
