@@ -95,6 +95,13 @@ resources:
     licence:
     - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
       image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+  - name: "Se former à la transistion écologique pour un développement soutenable"
+    type: "Cours complet"
+    volume: "4h"
+    url: "https://aidealareussite.unistra.fr/course/view.php?id=132"
+    licence: 
+    - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+      image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
 years:
   - name: "A la découverte des 17 Objectifs de Développement Durable"

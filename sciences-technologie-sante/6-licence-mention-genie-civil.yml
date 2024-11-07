@@ -772,6 +772,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Analyser une consigne pour éviter le hors sujet"
+            type: "Module"
+            volume: "30min"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=104"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC "
             volume: "2h"
@@ -779,11 +786,18 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Lire et se relire efficacement"
+          - name: "Se relire efficacement"
             type: "Cours complet ou MOOC "
             volume: "2h"
-            url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=105"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Faire des fiches de lecture"
+            type: "Cous complet"
+            volume: "1h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
+            licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
@@ -1527,14 +1541,14 @@ years:
           - name: "Programmation C++ (2020)"
             type: "Cours complet ou MOOC "
             volume: "40h"
-            url: "https://unisciel.org/r/3socles3.4/11/12.php0id=225"
+            url: "https://socles3.unisciel.fr/enrol/index.php?id=753"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
             type: "Cours complet ou MOOC "
             volume: "40h"
-            url: "https://unisciel.org/r/3socles3.4/11/12.php0id=222"
+            url: "https://socles3.unisciel.fr/enrol/index.php?id=749"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

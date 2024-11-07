@@ -129,13 +129,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie végétale"
         resources:
-          - name: "Biologie cellulaire et physiologie végétales"
-            type: "Module"
-            volume: "30min"
-            url: "https://unisciel.org/r/25.9-3070/35/UNT/UNISCIEL/371/web/co/Biologie_web.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Photosynthèse"
             type: "Module"
             volume: "3h"
@@ -154,20 +147,6 @@ years:
             type: "Grain ou élément de cours"
             volume: "7h"
             url: "https://unisciel.org/r/2uel.4/37/321/321_ch02/co/apprendre_ch02_2.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Reconnaissance de tissus végétaux"
-            type: "TP, exercice, quiz"
-            volume: "10min"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/histology/identvegetal70"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Identification de tissus"
-            type: "TP, exercice, quiz"
-            volume: "3h"
-            url: "https://unisciel.org/r/210auto.di.u-3170/10/10.cgi032=U1/histology/oefidentification70"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -512,6 +491,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Analyser une consigne pour éviter le hors sujet"
+            type: "Module"
+            volume: "30min"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=104"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Suivre des cours en ligne"
             type: "Cours complet ou MOOC "
             volume: "2h"
@@ -519,11 +505,18 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Lire et se relire efficacement"
+          - name: "Se relire efficacement"
             type: "Cours complet ou MOOC "
             volume: "2h"
-            url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=105"
             licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Faire des fiches de lecture"
+            type: "Cous complet"
+            volume: "1h"
+            url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
+            licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
