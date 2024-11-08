@@ -206,7 +206,7 @@ resources:
     licence:
       - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-  - name: "Colloque international : 'Des critiques du sport - Controverses interdisciplinaires' "
+  - name: "Colloque international : 'Des critiques du sport - Controverses interdisciplinaires'"
     type: "Grain ou élément de cours"
     volume: "1h"
     url: "https://uoh.fr/front/noticefr/?uuid=f1df3f08-b962-4f8c-82d3-adfba10172bc"
