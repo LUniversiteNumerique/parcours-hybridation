@@ -1183,9 +1183,9 @@ years:
     #        type: "TP, exercice, quiz"
     #        volume: "1h"
     #        url: "https://miel.iutenligne.net/enrol/index.php?id=222"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Analysez les signaux 1D"
             type: "Cours complet"
             volume: "20h"

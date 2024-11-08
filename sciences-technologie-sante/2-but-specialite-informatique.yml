@@ -238,7 +238,7 @@ years:
      #       licence:
      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
     #*
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Bases de données relationnelles : apprendre pour utiliser"
             type: "MOOC"
             volume: "21h"
