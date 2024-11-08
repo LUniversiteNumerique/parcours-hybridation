@@ -334,14 +334,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Comprendre les liaisons atomiques"
-            type: " Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "13h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=773"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Savoir utiliser la classification périodique"
-            type: " Cours complet ou MOOC"
+            type: "Cours complet"
             volume: "4h50"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=772"
             licence:
