@@ -83,14 +83,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Programmation C++ (2020)"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "40h"
             url: "https://socles3.unisciel.fr/enrol/index.php?id=753"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Programmation Python (2019)"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "40h"
             url: "https://socles3.unisciel.fr/enrol/index.php?id=749"
             licence:
@@ -137,14 +137,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Technologies Web 1"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "40h"
             url: "https://moodle.insa-rouen.fr/course/view.php?id=153"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Animation d’une page Web avec Javascript et SVG"
-            type: "Module "
+            type: "Module"
             volume: "12h"
             url: "https://public.iutenligne.net/sciences-image-et-medias/infographie/vermaelen/cours_animation_javascript/"
             licence:
@@ -298,7 +298,7 @@ years:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://socles3.unisciel.fr/course/view.php?id=40"
             licence:
@@ -354,7 +354,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/introduction-la-logique-informatique-partie-1-calcul-proposition/"
             licence:
           - name: "L1 : Logique et raisonnements"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "55h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=13"
             licence:
@@ -419,7 +419,7 @@ years:
       - name: "Algèbre linéaire"
         resources:
           - name: "L1 : Algèbre linéaire"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "60h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
             licence:
@@ -489,7 +489,7 @@ years:
       - name: "Nombres complexes"
         resources:
           - name: "L1 : Nombres réels & complexes"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=54"
             licence:
@@ -714,7 +714,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour étudiant"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -775,14 +775,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
@@ -796,7 +796,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
@@ -810,14 +810,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Se relire efficacement"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=105"
             licence:
@@ -831,7 +831,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -859,14 +859,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -1031,14 +1031,14 @@ years:
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "26h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=38"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Améliorer ses écrits"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=40"
             licence:
@@ -1109,7 +1109,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
           - name: "Programmation orientée objet en C++"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "12h"
             url: "https://public.iutenligne.net/informatique/algorithme-et-programmation/roose/poo/index.html"
             licence:
@@ -1313,7 +1313,7 @@ years:
       - name: "Intégration"
         resources:
           - name: "L1: Intégration"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "45h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=47"
             licence:
@@ -1520,7 +1520,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
             licence:
           - name: "L2 : Traitement analyse et modélisation des données"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=126"
             licence:
@@ -1558,13 +1558,6 @@ years:
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/kezako-pourquoi-la-tartine-tombe-toujours-du-cote-beurre"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Probabilités conditionnelles"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H6/probability/oefprobacondit.fr"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

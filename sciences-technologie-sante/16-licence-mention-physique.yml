@@ -33,7 +33,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
             licence:
           - name: "Programmation C++ (2020)"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "40h"
             url: "https://socles3.unisciel.fr/enrol/index.php?id=753"
             licence:
@@ -45,7 +45,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
             licence:
           - name: "Programmation Python (2019)"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "40h"
             url: "https://socles3.unisciel.fr/enrol/index.php?id=749"
             licence:
@@ -89,15 +89,10 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "OEF Petits tests de programmation"
-            type: "TP, exercice, quiz"
-            volume: "50min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
-            licence:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://socles3.unisciel.fr/course/view.php?id=40"
             licence:
@@ -141,7 +136,7 @@ years:
       - name: "Logique et raisonnement"
         resources:
           - name: "L1 : Logique et raisonnements"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "55h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=13"
             licence:
@@ -211,7 +206,7 @@ years:
             url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
             licence:
           - name: "L1 : Algèbre linéaire"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "60h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=55"
             licence:
@@ -269,7 +264,7 @@ years:
       - name: "Nombres complexes"
         resources:
           - name: "L1 : Nombres réels & complexes"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "30h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=54"
             licence:
@@ -464,7 +459,7 @@ years:
       - name: "Optique géométrique"
         resources:
           - name: "L1: Optique Géométrique"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=9"
             licence:
@@ -512,11 +507,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF optique"
-            type: "TP, exercice, quiz"
-            volume: "2h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
-            licence:
       - name: "Mécanique du point"
         resources:
           - name: "Abaqus/CAE"
@@ -527,7 +517,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L1: Mécanique du point"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://socles3.unisciel.fr/enrol/index.php?id=17"
             licence:
@@ -635,7 +625,7 @@ years:
             url: "https://ikigai.games/games/gameDetails/20"
             licence:
           - name: "L1: Électrocinétique en régime continu permanent"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "40h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=12"
             licence:
@@ -649,7 +639,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Électrocinétique en régime sinusoïdal permanent"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "35h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=16"
             licence:
@@ -693,7 +683,7 @@ years:
       - name: "Etat de la matière"
         resources:
           - name: "L1: Structure microscopique de la matière"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=29"
             licence:
@@ -723,7 +713,7 @@ years:
       - name: "Chimie des solutions"
         resources:
           - name: "L1: Chimie en solution aqueuse"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=25"
             licence:
@@ -744,14 +734,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 11 – Introduction à la chimie des solutions 1"
-            type: "Grain ou élément de cours "
+            type: "Grain ou élément de cours"
             volume: "5h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Trilogique sem 12 – Acides et bases"
-            type: "Grain ou élément de cours "
+            type: "Grain ou élément de cours"
             volume: "5h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=1271section=12"
             licence:
@@ -797,7 +787,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Méthodologie de travail universitaire pour futur étudiant"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "7h"
             url: "https://socles3.unisciel.fr/course/view.php?id=159"
             licence:
@@ -858,14 +848,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Rechercher l'information"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Prendre des notes"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=10"
             licence:
@@ -879,7 +869,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=39"
             licence:
@@ -893,14 +883,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Suivre des cours en ligne"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=40"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Se relire efficacement"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=105"
             licence:
@@ -914,7 +904,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=12"
             licence:
@@ -942,14 +932,14 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Gérer un projet en équipe"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "2h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=11"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Boîte à outils de révision"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "20h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=32"
             licence:
@@ -1291,7 +1281,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L2: Électrostatique"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "45h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=18"
             licence:
@@ -1567,7 +1557,7 @@ years:
       - name: "Optique ondulatoire"
         resources:
           - name: "L2: Optique ondulatoire"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "65h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=38"
             licence:
@@ -1790,7 +1780,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Introduction to quantum information and its associated technologies"
-            type: "Cours complet ou MOOC "
+            type: "Cours complet"
             volume: "18h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=324"
             licence:
