@@ -834,57 +834,8 @@ years:
     #        licence:
     #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
     #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF sélection clonale"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefclonalselect.fr"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Structure des immunoglobulines"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefIgsStruct.fr"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Diversité des immunoglobulines"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefIgsbiosynth.fr"
-            licence:
-          - name: "OEF Phagocytose"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefphagocyt.fr"
-            licence:
-          - name: "OEF Développement et sélection des lymphocytes"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefLymphoDev.fr"
-            licence:
-          - name: "OEF Lymphocytes T : récepteurs et activation"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefTCR.fr"
-            licence:
-          - name: "OEF Présentation des antigènes"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U3/biology/oefAntigen.fr"
-            licence:
       - name: "Classification du vivant : botanique et zoologie"
         resources:
-          - name: "OEF Identification botanique"
-            type: "TP, exercice, quiz"
-            volume: "2h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/botany/oefident.fr"
-            licence:
-          - name: "Reconnaissance de champignons"
-            type: "TP, exercice, quiz"
-            volume: "2h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/mycology/oefident.fr"
-            licence:
       - name: "Physiologie animale"
         resources:
           - name: "Physiologie des systèmes intégrés, les principes et fonctions"

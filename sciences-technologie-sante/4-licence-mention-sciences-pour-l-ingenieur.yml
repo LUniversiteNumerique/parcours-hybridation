@@ -1573,11 +1573,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "OEF Petits tests de programmation"
-            type: "TP, exercice, quiz"
-            volume: "50min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
-            licence:
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 2"

@@ -94,11 +94,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "OEF Petits tests de programmation"
-            type: "TP, exercice, quiz"
-            volume: "50min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
-            licence:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
@@ -955,36 +950,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Accordance"
-            type: "TP, exercice, quiz"
-            volume: "15min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/algebra/accordance.fr"
-            licence:
-          - name: "Coïncidence Polynome"
-            type: "TP, exercice, quiz"
-            volume: "10min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/algebra/coincpoly.fr"
-            licence:
-          - name: "Coïncidence Polyracines"
-            type: "TP, exercice, quiz"
-            volume: "10min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U1/algebra/coincpolyroots.fr"
-            licence:
-          - name: "Ordre polynôme"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=tool/algebra/polyorder.fr"
-            licence:
-          - name: "Primpoly"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=tool/algebra/primpoly.fr"
-            licence:
-          - name: "Balai polynomial"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=tool/algebra/sweeppoly.fr"
-            licence:
       - name: "Intégration"
         resources:
           - name: "L1: Intégration"
@@ -1247,13 +1212,6 @@ years:
             type: "Grain ou élément de cours"
             volume: "4min"
             url: "https://www.canal-u.tv/chaines/canal-unisciel/kezako-pourquoi-la-tartine-tombe-toujours-du-cote-beurre"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Probabilités conditionnelles"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H6/probability/oefprobacondit.fr"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

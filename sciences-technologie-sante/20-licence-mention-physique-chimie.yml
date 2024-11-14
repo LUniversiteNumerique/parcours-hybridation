@@ -93,11 +93,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "OEF Petits tests de programmation"
-            type: "TP, exercice, quiz"
-            volume: "50min"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=U2/coding/oefprogramC.fr"
-            licence:
       - name: "Suites et séries"
         resources:
           - name: "L1 : Suites et séries"
@@ -516,11 +511,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF optique"
-            type: "TP, exercice, quiz"
-            volume: "2h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H5/physics/oefoptics.fr"
-            licence:
       - name: "Mécanique du point"
         resources:
           - name: "Abaqus/CAE"

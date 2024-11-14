@@ -1561,13 +1561,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "OEF Probabilités conditionnelles"
-            type: "TP, exercice, quiz"
-            volume: "1h"
-            url: "https://wimsauto.universite-paris-saclay.fr/wims/wims.cgi?module=H6/probability/oefprobacondit.fr"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
        #   - name: "OEF Probabilités et variables aléatoires simples"
         #    type: "TP, exercice, quiz"
         #    volume: "45min"
