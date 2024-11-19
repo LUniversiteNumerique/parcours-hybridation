@@ -149,6 +149,12 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Améliorer son expression orale en anglais"
+            type: "Grain ou élement de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1088"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"           
       - name: "Espagnol"
         resources:
           - name: "Certif’langues – espagnol"

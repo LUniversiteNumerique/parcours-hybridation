@@ -606,14 +606,14 @@ years:
           - name: "Sur les pas des combattants de Verdun : 1916 – 2016"
             type: "MOOC"
             volume: "4h"
-            url: "https://www.fun-mooc.fr/fr/cours/sur-les-pas-des-combattants-de-verdun-1916-2016/"
+            url: "https://ultv.univ-lorraine.fr/mooc-verdun-1-sur-les-pas-des-combattants-de-verdun-1916-2016/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Verdun 1917-1918 : batailles oubliées ? Français, Allemands et Américains dans la tourmente"
             type: "MOOC"
             volume: "4h"
-            url: "https://www.fun-mooc.fr/fr/cours/verdun-1917-1918-batailles-oubliees-francais-allemands-et-americains-dans-la-tourmente/"
+            url: "https://ultv.univ-lorraine.fr/mooc-verdun-3-verdun-dhier-a-aujourdhui/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

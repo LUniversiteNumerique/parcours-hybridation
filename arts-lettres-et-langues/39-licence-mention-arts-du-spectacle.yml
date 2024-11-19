@@ -210,6 +210,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Méthodologie du travail universitaire"
         resources:
+          - name: "Écrire un scénario de film"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1087"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
             volume: "1h"
