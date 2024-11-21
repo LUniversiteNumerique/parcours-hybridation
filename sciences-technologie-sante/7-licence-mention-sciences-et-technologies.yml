@@ -1374,6 +1374,34 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name : "Rédiger un compte-rendu de travaux pratiques scientifiques"
+            type : "Grain ou élèment de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1084"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Utiliser les notebooks Jupyter"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1086"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Rédiger un cahier de laboratoire"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1078"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Rédiger une bibliographie (norme IEEE)"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1080"
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
       - name: "Histoire, Sciences et Techniques"
         resources:
           - name: "L’Industrie en France, XVIIe-XXIe siècle"
