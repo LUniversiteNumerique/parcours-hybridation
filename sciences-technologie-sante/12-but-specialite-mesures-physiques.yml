@@ -1279,13 +1279,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Réseaux de Communications Industriels"
-            type: "Cours complet"
-            volume: "21h"
-            url: "https://prive.iutenligne.net/ewMARhAJ9mPPzQqw/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+   #       - name: "Réseaux de Communications Industriels"
+   #         type: "Cours complet"
+   #         volume: "21h"
+   #         url: "https://prive.iutenligne.net/ewMARhAJ9mPPzQqw/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm"
+   #         licence:
+   #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+   #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
     #      - name: "Détecteur de proximité à infrarouges"
     #        type: "TD, étude de cas"
     #        volume: "1h"
