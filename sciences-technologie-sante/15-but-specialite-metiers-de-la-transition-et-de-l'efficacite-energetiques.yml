@@ -310,8 +310,8 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-           - name: "Quiz thermodynamique – Application du principe de Le Chatelier – 2"
-             type: "TP, exercice, quiz"
+          - name: "Quiz thermodynamique – Application du principe de Le Chatelier – 2"
+            type: "TP, exercice, quiz"
             volume: "20min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=782"
             licence:

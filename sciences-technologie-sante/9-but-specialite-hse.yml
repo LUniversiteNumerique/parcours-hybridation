@@ -220,7 +220,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-         - name: "Relation entre unités et formules"
+          - name: "Relation entre unités et formules"
             type: "TP, exercice, quiz"
             volume: "10min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3590"

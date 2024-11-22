@@ -431,7 +431,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-         - name: "Convergence de séries à termes positifs"
+          - name: "Convergence de séries à termes positifs"
             type: "TP, exercice, quiz"
             volume: "15min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3102"

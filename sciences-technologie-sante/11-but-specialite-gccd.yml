@@ -1441,7 +1441,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-         - name: "Équations différentielles linéaires du 2nd ordre à coefficients constants : recherche d’une solution particulière"
+          - name: "Équations différentielles linéaires du 2nd ordre à coefficients constants : recherche d’une solution particulière"
             type: "TP, exercice, quiz"
             volume: "25min"
             url: "https://miel.iutenligne.net/mod/quiz/view.php?id=3567"
