@@ -1808,7 +1808,7 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Systèmes linéaires du premier et second ordre"
-           type: "TP, exercice, quiz"
+            type: "TP, exercice, quiz"
             volume: "45min"
             url: "https://miel.iutenligne.net/course/view.php?id=184"
             licence:
