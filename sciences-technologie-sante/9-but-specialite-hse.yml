@@ -323,13 +323,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Chimie des solutions"
-     #       type: "TP, exercice, quiz"
-     #       volume: "5h"
-     #       url: "https://www.iutenligne.net/catalog/quizs/equilibre-acide-base"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Chimie des solutions"
+            type: "TP, exercice, quiz"
+            volume: "5h"
+            url: "https://www.iutenligne.net/catalog/quizs/equilibre-acide-base"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Chimie inorganique descriptive"
             type: "Cours complet"
             volume: "8h"
@@ -425,13 +425,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      #    - name: "Chimie-physico-chimique"
-      #      type: "TP, exercice, quiz"
-      #      volume: "4h"
-      #      url: "https://www.iutenligne.net/catalog/quizs/chimie-physico-chimie"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Chimie-physico-chimique"
+            type: "TP, exercice, quiz"
+            volume: "4h"
+            url: "https://www.iutenligne.net/catalog/quizs/chimie-physico-chimie"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Thermodynamique et cinétique chimique"
             type: "TP, exercice, quiz"
             volume: "30min"

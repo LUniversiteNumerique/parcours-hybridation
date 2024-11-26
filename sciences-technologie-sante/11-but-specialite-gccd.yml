@@ -1228,13 +1228,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-    #      - name: "Notions juridiques"
-    #        type: "TP, exercice, quiz"
-    #        volume: "1h"
-    #        url: "https://www.iutenligne.net/resources.html?text=Quiz+-+Notions+juridiques&diplome=All&domaines=All&ct=1&title=Quiz+-+Notions+juridiques&resume=&keywords=&code=&aname=&asname=&lrt=All&level=All"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Notions juridiques"
+            type: "TP, exercice, quiz"
+            volume: "1h"
+            url: "https://www.iutenligne.net/resources.html?text=Quiz+-+Notions+juridiques&diplome=All&domaines=All&ct=1&title=Quiz+-+Notions+juridiques&resume=&keywords=&code=&aname=&asname=&lrt=All&level=All"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 2"

@@ -1216,13 +1216,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Anglais technique pour l’Informatique"
-   #         type: "TP, exercice, quiz"
-   #         volume: "1h"
-   #         url: "https://www.iutenligne.net/ressources/ensemble-de-quiz-anglais-technique-pour-l-informatique.html"
-   #         licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Anglais technique pour l’Informatique"
+            type: "TP, exercice, quiz"
+            volume: "1h"
+            url: "https://www.iutenligne.net/ressources/ensemble-de-quiz-anglais-technique-pour-l-informatique.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Entraînement aux certifications – Reconnaître des énoncés erronés"
             type: "TP, exercice, quiz"
             volume: "5min"
