@@ -759,13 +759,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Tests formatifs espagnol"
-            type: "TP, exercice, quiz"
-            volume: "2h"
-            url: "https://prive.iutenligne.net/wIXI9oUZuuhuZaWg/langues-vivantes-et-civilisation/espagnol/fasano/MEF101-A1C2/index.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+   #       - name: "Tests formatifs espagnol"
+   #         type: "TP, exercice, quiz"
+   #         volume: "2h"
+   #         url: "https://prive.iutenligne.net/wIXI9oUZuuhuZaWg/langues-vivantes-et-civilisation/espagnol/fasano/MEF101-A1C2/index.html"
+   #         licence:
+   #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+   #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
