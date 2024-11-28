@@ -1942,13 +1942,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-    #      - name: "Droit du travail"
-    #        type: "TP, exercice, quiz"
-    #        volume: "4h"
-    #        url: "https://www.iutenligne.net/ressources/serie-de-quiz-sur-le-droit-du-travail.html"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Droit du travail"
+            type: "TP, exercice, quiz"
+            volume: "4h"
+            url: "https://www.iutenligne.net/ressources/serie-de-quiz-sur-le-droit-du-travail.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Anglais – Le monde du travail – CV, entretien et lettre de motivation"
