@@ -2240,7 +2240,7 @@ years:
           - name: "Supervision de Réseaux et Services"
             type: "MOOC"
             volume: "20h"
-            url: "https://www.fun-mooc.fr/fr/cours/supervision-de-reseaux-et-services/"
+            url: "https://ultv.univ-lorraine.fr/mooc-supervision-de-reseaux-et-services/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

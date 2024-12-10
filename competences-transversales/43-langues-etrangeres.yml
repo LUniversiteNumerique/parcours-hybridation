@@ -455,3 +455,12 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+      - name: "Finnois"
+        resources:
+          - name: "Finnois"
+            type: "Cours complet"
+            volume: "25h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1093"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
