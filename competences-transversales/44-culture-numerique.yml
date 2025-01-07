@@ -312,6 +312,19 @@ years:
             volume: "15min"
             url: "https://ikigai.games/games/gameDetails/103"
             licence:
+          - name: "IA dans l'enseignement supérieur"
+            type: "Cours complet"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1083"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Les outils d'intelligence artificielle générative pour les étudiant(e)s"
+            type: "Cours complet"
+            volume: "10h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1082"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"                      
       - name: "3.1. Développer des documents textuels"
         resources:
           - name: "Développer des documents textuels"
