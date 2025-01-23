@@ -1429,7 +1429,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "L'accord du verbe dans les relatives - Savoir accorder un verbe précédé par "qui""
+          - name: "L'accord du verbe dans les relatives - Savoir accorder un verbe précédé par qui"
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://microressources.ecriplus.fr/P-OrthoAc6"
