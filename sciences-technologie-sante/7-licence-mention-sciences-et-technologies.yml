@@ -2006,14 +2006,14 @@ years:
           - name: "Comment différencier les enveloppes atmosphériques"
             type: "Grain ou élément de cours"
             volume: "20min"
-            url: "https://unisciel.org/r/216-18.ens-1470/22/structure-atmosphere2.xml"
+            url: "https://planet-terre.ens-lyon.fr/ressource/structure-atmosphere2.xml"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Quel est le rôle de l’ozone dans la séparation troposphère/stratosphère"
             type: "Module"
             volume: "10min"
-            url: "https://unisciel.org/r/216-18.ens-1470/22/ozone-stratosphere.xml"
+            url: "https://planet-terre.ens-lyon.fr/ressource/ozone-stratosphere.xml"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
