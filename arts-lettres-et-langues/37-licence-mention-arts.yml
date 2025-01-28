@@ -146,7 +146,7 @@ years:
             url: "https://www.canal-u.tv/chaines/ub/shs-arts-lettres-langues-communication/collection-metamorphoses-du-livre/niveau-1-les-3"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"         
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"

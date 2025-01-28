@@ -6,7 +6,7 @@ description: |
   Il met l’accent sur la maîtrise de capacités orientées vers la professionnalisation (compétences linguistique et
   interculturelles, connaissance des publics et des outils, du fonctionnement des groupes et des institutions, etc…),
   et sur l’entraînement aux outils de la recherche scientifique.
- 
+
 years:
   - name: "1ère année"
     ue:
@@ -197,7 +197,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"

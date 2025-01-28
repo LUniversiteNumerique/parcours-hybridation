@@ -325,7 +325,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1082"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"                      
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "3.1. Développer des documents textuels"
         resources:
           - name: "Développer des documents textuels"
@@ -694,4 +694,4 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=322"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"         
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"

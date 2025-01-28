@@ -18,21 +18,21 @@ years:
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=32"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Organisation du vivant"
             type: "Cours complet"
             volume: "50h"
             url: "https://unisciel.org/r/3socles3.4/11/12.php0id=33"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"             
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Expression, stabilité et variation du patrimoine génétique et évolution"
             type: "Grain ou élément de cours"
             volume: "3h"
             url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/P3_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"                      
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à la diversité du vivant animal"
             type: "Cours complet ou MOOD"
             volume: "18h"
@@ -806,7 +806,7 @@ years:
             url: "https://ressources.unisciel.fr/DAEU/biologie/P3/co/P3_web.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie moléculaire"
         resources:
           - name: "La PCR"

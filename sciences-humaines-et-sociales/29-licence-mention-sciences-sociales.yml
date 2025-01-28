@@ -88,13 +88,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Sociologie"
         resources:
-          - name: "LudoSocio : un jeu sérieux en sociologie"
-            type: "TD, étude de cas"
-            volume: "30h"
-            url: "https://uoh.fr/front/noticefr/?uuid=ead5f19b-4744-4fa1-9652-347411a0d2b9"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Être en responsabilité demain : se former à l’égalité femmes-hommes"
             type: "Cours complet"
             volume: "6h"

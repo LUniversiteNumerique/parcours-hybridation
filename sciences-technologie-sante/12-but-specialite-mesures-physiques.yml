@@ -1115,7 +1115,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1077"
-            licence:  
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger un cahier de laboratoire"
@@ -1131,7 +1131,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1080"
             licence: 
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
 
   - name: "2ème année"
     ue:

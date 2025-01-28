@@ -95,13 +95,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "LudoSocio : un jeu sérieux en sociologie"
-            type: "TD, étude de cas"
-            volume: "30h"
-            url: "https://uoh.fr/front/noticefr/?uuid=ead5f19b-4744-4fa1-9652-347411a0d2b9"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Latin remise à niveau"
             type: "Cours complet"
             volume: "15h"

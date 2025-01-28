@@ -626,6 +626,20 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Morphologie des langues"
+            type: "Cours complet"
+            volume: "25h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1096"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Finnois"
+            type: "Cours complet"
+            volume: "25h"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1093"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Gestion des plurilinguismes"
             type: "Cours complet"
             volume: "26h"
