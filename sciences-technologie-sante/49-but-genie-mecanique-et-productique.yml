@@ -205,14 +205,14 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=226"
             licence:
                - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"            
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Fonctions de références"
             type: "Cours complet"
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=227"
             licence:
                - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"          
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Mécanique"
         resources:
           - name: "Abaqus/CAE"
@@ -696,7 +696,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1077"
-            licence:  
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger un cahier de laboratoire"

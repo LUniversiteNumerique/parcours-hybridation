@@ -234,7 +234,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
@@ -714,13 +714,6 @@ years:
             volume: "10h"
             url: "https://uoh.fr/front/noticefr/?uuid=82de813c-b9be-431f-b4f3-80823a92316b"
             licence:
-          - name: "LudoSocio : un jeu sérieux en sociologie"
-            type: "TD, étude de cas"
-            volume: "30h"
-            url: "https://uoh.fr/front/noticefr/?uuid=ead5f19b-4744-4fa1-9652-347411a0d2b9"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Jack Goody et l’empire de la littéracie"
             type: "Cours complet"
             volume: "4h"

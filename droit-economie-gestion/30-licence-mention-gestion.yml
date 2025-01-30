@@ -1,11 +1,11 @@
 id: 30
 name: "Licence mention gestion"
 description: |
- Ce parcours type propre des ressources éducatives libres permettant de dispenser les enseignements fondamentaux de gestion, 
- afin d’offrir aux étudiants les connaissances nécessaires pour comprendre la situation et les décisions de l’entreprise dans son environnement politique, 
+ Ce parcours type propre des ressources éducatives libres permettant de dispenser les enseignements fondamentaux de gestion,
+ afin d’offrir aux étudiants les connaissances nécessaires pour comprendre la situation et les décisions de l’entreprise dans son environnement politique,
  juridique, économique et culturel, et aussi de connaître le fonctionnement des organisations et les outils de leur gestion.
- Les enseignements sont dispensés notamment par des UFR d’Economie-Gestion, dont les enseignements commencent en 1ère année de licence 
- et par des Instituts d’Administration des Entreprises, dont les enseignements peuvent commencer en 1ère année de licence (quelques-uns), 
+ Les enseignements sont dispensés notamment par des UFR d’Economie-Gestion, dont les enseignements commencent en 1ère année de licence
+ et par des Instituts d’Administration des Entreprises, dont les enseignements peuvent commencer en 1ère année de licence (quelques-uns),
  en 2ème année (peu), en 3ème année (beaucoup) ou en 1ère année de Master (très peu).
  La répartition des cours selon les années peut donc varier entre les différentes composantes des différentes universités.
 
@@ -55,7 +55,7 @@ years:
             type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1034"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Contrôle de gestion"
@@ -361,7 +361,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Se relire efficacement"
@@ -531,7 +531,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=870"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"      
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Excel - Premiers pas"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -724,9 +724,9 @@ years:
             type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1006"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"           
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Eléments d’histoire et d’organisation du commerce"
             type: "Module"
             volume: "6h"
@@ -798,12 +798,12 @@ years:
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A10513"
             licence:
       - name: "Entrepreneuriat"
-        resources: 
+        resources:
           - name: "Initiation à l'entrepreneuriat"
             type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1027&section=4"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
@@ -945,9 +945,9 @@ years:
             type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1032"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Séries chronologiques"
             type: "Module"
             volume: "12h"
@@ -1050,8 +1050,8 @@ years:
             volume: "5min"
             url: "http://ressources.aunege.fr/notice/view/oai%253Acanal-u.fr%253A12277"
             licence:
-                - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Qualité et organisation"
             type: "Module"
             volume: "1h"
@@ -1070,7 +1070,7 @@ years:
             type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=979"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le hip-hop manager"
@@ -1170,7 +1170,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"          
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Unlock your english"
             type: "MOOC"
             volume: "15h"

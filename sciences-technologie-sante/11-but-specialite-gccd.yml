@@ -1363,7 +1363,7 @@ years:
             url: "https://public.iutenligne.net/mathematiques/algebre/richard/Exercices/d_prodmat.htm"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"        
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Calcul de l’inverse d’une matrice"
             type: "TP, exercice, quiz"
             volume: "10min"
@@ -1603,7 +1603,7 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"              
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Unlock your english"
             type: "MOOC"
             volume: "15h"

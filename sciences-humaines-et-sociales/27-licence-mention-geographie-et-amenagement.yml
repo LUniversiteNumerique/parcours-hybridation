@@ -26,7 +26,7 @@ years:
             url: "https://ultv.univ-lorraine.fr/mooc-au-dela-des-frontieres-diagnostiquer-les-territoires/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"         
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La géographie du Canada et sa diversité culturelle"
             type: "Cours complet"
             volume: "16h"
@@ -264,7 +264,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
@@ -582,7 +582,7 @@ years:
             url: "https://ultv.univ-lorraine.fr/mooc-au-dela-des-frontieres-diagnostiquer-les-territoires/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Biodiversité et société en région méditerranéenne (EcoMEdit)"
             type: "Module"
             volume: "3h"
@@ -633,7 +633,7 @@ years:
             url: "https://ultv.univ-lorraine.fr/mooc-au-dela-des-frontieres-diagnostiquer-les-territoires/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Analyse de données quantitatives en sciences humaines et sociales"
             type: "MOOC"
             volume: "24h"
@@ -745,7 +745,7 @@ years:
             url: "https://ultv.univ-lorraine.fr/mooc-au-dela-des-frontieres-diagnostiquer-les-territoires/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les enjeux territoriaux de la Côte d’Azur"
             type: "Module"
             volume: "6h"
