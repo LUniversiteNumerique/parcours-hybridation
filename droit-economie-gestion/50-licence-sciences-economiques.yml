@@ -21,7 +21,7 @@ years:
           - name: "Histoire de la pensée économique"
             type: "Cours complet"
             volume: "30h"
-            url: "hhttps://moodle.luniversitenumerique.fr/course/view.php?id=150"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=150"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
