@@ -40,3 +40,19 @@ fields:
 
 2. Créer le fichier `.yml` dans le dossier correspondant en le nommant avec son ID UNIQUE en début de fichier.
    Exemple : `46-nom-du-diplome.yml`
+
+## Github Workflows
+
+This repository performs the `url_scan` workflow on push on the main branch.
+
+It should triggers a repository dispatch to perform the URL scan in another repository.
+
+This requires an active **Personal Access Token (PAT)**.
+
+To create a PAT, go in your Github profile under _Developer settings > Personal access tokens > Fine-grained tokens_ and generate a new token.
+
+Settings : `Only select repositories` (select the target repos)
+
+- Contents: `Read & write`
+- Actions: `Read & write`
+- Webhooks: `Read & write`
