@@ -12,7 +12,7 @@ years:
   - name: NOM DE L'ANNÉE
     ue:
       - name: NOM DE L'UE
-        resources: 
+        resources:
           - name: NOM DE LA RESSOURCE
             type: TYPE DE LA RESSOURCE
             volume: VOLUME DE LA RESSOURCE
@@ -39,5 +39,4 @@ fields:
 ```
 
 2. Créer le fichier `.yml` dans le dossier correspondant en le nommant avec son ID UNIQUE en début de fichier.
-Exemple : `46-nom-du-diplome.yml`
-
+   Exemple : `46-nom-du-diplome.yml`
