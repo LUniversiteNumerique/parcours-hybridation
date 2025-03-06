@@ -1,11 +1,10 @@
-name: "Yamllint"
+name: Yaml lint
 
 on:
   - pull_request
 
 jobs:
   yamllint:
-    name: "Yamllint"
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout"
