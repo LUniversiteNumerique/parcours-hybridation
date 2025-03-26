@@ -404,13 +404,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Chimie Physique"
         resources:
-          - name: "La chimie par le web"
-            type: "Cours complet"
-            volume: "50h"
-            url: "https://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #     - name: "La chimie par le web"
+    #        type: "Cours complet"
+    #        volume: "50h"
+    #        url: "https://ressources.univ-lemans.fr/AccesLibre/UM/Pedago/chimie/01/"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L1: Structure microscopique de la matière"
             type: "Cours complet"
             volume: "50h"
@@ -1421,13 +1421,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "La chimie par le web – Réaction chimique – Thermodynamique (La réaction chimique, thermodynamique chimique, cinétique chimique)"
-            type: "Module"
-            volume: "5h"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/03-Reaction_chimique/co/03-Reaction_chimique_web.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "La chimie par le web – Réaction chimique – Thermodynamique (La réaction chimique, thermodynamique chimique, cinétique chimique)"
+    #        type: "Module"
+    #        volume: "5h"
+    #        url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/03-Reaction_chimique/co/03-Reaction_chimique_web.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Cinétique"
             type: "Module"
             volume: "1h"
