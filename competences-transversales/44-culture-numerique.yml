@@ -264,12 +264,14 @@ years:
           - name: "Les outils d'intelligence artificielle générative pour les étudiant(e)s"
             type: "Cours complet"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1082"
+            volume: "10h"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "IA dans l'enseignement supérieur"
             type: "Cours complet"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1083"
+            volume: "10h"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
