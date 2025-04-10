@@ -261,18 +261,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "2.4. S’insérer dans le monde numérique"
         resources:
-          - name: "Les outils d'intelligence artificielle générative pour les étudiant(e)s"
-            type: "Cours complet"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1082"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "IA dans l'enseignement supérieur"
-            type: "Cours complet"
-            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1083"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "S’insérer dans le monde numérique"
             type: "Grain ou élément de cours"
             volume: "2min"

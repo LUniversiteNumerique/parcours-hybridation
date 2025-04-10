@@ -860,13 +860,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-    #      - name: "Apprendre et enseigner avec une tablette"
-    #        type: "TD, étude de cas"
-    #        volume: "7h30"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=133c9a2c-35eb-4754-acaf-61466ec775a9"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Enseigner le numérique à l’école primaire"
             type: "TD, étude de cas"
             volume: "7h"

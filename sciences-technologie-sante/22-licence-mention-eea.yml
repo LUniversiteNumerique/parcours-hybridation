@@ -702,13 +702,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "La chimie par le web – La chimie en solution"
-            type: "Module"
-            volume: "4h"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/05-60_en_57_web.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "La chimie par le web – La chimie en solution"
+    #        type: "Module"
+    #        volume: "4h"
+    #        url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/05-60_en_57_web.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Chimie en solution aqueuse"
             type: "Module"
             volume: "8h"
@@ -730,20 +730,20 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Exercices relatifs au calcul de pH des solutions aqueuses"
-            type: "TP, exercice, quiz"
-            volume: "1h30"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_16.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Exercices dédiés aux complexes en solution aqueuse"
-            type: "TP, exercice, quiz"
-            volume: "20min"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_23.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "Exercices relatifs au calcul de pH des solutions aqueuses"
+    #        type: "TP, exercice, quiz"
+    #        volume: "1h30"
+    #        url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_16.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+     #     - name: "Exercices dédiés aux complexes en solution aqueuse"
+     #       type: "TP, exercice, quiz"
+     #       volume: "20min"
+     #       url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/05-60-en-57/co/32_05-60_en_57_23.html"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Videochem: bonnes pratiques expérimentales au labo de chimie"
             type: "Grain ou élément de cours"
             volume: "25min"
@@ -1247,13 +1247,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Nomenclature des composés inorganiques"
-            type: "Module"
-            volume: "10min"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/32_01-Atomistique_7.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "Nomenclature des composés inorganiques"
+    #        type: "Module"
+    #        volume: "10min"
+    #        url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/01-Atomistique/co/32_01-Atomistique_7.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Chimie organique"
         resources:
           - name: "Chimie organique L2"
@@ -1351,13 +1351,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Cristallographie"
         resources:
-          - name: "La chimie par le web – Chimie de l’état solide (L’état solide périodique)"
-            type: "Module"
-            volume: "5h"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/06-Etat_solide/co/06-Etat_solide_web.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+  #        - name: "La chimie par le web – Chimie de l’état solide (L’état solide périodique)"
+  #          type: "Module"
+  #          volume: "5h"
+  #          url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/06-Etat_solide/co/06-Etat_solide_web.html"
+  #          licence:
+  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Structure des solides"
             type: "Module"
             volume: "2h"
@@ -1400,13 +1400,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "La chimie par le web – Cristallographie"
-            type: "Grain ou élément de cours"
-            volume: "4h"
-            url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "La chimie par le web – Cristallographie"
+    #        type: "Grain ou élément de cours"
+    #        volume: "4h"
+    #        url: "https://unisciel.org/r/25.9-3070/35/UM/41/15/01/08-Cristallographie/28.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Mécanique des solides"
         resources:
           - name: "Abaqus/CAE"

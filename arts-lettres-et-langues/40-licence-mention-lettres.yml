@@ -605,12 +605,12 @@ years:
             url: "https://www.hadw-bw.de/forschung/forschungsstelle/dictionnaire-etymologique-de-lancien-francais-deaf"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-          - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
-            type: "Grain ou élément de cours"
-            volume: "1h"
-            url: "https://shs.cairn.info/revue-langue-francaise-2004-1-page-56?lang=fr"
-            licence:
-              - name: "Gestion des droits réservée aux éditeurs"
+    #      - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
+    #        type: "Grain ou élément de cours"
+    #        volume: "1h"
+    #        url: "https://shs.cairn.info/revue-langue-francaise-2004-1-page-56?lang=fr"
+    #        licence:
+    #          - name: "Gestion des droits réservée aux éditeurs"
       - name: "Littérature grecque et latine"
         resources:
           - name: "Langue sage, langue folle : sur un mythe contemporain des rapports entre langue latine et langue romane en littérature médiévale / Michel Banniard"
