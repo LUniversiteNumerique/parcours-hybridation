@@ -193,7 +193,7 @@ years:
           - name: "How to write an email in English"
             type: "Grain ou élément de cours"
             volume: "2h"
-            url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/anglais/lombarteix/HowToWriteAnEmail/index.html"
+            url: ""
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

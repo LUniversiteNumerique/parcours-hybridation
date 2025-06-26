@@ -111,6 +111,8 @@ fields:
         name: "Français écrit"
       - id: 43
         name: "Langues étrangères"
+      - id: 52
+        name: "Anglais : Langues étrangères"
       - id: 41
         name: "Méthodologie"
       - id: 45
