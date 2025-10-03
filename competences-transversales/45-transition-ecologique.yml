@@ -205,17 +205,17 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Le microbiote qui nous habite : un écosystème limité mais particulier"
+          - name: " Biodiversité & santé"
             type: "Grain ou élément de cours"
-            volume: "9min"
-            url: "https://www.uved.fr/fiche/ressource/le-microbiote-qui-nous-habite-un-ecosysteme-limite-mais-particulier"
+            volume: "1h"
+            url: "https://www.uved.fr/fiche/ressource/formation-des-enseignants-du-superieur-sur-le-theme-biodiversite-sante"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Changement climatique et maladies infectieuses"
+          - name: "Changement climatique, santé, société : menaces et opportunités"
             type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://www.uved.fr/fiche/ressource/changement-climatique-et-maladies-infectieuses"
+            volume: "1h"
+            url: "https://www.uved.fr/fiche/ressource/changement-climatique-sante-societe-menaces-et-opportunites"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -632,10 +632,10 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Le microbiote qui nous habite : un écosystème limité mais particulier"
+          - name: "Maladies émergentes des arbres : exemples de la graphiose de l'orme et du chancre coloré du platane"
             type: "Grain ou élément de cours"
-            volume: "9min"
-            url: "https://www.uved.fr/fiche/ressource/le-microbiote-qui-nous-habite-un-ecosysteme-limite-mais-particulier"
+            volume: "1h"
+            url: "https://www.uved.fr/fiche/ressource/maladies-emergentes-des-arbres-exemples-de-la-graphiose-de-lorme-et-du-chancre-colore-du-platane"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
