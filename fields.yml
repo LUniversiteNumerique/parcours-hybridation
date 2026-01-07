@@ -113,6 +113,8 @@ fields:
         name: "Langues étrangères"
       - id: 52
         name: "Anglais : Langues étrangères"
+      - id: 53
+        name: "Espagnol : Langues étrangères"
       - id: 41
         name: "Méthodologie"
       - id: 45
