@@ -143,7 +143,7 @@ years:
             url: "https://www.videoele.com/A1-Comunidades-autonomas.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Español para fines académicos / Espagnol académique"
         resources:
           - name: "Voy al instituto / Je vais au lycée"
@@ -1225,7 +1225,6 @@ years:
             url: "https://www.videoele.com/B1-Que-pedido.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "¿Cuánto tiempo llevan? / Depuis combien de temps sont-ils ?"
             type: "Grain ou élément de cours"
