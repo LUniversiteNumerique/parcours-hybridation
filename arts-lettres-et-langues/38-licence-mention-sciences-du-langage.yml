@@ -480,7 +480,7 @@ years:
           - name: "Didacticiel Antconc"
             type: "Cours complet"
             volume: "40h"
-            url: "https://uoh.fr/front/noticefr/?uuid=6e4ddf71-f934-4c37-8ac3-16d1e01f717f"
+            url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1132"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
