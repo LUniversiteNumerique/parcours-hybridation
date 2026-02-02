@@ -304,6 +304,13 @@ years:
     ue:
       - name: "English for Academique  Purposes  (EAP) / Anglais académique"
         resources: 
+          - name:  "MACAO : Modules d'Aide à la Compréhension de l'Anglais Oral"
+            type: "Cours complet"
+            Volume: "10h"
+            url: "https://macao.gricad-pages.univ-grenoble-alpes.fr/macao-hugo/"
+            licence: 
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"            
           - name: "Comparing data from graphs / Comparer des données à partir de graphiques"
             type: "Contenu interactif"
             volume: "30min"
@@ -1371,6 +1378,13 @@ years:
     ue:
       - name: "English for Academique  Purposes  (EAP) / Anglais académique"
         resources: 
+          - name:  "MACAO : Modules d'Aide à la Compréhension de l'Anglais Oral"
+            type: "Cours complet"
+            Volume: "10h"
+            url: "https://macao.gricad-pages.univ-grenoble-alpes.fr/macao-hugo/"
+            licence: 
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
           - name: "Curves: Describing Trends / Courbes : décrire des tendances"
             type: "Contenu interactif"
             volume: "30min"
@@ -2186,6 +2200,13 @@ years:
     ue:
       - name: "English for Academique  Purposes  (EAP) / Anglais académique"
         resources: 
+          - name:  "MACAO : Modules d'Aide à la Compréhension de l'Anglais Oral"
+            type: "Cours complet"
+            Volume: "10h"
+            url: "https://macao.gricad-pages.univ-grenoble-alpes.fr/macao-hugo/"
+            licence: 
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
           - name: "Reading and understanding research papers / Lire et comprendre des articles de recherche"
             type: "Contenu interactif"
             volume: "30min"
@@ -2313,6 +2334,15 @@ years:
                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "C2"
     ue:
+      - name: "English for Academique  Purposes  (EAP) / Anglais académique"
+        resources: 
+          - name:  "MACAO : Modules d'Aide à la Compréhension de l'Anglais Oral"
+            type: "Cours complet"
+            Volume: "10h"
+            url: "https://macao.gricad-pages.univ-grenoble-alpes.fr/macao-hugo/"
+            licence: 
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
       - name: "General  & everday English / Anglais général  &  l’anglais du quotidien"
         resources:
           - name: "Business-Proficient English as a Second Language / Anglais courant en milieu professionnel comme langue seconde  "
