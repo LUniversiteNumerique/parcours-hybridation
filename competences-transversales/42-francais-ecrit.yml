@@ -1164,7 +1164,7 @@ years:
           - name: "Les pronoms personnels du français"
             type: "Cours complet"
             volume: "40min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d2c826df-6d01-4709-be77-92183ddd1bca"
+            url: "https://uoh.fr/ressources/?fiche=d2c826df-6d01-4709-be77-92183ddd1bca"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -1729,7 +1729,7 @@ years:
           - name: "Les pronoms personnels du français"
             type: "Cours complet"
             volume: "40min"
-            url: "https://uoh.fr/front/noticefr/?uuid=d2c826df-6d01-4709-be77-92183ddd1bca"
+            url: "https://uoh.fr/ressources/?fiche=d2c826df-6d01-4709-be77-92183ddd1bca"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"

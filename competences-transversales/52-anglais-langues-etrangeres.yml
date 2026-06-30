@@ -1761,14 +1761,14 @@ years:
           - name: "Petite introduction à l'histoire de la Grande-Bretagne / A short introduction to the history of Great Britain"
             type: "Grain ou élément de cours"
             volume: "45min"
-            url: "https://uoh.fr/front/noticefr/?uuid=01973a44-b8e3-4f52-bd19-89b6f19d1edc"
+            url: "https://uoh.fr/ressources/?fiche=01973a44-b8e3-4f52-bd19-89b6f19d1edc"
             licence:
                - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les minorités ethniques en Grande-Bretagne / Ethnic minorities in Great Britain"
             type: "Grain ou élément de cours"
             volume: "45min"
-            url: "https://uoh.fr/front/noticefr/?uuid=71dbc99f-fbcd-495a-a36f-b30abc6c5929"
+            url: "https://uoh.fr/ressources/?fiche=71dbc99f-fbcd-495a-a36f-b30abc6c5929"
             licence:
                - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

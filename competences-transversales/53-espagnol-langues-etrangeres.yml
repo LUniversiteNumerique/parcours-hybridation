@@ -1487,7 +1487,7 @@ years:
           - name: "Lenguas en actos / Langues en actes"
             type: "Cours complet"
             volume: "1h"
-            url: "https://uoh.fr/front/noticefr/?uuid=ebb0257b-f91d-4bcc-bc57-edc38473b7bb" 
+            url: "https://uoh.fr/ressources/?fiche=ebb0257b-f91d-4bcc-bc57-edc38473b7bb" 
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
