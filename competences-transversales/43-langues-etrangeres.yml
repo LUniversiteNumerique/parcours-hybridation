@@ -40,7 +40,7 @@ years:
           - name: "Certif’langues – allemand"
             type: "TD, étude de cas"
             volume: "5h"
-            url: "https://uoh.fr/front/noticefr/?uuid=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
+            url: "https://uoh.fr/ressources/?fiche=f1325e09-bcb2-4c57-a5a1-3f341dd6545a"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -84,32 +84,32 @@ years:
           - name: "Indicazioni stradali"
             type: "Grain ou élément de cours"
             volume: "17min"
-            url: "https://uoh.fr/front/noticefr/?uuid=ad903618-8c1c-4985-9c5f-58e66cfd7ede"
+            url: "https://uoh.fr/ressources/?fiche=ad903618-8c1c-4985-9c5f-58e66cfd7ede"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Passato Prossimo"
             type: "Grain ou élément de cours"
             volume: "27min"
-            url: "https://uoh.fr/front/noticefr/?uuid=e0503b3b-c303-45c7-9fea-52f9c840c7e2"
+            url: "https://uoh.fr/ressources/?fiche=e0503b3b-c303-45c7-9fea-52f9c840c7e2"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Arabe"
         resources:
-          - name: "Consolidation des acquis en arabe littéral"
-            type: "Cours complet"
-            volume: "70h"
-            url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+     #     - name: "Consolidation des acquis en arabe littéral"
+     #       type: "Cours complet"
+     #       volume: "70h"
+     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Russe"
         resources:
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
-            url: "https://uoh.fr/front/noticefr/?uuid=a7148495-8028-40fd-ae12-60cd25276caf"
+            url: "https://uoh.fr/ressources/?fiche=a7148495-8028-40fd-ae12-60cd25276caf"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -129,10 +129,10 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Certif’langues – français"
+          - name: "Certif’langues – français langue étrangère"
             type: "TD, étude de cas"
             volume: "5h"
-            url: "https://uoh.fr/front/noticefr/?uuid=c1ee309a-49b3-49d9-8229-9ce730be9086"
+            url: "https://uoh.fr/ressources/?fiche=c1ee309a-49b3-49d9-8229-9ce730be9086"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -146,7 +146,7 @@ years:
           - name: "Phonétique corrective pratique et théorique en français langue étrangère"
             type: "Cours complet"
             volume: "30h"
-            url: "https://uoh.fr/front/noticefr/?uuid=c7ca65ed-00db-4d7a-b6c7-6c239466dbf3"
+            url: "https://uoh.fr/ressources/?fiche=c7ca65ed-00db-4d7a-b6c7-6c239466dbf3"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

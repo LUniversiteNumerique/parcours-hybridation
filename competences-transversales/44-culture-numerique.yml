@@ -664,14 +664,14 @@ years:
           - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet"
             volume: "48min"
-            url: "https://uoh.fr/front/noticefr/?uuid=b420191d-f84f-4f35-895a-ea009666ebc8"
+            url: "https://uoh.fr/ressources/?fiche=b420191d-f84f-4f35-895a-ea009666ebc8"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Culture numérique : introduction 2e partie"
             type: "Cours complet"
             volume: "1h"
-            url: "https://uoh.fr/front/noticefr/?uuid=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
+            url: "https://uoh.fr/ressources/?fiche=1e523eeb-ffb4-47c8-96e1-fec6427e746a"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
