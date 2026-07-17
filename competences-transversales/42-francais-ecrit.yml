@@ -833,13 +833,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Mots proches, orthographes différentes - Confusion avec l’anglais"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://microressources.ecriplus.fr/M-OrthoMu3-32/co/module_par_grain_1.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+     #     - name: "Mots proches, orthographes différentes - Confusion avec l’anglais"
+     #       type: "Grain ou élément de cours"
+     #       volume: "10min"
+     #       url: "https://microressources.ecriplus.fr/M-OrthoMu3-32/co/module_par_grain_1.html"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Des E sans genre pour les noms et les adjectifs - Après consonnes"
             type: "Grain ou élément de cours"
             volume: "10min"
@@ -875,13 +875,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Ce qui dans l’orthographe ne s’explique pas - Inconsistance orthographique"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://microressources.ecriplus.fr/M-OrthoMu9-92-93/co/module_par_grain_1.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+    #      - name: "Ce qui dans l’orthographe ne s’explique pas - Inconsistance orthographique"
+    #        type: "Grain ou élément de cours"
+    #        volume: "10min"
+    #        url: "https://microressources.ecriplus.fr/M-OrthoMu9-92-93/co/module_par_grain_1.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Terminaison verbale - E muet en fin d’infinitif"
             type: "Grain ou élément de cours"
             volume: "10min"
@@ -1487,13 +1487,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Les interrogatives indirectes - Des questions sans point d’interrogation et sans inversion du pronom sujet ?"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://microressources.ecriplus.fr/P-Comp0/co/module_par_grain_1.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+     #     - name: "Les interrogatives indirectes - Des questions sans point d’interrogation et sans inversion du pronom sujet ?"
+     #       type: "Grain ou élément de cours"
+     #       volume: "10min"
+     #       url: "https://microressources.ecriplus.fr/P-Comp0/co/module_par_grain_1.html"
+     #       licence:
+     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Les subordonnées à l’infinitif - Répéter le sujet ou mettre le verbe à l'infinitif ?"
             type: "Grain ou élément de cours"
             volume: "10min"

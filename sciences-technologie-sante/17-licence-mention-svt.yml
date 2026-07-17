@@ -68,13 +68,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "La mitose"
-            type: "Grain ou élément de cours"
-            volume: "3h"
-            url: "https://unisciel.org/r/3rnbio.upmc70/bio-cell_mitose_sommaire"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie animale"
         resources:
           - name: "Histologique"
@@ -953,20 +946,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie moléculaire"
         resources:
-          - name: "La PCR"
-            type: "Grain ou élément de cours"
-            volume: "2h"
-            url: "https://unisciel.org/r/3rnbio.upmc70/bio-mol_pcr_sommaire"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "La régulation de l’opéron lactose"
-            type: "Grain ou élément de cours"
-            volume: "5h"
-            url: "https://unisciel.org/r/3rnbio.upmc70/bio-mol_operon-lactose_sommaire"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La technique d’électrophorèse sur gel d’agarose"
             type: "Grain ou élément de cours"
             volume: "8min"
@@ -1138,13 +1117,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Biologie marine"
         resources:
-          - name: "Généralités sur la biologie, la taxinomie et l’ecologie des copépodes"
-            type: "Module"
-            volume: "8h"
-            url: "https://unisciel.org/r/2www.obs-vlfr70/~gaspari/copepodes/28.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biophysique"
         resources:
           - name: "L’imagerie médicale (dossier)"

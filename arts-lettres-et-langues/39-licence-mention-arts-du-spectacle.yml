@@ -61,13 +61,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Introduction à l’esthétique des arts du spectacle"
         resources:
-          - name: "L’art de la mise en scène : essai d’esthétique théâtrale (L. Becq de Fouquières)"
-            type: "Cours complet"
-            volume: "8h"
-            url: "https://gallica.bnf.fr/ark:/12148/bpt6k204285r.pdf"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Introduction à l’analyse des arts du spectacle"
         resources:
           - name: "Les grandes leçons cinématographiques"
@@ -159,13 +152,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-            type: "TP, exercice, quiz"
-            volume: "2h40"
-            url: "https://miel.iutenligne.net/course/view.php?id=239"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
+       #     type: "TP, exercice, quiz"
+       #     volume: "2h40"
+       #     url: "https://miel.iutenligne.net/course/view.php?id=239"
+       #     licence:
+       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz"
             volume: "10min"
@@ -824,13 +817,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-            type: "TP, exercice, quiz"
-            volume: "2h40"
-            url: "https://miel.iutenligne.net/course/view.php?id=239"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
+       #     type: "TP, exercice, quiz"
+       #     volume: "2h40"
+       #     url: "https://miel.iutenligne.net/course/view.php?id=239"
+       #     licence:
+       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz"
             volume: "10min"
@@ -969,13 +962,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-            type: "TP, exercice, quiz"
-            volume: "2h40"
-            url: "https://miel.iutenligne.net/course/view.php?id=239"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+       #   - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
+       #     type: "TP, exercice, quiz"
+       #     volume: "2h40"
+       #     url: "https://miel.iutenligne.net/course/view.php?id=239"
+       #     licence:
+       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz"
             volume: "10min"
