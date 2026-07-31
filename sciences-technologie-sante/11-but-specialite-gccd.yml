@@ -476,7 +476,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-         - name: "PowerPoint 2010"
+          - name: "PowerPoint 2010"
             type: "Cours complet"
             volume: "5h"
             url: "https://www.iutenligne.net/ressources/powerpoint-2010.html"
