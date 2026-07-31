@@ -61,13 +61,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Introduction à l’esthétique des arts du spectacle"
         resources:
-          - name: "L’art de la mise en scène : essai d’esthétique théâtrale (L. Becq de Fouquières)"
-            type: "Cours complet"
-            volume: "8h"
-            url: "https://gallica.bnf.fr/ark:/12148/bpt6k204285r.pdf"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Introduction à l’analyse des arts du spectacle"
         resources:
           - name: "Les grandes leçons cinématographiques"

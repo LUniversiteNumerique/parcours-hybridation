@@ -49,7 +49,7 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Linguistique française et phonétique"
         resources:
-          - name: "Phonétique corrective pratique et théorique en française langue étrangère : la méthode verbo-tonale"
+          - name: "tique corrective pratique et théorique en française langue étrangère : la méthode verbo-tonale"
             type: "Cours complet"
             volume: "30h"
             url: "https://uoh.fr/ressources/?fiche=c7ca65ed-00db-4d7a-b6c7-6c239466dbf3"
@@ -592,18 +592,12 @@ years:
             url: "https://www.axl.cefan.ulaval.ca/francophonie/HIST_FR_s4_Moyen-francais.htm"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-          - name: "Dictionnaire étymologique de l’ancien français"
-            type: "TD, étude de cas"
-            volume: "10h"
-            url: "https://www.hadw-bw.de/forschung/forschungsstelle/dictionnaire-etymologique-de-lancien-francais-deaf"
+          - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://shs.cairn.info/revue-langue-francaise-2004-1-page-56?lang=fr"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-    #      - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
-    #        type: "Grain ou élément de cours"
-    #        volume: "1h"
-    #        url: "https://shs.cairn.info/revue-langue-francaise-2004-1-page-56?lang=fr"
-    #        licence:
-    #          - name: "Gestion des droits réservée aux éditeurs"
       - name: "Littérature grecque et latine"
         resources:
           - name: "Langue sage, langue folle : sur un mythe contemporain des rapports entre langue latine et langue romane en littérature médiévale / Michel Banniard"

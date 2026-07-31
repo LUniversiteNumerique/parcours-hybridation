@@ -69,13 +69,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "La mitose"
-            type: "Grain ou élément de cours"
-            volume: "3h"
-            url: "https://unisciel.org/r/3rnbio.upmc70/bio-cell_mitose_sommaire"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Biologie animale"
         resources:
           - name: "Histologique"

@@ -767,13 +767,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Biodiversité et société en région méditerranéenne"
-            type: "Module"
-            volume: "3h"
-            url: "https://emarinlab.obs-banyuls.fr/plus/index.php/observer-et-comprendre-les-ecosystemes-mediterraneens/21-ecosystemes-mediterraneens-et-developpement-durable"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Le métabolisme des territoires"
             type: "Grain ou élément de cours"
             volume: "15min"

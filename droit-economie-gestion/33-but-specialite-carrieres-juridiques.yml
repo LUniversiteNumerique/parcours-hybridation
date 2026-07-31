@@ -92,7 +92,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Hiérarchisation des normes jruidiques"
+          - name: "Hiérarchisation des normes juridiques"
             type: "Module"
             volume: "1h"
             url: "https://www.iutenligne.net/ressources/module-m412-s1-td2-hierarchisation-des-normes-juridiques.html"
@@ -434,13 +434,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Excel 2007-2010"
-            type: "TP, exercice, quiz"
-            volume: "55min"
-            url: "https://www.iutenligne.net/catalog/thematique/c2i?lrt=evaluation&level=All"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #    - name: "Excel 2007-2010"
+      #      type: "TP, exercice, quiz"
+      #      volume: "55min"
+      #      url: "https://www.iutenligne.net/catalog/thematique/c2i?lrt=evaluation&level=All"
+      #      licence:
+      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PowerPoint 2010"
             type: "Cours complet"
             volume: "5h"
@@ -613,20 +613,20 @@ years:
      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Professionnel Personnalisé"
         resources:
-          - name: "Projet professionnel personnalisé : connaissance de soi"
-            type: "Module"
-            volume: "13h30"
-            url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Projet professionnel personnalisé"
-            type: "Module"
-            volume: "2h"
-            url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+     #     - name: "Projet professionnel personnalisé : connaissance de soi"
+     #       type: "Module"
+     #       volume: "13h30"
+     #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+    #      - name: "Projet professionnel personnalisé"
+    #        type: "Module"
+    #        volume: "2h"
+    #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+    #        licence:
+    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Savoir gérer un projet"
             type: "Module"
             volume: "2h"
@@ -1055,13 +1055,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Gestion de la trésorerie (exercices)"
-            type: "TD, étude de cas"
-            volume: "21h"
-            url: "https://www.iutenligne.net/ressources/module-843-fc-serie-1-gestion-de-la-tresorerie-et-diagnostic-financier-approfondi-travaux"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #    - name: "Gestion de la trésorerie (exercices)"
+      #      type: "TD, étude de cas"
+      #      volume: "21h"
+      #      url: "https://www.iutenligne.net/ressources/module-843-fc-serie-1-gestion-de-la-tresorerie-et-diagnostic-financier-approfondi-travaux"
+      #      licence:
+      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Ressources humaines"
         resources:
           - name: "Encadrement d’équipe"

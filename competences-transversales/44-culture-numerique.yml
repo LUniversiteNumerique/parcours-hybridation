@@ -16,11 +16,11 @@ years:
     ue:
       - name: "1.1. Mener une recherche et une veille d’information"
         resources:
-          - name: "Mener une recherche et une veille d’information"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=27"
-            licence:
+       #   - name: "Mener une recherche et une veille d’information"
+       #     type: "Grain ou élément de cours"
+       #     volume: "2min"
+       #     url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=27"
+       #     licence:
           - name: "L’Internet"
             type: "Module"
             volume: "5min"
@@ -72,18 +72,18 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Gérer des données"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=28"
-            licence:
+   #       - name: "Gérer des données"
+   #         type: "Grain ou élément de cours"
+   #         volume: "2min"
+   #         url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=28"
+   #         licence:
       - name: "1.3. Traiter des données"
         resources:
-          - name: "Traiter des données"
-            type: "Grain ou élément de cours"
-            volume: "3min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=29"
-            licence:
+     #     - name: "Traiter des données"
+     #       type: "Grain ou élément de cours"
+     #       volume: "3min"
+     #       url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=29"
+     #       licence:
           - name: "L’interopérabilité"
             type: "Module"
             volume: "4min"
@@ -114,11 +114,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "2.1. Interagir"
         resources:
-          - name: "Interagir"
-            type: "Grain ou élément de cours"
-            volume: "1min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=23"
-            licence:
+     #     - name: "Interagir"
+     #       type: "Grain ou élément de cours"
+     #       volume: "1min"
+     #       url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=23"
+     #       licence:
           - name: "L’interopérabilité"
             type: "Module"
             volume: "4min"
@@ -142,11 +142,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "2.2. Partager et publier"
         resources:
-          - name: "Partager et publier"
-            type: "Grain ou élément de cours"
-            volume: "3min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=24"
-            licence:
+      #    - name: "Partager et publier"
+      #      type: "Grain ou élément de cours"
+      #      volume: "3min"
+      #      url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=24"
+      #      licence:
           - name: "Le courriel"
             type: "Module"
             volume: "10min"
@@ -212,11 +212,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "2.3. Collaborer"
         resources:
-          - name: "Collaborer"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=84"
-            licence:
+    #      - name: "Collaborer"
+    #        type: "Grain ou élément de cours"
+    #        volume: "2min"
+    #        url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=84"
+    #        licence:
           - name: "Le droit applicable au courriel"
             type: "Module"
             volume: "2min"
@@ -261,11 +261,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "2.4. S’insérer dans le monde numérique"
         resources:
-          - name: "S’insérer dans le monde numérique"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=85"
-            licence:
+     #     - name: "S’insérer dans le monde numérique"
+     #       type: "Grain ou élément de cours"
+     #       volume: "2min"
+     #       url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=85"
+     #       licence:
           - name: "L’économie des biens immatériels"
             type: "Module"
             volume: "12min"
@@ -329,11 +329,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "3.1. Développer des documents textuels"
         resources:
-          - name: "Développer des documents textuels"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=86"
-            licence:
+     #     - name: "Développer des documents textuels"
+     #       type: "Grain ou élément de cours"
+     #       volume: "2min"
+     #       url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=86"
+     #       licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Module"
             volume: "4min"
@@ -385,11 +385,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "3.2. Développer des documents multimédia"
         resources:
-          - name: "Développer des documents multimédias"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=87"
-            licence:
+   #       - name: "Développer des documents multimédias"
+   #         type: "Grain ou élément de cours"
+    #        volume: "2min"
+    #        url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=87"
+    #        licence:
           - name: "Retouche et manipulation d'images avec Gimp"
             type: "TP, exercice, quiz"
             volume: "2h"
@@ -490,11 +490,11 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
       - name: "3.3. Adapter les documents à leur finalité"
         resources:
-          - name: "Adapter les documents à leur finalité"
-            type: "Grain ou élément de cours"
-            volume: "2min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=88"
-            licence:
+     #     - name: "Adapter les documents à leur finalité"
+     #       type: "Grain ou élément de cours"
+     #       volume: "2min"
+     #       url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=88"
+     #       licence:
           - name: "Les licences"
             type: "Grain ou élément de cours"
             volume: "3min"
@@ -541,11 +541,11 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Sécuriser l’environnement numérique"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=90"
-            licence:
+      #    - name: "Sécuriser l’environnement numérique"
+      #      type: "Grain ou élément de cours"
+      #      volume: "30min"
+      #      url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=90"
+      #      licence:
           - name: "Le droit du numérique et la Netiquette"
             type: "Module"
             volume: "4min"
@@ -600,11 +600,11 @@ years:
             volume: "4min"
             url: "https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=4738"
             licence:
-          - name: "Protéger les données personnelles et la vie privée"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=91"
-            licence:
+  #        - name: "Protéger les données personnelles et la vie privée"
+  #          type: "Grain ou élément de cours"
+  #          volume: "30min"
+  #          url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=91"
+  #          licence:
           - name: "Protection de la vie privée"
             type: "MOOC"
             volume: "10h"
@@ -628,18 +628,18 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "4.3. Protéger la santé, le bien-être et l’environnement"
         resources:
-          - name: "Protéger la santé, le bien-être et l’environnement"
-            type: "Grain ou élément de cours"
-            volume: "20min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=92"
-            licence:
+   #       - name: "Protéger la santé, le bien-être et l’environnement"
+   #         type: "Grain ou élément de cours"
+   #         volume: "20min"
+   #         url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=92"
+   #         licence:
       - name: "5.1. Résoudre des problèmes techniques"
         resources:
-          - name: "Résoudre des problèmes techniques"
-            type: "Grain ou élément de cours"
-            volume: "10min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=93"
-            licence:
+   #       - name: "Résoudre des problèmes techniques"
+   #         type: "Grain ou élément de cours"
+   #         volume: "10min"
+   #         url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=93"
+   #         licence:
       - name: "5.2. Construire un environnement numérique"
         resources:
           - name: "Les révolutions de la connaissance"
@@ -656,11 +656,11 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Construire un environnement numérique"
-            type: "Grain ou élément de cours"
-            volume: "20min"
-            url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=94"
-            licence:
+     #     - name: "Construire un environnement numérique"
+     #       type: "Grain ou élément de cours"
+     #       volume: "20min"
+     #       url: "https://competences-num.univ-lyon3.fr/course/index.php?categoryid=94"
+     #       licence:
           - name: "Culture numérique : introduction 1ère partie"
             type: "Cours complet"
             volume: "48min"
