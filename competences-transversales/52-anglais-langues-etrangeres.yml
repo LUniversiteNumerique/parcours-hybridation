@@ -40,13 +40,13 @@ years:
             licence:
                - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "English Pronunciation / Prononciation en anglais"
-     #       type: "TP, exercice, quiz"
-     #       volume: "1h20"
-     #       url: "https://miel.iutenligne.net/course/view.php?id=239"
-     #       licence:
-     #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "English Pronunciation / Prononciation en anglais"
+            type: "TP, exercice, quiz"
+            volume: "1h20"
+            url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Elementary English as a Second Language / Anglais élémentaire comme seconde langue"
             type: "Cours complet"
             volume: "1h20"

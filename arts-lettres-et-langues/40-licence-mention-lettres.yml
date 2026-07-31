@@ -174,13 +174,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-       #     type: "TP, exercice, quiz"
-       #     volume: "2h40"
-       #     url: "https://miel.iutenligne.net/course/view.php?id=239"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
+            type: "TP, exercice, quiz"
+            volume: "2h40"
+            url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz"
             volume: "10min"
@@ -592,12 +592,12 @@ years:
             url: "https://www.axl.cefan.ulaval.ca/francophonie/HIST_FR_s4_Moyen-francais.htm"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-    #      - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
-    #        type: "Grain ou élément de cours"
-    #        volume: "1h"
-    #        url: "https://shs.cairn.info/revue-langue-francaise-2004-1-page-56?lang=fr"
-    #        licence:
-    #          - name: "Gestion des droits réservée aux éditeurs"
+          - name: "De l’ancien français au français moderne : l’évolution vers un type « à part » à l’époque du moyen français"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://shs.cairn.info/revue-langue-francaise-2004-1-page-56?lang=fr"
+            licence:
+              - name: "Gestion des droits réservée aux éditeurs"
       - name: "Littérature grecque et latine"
         resources:
           - name: "Langue sage, langue folle : sur un mythe contemporain des rapports entre langue latine et langue romane en littérature médiévale / Michel Banniard"
@@ -749,13 +749,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
-       #     type: "TP, exercice, quiz"
-       #     volume: "2h40"
-       #     url: "https://miel.iutenligne.net/course/view.php?id=239"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Anglais Grammaire – Verbes suivis de prépositions en anglais"
+            type: "TP, exercice, quiz"
+            volume: "2h40"
+            url: "https://miel.iutenligne.net/course/view.php?id=239"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Anglais – Prononciation"
             type: "TP, exercice, quiz"
             volume: "10min"
