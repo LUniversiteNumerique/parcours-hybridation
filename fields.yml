@@ -119,6 +119,8 @@ fields:
         name: "Méthodologie"
       - id: 45
         name: "Transition écologique"
+      - id: 54
+        name: "Intelligence artificielle"
 
   #- name: "Remise à niveau"
    # diplomas:

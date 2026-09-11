@@ -4,7 +4,7 @@ description: |
   Les ressources suivantes sont utilisées dans le cadre d’enseignements ou en auto-formation pour sensibiliser
   et former les étudiants à <strong>la méthodologie du travail universitaire</strong>.
 years:
-  - name: "Voir le parcours"
+  - name: "Connaissance de soi et méthodologie générale"
     ue:
       - name: "Orientation et connaissance de soi"
         resources:
@@ -35,8 +35,7 @@ years:
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=864"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"               
       - name: "Méthodologie générale du travail universitaire"
         resources:
           - name: "Méthodologie de travail universitaire pour futur étudiant"
@@ -80,6 +79,8 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
+  - name: "Recherche et traitement de l'information"
+    ue:
       - name: "Recherche documentaire et gestion de l'information"
         resources:
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
@@ -180,7 +181,6 @@ years:
 #            licence:
 #              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
 #                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-
       - name: "Lecture, prise de notes et synthèse"
         resources:
           - name: "Prendre des notes"
@@ -233,6 +233,8 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
+  - name: "Expression écrite et orale"
+    ue:
       - name: "Rédaction et expression écrite"
         resources:
           - name: "Les bonnes pratiques de rédaction à l'Université. De l'art de rédiger un travail académique"
@@ -284,7 +286,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-
       - name: "Expression orale et communication"
         resources:
           - name: "Les méthodes pour améliorer son expression orale. De l'art de séduire son auditoire"
@@ -316,6 +317,8 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
 
+  - name: "Organisation et réussite aux examens"
+    ue:
       - name: "Organisation, gestion du temps et travail de groupe"
         resources:
           - name: "La gestion du temps"
@@ -346,7 +349,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-
       - name: "Préparation et passage des examens"
         resources:
           - name: "Préparer et passer ses examens"
@@ -402,6 +404,8 @@ years:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
 
+  - name: "Ressources pour les enseignants"
+    ue:
       - name: "Ressources pour les enseignants"
         resources:
           - name: "L'apéro des profs Présentation"

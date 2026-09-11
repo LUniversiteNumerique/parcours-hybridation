@@ -1,0 +1,156 @@
+id: 54
+name: "Intelligence artificielle"
+description: | 
+  Ce parcours propose une sélection de ressources destinées à développer les connaissances et les compétences en intelligence artificielle, que ce soit dans le cadre d’enseignements, de formations ou en auto-formation.
+  Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
+
+years:
+  - name: "Comprendre l'IA"
+    ue:
+      - name: "Connaître l'histoire de l'IA"
+        resources:
+          - name: "Introduction à l'histoire de l'IA"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/introduction-a-lia-histoire-et-personnalites-influentes/view/e50aed66-2282-4477-b484-4886d88b5325"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Connaître le fonctionnement, les types d'IA"
+        resources:
+          - name: "Initiation aux algorithmes"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/initiation-aux-algorithmes/view/7d8549d2-0935-460f-8bb9-25412b8df7c6"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Connaître les enjeux (environnementaux, éthiques, sociétaux…)"
+        resources:
+          - name: "Introduction à l'éthique de l'IA"
+            type: "microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/introduction-a-lethique-de-lia-principes-et-enjeux/view/f1ed9c00-cd9a-4941-b843-c1bcf732907a"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "L'empreinte carbone de l'IA"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/lempreinte-carbone-de-lia/view/56a2dcfe-9d7b-4485-b4b1-64fd121c8140"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "IA et sobriété numérique"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/ia-et-sobriete-numerique-comment-reduire-notre-empreinte-/view/c288fcb2-2d74-4040-9567-210e76618c06"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Concevoir des systèmes d'IA robustes et justes"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/concevoir-des-systemes-dia-robustes-et-justes/detail/e97dd728-a5e4-480b-addc-78c71e65393b"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Ethique des modèles d'IA : mise en situation"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/ethique-des-modeles-dia-mise-en-situation/view/44bc22d4-d435-4e3d-a231-9a5bc155cba7"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+
+  - name: "Utiliser l'IA"
+    ue:
+      - name: "Prendre en main les outils"
+        resources:
+          - name: "L'art du prompting"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/lart-du-prompting/detail/7ef9b7cd-0792-4bc8-bbbc-ed67c42dbfe9"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "L'art du prompting : 3 techniques pour bien débuter"
+            type: "Microlearning"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/lart-du-prompting-3-techniques-pour-bien-debuter/detail/0e5bfd61-a48f-4b0a-aa0e-39a2fb993deb"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Concevoir avec l'IA générative"
+        resources:
+      - name: "Utiliser l'IA agentique"
+        resources:
+
+  - name: "Enseigner avec l'IA"
+    ue:
+      - name: "Apprendre à l'ère de l'IA"
+        resources:
+      - name: "Evaluer à l'ère de l'IA"
+        resources:
+      - name: "Accéder à des kits pédagogiques d'accompagnement"
+        resources:
+      - name: "Bâtir des ressources pédagogiques"
+        resources:
+
+  - name: "Enseigner l'IA"
+    ue:
+      - name: "Sensibilisation à l'IA"
+        resources:
+          - name: "Démystifier l'IA auprès de nos aînés"
+            type: "Présentation"
+            volume: "1h"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/6ff2009ddaf5418aa88ac038baeadaacc7530a1282aee6ea12534f1504642589"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Démystifier l'IA auprès de nos aînés"
+            type: "Document"
+            volume: "1h"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/3372ca0364e201bab434ebcf1e4a6f1fa35c83b88ba07b336b1dcfd460fc94b8"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Démystifier l'IA auprès de nos aînés"
+            type: "PDF"
+            volume: "1h"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/804d13029197a210e217171d331724cb962c489b798a6304ca06ed8625070b77"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Les métiers de l'IA : data scientist"
+            type: "Audio"
+            volume: "1min35"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/4a6166dc40fd4bedb39edbdc07c6cfecfed335307b725f1e44693619867be7ed"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Les métiers de l'IA : data architect"
+            type: "Audio"
+            volume: "1min36"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/14218a13a2c89b850e6b870023c280c5b03732ab11c6df8e9760047c861b80a8"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Les métiers de l'IA : chercheur IA"
+            type: "Audio"
+            volume: "1min44"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/f12e39746077a128559b7ed3392dbc4dde76b4530a53767125a1d064deec0a92"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Les métiers de l'IA : ingénieur IA"
+            type: "Audio"
+            volume: "1min33"
+            url: "https://univ-toulouse.wimi.pro/shared/#/file/f12e39746077a128559b7ed3392dbc4dde76b4530a53767125a1d064deec0a92"
+            licence:
+               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "IA Cœur"
+        resources:
+      - name: "IA et disciplines"
+        resources:

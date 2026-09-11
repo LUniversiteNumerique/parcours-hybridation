@@ -1657,7 +1657,7 @@ years:
           - name: "Annoncer les différentes parties d’une réflexion - Quels connecteurs utiliser pour une introduction ?"
             type: "Grain ou élément de cours"
             volume: "1h"
-            url: "https://microressources.ecriplus.fr/T-Str2/co/module_par_grain_1.html"
+            url: "https://microressources.ecriplus.fr/T-Str2-2_3/co/module_par_grain.html"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
