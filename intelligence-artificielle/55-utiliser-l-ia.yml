@@ -13,6 +13,13 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lart-du-prompting/detail/7ef9b7cd-0792-4bc8-bbbc-ed67c42dbfe9"
+            creationdate: "01/03/2025"
+            info: >
+              À l'ère où l'intelligence artificielle est intégrée dans de nombreux domaines, 
+              de la recherche d'information à la création de contenu, 
+              il devient essentiel de maîtriser le prompting, c'est à dire, 
+              l'art de formuler des instructions (prompts) pour interagir efficacement 
+              avec une intelligence artificielle générative.   
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -20,6 +27,12 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lart-du-prompting-3-techniques-pour-bien-debuter/detail/0e5bfd61-a48f-4b0a-aa0e-39a2fb993deb"
+            creationdate: "01/05/2025"
+            info: >
+             Apprenez à formuler des prompts clairs et structurés pour mieux interagir 
+             avec une IA générative textuelle. Cette formation vous initie à trois méthodes 
+             de base pour utiliser l’intelligence artificielle générative comme outil d’appui à la réflexion, 
+             à l’apprentissage et à l’organisation de vos études.            
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -27,6 +40,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/apprendre-a-prompter-les-bases/view/e45cb407-9d0b-4088-b687-c8c83d01bcdc#nugget_top"
+            creationdate: "09/12/2025"
+            info: > 
+             Notions essentielles pour structurer un prompt clair et maîtriser 
+             les paramètres de base des réponses générées.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -34,6 +51,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/ia-et-strategie-de-recherche-informationnelle/view/c05fcd94-5045-4923-a8a5-54af80baab89#nugget_top"
+            creationdate: "09/04/2026"
+            info: > 
+             Méthodes pour utiliser l'IA comme levier de veille et de 
+             synthèse documentaire critique sans biaiser les sources.        
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -41,6 +62,14 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://cloud.univ-grenoble-alpes.fr/s/FEEYLMQ6ekSgRz2"
+            creationdate: "01/05/2025"
+            info: >
+             Ce support de présentation de formation présente l’usage des IA génératives (IAG) 
+             dans l’enseignement et l’apprentissage. Destiné aux enseignants, 
+             Il explique leur fonctionnement à travers la génération probabiliste, 
+             la vectorisation et les corpus d’apprentissage. 
+             Il montre comment améliorer ses demandes grâce à un prompt précis, 
+             contextualisé et structuré. Il présente plusieurs techniques avancées de prompting.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -53,6 +82,12 @@ years:
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/tuto-IA-QCM.html"
+            creationdate: "15/08/2026"
+            info: > 
+             Ce tutoriel explique pas à pas comment construire une requête (prompt) 
+             pour faire générer un résultat approprié à un Système de génération 
+             automatique de textes. L’exemple donné est de faire générer un item de 
+             questionnaire à choix multiple.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -60,6 +95,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/apprendre-a-prompter-techniques-avancees/view/e56d7f98-9aec-4b54-8971-455284cc0346#nugget_top"
+            creationdate: "09/12/2025"
+            info: > 
+             Stratégies complexes d'incitation (chaînes de pensée, rôle, contraintes multiples) 
+             pour optimiser les tâches expertes.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
