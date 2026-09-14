@@ -118,3 +118,5 @@ fields:
         name: "Comprendre l'IA"
       - id: 55
         name: "Utiliser l'IA"
+      - id: 56
+        name: "Enseigner avec l'IA"
