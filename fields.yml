@@ -50,9 +50,6 @@ fields:
       - id: 4
         name: "Licence mention Sciences pour l’ingénieur"
 
-
-
-
   - name: "Sciences Humaines et Sociales"
     diplomas:
       - id: 27
@@ -85,9 +82,6 @@ fields:
       - id: 50
         name: "Licence mention Sciences économiques"
 
-
-
-
   - name: "Arts, Lettres et Langues"
     diplomas:
       - id: 37
@@ -100,8 +94,6 @@ fields:
         name: "Licence mention Lettres"
       - id: 38
         name: "Licence mention Sciences du langage"
-
-
 
   - name: "Compétences transversales"
     diplomas:
@@ -119,14 +111,14 @@ fields:
         name: "Méthodologie"
       - id: 45
         name: "Transition écologique"
-      - id: 54
-        name: "Intelligence artificielle"
 
-  #- name: "Remise à niveau"
-   # diplomas:
-     # - id: 46
-      #  name: "Chimie"
-     # - id: 47
-      #  name: "Mathématiques"
-     # - id: 48
-      #  name: "Physique"
+  - name: "Intelligence artificielle"
+    diplomas:
+      - id: 54
+        name: "Comprendre l'IA"
+      - id: 55
+        name: "Utiliser l'IA"
+      - id: 56
+        name: "Enseigner avec l'IA"
+      - id: 57
+        name: "Enseigner l'IA"

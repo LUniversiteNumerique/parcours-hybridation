@@ -1,0 +1,136 @@
+id: 56
+name: "Enseigner avec l'IA"
+description: |
+  Ce parcours propose une sélection de ressources destinées à développer les connaissances et les compétences en intelligence artificielle, que ce soit dans le cadre d’enseignements, de formations ou en auto-formation.
+  Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
+
+years:
+  - name: "Apprendre à l'ère de l'IA"
+    ue:
+      - name: "Apprendre à l'ère de l'IA"
+        resources:
+          - name: "L'IA, partenaire d'apprentissage : optimiser sans remplacer"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/lia-partenaire-dapprentissage-optimiser-sans-remplacer/view/546fc60c-eff8-447b-bc17-2f59132c33cb#nugget_top"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Systèmes d’intelligence artificielle générative à l’université"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-univ.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Usages pédagogiques de systèmes d’intelligence artificielle générative à l’université"
+            type: "Grain ou élément de cours"
+            volume: "10min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-peda.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "IA générative et ingénierie pédagogique"
+            type: "Grain ou élément de cours"
+            volume: "10min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-id.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Les effets des systèmes d’intelligence artificielle générative sur l’apprentissage"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-apprentissage.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Assistance à l’écriture de dissertations ou de mémoires académiques"
+            type: "Grain ou élément de cours"
+            volume: "16min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-memoires.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+
+  - name: "Evaluer à l'ère de l'IA"
+    ue:
+      - name: "Evaluer à l'ère de l'IA"
+        resources:
+          - name: "Repenser l’évaluation à l’époque de l’IA générative"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-eval.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "La détection de l’usage des systèmes d’IA générative"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-detect.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Travail académique sous stéroïdes"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-steroides.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Écrire des questions d’examen à l’épreuve de la tricherie"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/exam-google.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+
+  - name: "Evaluer à l'ère de l'IA"
+    ue:
+      - name: "Evaluer à l'ère de l'IA"
+        resources:
+          - name: "Repenser l’évaluation à l’époque de l’IA générative"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-eval.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "La détection de l’usage des systèmes d’IA générative"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-detect.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Travail académique sous stéroïdes"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-steroides.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Écrire des questions d’examen à l’épreuve de la tricherie"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/exam-google.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+
+  - name: "Accéder à des kits pédagogiques d'accompagnement"
+    ue:
+      - name: "Accéder à des kits pédagogiques d'accompagnement"
+        resources:
+
+  - name: "Bâtir des ressources pédagogiques"
+    ue:
+      - name: "Bâtir des ressources pédagogiques"
+        resources:
+          - name: "Restructurer les enseignements à l’époque de l’IA générative"
+            type: "Grain ou élément de cours"
+            volume: "7min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-restruct-ens.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

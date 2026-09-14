@@ -1,0 +1,70 @@
+id: 55
+name: "Utiliser l'IA"
+description: |
+  Ce parcours propose une sélection de ressources destinées à développer les connaissances et les compétences en intelligence artificielle, que ce soit dans le cadre d’enseignements, de formations ou en auto-formation.
+  Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
+
+years:
+  - name: "Prendre en main les outils"
+    ue:
+      - name: "Prendre en main les outils"
+        resources:
+          - name: "L'art du prompting"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/lart-du-prompting/detail/7ef9b7cd-0792-4bc8-bbbc-ed67c42dbfe9"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "L'art du prompting : 3 techniques pour bien débuter"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/lart-du-prompting-3-techniques-pour-bien-debuter/detail/0e5bfd61-a48f-4b0a-aa0e-39a2fb993deb"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Apprendre à prompter : les bases"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/apprendre-a-prompter-les-bases/view/e45cb407-9d0b-4088-b687-c8c83d01bcdc#nugget_top"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "IA et stratégie de recherche informationnelle"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/ia-et-strategie-de-recherche-informationnelle/view/c05fcd94-5045-4923-a8a5-54af80baab89#nugget_top"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Usage des chabot, comprendre, formuler, expérimenter"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://cloud.univ-grenoble-alpes.fr/s/FEEYLMQ6ekSgRz2"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+
+  - name: "Concevoir avec l'IA générative"
+    ue:
+      - name: "Concevoir avec l'IA générative"
+        resources:
+          - name: "Tutoriel - Faire générer un item de QCM par un système d’IA générative textuel"
+            type: "Grain ou élément de cours"
+            volume: "5min"
+            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/tuto-IA-QCM.html"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Apprendre à prompter : techniques avancées"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/apprendre-a-prompter-techniques-avancees/view/e56d7f98-9aec-4b54-8971-455284cc0346#nugget_top"
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+
+  - name: "Utiliser l'IA agentique"
+    ue:
+      - name: "Utiliser l'IA agentique"
+        resources:
