@@ -1,0 +1,30 @@
+id: 54
+name: "Comprendre l'IA"
+description: |
+  Ce parcours propose une sélection de ressources destinées à développer les connaissances et les compétences en intelligence artificielle, que ce soit dans le cadre d’enseignements, de formations ou en auto-formation.
+  Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
+
+years:
+  - name: "Connaître l'histoire de l'IA"
+    resources:
+      - name: "Introduction à l'histoire de l'IA"
+        type: "Grain ou élément de cours"
+        volume: "30min"
+        url: "https://microlearning.aniti.fr/nugget/introduction-a-lia-histoire-et-personnalites-influentes/view/e50aed66-2282-4477-b484-4886d88b5325"
+        licence:
+          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "L'histoire de l'IA"
+        type: "Grain ou élément de cours"
+        volume: "30min"
+        url: "https://microlearning.aniti.fr/nugget/histoire-de-lia/view/8e540843-e5b5-4a07-a7fd-77c34a206e38#nugget_top"
+        licence:
+          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      - name: "Les femmes dans l'histoire de l'IA"
+        type: "Grain ou élément de cours"
+        volume: "30min"
+        url: "https://microlearning.aniti.fr/nugget/les-femmes-dans-lhistoire-de-linformatique-et-de-lia/view/44d1996e-3c45-4ab4-a75f-b417444c0e09#nugget_top"
+        licence:
+          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
