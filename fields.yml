@@ -116,3 +116,5 @@ fields:
     diplomas:
       - id: 54
         name: "Comprendre l'IA"
+      - id: 55
+        name: "Utiliser l'IA"
