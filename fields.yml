@@ -114,3 +114,5 @@ fields:
 
   - name: "Intelligence artificielle"
     diplomas:
+      - id: 54
+        name: "Comprendre l'IA"
