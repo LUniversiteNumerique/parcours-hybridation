@@ -1,5 +1,5 @@
 id: 57
-name: "Enseigner l'IA"
+name: "Sensibiliser à l'IA"
 description: |
   Ce parcours propose une sélection de ressources destinées à développer les connaissances et les compétences en intelligence artificielle, que ce soit dans le cadre d’enseignements, de formations ou en auto-formation.
   Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
@@ -13,6 +13,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/6ff2009ddaf5418aa88ac038baeadaacc7530a1282aee6ea12534f1504642589"
+            creationdate: "01/01/2026"
+            info: > 
+             Support pour l'animation d'atelier de sensibilisation à l'IA auprès de personnes âgées            
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -20,6 +23,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/3372ca0364e201bab434ebcf1e4a6f1fa35c83b88ba07b336b1dcfd460fc94b8"
+            creationdate: "01/01/2026"
+            info: > 
+             Kit pédagogique pour l'animation d'atelier de sensibilisation à l'IA auprès de personnes âgées - Guide de l'animateur          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -27,6 +33,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/804d13029197a210e217171d331724cb962c489b798a6304ca06ed8625070b77"
+            creationdate: "01/01/2026"
+            info: > 
+             Fiche mémo participant          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -34,6 +43,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1min35"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/4a6166dc40fd4bedb39edbdc07c6cfecfed335307b725f1e44693619867be7ed"
+            creationdate: "01/12/2024"
+            info: > 
+             Vidéo de présentation du métier de Data scientist à destination d'un public scolaire         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -41,6 +53,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1min36"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/14218a13a2c89b850e6b870023c280c5b03732ab11c6df8e9760047c861b80a8"
+            creationdate: "01/12/2024"
+            info: > 
+             Vidéo de présentation du métier de Data architect à destination d'un public scolaire         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -48,6 +63,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1min44"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/f12e39746077a128559b7ed3392dbc4dde76b4530a53767125a1d064deec0a92"
+            creationdate: "01/12/2024"
+            info: > 
+             Vidéo de présentation du métier de Chercheur en IA à destination d'un public scolaire        
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -55,6 +73,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1min33"
             url: "https://univ-toulouse.wimi.pro/shared/#/file/f12e39746077a128559b7ed3392dbc4dde76b4530a53767125a1d064deec0a92"
+            creationdate: "01/12/2024"
+            info: > 
+             Vidéo de présentation du métier d'Ingénieur IA à destination d'un public scolaire          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -62,6 +83,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://exploreur.univ-toulouse.fr/intelligence-artificielle-lerreur-est-elle-humaine"
+            creationdate: "01/07/2022"
+            info: > 
+             Article sur les biais           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -69,6 +93,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://exploreur.univ-toulouse.fr/sites/default/files/2022-07/Livret-pedagogique-ACS-IA_07.2022.pdf"
+            creationdate: "01/05/2022"
+            info: > 
+             Livret pédagogique pour les enseignants de lycée          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -76,6 +103,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://exploreur.univ-toulouse.fr/resultats-de-recherche?search_api_fulltext=intelligence+artificielle"
+            creationdate: "01/05/2019"
+            info: > 
+             91 articles de tous champs disciplinaires ressortent de la recherche avec le mot clé "intelligence artificielle"          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -83,6 +113,9 @@ years:
             type: "Cours complet"
             volume: "1h30"
             url: "https://www.instantscience.fr/offre/escape-game-face-a-lia-kit-danimation/"
+            creationdate: ""
+            info: > 
+             Escape game clé en main sur le thème de l’intelligence artificielle, pour les bibliothèques           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -90,6 +123,14 @@ years:
             type: "Cours complet"
             volume: "2h"
             url: "https://fidle.cnrs.fr/w3/proces_atelier.html"
+            creationdate: "01/01/2026"
+            info: > 
+             Jeu de rôle participatif de FIDLE, développé à partir de la conférence théâtralisée « Procès de l'IA ». 
+             Les participant.e.s incarnent les rôles du procès (procureur·e, avocat·e, juge, jury) et débattent des impacts, 
+             enjeux et bénéfices de l'IA autour de thèmes comme l'environnement, les biais, l'emploi, la vie privée et la créativité. 
+             Le groupe rend collectivement un verdict à l'issue du débat. Accessible à tout public sans prérequis en IA, 
+             l'atelier favorise la prise de parole et la pensée critique. Un kit complet (rôles, fiches, guide d'animation) est téléchargeable, 
+             et une formation d'animateur·rice est proposée par FIDLE.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -97,6 +138,11 @@ years:
             type: "Grain ou élément de cours"
             volume: "45min"
             url: "https://kiwi.cmla.ens-cachan.fr/index.php/s/AoA4ay2YTyYQ6xB"
+            creationdate: "01/02/2026"
+            info: > 
+             Après une introduction sur la thématique de l’IA (enjeux, potentiel, risques, impacts et limites), 
+             cette conférence proposera une réflexion sur l’usage de l’IA dans les sciences actuelles et futures, 
+             et donc pour la formation des futures générations de scientifiques.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -104,6 +150,12 @@ years:
             type: "Cours complet"
             volume: "3h"
             url: "https://cloud.univ-grenoble-alpes.fr/s/SYisRZPmNm7CfS6"
+            creationdate: "01/05/2023"
+            info: > 
+             Ce support de présentation de formation est une introduction aux IA dans le contexte spécifique de l'enseignement supérieur 
+             et de l’université. Destiné aux enseignants, il définit d'abord ce qu'est une IA, expose ensuite les biais 
+             et limites de ces technologies et enfin il explore les dilemmes pédagogiques : potentiel d'individualisation des parcours, 
+             mais aussi risques accrus de tricherie et difficultés de détection.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -111,6 +163,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/quest-ce-que-lia-/view/83e780ae-551f-4f0a-a090-09cbb6b1ed45#nugget_top"
+            creationdate: "09/04/2026"
+            info: > 
+             Définition synthétique des technologies englobées sous le terme d'intelligence artificielle et clarification des mythes courants.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -118,6 +173,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lessentiel-de-lia/view/0ba2cfdf-fdcd-46f0-b932-2f76738e1913#nugget_top"
+            creationdate: "28/06/2026"
+            info: > 
+             Résumé condensé des notions clés pour comprendre le fonctionnement global et les limites des technologies actuelles.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -125,6 +183,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/the-fundamentals-of-ai/view/080b6e0e-f2ef-4caf-8794-8d4fd2a088c3#nugget_top"
+            creationdate: "23/04/2026"
+            info: > 
+             Concepts clés, vocabulaire de base et distinctions essentielles entre apprentissage automatique et systèmes experts.         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -132,6 +193,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/initiation-aux-algorithmes/view/7d8549d2-0935-460f-8bb9-25412b8df7c6#nugget_top"
+            creationdate: "31/08/2026"
+            info: > 
+             Concepts fondamentaux de l'algorithmique (instructions, boucles, conditions) sans prérequis technique.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -139,6 +203,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://microlearning.aniti.fr/nugget/generative-ai-definition-and-training/view/94a8c892-168b-4407-9340-6ca402343eb1#nugget_top"
+            creationdate: "18/12/2025"
+            info: > 
+             Explication des mécanismes de base de l'IA générative et du pipeline d'entraînement des modèles de fondation.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -146,6 +213,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/anatomie-dune-ia-generative/view/db169e9b-da28-4b69-9730-c49b6a2c3642#nugget_top"
+            creationdate: "09/04/2026"
+            info: > 
+             Décomposition des composants internes d'un modèle génératif (tokenisation, embeddings, transformeurs).           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -158,6 +228,14 @@ years:
             type: "Cours complet"
             volume: "30h"
             url: "https://fidle.cnrs.fr/w3/parcours/02-avance.html"
+            creationdate: "01/01/2024"
+            info: > 
+             Parcours vidéo de FIDLE (formation gratuite et ouverte à tous) pour développer une première expérience en Deep Learning. 
+             Il couvre les briques fondamentales des réseaux de neurones (DNN, CNN, mathématiques et gradients) 
+             ainsi que les architectures composites (encoder/decoder, GNN). Il aborde aussi les modèles les 
+             plus récents : Transformers, LLM, modèles de diffusion et multimodaux. Le parcours traite également de méthodologie, 
+             d'optimisation et de déploiement (inférence, edge AI). Une nouvelle saison est prévue fin 2026/début 2027 ; 
+             en attendant, la saison 2024/25 reste accessible en archive (https://fidle.cnrs.fr/w3/archives/2024-2025.html (séquences 5 à 19).          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -170,6 +248,12 @@ years:
             type: "Cours complet"
             volume: "2h30"
             url: "https://kiwi.cmla.ens-cachan.fr/index.php/s/pKDCYM8xNSZJZQb"
+            creationdate: "01/07/2026"
+            info: > 
+             Le BrevetAI est l’une des initiatives majeures développées dans ce cadre. Il s’agit d’un dispositif pédagogique 
+             innovant conçu pour favoriser l’acculturation des étudiants à l’intelligence artificielle. 
+             Après une première phase de déploiement à l’Université Paris-Saclay, il sera proposé à plus grande échelle dès 
+             la prochaine rentrée universitaire.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -177,6 +261,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://kiwi.cmla.ens-cachan.fr/index.php/s/cKZD3i2T6CX4GtK"
+            creationdate: "01/07/2026"
+            info: > 
+             Support d'animation d'un atelier pour l'idéation sur les outils d'IA pour la recherche bibliographie          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -184,6 +271,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://microlearning.aniti.fr/nugget/neurones-biologiques-vs-formels/view/ca5fdd06-6250-42e2-93c0-28342950e953#nugget_top"
+            creationdate: "09/04/2026"
+            info: > 
+             Comparaison conceptuelle et fonctionnelle entre le traitement synaptique biologique et la modélisation mathématique du neurone artificiel.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -191,6 +281,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://microlearning.aniti.fr/nugget/le-moteur-de-lia-pourquoi-les-cartes-graphiques-gpu-sont-elles-indispensables-/view/e2eef4e1-2c9a-4f9a-9b57-82c4c6cc1932#nugget_top"
+            creationdate: "02/04/2026"
+            info: > 
+             Rôle matériel et calcul parallèle des processeurs graphiques dans les performances d'apprentissage profond.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -198,6 +291,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://microlearning.aniti.fr/nugget/ia-embarquee-fondements-architectures-et-compromis-de-ledge-ai/view/39397d42-2c48-4896-b871-0421625d2ef8#nugget_top"
+            creationdate: "23/07/2026"
+            info: > 
+             Enjeux techniques du déploiement local de modèles (latence, mémoire, consommation) sur systèmes contraints.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
