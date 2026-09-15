@@ -13,6 +13,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lia-partenaire-dapprentissage-optimiser-sans-remplacer/view/546fc60c-eff8-447b-bc17-2f59132c33cb#nugget_top"
+            creationdate: "09/12/2025"
+            info: > 
+             Réflexion sur l'usage pédagogique de l'IA pour soutenir 
+             l'apprenant tout en évitant la dépendance et le déchargement cognitif.         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -20,6 +24,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-univ.html"
+            creationdate: "01/03/2026"
+            info: > 
+             Ce document décrit les implications pour l’apprentissage et l’enseignement, 
+             principalement au niveau universitaire, des systèmes di’ntelligence artificielle générative (GenIA).            
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -27,6 +35,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-peda.html"
+            creationdate: "01/03/2026"
+            info: > 
+             Ce document décrit quelques usages pédagogiques de systèmes 
+             d’intelligence artificielle générative - GenIA - à l’université.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -34,6 +46,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "10min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-id.html"
+            creationdate: "01/03/2026"
+            info: > 
+             Ce document détaille l’utilisation de l’IA générative pour des tâches d’ingénierie pédagogique.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -41,6 +56,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-apprentissage.html"
+            creationdate: "01/05/2026"
+            info: >
+             Ce document recense et discute les résultats d’études à propos des effets de l’IA générative sur les apprentissages.            
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -48,6 +66,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "16min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-memoires.html"
+            creationdate: "01/05/2026"
+            info: > 
+             Ce document recense et discute les résultats d’études 
+             sur l’assistance de l’IA générative dans la rédaction de dissertations ou de mémoires académiques.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -60,6 +82,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-eval.html"
+            creationdate: "01/03/2026"
+            info: > 
+             Ce document détaille les changements à apporter aux procédures 
+             et travaux d’évaluation des compétences et connaissances à l’époque de l’IA générative.  
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -67,6 +93,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-detect.html"
+            creationdate: "01/03/2026"
+            info: > 
+             Ce document détaille le fonctionnement et les performances des systèmes de détection de 
+             l’usage de l’IA générative, les implications pédagogiques de leur usage, ainsi que les moyens de les contourner.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -74,6 +104,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-steroides.html"
+            creationdate: "01/08/2026"
+            info: > 
+             Ce document fait un parallèle entre le dopage physique et le dopage intellectuel (utilisant l’IA générative).          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -81,42 +114,17 @@ years:
             type: "Grain ou élément de cours"
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/exam-google.html"
+            creationdate: "01/09/2021"
+            info: > 
+             Ce document donne quelques pistes pour élaborer des questions d’examen engageant 
+             les étudiants dans des processus de haut niveau, et pas uniquement du rappel. 
+             Elles peuvent être notamment utiles pour les examens à distance et en ligne. 
+             Il est adapté de deux billets de blog de David Smith.           
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
-  - name: "Evaluer à l'ère de l'IA"
-    ue:
-      - name: "Evaluer à l'ère de l'IA"
-        resources:
-          - name: "Repenser l’évaluation à l’époque de l’IA générative"
-            type: "Grain ou élément de cours"
-            volume: "15min"
-            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-eval.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "La détection de l’usage des systèmes d’IA générative"
-            type: "Grain ou élément de cours"
-            volume: "15min"
-            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-detect.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Travail académique sous stéroïdes"
-            type: "Grain ou élément de cours"
-            volume: "15min"
-            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-steroides.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Écrire des questions d’examen à l’épreuve de la tricherie"
-            type: "Grain ou élément de cours"
-            volume: "15min"
-            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/exam-google.html"
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+
 
   - name: "Accéder à des kits pédagogiques d'accompagnement"
     ue:
@@ -131,6 +139,10 @@ years:
             type: "Grain ou élément de cours"
             volume: "7min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-restruct-ens.html"
+            creationdate: "01/04/2026"
+            info: > 
+              Ce document détaille une procédure pour restructurer et repenser les 
+              enseignements à l’époque de l’IA générative, aux niveaux micro, meso et macro.            
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
