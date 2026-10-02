@@ -94,6 +94,21 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Thinkig AI"
+            type: "Cours complet"
+            volume: "20h"
+            url: "https://scai-education.sorbonne-universite.fr/course/view.php?id=13"
+            creationdate: "O1/01/2026"
+            info: >
+              Cours en ligne proposé sur la plateforme SCAI-Education.
+               Il vise à développer les connaissances et compétences liées 
+               à l’intelligence artificielle. Il propose des contenus pédagogiques et des 
+               activités d’apprentissage accessibles en ligne. Il peut être suivi à distance, 
+               à son propre rythme. Une évaluation et/ou une attestation peuvent être proposées 
+               selon le parcours.         
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
 
   - name: "Connaître les enjeux (environnementaux, éthiques, sociétaux…)"
     ue:
