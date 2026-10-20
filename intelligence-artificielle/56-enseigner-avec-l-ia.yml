@@ -130,6 +130,21 @@ years:
     ue:
       - name: "Accéder à des kits pédagogiques d'accompagnement"
         resources:
+          - name: "L’IA générative à l’université : parlons-en ensemble – Atelier de co-construction d’une charte d’usage de l’IA générative"
+            type: "Cours complet"
+            volume: "4h"
+            url: "https://fichiers.numerique.gouv.fr/explorer/items/02e4edc5-6109-486a-aef6-998a88b031d4"
+            creationdate: "01/09/2026"
+            info: > 
+              Kit pédagogique destiné aux enseignants pour les accompagner dans 
+              l’animation d’un atelier avec leurs étudiants autour des usages de l’IA 
+              générative en contexte académique. Il propose une démarche permettant de faire 
+              émerger les représentations et les usages des étudiants. L’objectif final est 
+              de co-construire avec les étudiants un cadre d’usage de l’IA générative adapté au 
+              contexte du cours.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
   - name: "Bâtir des ressources pédagogiques"
     ue:
