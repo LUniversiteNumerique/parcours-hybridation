@@ -73,6 +73,18 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Quel effet d'utiliser l'IA sur l'apprentissage étudiant ?"
+            type: "Grain ou élément de cours"
+            volume: "1h15"
+            url: "https://univ-cotedazur.fr/efelia-cote-dazur/formation-initiale/competences-transversales-ia-1"
+            creationdate: "01/09/2026"
+            info: > 
+             Le premier chapitre de la compétence transversale « Grands défis sociétaux : 
+             Intelligence artificielle (IA) » (L1) se compose de 6 vidéos et d’un jeu de diapositives 
+             présentant les résultats scientifiques disponibles à ce jour sur l’impact de l’utilisation des outils d’IA sur l'apprentissage.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
   - name: "Evaluer à l'ère de l'IA"
     ue:
