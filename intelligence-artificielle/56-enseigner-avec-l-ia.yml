@@ -85,6 +85,28 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Atouts et limites des IA génératives pour la recherche documentaire"
+            type: "Cours complet"
+            volume: "1h15"
+            url: "https://callisto-formation.fr/course/view.php?id=1107"
+            creationdate: "12/06/2026"
+            info: > 
+             Ce court module a pour objectif de vous faire comprendre les atouts et 
+             limites de l’IA générative dans les différents types de recherche documentaire.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "40 consignes de cours pour enseigner avec l'IA"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://consignes-ia.rochane.fr/"
+            creationdate: "01/01/2026"
+            info: > 
+             Des activités conçues par des enseignant·es pour mener en classe une réflexion critique sur 
+             les capacités et les limites de l'IA générative, dans toutes les disciplines.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
 
   - name: "Evaluer à l'ère de l'IA"
     ue:
@@ -132,6 +154,40 @@ years:
              les étudiants dans des processus de haut niveau, et pas uniquement du rappel. 
              Elles peuvent être notamment utiles pour les examens à distance et en ligne. 
              Il est adapté de deux billets de blog de David Smith.           
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Évaluer à l'ère de l'IAg : coffre à outils pour le personnel enseignant."
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://zenodo.org/records/22923385"
+            creationdate: "23/09/2026"
+            info: > 
+             Ce coffre à outils rassemble des ressources pratiques pour accompagner le personnel enseignant 
+             universitaire dans l’adaptation des pratiques évaluatives à l’ère de l’intelligence artificielle 
+             générative (IAg). Il vise à prévenir la fraude tout en soutenant des évaluations authentiques, 
+             alignées sur les objectifs d’apprentissage et favorables au développement des compétences.         
+            licence:
+          - name: "Assistant de cadrage IA"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://ialliance.ch/charte-ia-classe/"
+            creationdate: "01/01/2026"
+            info: > 
+             Une démarche guidée pour définir, avec clarté et en quelques étapes, 
+             la place de l'intelligence artificielle dans votre cours — et produire trois 
+             documents prêts à l'emploi : une charte d'usage, une déclaration sur l'honneur et un journal de bord pour les étudiant·e·s.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "40 consignes de cours pour enseigner avec l'IA"
+            type: "Grain ou élément de cours"
+            volume: "15min"
+            url: "https://consignes-ia.rochane.fr/"
+            creationdate: "01/01/2026"
+            info: > 
+             Des activités conçues par des enseignant·es pour mener en classe une réflexion critique sur 
+             les capacités et les limites de l'IA générative, dans toutes les disciplines.          
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

@@ -96,3 +96,18 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Compétences transversales en IA"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://univ-cotedazur.fr/efelia-cote-dazur/formation-initiale/competences-transversales-ia-1"
+            creationdate: "01/09/2026"
+            info: > 
+             Le domaine de l'IA apporte de nouveaux outils qui impactent de façon croissante 
+             les pratiques professionnelles, mais aussi personnelles comme les pratiques d'apprentissage, 
+             et la société dans son ensemble. Ces modules pédagogiques sur les compétences transversales 
+             en IA visent ainsi à répondre aux besoins de formation massive à l’IA et à ses enjeux au niveau 
+             Licence, et se conclut par une déclinaison sur leurs applications et enjeux dans différents 
+             domaines disciplinaires.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"

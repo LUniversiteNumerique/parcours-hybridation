@@ -573,3 +573,15 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Les défis de l'IA frugale"
+            type: "Cours complet"
+            volume: "20h"
+            url: "https://www.fun-mooc.fr/fr/cours/les-defis-de-lia-frugale/"
+            creationdate: "21/09/2026"
+            info: > 
+              Ce MOOC vous propose de découvrir les enjeux de l’IA frugale et de questionner 
+              sa pertinence : est-elle nécessaire ? pour quels besoins ? avec quels impacts ?
+              et à quelles conditions ?      
+            licence:
+              - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
