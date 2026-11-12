@@ -9,79 +9,13 @@ years:
     ue:
       - name: "IA Cœur"
         resources:
-          - name: "FIDLE - Parcours « Avancé »"
-            type: "Cours complet"
-            volume: "30h"
-            url: "https://fidle.cnrs.fr/w3/parcours/02-avance.html"
-            creationdate: "01/01/2024"
-            info: > 
-             Parcours vidéo de FIDLE (formation gratuite et ouverte à tous) pour développer une première expérience en Deep Learning. 
-             Il couvre les briques fondamentales des réseaux de neurones (DNN, CNN, mathématiques et gradients) 
-             ainsi que les architectures composites (encoder/decoder, GNN). Il aborde aussi les modèles les 
-             plus récents : Transformers, LLM, modèles de diffusion et multimodaux. Le parcours traite également de méthodologie, 
-             d'optimisation et de déploiement (inférence, edge AI). Une nouvelle saison est prévue fin 2026/début 2027 ; 
-             en attendant, la saison 2024/25 reste accessible en archive (https://fidle.cnrs.fr/w3/archives/2024-2025.html (séquences 5 à 19).          
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-
   - name: "IA et disciplines"
     ue:
       - name: "IA et disciplines"
         resources:
-          - name: "BrevetAI - Formation pour les enseignantes et enseignants"
-            type: "Cours complet"
-            volume: "2h30"
-            url: "https://kiwi.cmla.ens-cachan.fr/index.php/s/pKDCYM8xNSZJZQb"
-            creationdate: "01/07/2026"
-            info: > 
-             Le BrevetAI est l’une des initiatives majeures développées dans ce cadre. Il s’agit d’un dispositif pédagogique 
-             innovant conçu pour favoriser l’acculturation des étudiants à l’intelligence artificielle. 
-             Après une première phase de déploiement à l’Université Paris-Saclay, il sera proposé à plus grande échelle dès 
-             la prochaine rentrée universitaire.           
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Atelier Biologie : Former à la recherche bibliographique"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://kiwi.cmla.ens-cachan.fr/index.php/s/cKZD3i2T6CX4GtK"
-            creationdate: "01/07/2026"
-            info: > 
-             Support d'animation d'un atelier pour l'idéation sur les outils d'IA pour la recherche bibliographie          
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Neurones biologiques vs formels"
-            type: "Grain ou élément de cours"
-            volume: "20min"
-            url: "https://microlearning.aniti.fr/nugget/neurones-biologiques-vs-formels/view/ca5fdd06-6250-42e2-93c0-28342950e953#nugget_top"
-            creationdate: "09/04/2026"
-            info: > 
-             Comparaison conceptuelle et fonctionnelle entre le traitement synaptique biologique et la modélisation mathématique du neurone artificiel.           
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Le moteur de l'IA : pourquoi les GPU sont-elles indispensables ?"
-            type: "Grain ou élément de cours"
-            volume: "15min"
-            url: "https://microlearning.aniti.fr/nugget/le-moteur-de-lia-pourquoi-les-cartes-graphiques-gpu-sont-elles-indispensables-/view/e2eef4e1-2c9a-4f9a-9b57-82c4c6cc1932#nugget_top"
-            creationdate: "02/04/2026"
-            info: > 
-             Rôle matériel et calcul parallèle des processeurs graphiques dans les performances d'apprentissage profond.          
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "IA embarquée : fondements, architectures et compromis de l'edge AI"
-            type: "Grain ou élément de cours"
-            volume: "15min"
-            url: "https://microlearning.aniti.fr/nugget/ia-embarquee-fondements-architectures-et-compromis-de-ledge-ai/view/39397d42-2c48-4896-b871-0421625d2ef8#nugget_top"
-            creationdate: "23/07/2026"
-            info: > 
-             Enjeux techniques du déploiement local de modèles (latence, mémoire, consommation) sur systèmes contraints.           
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+
+
+
           - name: "Et l'IA pour ma discipline ?"
             type: "Grain ou élément de cours"
             volume: "1h"
