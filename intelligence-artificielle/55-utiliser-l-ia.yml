@@ -5,10 +5,21 @@ description: |
   Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
 
 years:
-  - name: "Prendre en main les outils"
+  - name: "Prendre en main"
     ue:
-      - name: "Prendre en main les outils"
+      - name: "Prendre en main "
         resources:
+          - name: "IA et sobriété numérique : comment réduire notre empreinte ?"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/ia-et-sobriete-numerique-comment-reduire-notre-empreinte-/view/c288fcb2-2d74-4040-9567-210e76618c06#nugget_top"
+            creationdate: "30/04/2026"
+            info: >
+             Leviers d'action techniques et comportementaux pour 
+             modérer la consommation énergétique liée aux usages de l'IA.            
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "L'art du prompting"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -58,39 +69,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Usage des chabot, comprendre, formuler, expérimenter"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://cloud.univ-grenoble-alpes.fr/s/FEEYLMQ6ekSgRz2"
-            creationdate: "01/05/2025"
-            info: >
-             Ce support de présentation de formation présente l’usage des IA génératives (IAG) 
-             dans l’enseignement et l’apprentissage. Destiné aux enseignants, 
-             Il explique leur fonctionnement à travers la génération probabiliste, 
-             la vectorisation et les corpus d’apprentissage. 
-             Il montre comment améliorer ses demandes grâce à un prompt précis, 
-             contextualisé et structuré. Il présente plusieurs techniques avancées de prompting.          
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-
-  - name: "Concevoir avec l'IA générative"
-    ue:
-      - name: "Concevoir avec l'IA générative"
-        resources:
-          - name: "Tutoriel - Faire générer un item de QCM par un système d’IA générative textuel"
-            type: "Grain ou élément de cours"
-            volume: "5min"
-            url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/tuto-IA-QCM.html"
-            creationdate: "15/08/2026"
-            info: > 
-             Ce tutoriel explique pas à pas comment construire une requête (prompt) 
-             pour faire générer un résultat approprié à un Système de génération 
-             automatique de textes. L’exemple donné est de faire générer un item de 
-             questionnaire à choix multiple.           
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Apprendre à prompter : techniques avancées"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -102,8 +80,43 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-
-  - name: "Utiliser l'IA agentique"
+  - name: "Concevoir"
     ue:
-      - name: "Utiliser l'IA agentique"
+      - name: "Concevoir"
         resources:
+          - name: "BrevetAI niveau avancé"
+            type: "Cours complet"
+            volume: "20h"
+            url: "https://www.fun-mooc.fr/fr/cours/brevetai-niveau-avance/"
+            creationdate: "23/09/2025"
+            info: >
+              BrevetAI est un parcours accessible à toutes et à tous pour s'acculturer à l'IA. 
+              Fondé sur l'apprentissage par le faire, il vous fait expérimenter les concepts à travers des activités pratiques.
+               Vous y explorerez les notions clés (algorithmes, modèles, données, apprentissage), des tâches comme la classification 
+               et le regroupement de données, les bonnes pratiques pour concevoir des modèles fiables et les bases de l'apprentissage profond. 
+               Vous examinerez enfin les enjeux de l'IA : impacts environnementaux, cadre juridique, questions éthiques et défis scientifiques.        
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Concevoir des systèmes d'IA robustes et justes"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/concevoir-des-systemes-dia-robustes-et-justes/detail/e97dd728-a5e4-480b-addc-78c71e65393b"
+            creationdate: "31/08/2026"
+            info: >
+             Méthodes de conception pour minimiser 
+             les biais algorithmiques et garantir la fiabilité technique des prédictions.              
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Designing Robust and Fair AI Systems"
+            type: "Grain ou élément de cours"
+            volume: "30min"
+            url: "https://microlearning.aniti.fr/nugget/designing-robust-and-fair-ai-systems/view/c1b5612b-3acf-416b-b058-759d5d2faa33#nugget_top"
+            creationdate: "31/08/2026"
+            info: >
+             Principes d'ingénierie logicielle pour atténuer les biais et 
+             assurer la robustesse opérationnelle des systèmes d'IA.        
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
