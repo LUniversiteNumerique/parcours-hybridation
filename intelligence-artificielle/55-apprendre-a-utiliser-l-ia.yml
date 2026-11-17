@@ -1,5 +1,5 @@
 id: 55
-name: "Utiliser l'IA"
+name: "Apprendre à utiliser l'IA"
 description: |
   Ce parcours propose une sélection de ressources destinées à développer les connaissances et les compétences en intelligence artificielle, que ce soit dans le cadre d’enseignements, de formations ou en auto-formation.
   Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
@@ -7,7 +7,7 @@ description: |
 years:
   - name: "Prendre en main"
     ue:
-      - name: "Prendre en main "
+      - name: "Prendre en main les outils"
         resources:
           - name: "IA et sobriété numérique : comment réduire notre empreinte ?"
             type: "Grain ou élément de cours"
@@ -82,7 +82,7 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
   - name: "Concevoir"
     ue:
-      - name: "Concevoir"
+      - name: "Initiation à la conception de modèles"
         resources:
           - name: "BrevetAI niveau avancé"
             type: "Cours complet"

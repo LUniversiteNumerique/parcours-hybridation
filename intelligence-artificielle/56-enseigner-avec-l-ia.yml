@@ -5,9 +5,9 @@ description: |
   Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
 
 years:
-  - name: "Apprendre"
+  - name: "Concevoir des activités d'apprentissage"
     ue:
-      - name: "Apprendre"
+      - name: "Concevoir des activités d'apprentissage"
         resources:
           - name: "L'IA, partenaire d'apprentissage : optimiser sans remplacer"
             type: "Grain ou élément de cours"
@@ -175,7 +175,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-  - name: "Restructurer son enseignement"
+  - name: "Repenser son enseignement"
     ue:
       - name: "Restructurer son enseignement"
         resources:
