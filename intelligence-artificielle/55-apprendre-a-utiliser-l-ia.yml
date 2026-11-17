@@ -5,7 +5,7 @@ description: |
   Les contenus abordent différentes thématiques liées à l’intelligence artificielle, afin de permettre à chacun de découvrir ses principaux concepts, de mieux comprendre ses usages et ses enjeux, et de progresser à son rythme.
 
 years:
-  - name: "Prendre en main"
+  - name: "Prendre en main les outils"
     ue:
       - name: "Prendre en main les outils"
         resources:
@@ -80,9 +80,171 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-  - name: "Concevoir"
+          - name: "IA Sup – Webinaire #02 – Développer les compétences transversales des étudiants pour des usages éthiques et responsables de l’IA."
+            type: "Grain ou élément de cours"
+            volume: "1h30"
+            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-02-developper-les-competences-transversales-des-etudiants-pour-des"
+            creationdate: "01/11/2025"
+            info: > 
+             2ème webinaire de la série IA SUP, cette présentation a mis en avant plusieurs initiatives de 
+             formation à l’IA : le référentiel de compétences de Pix, le module d’autoformation de 
+             l’Université de Strasbourg, le dispositif « Brevet AI » de l’Université Paris-Saclay et 
+             la plateforme « MetropédIA » de l’UCLouvain destinée à former les enseignants.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Intelligences artificielles génératives"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://enseigner.u-bordeaux.fr/outils-ressources-communaute/IAG"
+            creationdate: "01/07/2026"
+            info: > 
+             L’Université de Bordeaux met à disposition , un ensemble de ressources pédagogiques, 
+             de formations et de contenus (guides, podcasts, replays) pour comprendre le fonctionnement 
+             de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
+             les pratiques d’enseignement et d’évaluation.        
+            licence:
+          - name: "Référentiel de compétences en IA pour les enseignants"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://unesdoc.unesco.org/ark:/48223/pf0000392681"
+            creationdate: "01/01/2024"
+            info: > 
+             Ce référentiel est un guide pour aider les enseignants à 
+             intégrer l'intelligence artificielle (IA) dans leurs 
+             pratiques pédagogiques de manière éthique et efficace.       
+            licence:
+              - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
+          - name: "Référentiel de compétence de l'agir critique"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://zenodo.org/records/17872359"
+            creationdate: "01/01/2026"
+            info: > 
+             Ce référentiel offre un cadre rigoureux et ouvert, ancré dans les 
+             compétences essentielles aux études postsecondaires afin de permettre 
+             aux apprenants d'exercer leur jugement.       
+            licence:
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
+          - name: "IA Sup - Webinaire #06 - Appropriations disciplinaires de l’IA en Lettres et Langues"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-06-appropriations-disciplinaires-de-l-ia-en-lettres-et-langues"
+            creationdate: "01/05/2026"
+            info: > 
+             Ce 6ème webinaire a exploré l'intégration de l'IA dans les formations en lettres, 
+             langues et sciences humaines, à travers les retours d'expérience de 
+             l'Université Sorbonne Nouvelle, du projet LinguIA de l'Université de Strasbourg, 
+             et de l'Inalco sur les usages de l'IA dans l'enseignement des langues et 
+             civilisations orientales.       
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Metropedia"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://view.genially.com/68b15ef95d61ac2fc43c037c"
+            creationdate: "01/09/2025"
+            info: > 
+             MétropédIA est une plateforme d’activités et de ressources 
+             pédagogiques à mobiliser pour aborder la thématique de 
+             l'intelligence artificielle (IA) avec les personnes étudiantes.       
+            licence:      
+          - name: "Petits déjeuners IA au service des chercheurs"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://aunege.fr/ressources/webinaires/"
+            creationdate: "01/01/2024"
+            info: > 
+             Collection de webinaire organisés par L'Université Numérique Thématique 
+             Aunege sur la thématique de l'Intelligence artificielle au service des 
+             enseignants-chercheurs.       
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "Une IA par jour"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://www.uneiaparjour.fr/"
+            creationdate: "01/10/2024"
+            info: > 
+             Le site "Une IA par jour" présente quotidiennement un nouvel outil d'IA 
+             générative, tous gratuits ou freemium. Les outils sont testés et 
+             documentés avec des descriptifs et des captures d'écran.     
+            licence: 
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg" 
+          - name: "Enseignant : comment utiliser un système d’IA dans le cadre de vos missions ?"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://www.cnil.fr/fr/enseignant-usage-systeme-ia"
+            creationdate: "01/06/2025"
+            info: > 
+             Cette FAQ s’adresse aux enseignants souhaitant utiliser des outils d’intelligence artificielle, 
+             notamment générative, dans un cadre pédagogique.    
+            licence: 
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"     
+          - name: "Principes directeurs concernant l’intelligence artificielle dans l’enseignement et l’apprentissage"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://www.enseigner.ulaval.ca/numerique/intelligence-artificielle-generative/principes-directeurs"
+            creationdate: "01/01/2025"
+            info: > 
+             L'Université Laval a établi cinq principes directeurs pour encadrer 
+             l'utilisation de l'intelligence artificielle dans l'enseignement et 
+             l'apprentissage.    
+            licence:    
+          - name: "Déclaration de Dubaï sur les Ressources Éducatives Libres (REL) : les biens publics numériques et les technologies numériques au service d’un accès équitable et inclusif à la connaissance"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://unesdoc.unesco.org/ark:/48223/pf0000392271_fre"
+            creationdate: "01/01/2024"
+            info: > 
+             Cette déclaration de l'UNESCO démontre comment les technologies émergentes, 
+             comme l'IA, peuvent transformer l'accès à l'éducation.   
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Guide pratique Intelligence artificielle générative"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://www.unige.ch/numerique/fr/plan-daction/ia1/"
+            creationdate: "01/09/2024"
+            info: > 
+             Ce guide propose une introduction claire et critique à l’IA générative,
+              à l’usage de toute la communauté universitaire.   
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Utilisation responsable de l’intelligence artificielle générative"
+            type: "Grain ou élément de cours"
+            volume: "5min"
+            url: "https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1079.2/1/IAGenerative_Groupe_de_Travail_UCLouvain_2024_06.pdf"
+            creationdate: "01/07/2024"
+            info: > 
+             Ce document propose des recommandations pour l’ensemble des étudiants, 
+             enseignants et chercheurs afin de garantir une intégration éthique et efficace de l’IA 
+             dans les pratiques académiques.         
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Guide pratique de l’IA à l’Institut national supérieur du professorat et de l'éducation"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://nuage02.apps.education.fr/index.php/s/NEGbfWP5A3HDPmt"
+            creationdate: "01/03/2025"
+            info: > 
+             Ce guide pratique propose une approche technique, 
+             pédagogique et critique de l’IA générative dans l’éducation.        
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"                                                              
+  - name: "S'initier à la conception de modèles"
     ue:
-      - name: "Initiation à la conception de modèles"
+      - name: "S'initier à la conception de modèles"
         resources:
           - name: "BrevetAI niveau avancé"
             type: "Cours complet"
@@ -120,3 +282,104 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          - name: "IA Sup – Webinaire #02 – Développer les compétences transversales des étudiants pour des usages éthiques et responsables de l’IA."
+            type: "Grain ou élément de cours"
+            volume: "1h30"
+            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-02-developper-les-competences-transversales-des-etudiants-pour-des"
+            creationdate: "01/11/2025"
+            info: > 
+             2ème webinaire de la série IA SUP, cette présentation a mis en avant plusieurs initiatives de 
+             formation à l’IA : le référentiel de compétences de Pix, le module d’autoformation de 
+             l’Université de Strasbourg, le dispositif « Brevet AI » de l’Université Paris-Saclay et 
+             la plateforme « MetropédIA » de l’UCLouvain destinée à former les enseignants.          
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "Intelligences artificielles génératives"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://enseigner.u-bordeaux.fr/outils-ressources-communaute/IAG"
+            creationdate: "01/07/2026"
+            info: > 
+             L’Université de Bordeaux met à disposition , un ensemble de ressources pédagogiques, 
+             de formations et de contenus (guides, podcasts, replays) pour comprendre le fonctionnement 
+             de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
+             les pratiques d’enseignement et d’évaluation.        
+            licence:
+          - name: "Référentiel de compétence de l'agir critique"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://zenodo.org/records/17872359"
+            creationdate: "01/01/2026"
+            info: > 
+             Ce référentiel offre un cadre rigoureux et ouvert, ancré dans les 
+             compétences essentielles aux études postsecondaires afin de permettre 
+             aux apprenants d'exercer leur jugement.       
+            licence:
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
+          - name: "IA Sup - Webinaire #06 - Appropriations disciplinaires de l’IA en Lettres et Langues"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-06-appropriations-disciplinaires-de-l-ia-en-lettres-et-langues"
+            creationdate: "01/05/2026"
+            info: > 
+             Ce 6ème webinaire a exploré l'intégration de l'IA dans les formations en lettres, 
+             langues et sciences humaines, à travers les retours d'expérience de 
+             l'Université Sorbonne Nouvelle, du projet LinguIA de l'Université de Strasbourg, 
+             et de l'Inalco sur les usages de l'IA dans l'enseignement des langues et 
+             civilisations orientales.       
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "La Forge du Tuteur IA"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://ia.unil.ch/forge-tuteur/"
+            creationdate: "01/01/2026"
+            info: > 
+             Cet outil permet de générer un tuteur pédagogique IA avec plus 
+             de 25 paramétrages différents..       
+            licence:
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          - name: "Metropedia"
+            type: "Grain ou élément de cours"
+            volume: "1h"
+            url: "https://view.genially.com/68b15ef95d61ac2fc43c037c"
+            creationdate: "01/09/2025"
+            info: > 
+             MétropédIA est une plateforme d’activités et de ressources 
+             pédagogiques à mobiliser pour aborder la thématique de 
+             l'intelligence artificielle (IA) avec les personnes étudiantes.       
+            licence:           
+          - name: "Les ateliers IA pour les enseignants : introduction"
+            type: "Grain ou élément de cours"
+            volume: "1h30"
+            url: "https://pedagotheque.iutenligne.net/course/view.php?id=13"
+            creationdate: "01/01/2026"
+            info: > 
+             La pédagothèque propose aux enseignants d'IUT un parcours de formation 
+             en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
+             d'IUT, pour comprendre le fonctionnement de l'intelligence 
+             artificielle générative, l'intégrer progressivement dans leurs 
+             pratiques pédagogiques et accompagner leurs étudiants vers un usage 
+             responsable et éclairé.      
+            licence:                           
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          - name: "IA Sup - Webinaire #03 - Impact de l’IA sur les pratiques d’évaluation"
+            type: "Grain ou élément de cours"
+            volume: "1h30"
+            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-03-impact-de-l-ia-sur-les-pratiques-d-evaluation"
+            creationdate: "01/12/2025"
+            info: > 
+             Ce 3ème webinaire a porté sur l'évolution des pratiques d'évaluation à l'ère 
+             de l'IA générative, passant d'un cadrage punitif à un cadrage pédagogique, 
+             avec la présentation du modèle PRAX-IA (Université de Lausanne), des balises 
+             IA de l'Université de Sherbrooke, et des retours d'expérience sur 
+             l'appropriation disciplinaire de l'IA en sciences de gestion 
+             (IAE de Montpellier et d'Aix).   
+            licence:                           
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"

@@ -225,6 +225,17 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+          - name: "Intelligence artificielle pour et par les enseignants"
+            type: "MOOC"
+            volume: "3h"
+            url: "https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/"
+            creationdate: "01/12/2025"
+            info: > 
+             Ce cours en ligne s’adresse aux enseignants et professionnels de l’éducation souhaitant 
+             comprendre le fonctionnement de l’intelligence artificielle et ses usages en contexte pédagogique.          
+            licence:
+              - name: "Citer l'auteur"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
 
                      
   - name: "Histoire"
