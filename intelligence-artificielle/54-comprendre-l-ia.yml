@@ -9,7 +9,7 @@ years:
     ue:
       - name: "Sensibilisation"
         resources:
-          - name: "FIDLE - Parcours « Découverte de l'IA », séquence « Concepts et histoire »"
+          - name: "Concepts et histoire de l'IA"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://fidle.cnrs.fr/w3/sequences/01-Concepts.html"
@@ -58,7 +58,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "FIDLE - « Le Procès de l'IA » (conférence théatralisée)"
+          - name: "Le Procès de l'IA (conférence théatralisée)"
             type: "Cours complet"
             volume: "1h30"
             url: "https://fidle.cnrs.fr/w3/sequences/03-Proces-de-lIA.html"
@@ -80,7 +80,7 @@ years:
              Escape game à partir de 12 ans clé en main sur le thème de l’intelligence artificielle, 
              pour déconstruire certaines idées reçues sur les IA et comprendre leur fonctionnement            
             licence:
-          - name: "FIDLE - « Atelier du Procès de l'IA »"
+          - name: "Atelier du Procès de l'IA "
             type: "Cours complet"
             volume: "2h"
             url: "https://fidle.cnrs.fr/w3/proces_atelier.html"
@@ -159,16 +159,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
-          - name: "Nuggets pour comprendre l’IA"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://microlearning.aniti.fr/"
-            creationdate: "01/03/2026"
-            info: > 
-             Une bibliothèque de micro-contenus pour apprendre tout ce qu’il faut savoir sur l’IA.         
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Former les usagers à l’heure de ChatGPT. IA et compétences informationnelles"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -279,7 +269,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "FIDLE - Parcours « Découverte de l'IA », séquence « Concepts et histoire »"
+          - name: "Concepts et histoire de l'IA"
             type: "Grain ou élément de cours"
             volume: "30min"
             url: "https://fidle.cnrs.fr/w3/sequences/01-Concepts.html"
@@ -313,16 +303,6 @@ years:
             creationdate: "23/04/2026"
             info: > 
              Concepts clés, vocabulaire de base et distinctions essentielles entre apprentissage automatique et systèmes experts.         
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Nuggets pour comprendre l’IA"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://microlearning.aniti.fr/"
-            creationdate: "01/03/2026"
-            info: > 
-             Une bibliothèque de micro-contenus pour apprendre tout ce qu’il faut savoir sur l’IA.         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -386,7 +366,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "FIDLE - « Le Procès de l'IA » (conférence théatralisée)"
+          - name: "Le Procès de l'IA (conférence théatralisée)"
             type: "Cours complet"
             volume: "1h30"
             url: "https://fidle.cnrs.fr/w3/sequences/03-Proces-de-lIA.html"
@@ -399,7 +379,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "FIDLE - Parcours « Découverte de l'IA », séquence « Droit, société et éthique »"
+          - name: "Droit et éthique de l'IA"
             type: "Cours complet"
             volume: "1h30"
             url: "https://fidle.cnrs.fr/w3/sequences/04-Droit.html"
@@ -459,16 +439,6 @@ years:
             creationdate: "23/07/2026"
             info: > 
              Enjeux techniques du déploiement local de modèles (latence, mémoire, consommation) sur systèmes contraints.           
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Nuggets pour comprendre l’IA"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://microlearning.aniti.fr/"
-            creationdate: "01/03/2026"
-            info: > 
-             Une bibliothèque de micro-contenus pour apprendre tout ce qu’il faut savoir sur l’IA.         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -627,7 +597,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "FIDLE - « Le Procès de l'IA » (conférence théatralisée)"
+          - name: "Le Procès de l'IA (conférence théatralisée)"
             type: "Cours complet"
             volume: "1h30"
             url: "https://fidle.cnrs.fr/w3/sequences/03-Proces-de-lIA.html"
@@ -640,7 +610,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"                
-          - name: "FIDLE - Parcours « Découverte de l'IA », séquence « Droit, société et éthique »"
+          - name: "Droit et éthique de l'IA"
             type: "Cours complet"
             volume: "1h30"
             url: "https://fidle.cnrs.fr/w3/sequences/04-Droit.html"
@@ -678,7 +648,7 @@ years:
             licence:
               - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
-          - name: "FIDLE - « Atelier du Procès de l'IA »"
+          - name: "Atelier du Procès de l'IA"
             type: "Cours complet"
             volume: "2h"
             url: "https://fidle.cnrs.fr/w3/proces_atelier.html"
@@ -690,16 +660,6 @@ years:
              Le groupe rend collectivement un verdict à l'issue du débat. Accessible à tout public sans prérequis en IA, l'atelier favorise 
              la prise de parole et la pensée critique. Un kit complet (rôles, fiches, guide d'animation) est téléchargeable, et une formation 
              d'animateur·rice est proposée par FIDLE.            
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Nuggets pour comprendre l’IA"
-            type: "Grain ou élément de cours"
-            volume: "30min"
-            url: "https://microlearning.aniti.fr/"
-            creationdate: "01/03/2026"
-            info: > 
-             Une bibliothèque de micro-contenus pour apprendre tout ce qu’il faut savoir sur l’IA.         
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
