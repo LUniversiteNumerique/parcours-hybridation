@@ -86,7 +86,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "IA Sup – Webinaire #07 – Formation des enseignants et des formateurs du supérieur et à l’accompagnement du geste enseignant"
+          - name: "Formation des enseignants et des formateurs du supérieur et à l’accompagnement du geste enseignant"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-07-formation-des-enseignants-et-des-formateurs-du-superieur-et-a-l"
@@ -110,7 +110,7 @@ years:
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg" 
-          - name: "IA Sup - Webinaire #06 - Appropriations disciplinaires de l’IA en Lettres et Langues"
+          - name: "Appropriations disciplinaires de l’IA en Lettres et Langues"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-06-appropriations-disciplinaires-de-l-ia-en-lettres-et-langues"
@@ -286,7 +286,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "IA Sup - Webinaire #06 - Appropriations disciplinaires de l’IA en Lettres et Langues"
+          - name: "Appropriations disciplinaires de l’IA en Lettres et Langues"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-06-appropriations-disciplinaires-de-l-ia-en-lettres-et-langues"
@@ -373,7 +373,7 @@ years:
             licence:                           
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg" 
-          - name: "IA Sup - Webinaire #03 - Impact de l’IA sur les pratiques d’évaluation"
+          - name: "Impact de l’IA sur les pratiques d’évaluation"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-03-impact-de-l-ia-sur-les-pratiques-d-evaluation"
@@ -492,7 +492,7 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "IA Sup – Webinaire #07 – Formation des enseignants et des formateurs du supérieur et à l’accompagnement du geste enseignant"
+          - name: "Formation des enseignants et des formateurs du supérieur et à l’accompagnement du geste enseignant"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-07-formation-des-enseignants-et-des-formateurs-du-superieur-et-a-l"
