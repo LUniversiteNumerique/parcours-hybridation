@@ -12,11 +12,6 @@ years:
     ue:
       - name: "Comptabilité"
         resources:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "La comptabilité financière (cours)"
             type: "Cours complet"
             volume: "44h"
@@ -255,11 +250,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Statistiques – Probabilités"
         resources:
-          - name: "Introduction aux séries temporelles"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
-            licence:
           - name: "Résumés d’une série statistique"
             type: "Module"
             volume: "12h"
@@ -754,26 +744,6 @@ years:
     ue:
       - name: "Gestion-Comptabilité-économie"
         resources:
-          - name: "Introduction à la gestion des entreprises"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
-          - name: "Introduction à l'analyse économique"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
-            licence:
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Comptabilité approfondie (cours)"
             type: "Cours complet"
             volume: "17h"

@@ -33,11 +33,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Base en télécommunication"
-            type: "MOOC"
-            volume: "50h"
-            url: "https://www.fun-campus.fr/fr/cours/base-de-telecommunication/"
-            licence:
       - name: "Architecture et mécanismes de base des systèmes informatiques"
         resources:
           - name: "L'obsolescence"
@@ -80,11 +75,6 @@ years:
             volume: "18h"
             url: "https://www.fun-campus.fr/fr/cours/introduction-au-traitement-du-signal/"
             licence:
-          - name: "Exploiter sa machine avec Unix"
-            type: "MOOC"
-            volume: "50h"
-            url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
-            licence:
       - name: "Bases de données"
         resources:
           - name: "Les bases du modèle conceptuel de données"
@@ -122,16 +112,6 @@ years:
             licence:
       - name: "Programmation"
         resources:
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Documents dans le Cloud"
             type: "MOOC"
             volume: "18h"
@@ -927,11 +907,6 @@ years:
     ue:
       - name: "Réseaux et télécoms"
         resources:
-          - name: "Base en télécommunication"
-            type: "MOOC"
-            volume: "50h"
-            url: "https://www.fun-campus.fr/fr/cours/base-de-telecommunication/"
-            licence:
     #      - name: "Réseaux de communication industriels"
     #        type: "Cours complet"
     #        volume: "20h"

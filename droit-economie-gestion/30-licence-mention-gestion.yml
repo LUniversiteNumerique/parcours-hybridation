@@ -46,11 +46,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Comptabilité – contrôle de gestion"
         resources:
-          - name: "Introduction à la gestion des entreprises"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
           - name: "Comptabilité générale (2023)"
             type: "Cours complet"
             volume: "30h"
@@ -58,11 +53,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
           - name: "Les fondamentaux – 1 – à quoi sert la comptabilité ?"
             type: "Grain ou élément de cours"
             volume: "32min"
@@ -119,11 +109,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
       - name: "Droit et fiscalité"
         resources:
           - name: "Introduction au droit des sociétés"
@@ -156,11 +141,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Logistique et supply chain"
         resources:
-          - name: "Supply chain management"
-            type: "MOOC"
-            volume: "100h"
-            url: "https://www.fun-campus.fr/fr/cours/supply-chain-management/"
-            licence:
           - name: "La logistique au coeur des sciences de gestion"
             type: "Grain ou élément de cours"
             volume: "4min"
@@ -611,11 +591,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Comptabilité – contrôle de gestion"
         resources:
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
           - name: "Comptabilité analytique"
             type: "Cours complet"
             volume: "30h"
@@ -685,11 +660,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Logistique et supply chain"
         resources:
-          - name: "Supply chain management"
-            type: "MOOC"
-            volume: "100h"
-            url: "https://www.fun-campus.fr/fr/cours/supply-chain-management/"
-            licence:
       - name: "Management des ressources humaines"
         resources:
           - name: "Théorie des organisations"
@@ -964,11 +934,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
           - name: "Coût cible – target costing"
             type: "Grain ou élément de cours"
             volume: "11min"
@@ -1059,11 +1024,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Supply chain management"
-            type: "MOOC"
-            volume: "100h"
-            url: "https://www.fun-campus.fr/fr/cours/supply-chain-management/"
-            licence:
       - name: "Management des ressources humaines"
         resources:
           - name: "Leadership"

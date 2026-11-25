@@ -194,11 +194,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Statistiques – Probabilités"
         resources:
-          - name: "Introduction aux séries temporelles"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
-            licence:
           - name: "Résumés d’une série statistique"
             type: "Module"
             volume: "12h"
@@ -273,11 +268,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Économie générale"
         resources:
-          - name: "Introduction à l'analyse économique"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
-            licence:
           - name: "Histoire des faits économiques"
             type: "Cours complet"
             volume: "30h"
@@ -334,11 +324,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Le comportement des producteurs et des consommateurs"
             type: "TP, exercice, quiz"
             volume: "10min"
@@ -378,11 +363,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Introduction à la comptabilité"
         resources:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Introduction à la comptabilité"
             type: "Grain ou élément de cours"
             volume: "42min"
@@ -962,16 +942,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Gestion financière et budgétaire"
         resources:
-          - name: "Introduction à la gestion des entreprises"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
           - name: "Comptabilité approfondie (cours)"
             type: "Cours complet"
             volume: "17h"

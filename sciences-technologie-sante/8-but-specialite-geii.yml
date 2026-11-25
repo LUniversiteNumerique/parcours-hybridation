@@ -310,11 +310,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Simulateur de Microcontroleur PIC18 (version anglaise)"
             type: "TD, étude de cas"
             volume: "1h"
@@ -329,11 +324,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
           - name: "Programmation objet : premiers pas en Java"
             type: "MOOC"
             volume: "35h"
@@ -373,11 +363,6 @@ years:
             type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
-            licence:
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
           - name: "Cfacile : Introduction au langage C"
             type: "Cours complet"
@@ -1502,11 +1487,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
     #      - name: "Réseaux de Communications Industriels"
     #        type: "Cours complet"
     #        volume: "21h"
@@ -1542,11 +1522,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
           - name: "Cours et travaux pratiques de Langage C++"
             type: "Module"
             volume: "17h"

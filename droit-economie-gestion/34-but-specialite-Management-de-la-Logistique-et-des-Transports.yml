@@ -22,16 +22,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Comptabilité de gestion"
         resources:
-          - name: "Introduction à la gestion des entreprises"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
           - name: "La facture et sa comptabilisation"
             type: "TD, étude de cas"
             volume: "1h"
@@ -57,11 +47,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Comptabilité"
         resources:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Introduction à la gestion comptable"
             type: "TD, étude de cas"
             volume: "4h"
@@ -300,11 +285,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Introduction aux séries temporelles"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
-            licence:
           - name: "Mathématiques financières : vidéos"
             type: "Module"
             volume: "1h"

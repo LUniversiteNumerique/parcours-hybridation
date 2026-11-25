@@ -319,11 +319,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
-            licence:
           - name: "Calcul et équations différentielles"
             type: "TP, exercice, quiz"
             volume: "40min"
@@ -1151,11 +1146,6 @@ years:
      #       licence:
      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
       - name: "Physique Électrotechnique"
         resources:
           - name: "Poutres Longues : Forces intérieures"

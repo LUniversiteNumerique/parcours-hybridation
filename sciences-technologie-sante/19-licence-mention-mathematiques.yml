@@ -26,11 +26,6 @@ years:
             licence:
              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Programmation C++ (2020)"
             type: "Cours complet"
             volume: "40h"
@@ -38,11 +33,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
           - name: "Programmation Python (2019)"
             type: "Cours complet"
             volume: "40h"
@@ -54,11 +44,6 @@ years:
             type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
-            licence:
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
           - name: "Algorithmique et programmation"
             type: "Module"
@@ -246,11 +231,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Algèbre linéaire"
-            type: "MOOC"
-            volume: "60h"
-            url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
-            licence:
           - name: "L1 : Algèbre linéaire"
             type: "Cours complet"
             volume: "60h"
@@ -1542,11 +1522,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Statistiques et probabilités"
         resources:
-          - name: "Introduction aux séries temporelles"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-aux-series-temporelles/"
-            licence:
           - name: "L2 : Traitement analyse et modélisation des données"
             type: "Cours complet"
             volume: "50h"
@@ -1684,16 +1659,6 @@ years:
             licence:
              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC "
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Pharo"
             type: "Module"
             volume: "7h"

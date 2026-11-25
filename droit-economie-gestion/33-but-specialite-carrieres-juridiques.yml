@@ -210,11 +210,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Comptabilité"
         resources:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Introduction à la gestion comptable (exercices)"
             type: "TD, étude de cas"
             volume: "4h"
@@ -280,11 +275,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Economie d’entreprise"
         resources:
-          - name: "Introduction à l'analyse économique"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
-            licence:
           - name: "Histoire des faits économiques"
             type: "Cours complet"
             volume: "30h"
@@ -984,21 +974,6 @@ years:
     ue:
       - name: "Gestion-Comptabilité"
         resources:
-          - name: "Introduction à la gestion des entreprises"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-la-gestion-des-entreprises/"
-            licence:
-          - name: "Contrôle de gestion"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/controle-de-gestion/"
-            licence:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Analyse des documents de synthèse"
             type: "Cours complet"
             volume: "16h"

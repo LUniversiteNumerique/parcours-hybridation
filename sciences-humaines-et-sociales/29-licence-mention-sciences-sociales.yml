@@ -942,11 +942,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Introduction à l'analyse économique"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
-            licence:
           - name: "Banqueroute: qui doit payer ?"
             type: "Grain ou élément de cours"
             volume: "2h"

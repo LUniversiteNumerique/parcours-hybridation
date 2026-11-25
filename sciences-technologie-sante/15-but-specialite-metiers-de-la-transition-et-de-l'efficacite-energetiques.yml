@@ -1103,11 +1103,6 @@ years:
             url: "http://ressources.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3437"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Algorithmique"
             type: "Cours complet"
             volume: "20h"

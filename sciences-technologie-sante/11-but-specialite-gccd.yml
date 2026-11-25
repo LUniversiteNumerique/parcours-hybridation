@@ -1483,11 +1483,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Algèbre linéaire"
-            type: "MOOC"
-            volume: "60h"
-            url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
-            licence:
           - name: "Espaces vectoriels de dimension finie"
             type: "Grain ou élément de cours"
             volume: "2h"

@@ -26,16 +26,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Données et algorithmes"
             type: "MOOC"
             volume: "18h"
@@ -75,11 +65,6 @@ years:
             type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
-            licence:
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
           - name: "Cfacile : Introduction au langage C"
             type: "Cours complet"
@@ -196,11 +181,6 @@ years:
   #          licence:
   #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
   #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Exploiter sa machine avec Unix"
-            type: "MOOC"
-            volume: "50h"
-            url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
-            licence:
       - name: "Conception et Bases de données"
         resources:
           - name: "Excel"
@@ -556,16 +536,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Économie, comptabilité, organisations"
         resources:
-          - name: "Introduction à l'analyse économique"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
-            licence:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Matériels informatiques et logiciels"
             type: "Module"
             volume: "4h"
@@ -1051,16 +1021,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Décodeur RFID"
             type: "Module"
             volume: "12h"

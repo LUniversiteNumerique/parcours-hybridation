@@ -248,11 +248,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Algèbre linéaire"
         resources:
-          - name: "Algèbre linéaire"
-            type: "MOOC"
-            volume: "60h"
-            url: "https://www.fun-campus.fr/fr/cours/algebre-lineaire/"
-            licence:
           - name: "L1 : Algèbre linéaire"
             type: "Cours complet"
             volume: "60h"
@@ -611,16 +606,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Socle en informatique"
             type: "MOOC"
             volume: "35h"
@@ -653,11 +638,6 @@ years:
             type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
-            licence:
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
           - name: "Algorithmique et programmation"
             type: "Module"
@@ -1478,16 +1458,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Soyez acteurs du web"
             type: "Cours complet"
             volume: "30h"
@@ -1570,11 +1540,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Exploiter sa machine avec Unix"
-            type: "MOOC"
-            volume: "50h"
-            url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
-            licence:
       - name: "Langages et environnement du Web"
         resources:
           - name: "Technologies Web 1"
@@ -2290,16 +2255,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Programmation objet : premiers pas en Java"
             type: "MOOC"
             volume: "35h"
