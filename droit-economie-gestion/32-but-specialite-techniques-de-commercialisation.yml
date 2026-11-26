@@ -77,20 +77,20 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Personnel et Professionnel"
         resources:
-    #      - name: "Projet professionnel personnalisé : connaissance de soi"
-    #        type: "Module"
-    #        volume: "13h30"
-    #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      #    - name: "Projet professionnel personnalisé"
-      #      type: "Module"
-      #      volume: "2h"
-      #      url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #      - name: "Projet professionnel personnalisé : connaissance de soi"
+          #        type: "Module"
+          #        volume: "13h30"
+          #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #    - name: "Projet professionnel personnalisé"
+          #      type: "Module"
+          #      volume: "2h"
+          #      url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #      licence:
+          #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Découvrir la démarche portfolio"
             type: "Grain ou élément de cours"
             volume: "1min"
@@ -465,13 +465,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-        #  - name: "Tests formatifs espagnol"
-        #    type: "TP, exercice, quiz"
-        #    volume: "2h"
-        #    url: "https://prive.iutenligne.net/wIXI9oUZuuhuZaWg/langues-vivantes-et-civilisation/espagnol/fasano/MEF101-A1C2/index.html"
-        #    licence:
-        #      - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-        #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #  - name: "Tests formatifs espagnol"
+          #    type: "TP, exercice, quiz"
+          #    volume: "2h"
+          #    url: "https://prive.iutenligne.net/wIXI9oUZuuhuZaWg/langues-vivantes-et-civilisation/espagnol/fasano/MEF101-A1C2/index.html"
+          #    licence:
+          #      - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #        image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Certif’langues – espagnol"
             type: "TD, étude de cas"
             volume: "5h"
@@ -493,13 +493,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #     - name: "Consolidation des acquis en arabe littéral"
+      #       type: "Cours complet"
+      #       volume: "70h"
+      #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+      #       licence:
+      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Français écrit"
         resources:
           - name: "J’améliore mon français écrit"
@@ -551,13 +551,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-    #      - name: "Rechercher de l'information"
-    #        type: "Cours complet"
-    #        volume: "5h15"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #      - name: "Rechercher de l'information"
+          #        type: "Cours complet"
+          #        volume: "5h15"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -859,18 +859,18 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "E-marketing"
         resources:
-         - name: "Le commerce électronique"
-           type: "Cours complet"
-           volume: "10h"
-           url: "https://www.iutenligne.net/ressources/le-commerce-electronique.html"
-           licence:
+          - name: "Le commerce électronique"
+            type: "Cours complet"
+            volume: "10h"
+            url: "https://www.iutenligne.net/ressources/le-commerce-electronique.html"
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-         - name: "Le e-marketing pour la petite entreprise"
-           type: "Cours complet"
-           volume: "5h"
-           url: "https://www.iutenligne.net/ressources/le-e-marketing-pour-la-petite-entreprise.html"
-           licence:
+          - name: "Le e-marketing pour la petite entreprise"
+            type: "Cours complet"
+            volume: "5h"
+            url: "https://www.iutenligne.net/ressources/le-e-marketing-pour-la-petite-entreprise.html"
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Stratégie d’entreprise"
@@ -963,13 +963,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Gestion de la trésorerie (exercices)"
-   #         type: "TD, étude de cas"
-   #         volume: "21h"
-   #         url: "https://www.iutenligne.net/ressources/module-843-fc-serie-1-gestion-de-la-tresorerie-et-diagnostic-financier-approfondi-travaux"
-   #         licence:
-   #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-   #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #       - name: "Gestion de la trésorerie (exercices)"
+          #         type: "TD, étude de cas"
+          #         volume: "21h"
+          #         url: "https://www.iutenligne.net/ressources/module-843-fc-serie-1-gestion-de-la-tresorerie-et-diagnostic-financier-approfondi-travaux"
+          #         licence:
+          #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "La gestion des risques internationaux"
             type: "Module"
             volume: "8h"
@@ -1042,13 +1042,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      #    - name: "Le management de l’information et des connaissances"
-      #      type: "Grain ou élément de cours"
-      #      volume: "1h"
-      #      url: "https://www.iutenligne.net/ressources/outils-commun-de-diffusion-de-l-intelligence-economique-le-management-de-l-information-et"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #    - name: "Le management de l’information et des connaissances"
+          #      type: "Grain ou élément de cours"
+          #      volume: "1h"
+          #      url: "https://www.iutenligne.net/ressources/outils-commun-de-diffusion-de-l-intelligence-economique-le-management-de-l-information-et"
+          #      licence:
+          #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Management stratégique"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -1202,13 +1202,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
-     #       type: "Module"
-     #       volume: "4h"
-     #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
+          #       type: "Module"
+          #       volume: "4h"
+          #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Collection « savoir dire pour savoir penser »"
             type: "Cours complet"
             volume: "12h"
@@ -1218,20 +1218,20 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Professionnel Personnalisé"
         resources:
-     #     - name: "Projet professionnel personnalisé"
-     #       type: "Module"
-     #       volume: "2h"
-     #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      #    - name: "Projet professionnel personnalisé : connaissance de soi"
-      #      type: "Module"
-      #      volume: "13h30"
-      #      url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Projet professionnel personnalisé"
+          #       type: "Module"
+          #       volume: "2h"
+          #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #    - name: "Projet professionnel personnalisé : connaissance de soi"
+          #      type: "Module"
+          #      volume: "13h30"
+          #      url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+          #      licence:
+          #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Savoir gérer un projet"
             type: "Module"
             volume: "2h"
@@ -1318,13 +1318,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #     - name: "Consolidation des acquis en arabe littéral"
+      #       type: "Cours complet"
+      #       volume: "70h"
+      #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+      #       licence:
+      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
 
   - name: "3ème année"
     ue:

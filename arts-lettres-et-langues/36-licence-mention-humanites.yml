@@ -139,13 +139,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-    #      - name: "Grec ancien pour débutants"
-     #       type: "Cours complet"
-     #       volume: "48h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=003c5f36-848d-4233-87db-62c8012734cc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
+          #      - name: "Grec ancien pour débutants"
+          #       type: "Cours complet"
+          #       volume: "48h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=003c5f36-848d-4233-87db-62c8012734cc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Approche raisonnée de la langue latine"
             type: "Cours complet"
             volume: "12h"
@@ -218,13 +218,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
@@ -281,13 +281,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-      #    - name: "Rechercher de l'information"
-      #      type: "Cours complet"
-      #      volume: "5h15"
-      #      url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #    - name: "Rechercher de l'information"
+          #      type: "Cours complet"
+          #      volume: "5h15"
+          #      url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #      licence:
+          #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -348,7 +348,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Se relire efficacement"
@@ -680,18 +680,18 @@ years:
             url: "https://uoh.fr/ressources/?fiche=0aa9292a-a767-4980-a722-e673f040152b"
             licence:
               - name: "Gestion des droits réservée aux éditeurs"
-     #     - name: "William Faulkner et Claude Simon"
-     #       type: "Module"
-     #       volume: "1h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
-     #       licence:
-     #         - name: "Gestion des droits réservée aux éditeurs"
-     #     - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1ère partie) de Cervantès"
-     #       type: "Module"
-     #       volume: "1h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
-     #       licence:
-     #         - name: "Gestion des droits réservée aux éditeurs"
+      #     - name: "William Faulkner et Claude Simon"
+      #       type: "Module"
+      #       volume: "1h"
+      #       url: "https://uoh.fr/front/noticefr/?uuid=c8ac9d5c-3410-47a1-a37e-e6d59f10734c"
+      #       licence:
+      #         - name: "Gestion des droits réservée aux éditeurs"
+      #     - name: "Érec et Énide de Chrétien de Troyes, Don Quichotte (1ère partie) de Cervantès"
+      #       type: "Module"
+      #       volume: "1h"
+      #       url: "https://uoh.fr/front/noticefr/?uuid=a36de0c6-4b32-4282-b1e9-8bb0335a1133"
+      #       licence:
+      #         - name: "Gestion des droits réservée aux éditeurs"
       - name: "Philosophie"
         resources:
           - name: "Les essentiels : la philo par les mots"
@@ -845,13 +845,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
@@ -979,13 +979,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-    #     - name: "Litterature grecque antique : Platon, Lysis"
-    #        type: "Module"
-    #        volume: "3h"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=ca007416-aa63-40cf-a528-4db6e2581c4a"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Litterature grecque antique : Platon, Lysis"
+          #        type: "Module"
+          #        volume: "3h"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=ca007416-aa63-40cf-a528-4db6e2581c4a"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Visage de l’Autre : les barbares de l’empire romain"
             type: "Grain ou élément de cours"
             volume: "1h40"
@@ -1076,20 +1076,20 @@ years:
         #    url: "https://uoh.fr/front/noticefr/?uuid=6a29228e-15d5-4442-a8d0-ec2c7583d393"
         #    licence:
         #      - name: "Gestion des droits réservée aux éditeurs"
-       #   - name: "Connaissances du paysage chez Edouard Glissant et Mohammed Dib"
-       #     type: "Module"
-       #     volume: "20min"
-       #     url: "https://uoh.fr/front/noticefr/?uuid=7d749954-222e-406a-9e87-b882f3bd449a"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Présentation d’un poème de Rachid Boudjedra : “Le café”"
-       #     type: "Module"
-       #     volume: "20min"
-       #     url: "https://uoh.fr/front/noticefr/?uuid=743942f8-5f02-47f6-8b5a-098e5cf35d55"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+        #   - name: "Connaissances du paysage chez Edouard Glissant et Mohammed Dib"
+        #     type: "Module"
+        #     volume: "20min"
+        #     url: "https://uoh.fr/front/noticefr/?uuid=7d749954-222e-406a-9e87-b882f3bd449a"
+        #     licence:
+        #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+        #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+        #   - name: "Présentation d’un poème de Rachid Boudjedra : “Le café”"
+        #     type: "Module"
+        #     volume: "20min"
+        #     url: "https://uoh.fr/front/noticefr/?uuid=743942f8-5f02-47f6-8b5a-098e5cf35d55"
+        #     licence:
+        #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+        #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Rail and Culture : chemin de fer et civilisation britannique"

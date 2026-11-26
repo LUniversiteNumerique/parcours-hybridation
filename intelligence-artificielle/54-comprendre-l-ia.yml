@@ -14,8 +14,8 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/quest-ce-que-lia-/view/83e780ae-551f-4f0a-a090-09cbb6b1ed45#nugget_top"
             creationdate: "09/04/2026"
-            info: > 
-             Définition synthétique des technologies englobées sous le terme d'intelligence artificielle et clarification des mythes courants.           
+            info: >
+              Définition synthétique des technologies englobées sous le terme d'intelligence artificielle et clarification des mythes courants.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -24,23 +24,23 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/anatomie-dune-ia-generative/view/db169e9b-da28-4b69-9730-c49b6a2c3642#nugget_top"
             creationdate: "09/04/2026"
-            info: > 
-             Décomposition des composants internes d'un modèle génératif (tokenisation, embeddings, transformeurs).           
+            info: >
+              Décomposition des composants internes d'un modèle génératif (tokenisation, embeddings, transformeurs).
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"    
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Intelligence Artificielle et Société"
             type: "MOOC"
             volume: "30min"
             url: "https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-et-societe/"
             creationdate: "01/03/2026"
             info: >
-             Ce MOOC est proposé par EFELIA - MIAI en collaboration avec le Centre d'Accompagnement de la Pédagogie (UGA). 
-             Il explore 10 thématiques : marketing, création, droit, éthique, IA générative, 
-             enjeux environnementaux, ressources humaines, information, santé et éducation. 
-             Pour chaque thématique, des chercheur.euse.s présentent les apports, les limites et les points de 
-             vigilance liés à l'IA. L'objectif est de comprendre le fonctionnement et les usages de l'IA, 
-             ainsi que ses risques et limites.            
+              Ce MOOC est proposé par EFELIA - MIAI en collaboration avec le Centre d'Accompagnement de la Pédagogie (UGA). 
+              Il explore 10 thématiques : marketing, création, droit, éthique, IA générative, 
+              enjeux environnementaux, ressources humaines, information, santé et éducation. 
+              Pour chaque thématique, des chercheur.euse.s présentent les apports, les limites et les points de 
+              vigilance liés à l'IA. L'objectif est de comprendre le fonctionnement et les usages de l'IA, 
+              ainsi que ses risques et limites.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -49,9 +49,9 @@ years:
             volume: "1h"
             url: "https://urfist.chartes.psl.eu/ressources/former-les-usagers-l-heure-de-chatgpt-ia-et-competences-informationnelles-formation-de"
             creationdate: "01/02/2026"
-            info: > 
-             Trouver des supports de formations, des travaux pratiques et études de 
-             cas pédagogiques sur la formation des usagers à l’intelligence artificielle.         
+            info: >
+              Trouver des supports de formations, des travaux pratiques et études de 
+              cas pédagogiques sur la formation des usagers à l’intelligence artificielle.
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -61,12 +61,12 @@ years:
             url: "https://fidle.cnrs.fr/w3/proces_atelier.html"
             creationdate: "01/01/2026"
             info: >
-             Jeu de rôle participatif de FIDLE, développé à partir de la conférence théâtralisée « Procès de l'IA ». 
-             Les participant.e.s incarnent les rôles du procès (procureur·e, avocat·e, juge, jury) et débattent des impacts, 
-             enjeux et bénéfices de l'IA autour de thèmes comme l'environnement, les biais, l'emploi, la vie privée et la créativité. 
-             Le groupe rend collectivement un verdict à l'issue du débat. Accessible à tout public sans prérequis en IA, l'atelier favorise 
-             la prise de parole et la pensée critique. Un kit complet (rôles, fiches, guide d'animation) est téléchargeable, et une formation 
-             d'animateur·rice est proposée par FIDLE.            
+              Jeu de rôle participatif de FIDLE, développé à partir de la conférence théâtralisée « Procès de l'IA ». 
+              Les participant.e.s incarnent les rôles du procès (procureur·e, avocat·e, juge, jury) et débattent des impacts, 
+              enjeux et bénéfices de l'IA autour de thèmes comme l'environnement, les biais, l'emploi, la vie privée et la créativité. 
+              Le groupe rend collectivement un verdict à l'issue du débat. Accessible à tout public sans prérequis en IA, l'atelier favorise 
+              la prise de parole et la pensée critique. Un kit complet (rôles, fiches, guide d'animation) est téléchargeable, et une formation 
+              d'animateur·rice est proposée par FIDLE.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -75,31 +75,31 @@ years:
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1142"
             creationdate: "01/01/2026"
-            info: > 
-             Ces modules ont été conçus dans le cadre du projet Digi-Me pour vous accompagner 
-             dans la découverte et la prise en main de l’intelligence artificielle générative.           
+            info: >
+              Ces modules ont été conçus dans le cadre du projet Digi-Me pour vous accompagner 
+              dans la découverte et la prise en main de l’intelligence artificielle générative.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"   
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Generative Artificial Intelligence Training"
             type: "Cours complet"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1143"
             creationdate: "01/01/2026"
-            info: > 
-             These modules have been developed as part of the Digi-Me project to support you 
-             in discovering and getting started with generative artificial intelligence.           
+            info: >
+              These modules have been developed as part of the Digi-Me project to support you 
+              in discovering and getting started with generative artificial intelligence.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Intelligence artificielle pour et par les enseignants"
             type: "MOOC"
             volume: "3h"
             url: "https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/"
             creationdate: "01/12/2025"
-            info: > 
-             Ce cours en ligne s’adresse aux enseignants et professionnels de l’éducation souhaitant 
-             comprendre le fonctionnement de l’intelligence artificielle et ses usages en contexte pédagogique.          
+            info: >
+              Ce cours en ligne s’adresse aux enseignants et professionnels de l’éducation souhaitant 
+              comprendre le fonctionnement de l’intelligence artificielle et ses usages en contexte pédagogique.
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -109,14 +109,14 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/01-Concepts.html"
             creationdate: "20/11/2025"
             info: >
-             Parcours vidéo de la formation FIDLE (gratuite et ouverte à tous) consacré aux 
-             origines et aux mécanismes de l'IA. Il retrace l'histoire de l'IA et 
-             présente les grands paradigmes scientifiques ayant mené au Machine Learning 
-             et au Deep Learning. Il explique la différence entre approches connexionniste 
-             et symbolique, ainsi que le principe d'entraînement des IA 
-             (des classificateurs d'images aux modèles comme ChatGPT ou Mistral). 
-             Il aborde également ce que l'IA sait faire aujourd'hui et ses limites actuelles. 
-             Enfin, il ouvre sur les évolutions futures des modèles et les notions d'AGI et d'ASI.     
+              Parcours vidéo de la formation FIDLE (gratuite et ouverte à tous) consacré aux 
+              origines et aux mécanismes de l'IA. Il retrace l'histoire de l'IA et 
+              présente les grands paradigmes scientifiques ayant mené au Machine Learning 
+              et au Deep Learning. Il explique la différence entre approches connexionniste 
+              et symbolique, ainsi que le principe d'entraînement des IA 
+              (des classificateurs d'images aux modèles comme ChatGPT ou Mistral). 
+              Il aborde également ce que l'IA sait faire aujourd'hui et ses limites actuelles. 
+              Enfin, il ouvre sur les évolutions futures des modèles et les notions d'AGI et d'ASI.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -133,7 +133,7 @@ years:
               notions clés qui expliquent le fonctionnement d'une IA et 
               vous examinerez aussi ses enjeux sociétaux : impacts 
               environnementaux, cadre juridique, questions éthiques et défis 
-              scientifiques.        
+              scientifiques.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -142,9 +142,9 @@ years:
             volume: "5h"
             url: "https://cafeia.org/ressources-pedagogiques/"
             creationdate: "01/01/2025"
-            info: > 
-             La plateforme met à disposition une sélection de ressources pour aider les 
-             acteurs de l’enseignement supérieur à s’initier, comprendre et débattre de l’IA.          
+            info: >
+              La plateforme met à disposition une sélection de ressources pour aider les 
+              acteurs de l’enseignement supérieur à s’initier, comprendre et débattre de l’IA.
             licence:
               - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
@@ -153,9 +153,9 @@ years:
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1083"
             creationdate: "01/12/2024"
-            info: > 
-             Ce cours en ligne se concentre principalement sur les usages des outils 
-             d’intelligence artificielle, pas sur les aspects techniques.          
+            info: >
+              Ce cours en ligne se concentre principalement sur les usages des outils 
+              d’intelligence artificielle, pas sur les aspects techniques.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -165,10 +165,10 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/03-Proces-de-lIA.html"
             creationdate: "28/11/2024"
             info: >
-             La séquence suit le déroulé d'un procès : 
-             présentation des faits, acte d'accusation, audition des témoins et experts, 
-             plaidoirie de la défense, puis délibération du jury. Elle aborde ainsi les 
-             grandes questions éthiques, économiques et sociales soulevées par l'IA.             
+              La séquence suit le déroulé d'un procès : 
+              présentation des faits, acte d'accusation, audition des témoins et experts, 
+              plaidoirie de la défense, puis délibération du jury. Elle aborde ainsi les 
+              grandes questions éthiques, économiques et sociales soulevées par l'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -177,21 +177,21 @@ years:
             volume: "3h"
             url: "https://www.fun-mooc.fr/fr/cours/a-la-recherche-de-lintelligence-artificielle/"
             creationdate: "01/11/2024"
-            info: > 
-             Ce cours en ligne permet de découvrir les bases de l’intelligence artificielle à 
-             travers une approche ludique et accessible.           
+            info: >
+              Ce cours en ligne permet de découvrir les bases de l’intelligence artificielle à 
+              travers une approche ludique et accessible.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Utilisation responsable de l’intelligence artificielle générative"
             type: "Grain ou élément de cours"
             volume: "5min"
             url: "https://oer.uclouvain.be/jspui/bitstream/20.500.12279/1079.2/1/IAGenerative_Groupe_de_Travail_UCLouvain_2024_06.pdf"
             creationdate: "01/07/2024"
-            info: > 
-             Ce document propose des recommandations pour l’ensemble des étudiants, 
-             enseignants et chercheurs afin de garantir une intégration éthique et efficace de l’IA 
-             dans les pratiques académiques.         
+            info: >
+              Ce document propose des recommandations pour l’ensemble des étudiants, 
+              enseignants et chercheurs afin de garantir une intégration éthique et efficace de l’IA 
+              dans les pratiques académiques.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -200,25 +200,24 @@ years:
             volume: "1h"
             url: "https://www.unige.ch/numerique/application/files/9017/5603/8626/Rapport_IA_Generatives_-_UNIGE_-_SEPTEMBRE_2024_15.556_x_22_cm.pdf"
             creationdate: "01/07/2024"
-            info: > 
-             Ce guide propose une introduction claire et critique à l’IA générative, 
-             à l’usage de toute la communauté universitaire.          
+            info: >
+              Ce guide propose une introduction claire et critique à l’IA générative, 
+              à l’usage de toute la communauté universitaire.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "IA pour les enseignants : un manuel ouvert"
             type: "Cours complet"
             volume: "6h"
             url: "https://aiopentext.itd.cnr.it/iapourlesenseignants/"
             creationdate: "01/01/2024"
-            info: > 
-             Ce manuel permet de comprendre comment utiliser l'intelligence artificielle (IA) 
-             dans le contexte éducatif.         
+            info: >
+              Ce manuel permet de comprendre comment utiliser l'intelligence artificielle (IA) 
+              dans le contexte éducatif.
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
 
-                     
   - name: "Histoire"
     ue:
       - name: "Histoire"
@@ -228,8 +227,8 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lessentiel-de-lia/view/0ba2cfdf-fdcd-46f0-b932-2f76738e1913#nugget_top"
             creationdate: "28/06/2026"
-            info: > 
-             Résumé condensé des notions clés pour comprendre le fonctionnement global et les limites des technologies actuelles.          
+            info: >
+              Résumé condensé des notions clés pour comprendre le fonctionnement global et les limites des technologies actuelles.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -239,9 +238,9 @@ years:
             url: "https://microlearning.aniti.fr/nugget/les-femmes-dans-lhistoire-de-linformatique-et-de-lia/view/44d1996e-3c45-4ab4-a75f-b417444c0e09#nugget_top"
             creationdate: "29/05/2026"
             info: >
-             Ce microlearning propose un voyage dans le temps pour 
-             comprendre comment l’intelligence artificielle s’est construite, 
-             depuis ses premières bases au XIXe siècle jusqu’aux enjeux actuels.            
+              Ce microlearning propose un voyage dans le temps pour 
+              comprendre comment l’intelligence artificielle s’est construite, 
+              depuis ses premières bases au XIXe siècle jusqu’aux enjeux actuels.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -250,8 +249,8 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/the-fundamentals-of-ai/view/080b6e0e-f2ef-4caf-8794-8d4fd2a088c3#nugget_top"
             creationdate: "23/04/2026"
-            info: > 
-             Concepts clés, vocabulaire de base et distinctions essentielles entre apprentissage automatique et systèmes experts.         
+            info: >
+              Concepts clés, vocabulaire de base et distinctions essentielles entre apprentissage automatique et systèmes experts.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -261,11 +260,11 @@ years:
             url: "https://microlearning.aniti.fr/nugget/histoire-de-lia/view/8e540843-e5b5-4a07-a7fd-77c34a206e38#nugget_top"
             creationdate: "09/04/2026"
             info: >
-             L’histoire de l’Intelligence Artificielle (IA) est avant tout une aventure humaine, 
-             née du désir de conférer aux machines des compétences associées à l'intelligence, 
-             notamment le langage et la capacité d'agir. Nous présentons cette histoire 
-             non pas comme une succession de dates, mais comme une construction non linéaire, 
-             façonnée par les influences culturelles, sociales, de découvertes scientifiques et d'innovations techniques       
+              L’histoire de l’Intelligence Artificielle (IA) est avant tout une aventure humaine, 
+              née du désir de conférer aux machines des compétences associées à l'intelligence, 
+              notamment le langage et la capacité d'agir. Nous présentons cette histoire 
+              non pas comme une succession de dates, mais comme une construction non linéaire, 
+              façonnée par les influences culturelles, sociales, de découvertes scientifiques et d'innovations techniques
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -275,14 +274,14 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/01-Concepts.html"
             creationdate: "20/11/2025"
             info: >
-             Parcours vidéo de la formation FIDLE (gratuite et ouverte à tous) consacré aux 
-             origines et aux mécanismes de l'IA. Il retrace l'histoire de l'IA et 
-             présente les grands paradigmes scientifiques ayant mené au Machine Learning 
-             et au Deep Learning. Il explique la différence entre approches connexionniste 
-             et symbolique, ainsi que le principe d'entraînement des IA 
-             (des classificateurs d'images aux modèles comme ChatGPT ou Mistral). 
-             Il aborde également ce que l'IA sait faire aujourd'hui et ses limites actuelles. 
-             Enfin, il ouvre sur les évolutions futures des modèles et les notions d'AGI et d'ASI.     
+              Parcours vidéo de la formation FIDLE (gratuite et ouverte à tous) consacré aux 
+              origines et aux mécanismes de l'IA. Il retrace l'histoire de l'IA et 
+              présente les grands paradigmes scientifiques ayant mené au Machine Learning 
+              et au Deep Learning. Il explique la différence entre approches connexionniste 
+              et symbolique, ainsi que le principe d'entraînement des IA 
+              (des classificateurs d'images aux modèles comme ChatGPT ou Mistral). 
+              Il aborde également ce que l'IA sait faire aujourd'hui et ses limites actuelles. 
+              Enfin, il ouvre sur les évolutions futures des modèles et les notions d'AGI et d'ASI.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -292,8 +291,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/introduction-a-lia-histoire-et-personnalites-influentes/view/e50aed66-2282-4477-b484-4886d88b5325"
             creationdate: "29/04/2025"
             info: >
-             Une exploration de l'histoire de l'intelligence artificielle 
-             à partir d'événements clés et de portraits de personnalités marquantes.
+              Une exploration de l'histoire de l'intelligence artificielle 
+              à partir d'événements clés et de portraits de personnalités marquantes.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -302,10 +301,10 @@ years:
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/the-ai-odyssey-history-regulations-and-impact-a-european-perspective/"
             creationdate: "01/09/2024"
-            info: > 
-             Grace à ce cours en ligne découvrez les origines de l’IA, 
-             les réglementations en vigueur et à venir, la performance de l’IA notamment 
-             dans le développement durable, et enfin l’impact de l’IA sur la société.          
+            info: >
+              Grace à ce cours en ligne découvrez les origines de l’IA, 
+              les réglementations en vigueur et à venir, la performance de l’IA notamment 
+              dans le développement durable, et enfin l’impact de l’IA sur la société.
             licence:
   - name: "Fonctionnement et types"
     ue:
@@ -317,13 +316,13 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/04-Droit.html"
             creationdate: "16/11/2026"
             info: >
-             Parcours de la formation FIDLE sur les enjeux éthiques et juridiques de l'IA. 
-             Il couvre les risques liés à l'IA (biais, discriminations, opacité des modèles), 
-             les chartes éthiques et le cadre réglementaire applicable. 
-             Il aborde aussi le contrôle de conformité et l'explicabilité des systèmes d'IA.          
+              Parcours de la formation FIDLE sur les enjeux éthiques et juridiques de l'IA. 
+              Il couvre les risques liés à l'IA (biais, discriminations, opacité des modèles), 
+              les chartes éthiques et le cadre réglementaire applicable. 
+              Il aborde aussi le contrôle de conformité et l'explicabilité des systèmes d'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"             
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Initiation aux algorithmes"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -334,7 +333,7 @@ years:
               fondamentaux de l’intelligence artificielle, 
               en explorant les différentes familles d’algorithmes 
               qui permettent aux machines d’apprendre à partir des données, 
-              de reconnaître des schémas et de prendre des décisions.         
+              de reconnaître des schémas et de prendre des décisions.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -343,8 +342,8 @@ years:
             volume: "15min"
             url: "https://microlearning.aniti.fr/nugget/ia-embarquee-fondements-architectures-et-compromis-de-ledge-ai/view/39397d42-2c48-4896-b871-0421625d2ef8#nugget_top"
             creationdate: "23/07/2026"
-            info: > 
-             Enjeux techniques du déploiement local de modèles (latence, mémoire, consommation) sur systèmes contraints.           
+            info: >
+              Enjeux techniques du déploiement local de modèles (latence, mémoire, consommation) sur systèmes contraints.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -353,18 +352,18 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/anatomie-dune-ia-generative/view/db169e9b-da28-4b69-9730-c49b6a2c3642#nugget_top"
             creationdate: "09/04/2026"
-            info: > 
-             Décomposition des composants internes d'un modèle génératif (tokenisation, embeddings, transformeurs).           
+            info: >
+              Décomposition des composants internes d'un modèle génératif (tokenisation, embeddings, transformeurs).
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"   
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Neurones biologiques vs formels"
             type: "Grain ou élément de cours"
             volume: "20min"
             url: "https://microlearning.aniti.fr/nugget/neurones-biologiques-vs-formels/view/ca5fdd06-6250-42e2-93c0-28342950e953#nugget_top"
             creationdate: "09/04/2026"
-            info: > 
-             Comparaison conceptuelle et fonctionnelle entre le traitement synaptique biologique et la modélisation mathématique du neurone artificiel.           
+            info: >
+              Comparaison conceptuelle et fonctionnelle entre le traitement synaptique biologique et la modélisation mathématique du neurone artificiel.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -373,8 +372,8 @@ years:
             volume: "15min"
             url: "https://microlearning.aniti.fr/nugget/le-moteur-de-lia-pourquoi-les-cartes-graphiques-gpu-sont-elles-indispensables-/view/e2eef4e1-2c9a-4f9a-9b57-82c4c6cc1932#nugget_top"
             creationdate: "02/04/2026"
-            info: > 
-             Rôle matériel et calcul parallèle des processeurs graphiques dans les performances d'apprentissage profond.          
+            info: >
+              Rôle matériel et calcul parallèle des processeurs graphiques dans les performances d'apprentissage profond.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -384,12 +383,12 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-et-societe/"
             creationdate: "01/03/2026"
             info: >
-             Ce MOOC est proposé par EFELIA - MIAI en collaboration avec le Centre d'Accompagnement de la Pédagogie (UGA). 
-             Il explore 10 thématiques : marketing, création, droit, éthique, IA générative, 
-             enjeux environnementaux, ressources humaines, information, santé et éducation. 
-             Pour chaque thématique, des chercheur.euse.s présentent les apports, les limites et les points de 
-             vigilance liés à l'IA. L'objectif est de comprendre le fonctionnement et les usages de l'IA, 
-             ainsi que ses risques et limites.            
+              Ce MOOC est proposé par EFELIA - MIAI en collaboration avec le Centre d'Accompagnement de la Pédagogie (UGA). 
+              Il explore 10 thématiques : marketing, création, droit, éthique, IA générative, 
+              enjeux environnementaux, ressources humaines, information, santé et éducation. 
+              Pour chaque thématique, des chercheur.euse.s présentent les apports, les limites et les points de 
+              vigilance liés à l'IA. L'objectif est de comprendre le fonctionnement et les usages de l'IA, 
+              ainsi que ses risques et limites.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -398,8 +397,8 @@ years:
             volume: "20min"
             url: "https://microlearning.aniti.fr/nugget/generative-ai-definition-and-training/view/94a8c892-168b-4407-9340-6ca402343eb1#nugget_top"
             creationdate: "18/12/2025"
-            info: > 
-             Explication des mécanismes de base de l'IA générative et du pipeline d'entraînement des modèles de fondation.           
+            info: >
+              Explication des mécanismes de base de l'IA générative et du pipeline d'entraînement des modèles de fondation.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -408,11 +407,11 @@ years:
             volume: "1h30"
             url: "https://callisto-formation.fr/course/view.php?id=952"
             creationdate: "01/12/2025"
-            info: > 
-             Cette formation explore l’impact de l’Intelligence Artificielle (IA) sur la recherche documentaire         
+            info: >
+              Cette formation explore l’impact de l’Intelligence Artificielle (IA) sur la recherche documentaire
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "BrevetAI niveau découverte"
             type: "MOOC"
             volume: "10h"
@@ -426,7 +425,7 @@ years:
               notions clés qui expliquent le fonctionnement d'une IA et 
               vous examinerez aussi ses enjeux sociétaux : impacts 
               environnementaux, cadre juridique, questions éthiques et défis 
-              scientifiques.        
+              scientifiques.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -436,10 +435,10 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/03-Proces-de-lIA.html"
             creationdate: "28/11/2024"
             info: >
-             La séquence suit le déroulé d'un procès : 
-             présentation des faits, acte d'accusation, audition des témoins et experts, 
-             plaidoirie de la défense, puis délibération du jury. Elle aborde ainsi les 
-             grandes questions éthiques, économiques et sociales soulevées par l'IA.             
+              La séquence suit le déroulé d'un procès : 
+              présentation des faits, acte d'accusation, audition des témoins et experts, 
+              plaidoirie de la défense, puis délibération du jury. Elle aborde ainsi les 
+              grandes questions éthiques, économiques et sociales soulevées par l'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -448,10 +447,10 @@ years:
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/the-ai-odyssey-history-regulations-and-impact-a-european-perspective/"
             creationdate: "01/09/2024"
-            info: > 
-             Grace à ce cours en ligne découvrez les origines de l’IA, 
-             les réglementations en vigueur et à venir, la performance de l’IA notamment 
-             dans le développement durable, et enfin l’impact de l’IA sur la société.          
+            info: >
+              Grace à ce cours en ligne découvrez les origines de l’IA, 
+              les réglementations en vigueur et à venir, la performance de l’IA notamment 
+              dans le développement durable, et enfin l’impact de l’IA sur la société.
             licence:
   - name: "Enjeux (environnementaux, éthiques, sociétaux…)"
     ue:
@@ -463,22 +462,22 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/04-Droit.html"
             creationdate: "16/11/2026"
             info: >
-             Parcours de la formation FIDLE sur les enjeux éthiques et juridiques de l'IA. 
-             Il couvre les risques liés à l'IA (biais, discriminations, opacité des modèles), 
-             les chartes éthiques et le cadre réglementaire applicable. 
-             Il aborde aussi le contrôle de conformité et l'explicabilité des systèmes d'IA.          
+              Parcours de la formation FIDLE sur les enjeux éthiques et juridiques de l'IA. 
+              Il couvre les risques liés à l'IA (biais, discriminations, opacité des modèles), 
+              les chartes éthiques et le cadre réglementaire applicable. 
+              Il aborde aussi le contrôle de conformité et l'explicabilité des systèmes d'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"   
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Les défis de l'IA frugale"
             type: "MOOC"
             volume: "20h"
             url: "https://www.fun-mooc.fr/fr/cours/les-defis-de-lia-frugale/"
             creationdate: "21/09/2026"
-            info: > 
+            info: >
               Ce MOOC vous propose de découvrir les enjeux de l’IA frugale et de questionner 
               sa pertinence : est-elle nécessaire ? pour quels besoins ? avec quels impacts ?
-              et à quelles conditions ?      
+              et à quelles conditions ?
             licence:
               - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
@@ -488,8 +487,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/introduction-a-lethique-de-lia-principes-et-enjeux/view/f1ed9c00-cd9a-4941-b843-c1bcf732907a"
             creationdate: "26/08/2026"
             info: >
-             Cadre introductif sur les principes éthiques 
-             incontournables (équité, explicabilité, responsabilité) appliqués aux algorithmes.            
+              Cadre introductif sur les principes éthiques 
+              incontournables (équité, explicabilité, responsabilité) appliqués aux algorithmes.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -498,11 +497,11 @@ years:
             volume: "40min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/#niveaux-social-et-environnemental"
             creationdate: "15/08/2026"
-            info: > 
-             Site web réalisée par Philippe Dessus (Inspé & LaRAC, UGA), 
-             consacrée aux impacts sociaux et environnementaux de l'IA générative. 
-             Elle aborde les perceptions sociales de l'IA générative, ainsi que ses conséquences environnementales. 
-             Elle traite aussi de ses conséquences sociales, notamment le micro-travail et les questions de droits d'auteur.           
+            info: >
+              Site web réalisée par Philippe Dessus (Inspé & LaRAC, UGA), 
+              consacrée aux impacts sociaux et environnementaux de l'IA générative. 
+              Elle aborde les perceptions sociales de l'IA générative, ainsi que ses conséquences environnementales. 
+              Elle traite aussi de ses conséquences sociales, notamment le micro-travail et les questions de droits d'auteur.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -512,8 +511,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/les-femmes-dans-les-metiers-de-linformatique-et-de-lia-les-chiffres-les-raisons-les-pistes/view/4602cc5d-9a1a-40d7-b17e-672a7d990f99#nugget_top"
             creationdate: "10/06/2026"
             info: >
-             État des lieux de la sous-représentation féminine dans la tech, 
-             analyse des facteurs explicatifs et leviers d'inclusion.           
+              État des lieux de la sous-représentation féminine dans la tech, 
+              analyse des facteurs explicatifs et leviers d'inclusion.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -523,8 +522,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/ia-et-sobriete-numerique-comment-reduire-notre-empreinte-/view/c288fcb2-2d74-4040-9567-210e76618c06#nugget_top"
             creationdate: "30/04/2026"
             info: >
-             Leviers d'action techniques et comportementaux pour 
-             modérer la consommation énergétique liée aux usages de l'IA.            
+              Leviers d'action techniques et comportementaux pour 
+              modérer la consommation énergétique liée aux usages de l'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -534,8 +533,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/ethique-des-modeles-dia-mise-en-situation/view/44bc22d4-d435-4e3d-a231-9a5bc155cba7"
             creationdate: "16/04/2026"
             info: >
-             Études de cas interactives pour identifier 
-             et évaluer les dilemmes éthiques lors du déploiement d'outils d'IA.            
+              Études de cas interactives pour identifier 
+              et évaluer les dilemmes éthiques lors du déploiement d'outils d'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -544,9 +543,9 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lethique-de-lia-en-pratique-politique-vulnerabilite-et-co-conception/view/86b6f9e1-3bd9-4475-9ca1-eab7051fd623#nugget_top"
             creationdate: "27/03/2026"
-            info: > 
-             Approche appliquée de l'éthique interrogeant 
-             les impacts sur les publics vulnérables et l'intérêt d'une gouvernance participative.           
+            info: >
+              Approche appliquée de l'éthique interrogeant 
+              les impacts sur les publics vulnérables et l'intérêt d'une gouvernance participative.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -556,8 +555,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/ai-ethics-in-practice-politics-vulnerability-and-co-design/view/3b28817b-7c2f-4414-8d5e-3ae7aab2e893#nugget_top"
             creationdate: "27/03/2026"
             info: >
-             Analyse pratique des enjeux éthiques liés à 
-             la vulnérabilité sociétale, au politique et aux processus de co-conception.         
+              Analyse pratique des enjeux éthiques liés à 
+              la vulnérabilité sociétale, au politique et aux processus de co-conception.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -567,8 +566,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/lempreinte-carbone-de-lia/view/56a2dcfe-9d7b-4485-b4b1-64fd121c8140#nugget_top"
             creationdate: "16/03/2026"
             info: >
-             Étude du coût écologique du cycle de vie 
-             des systèmes d'intelligence artificielle et ordres de grandeur associés.          
+              Étude du coût écologique du cycle de vie 
+              des systèmes d'intelligence artificielle et ordres de grandeur associés.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -578,12 +577,12 @@ years:
             url: "https://www.fun-mooc.fr/fr/cours/intelligence-artificielle-et-societe/"
             creationdate: "01/03/2026"
             info: >
-             Ce MOOC est proposé par EFELIA - MIAI en collaboration avec le Centre d'Accompagnement de la Pédagogie (UGA). 
-             Il explore 10 thématiques : marketing, création, droit, éthique, IA générative, 
-             enjeux environnementaux, ressources humaines, information, santé et éducation. 
-             Pour chaque thématique, des chercheur.euse.s présentent les apports, les limites et les points de 
-             vigilance liés à l'IA. L'objectif est de comprendre le fonctionnement et les usages de l'IA, 
-             ainsi que ses risques et limites.            
+              Ce MOOC est proposé par EFELIA - MIAI en collaboration avec le Centre d'Accompagnement de la Pédagogie (UGA). 
+              Il explore 10 thématiques : marketing, création, droit, éthique, IA générative, 
+              enjeux environnementaux, ressources humaines, information, santé et éducation. 
+              Pour chaque thématique, des chercheur.euse.s présentent les apports, les limites et les points de 
+              vigilance liés à l'IA. L'objectif est de comprendre le fonctionnement et les usages de l'IA, 
+              ainsi que ses risques et limites.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -593,8 +592,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/the-carbon-footprint-of-ai/view/433ad47f-a24f-433d-b8d5-4f8b19dd82e5#nugget_top"
             creationdate: "09/01/2026"
             info: >
-             Analyse de l'impact environnemental des modèles d'IA, 
-             de la phase d'entraînement à l'inférence.            
+              Analyse de l'impact environnemental des modèles d'IA, 
+              de la phase d'entraînement à l'inférence.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -604,12 +603,12 @@ years:
             url: "https://fidle.cnrs.fr/w3/proces_atelier.html"
             creationdate: "01/01/2026"
             info: >
-             Jeu de rôle participatif de FIDLE, développé à partir de la conférence théâtralisée « Procès de l'IA ». 
-             Les participant.e.s incarnent les rôles du procès (procureur·e, avocat·e, juge, jury) et débattent des impacts, 
-             enjeux et bénéfices de l'IA autour de thèmes comme l'environnement, les biais, l'emploi, la vie privée et la créativité. 
-             Le groupe rend collectivement un verdict à l'issue du débat. Accessible à tout public sans prérequis en IA, l'atelier favorise 
-             la prise de parole et la pensée critique. Un kit complet (rôles, fiches, guide d'animation) est téléchargeable, et une formation 
-             d'animateur·rice est proposée par FIDLE.            
+              Jeu de rôle participatif de FIDLE, développé à partir de la conférence théâtralisée « Procès de l'IA ». 
+              Les participant.e.s incarnent les rôles du procès (procureur·e, avocat·e, juge, jury) et débattent des impacts, 
+              enjeux et bénéfices de l'IA autour de thèmes comme l'environnement, les biais, l'emploi, la vie privée et la créativité. 
+              Le groupe rend collectivement un verdict à l'issue du débat. Accessible à tout public sans prérequis en IA, l'atelier favorise 
+              la prise de parole et la pensée critique. Un kit complet (rôles, fiches, guide d'animation) est téléchargeable, et une formation 
+              d'animateur·rice est proposée par FIDLE.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -626,7 +625,7 @@ years:
               notions clés qui expliquent le fonctionnement d'une IA et 
               vous examinerez aussi ses enjeux sociétaux : impacts 
               environnementaux, cadre juridique, questions éthiques et défis 
-              scientifiques.        
+              scientifiques.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -636,8 +635,8 @@ years:
             url: "https://microlearning.aniti.fr/nugget/generative-ai-applications-and-challenges/view/ad7bb4bb-34d6-408d-9954-0a987705cc19#nugget_top"
             creationdate: "12/09/2025"
             info: >
-             Panorama des cas d'usage concrets de l'IA 
-             générative et analyse des défis techniques, légaux et sociétaux associés.        
+              Panorama des cas d'usage concrets de l'IA 
+              générative et analyse des défis techniques, légaux et sociétaux associés.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -647,40 +646,36 @@ years:
             url: "https://fidle.cnrs.fr/w3/sequences/03-Proces-de-lIA.html"
             creationdate: "28/11/2024"
             info: >
-             La séquence suit le déroulé d'un procès : 
-             présentation des faits, acte d'accusation, audition des témoins et experts, 
-             plaidoirie de la défense, puis délibération du jury. Elle aborde ainsi les 
-             grandes questions éthiques, économiques et sociales soulevées par l'IA.             
+              La séquence suit le déroulé d'un procès : 
+              présentation des faits, acte d'accusation, audition des témoins et experts, 
+              plaidoirie de la défense, puis délibération du jury. Elle aborde ainsi les 
+              grandes questions éthiques, économiques et sociales soulevées par l'IA.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"                
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "The AI Odyssey- History, Regulations and Impact: A European Perspective"
             type: "MOOC"
             volume: "18h"
             url: "https://www.fun-mooc.fr/fr/cours/the-ai-odyssey-history-regulations-and-impact-a-european-perspective/"
             creationdate: "01/09/2024"
-            info: > 
-             Grace à ce cours en ligne découvrez les origines de l’IA, 
-             les réglementations en vigueur et à venir, la performance de l’IA notamment 
-             dans le développement durable, et enfin l’impact de l’IA sur la société.          
+            info: >
+              Grace à ce cours en ligne découvrez les origines de l’IA, 
+              les réglementations en vigueur et à venir, la performance de l’IA notamment 
+              dans le développement durable, et enfin l’impact de l’IA sur la société.
             licence:
 
-
-
-
-
     #      - name: "Littératie de l’IA (conforme IA ACT)"
-     #       type: "Cours complet"
-     #       volume: "4h"
-     #       url: "https://univ-toulouse.wimi.pro/shared/#/folder/9ce123d2b0bc63ddb7aa7f2ded85c270d7781f13a53a3ce9bfd4b6e96c30d708"
-      #      creationdate: "O1/03/2026"
-      #      info: >
-      #        Parcours de formation à l’IA générative en contexte professionnel, 
-      #        conforme à l’article 4 de l’AI Act. Modulaire et personnalisable 
-      #        selon les chartes internes et les spécificités métiers.         
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+    #       type: "Cours complet"
+    #       volume: "4h"
+    #       url: "https://univ-toulouse.wimi.pro/shared/#/folder/9ce123d2b0bc63ddb7aa7f2ded85c270d7781f13a53a3ce9bfd4b6e96c30d708"
+    #      creationdate: "O1/03/2026"
+    #      info: >
+    #        Parcours de formation à l’IA générative en contexte professionnel,
+    #        conforme à l’article 4 de l’AI Act. Modulaire et personnalisable
+    #        selon les chartes internes et les spécificités métiers.
+    #      licence:
+    #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+    #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
     #      - name: "Thinkig AI"
     #        type: "Cours complet"
     #        volume: "20h"
@@ -688,11 +683,11 @@ years:
     #        creationdate: "O1/01/2026"
     #        info: >
     #          Cours en ligne proposé sur la plateforme SCAI-Education.
-    #           Il vise à développer les connaissances et compétences liées 
-    #           à l’intelligence artificielle. Il propose des contenus pédagogiques et des 
-    #           activités d’apprentissage accessibles en ligne. Il peut être suivi à distance, 
-    #           à son propre rythme. Une évaluation et/ou une attestation peuvent être proposées 
-    #           selon le parcours.         
+    #           Il vise à développer les connaissances et compétences liées
+    #           à l’intelligence artificielle. Il propose des contenus pédagogiques et des
+    #           activités d’apprentissage accessibles en ligne. Il peut être suivi à distance,
+    #           à son propre rythme. Une évaluation et/ou une attestation peuvent être proposées
+    #           selon le parcours.
     #        licence:
     #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
     #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

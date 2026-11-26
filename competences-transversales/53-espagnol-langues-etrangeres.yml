@@ -1,10 +1,9 @@
 id: 53
 name: "Espagnol : Langues étrangères"
-description: | 
+description: |
   Ce parcours propose une sélection de ressources destinées à développer les compétences en espagnol, que ce soit dans le cadre d’enseignements ou en auto-formation.
   Les contenus sont classés par niveaux de maîtrise du CECRL, de A1 à C2, afin de permettre à chacun de progresser à son rythme.
   Ce classement est donné à titre indicatif : il est recommandé de ne pas hésiter à consulter des ressources de niveaux différents, que ce soit pour approfondir certains points ou consolider des acquis.
-
 
 years:
   - name: "A1"
@@ -628,15 +627,15 @@ years:
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/espagnol/barriere/gram_esp1_v2/index.html"
             licence:
-               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Gramática española 2 / Grammaire espagnole 2"
             type: "Cours complet"
             volume: "1h"
             url: "https://public.iutenligne.net/langues-vivantes-et-civilisation/espagnol/barriere/gram_esp2_v2/index.html"
             licence:
-               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "¿Qué has hecho hoy en la universidad? / Qu’as-tu fait aujourd’hui à l’université ?"
             type: "Grain ou élément de cours"
             volume: "30min"
@@ -1480,14 +1479,14 @@ years:
           - name: "La lucha contra el hambre / La lutte contre la faim"
             type: "Module"
             volume: "30min"
-            url: "http://certiflangues.univ-littoral.fr/modules/es-b2-2/" 
+            url: "http://certiflangues.univ-littoral.fr/modules/es-b2-2/"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Lenguas en actos / Langues en actes"
             type: "Cours complet"
             volume: "1h"
-            url: "https://uoh.fr/ressources/?fiche=ebb0257b-f91d-4bcc-bc57-edc38473b7bb" 
+            url: "https://uoh.fr/ressources/?fiche=ebb0257b-f91d-4bcc-bc57-edc38473b7bb"
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

@@ -14,10 +14,10 @@ years:
             volume: "1h15"
             url: "https://univ-cotedazur.fr/efelia-cote-dazur/formation-initiale/competences-transversales-ia-1"
             creationdate: "01/09/2026"
-            info: > 
-             Le premier chapitre de la compétence transversale « Grands défis sociétaux : 
-             Intelligence artificielle (IA) » (L1) se compose de 6 vidéos et d’un jeu de diapositives 
-             présentant les résultats scientifiques disponibles à ce jour sur l’impact de l’utilisation des outils d’IA sur l'apprentissage.          
+            info: >
+              Le premier chapitre de la compétence transversale « Grands défis sociétaux : 
+              Intelligence artificielle (IA) » (L1) se compose de 6 vidéos et d’un jeu de diapositives 
+              présentant les résultats scientifiques disponibles à ce jour sur l’impact de l’utilisation des outils d’IA sur l'apprentissage.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -27,7 +27,7 @@ years:
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-apprentissage.html"
             creationdate: "15/08/2026"
             info: >
-             Ce document recense et discute les résultats d’études à propos des effets de l’IA générative sur les apprentissages.            
+              Ce document recense et discute les résultats d’études à propos des effets de l’IA générative sur les apprentissages.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -36,9 +36,9 @@ years:
             volume: "16min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-memoires.html"
             creationdate: "15/08/2026"
-            info: > 
-             Ce document recense et discute les résultats d’études 
-             sur l’assistance de l’IA générative dans la rédaction de dissertations ou de mémoires académiques.          
+            info: >
+              Ce document recense et discute les résultats d’études 
+              sur l’assistance de l’IA générative dans la rédaction de dissertations ou de mémoires académiques.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -47,22 +47,22 @@ years:
             volume: "1h30"
             url: "https://www.ecologie.gouv.fr/etablissements-denseignement-superieur-sous-tutelle-du-ministere"
             creationdate: "01/07/2026"
-            info: > 
-             Cette page présente le réseau des 12 établissements d'enseignement supérieur 
-             sous tutelle du ministère chargé du développement durable, leurs formations, 
-             les passerelles entre écoles, et leurs récentes recommandations communes sur 
-             l'usage de l'IA en pédagogie.     
-            licence:                           
+            info: >
+              Cette page présente le réseau des 12 établissements d'enseignement supérieur 
+              sous tutelle du ministère chargé du développement durable, leurs formations, 
+              les passerelles entre écoles, et leurs récentes recommandations communes sur 
+              l'usage de l'IA en pédagogie.
+            licence:
               - name: "Citer l'auteur"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Atouts et limites des IA génératives pour la recherche documentaire"
             type: "Cours complet"
             volume: "1h15"
             url: "https://callisto-formation.fr/course/view.php?id=1107"
             creationdate: "12/06/2026"
-            info: > 
-             Ce court module a pour objectif de vous faire comprendre les atouts et 
-             limites de l’IA générative dans les différents types de recherche documentaire.          
+            info: >
+              Ce court module a pour objectif de vous faire comprendre les atouts et 
+              limites de l’IA générative dans les différents types de recherche documentaire.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -71,11 +71,11 @@ years:
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-07-formation-des-enseignants-et-des-formateurs-du-superieur-et-a-l"
             creationdate: "01/06/2026"
-            info: > 
-             Ce septième webinaire IA Sup a présenté les dispositifs de formation des enseignants du 
-             supérieur à l’IA, avec le MOOC national « Se former pour enseigner dans le supérieur », 
-             la construction de communs éducatifs en IA à l’Université Grenoble Alpes, et la nouvelle 
-             offre d’accompagnement pédagogique de l’Université de Bordeaux.         
+            info: >
+              Ce septième webinaire IA Sup a présenté les dispositifs de formation des enseignants du 
+              supérieur à l’IA, avec le MOOC national « Se former pour enseigner dans le supérieur », 
+              la construction de communs éducatifs en IA à l’Université Grenoble Alpes, et la nouvelle 
+              offre d’accompagnement pédagogique de l’Université de Bordeaux.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -84,12 +84,12 @@ years:
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-06-appropriations-disciplinaires-de-l-ia-en-lettres-et-langues"
             creationdate: "01/05/2026"
-            info: > 
-             Ce 6ème webinaire a exploré l'intégration de l'IA dans les formations en lettres, 
-             langues et sciences humaines, à travers les retours d'expérience de 
-             l'Université Sorbonne Nouvelle, du projet LinguIA de l'Université de Strasbourg, 
-             et de l'Inalco sur les usages de l'IA dans l'enseignement des langues et 
-             civilisations orientales.       
+            info: >
+              Ce 6ème webinaire a exploré l'intégration de l'IA dans les formations en lettres, 
+              langues et sciences humaines, à travers les retours d'expérience de 
+              l'Université Sorbonne Nouvelle, du projet LinguIA de l'Université de Strasbourg, 
+              et de l'Inalco sur les usages de l'IA dans l'enseignement des langues et 
+              civilisations orientales.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -98,9 +98,9 @@ years:
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-univ.html"
             creationdate: "01/03/2026"
-            info: > 
-             Ce document décrit les implications pour l’apprentissage et l’enseignement, 
-             principalement au niveau universitaire, des systèmes d'intelligence artificielle générative (GenIA).            
+            info: >
+              Ce document décrit les implications pour l’apprentissage et l’enseignement, 
+              principalement au niveau universitaire, des systèmes d'intelligence artificielle générative (GenIA).
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -110,18 +110,18 @@ years:
             url: "https://www.instantscience.fr/offre/escape-game-face-a-lia-kit-danimation/"
             creationdate: "01/01/2026"
             info: >
-             Escape game à partir de 12 ans clé en main sur le thème de l’intelligence artificielle, 
-             pour déconstruire certaines idées reçues sur les IA et comprendre leur fonctionnement            
+              Escape game à partir de 12 ans clé en main sur le thème de l’intelligence artificielle, 
+              pour déconstruire certaines idées reçues sur les IA et comprendre leur fonctionnement
             licence: []
           - name: "Référentiel de compétence de l'agir critique"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://zenodo.org/records/17872359"
             creationdate: "01/01/2026"
-            info: > 
-             Ce référentiel offre un cadre rigoureux et ouvert, ancré dans les 
-             compétences essentielles aux études postsecondaires afin de permettre 
-             aux apprenants d'exercer leur jugement.       
+            info: >
+              Ce référentiel offre un cadre rigoureux et ouvert, ancré dans les 
+              compétences essentielles aux études postsecondaires afin de permettre 
+              aux apprenants d'exercer leur jugement.
             licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
@@ -130,9 +130,9 @@ years:
             volume: "15min"
             url: "https://consignes-ia.rochane.fr/"
             creationdate: "01/01/2026"
-            info: > 
-             Des activités conçues par des enseignant·es pour mener en classe une réflexion critique sur 
-             les capacités et les limites de l'IA générative, dans toutes les disciplines.          
+            info: >
+              Des activités conçues par des enseignant·es pour mener en classe une réflexion critique sur 
+              les capacités et les limites de l'IA générative, dans toutes les disciplines.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -141,14 +141,14 @@ years:
             volume: "1h30"
             url: "https://pedagotheque.iutenligne.net/course/view.php?id=13"
             creationdate: "01/01/2026"
-            info: > 
-             La pédagothèque propose aux enseignants d'IUT un parcours de formation 
-             en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
-             d'IUT, pour comprendre le fonctionnement de l'intelligence 
-             artificielle générative, l'intégrer progressivement dans leurs 
-             pratiques pédagogiques et accompagner leurs étudiants vers un usage 
-             responsable et éclairé.      
-            licence:                           
+            info: >
+              La pédagothèque propose aux enseignants d'IUT un parcours de formation 
+              en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
+              d'IUT, pour comprendre le fonctionnement de l'intelligence 
+              artificielle générative, l'intégrer progressivement dans leurs 
+              pratiques pédagogiques et accompagner leurs étudiants vers un usage 
+              responsable et éclairé.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Guide d’usages de l’intelligence artificielle générative (IAg) pour des tâches pédagogiques en enseignement supérieur"
@@ -156,10 +156,10 @@ years:
             volume: "1h30"
             url: "https://boite-outils.bib.umontreal.ca/trouver-evaluer/iag"
             creationdate: "01/01/2026"
-            info: > 
-             Ce guide propose des repères pour une utilisation responsable des outils 
-             d’intelligence artificielle générative (IAg) en contexte académique.     
-            licence:                           
+            info: >
+              Ce guide propose des repères pour une utilisation responsable des outils 
+              d’intelligence artificielle générative (IAg) en contexte académique.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "L'IA, partenaire d'apprentissage : optimiser sans remplacer"
@@ -167,9 +167,9 @@ years:
             volume: "30min"
             url: "https://microlearning.aniti.fr/nugget/lia-partenaire-dapprentissage-optimiser-sans-remplacer/view/546fc60c-eff8-447b-bc17-2f59132c33cb#nugget_top"
             creationdate: "09/12/2025"
-            info: > 
-             Réflexion sur l'usage pédagogique de l'IA pour soutenir 
-             l'apprenant tout en évitant la dépendance et le déchargement cognitif.         
+            info: >
+              Réflexion sur l'usage pédagogique de l'IA pour soutenir 
+              l'apprenant tout en évitant la dépendance et le déchargement cognitif.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -178,65 +178,65 @@ years:
             volume: "3h"
             url: "https://www.fun-mooc.fr/en/cours/intelligence-artificielle-pour-et-par-les-enseignants-ai4t/"
             creationdate: "01/12/2025"
-            info: > 
-             Ce cours en ligne s’adresse aux enseignants et professionnels de l’éducation souhaitant 
-             comprendre le fonctionnement de l’intelligence artificielle et ses usages en contexte pédagogique.          
+            info: >
+              Ce cours en ligne s’adresse aux enseignants et professionnels de l’éducation souhaitant 
+              comprendre le fonctionnement de l’intelligence artificielle et ses usages en contexte pédagogique.
             licence:
               - name: "Citer l'auteur"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Enseigner avec l’Intelligence Artificielle Générative à l’Université"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://pedagogie.unicaen.fr/realisation/livre-blanc-enseigner-avec-lintelligence-artificielle-generative-a-luniversite/"
             creationdate: "01/12/2025"
-            info: > 
-             Ce livre blanc est à destination de toute personne en charge d'enseignement ou 
-             qui s'intéresse aux évolutions et aux grand enjeux de la pédagogie à l'heure 
-             des intelligences artificielles génératives.     
-            licence:                           
+            info: >
+              Ce livre blanc est à destination de toute personne en charge d'enseignement ou 
+              qui s'intéresse aux évolutions et aux grand enjeux de la pédagogie à l'heure 
+              des intelligences artificielles génératives.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"                                                                                  
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Metropedia"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://view.genially.com/68b15ef95d61ac2fc43c037c"
             creationdate: "01/09/2025"
-            info: > 
-             MétropédIA est une plateforme d’activités et de ressources 
-             pédagogiques à mobiliser pour aborder la thématique de 
-             l'intelligence artificielle (IA) avec les personnes étudiantes.       
-            licence: []            
+            info: >
+              MétropédIA est une plateforme d’activités et de ressources 
+              pédagogiques à mobiliser pour aborder la thématique de 
+              l'intelligence artificielle (IA) avec les personnes étudiantes.
+            licence: []
           - name: "Découverte de l’IA Générative pour la pédagogie dans l’enseignement supérieur"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://reliam.ensam.eu/server/api/core/bitstreams/50bb6ee4-0b45-4221-8961-15cc5e253ccf/content"
             creationdate: "01/02/2025"
-            info: > 
-             Ce  guide détaille l'utilisation de l'Intelligence Artificielle 
-             Générative (IAG) dans l'enseignement supérieur.       
+            info: >
+              Ce  guide détaille l'utilisation de l'Intelligence Artificielle 
+              Générative (IAG) dans l'enseignement supérieur.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Référentiel de compétences en IA pour les apprenants"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://unesdoc.unesco.org/ark:/48223/pf0000392652"
             creationdate: "01/01/2025"
-            info: > 
-             Ce référentiel est un guide pour intégrer 
-             l’intelligence artificielle dans les systèmes éducatifs.        
+            info: >
+              Ce référentiel est un guide pour intégrer 
+              l’intelligence artificielle dans les systèmes éducatifs.
             licence:
               - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"            
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
           - name: "Petits déjeuners IA au service de la pédagogie"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://aunege.fr/ressources/webinaires/"
             creationdate: "01/01/2024"
-            info: > 
-             Collection de webinaire organisés par L'Université Numérique Thématique 
-             Aunege sur la thématique de l'Intelligence artificielle au service de la pédagogie.       
-            licence: 
+            info: >
+              Collection de webinaire organisés par L'Université Numérique Thématique 
+              Aunege sur la thématique de l'Intelligence artificielle au service de la pédagogie.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
   - name: "Evaluer"
@@ -248,11 +248,11 @@ years:
             volume: "15min"
             url: "https://zenodo.org/records/22923385"
             creationdate: "23/09/2026"
-            info: > 
-             Ce coffre à outils rassemble des ressources pratiques pour accompagner le personnel enseignant 
-             universitaire dans l’adaptation des pratiques évaluatives à l’ère de l’intelligence artificielle 
-             générative (IAg). Il vise à prévenir la fraude tout en soutenant des évaluations authentiques, 
-             alignées sur les objectifs d’apprentissage et favorables au développement des compétences.         
+            info: >
+              Ce coffre à outils rassemble des ressources pratiques pour accompagner le personnel enseignant 
+              universitaire dans l’adaptation des pratiques évaluatives à l’ère de l’intelligence artificielle 
+              générative (IAg). Il vise à prévenir la fraude tout en soutenant des évaluations authentiques, 
+              alignées sur les objectifs d’apprentissage et favorables au développement des compétences.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -261,13 +261,13 @@ years:
             volume: "4h"
             url: "https://fichiers.numerique.gouv.fr/explorer/items/02e4edc5-6109-486a-aef6-998a88b031d4"
             creationdate: "01/09/2026"
-            info: > 
+            info: >
               Kit pédagogique destiné aux enseignants pour les accompagner dans 
               l’animation d’un atelier avec leurs étudiants autour des usages de l’IA 
               générative en contexte académique. Il propose une démarche permettant de faire 
               émerger les représentations et les usages des étudiants. L’objectif final est 
               de co-construire avec les étudiants un cadre d’usage de l’IA générative adapté au 
-              contexte du cours.          
+              contexte du cours.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -276,9 +276,9 @@ years:
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-eval.html"
             creationdate: "15/08/2026"
-            info: > 
-             Ce document détaille les changements à apporter aux procédures 
-             et travaux d’évaluation des compétences et connaissances à l’époque de l’IA générative.  
+            info: >
+              Ce document détaille les changements à apporter aux procédures 
+              et travaux d’évaluation des compétences et connaissances à l’époque de l’IA générative.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -287,9 +287,9 @@ years:
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-detect.html"
             creationdate: "15/08/2026"
-            info: > 
-             Ce document détaille le fonctionnement et les performances des systèmes de détection de 
-             l’usage de l’IA générative, les implications pédagogiques de leur usage, ainsi que les moyens de les contourner.           
+            info: >
+              Ce document détaille le fonctionnement et les performances des systèmes de détection de 
+              l’usage de l’IA générative, les implications pédagogiques de leur usage, ainsi que les moyens de les contourner.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -298,8 +298,8 @@ years:
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-steroides.html"
             creationdate: "15/08/2026"
-            info: > 
-             Ce document fait un parallèle entre le dopage physique et le dopage intellectuel (utilisant l’IA générative).          
+            info: >
+              Ce document fait un parallèle entre le dopage physique et le dopage intellectuel (utilisant l’IA générative).
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -308,11 +308,11 @@ years:
             volume: "15min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/exam-google.html"
             creationdate: "15/08/2026"
-            info: > 
-             Ce document donne quelques pistes pour élaborer des questions d’examen engageant 
-             les étudiants dans des processus de haut niveau, et pas uniquement du rappel. 
-             Elles peuvent être notamment utiles pour les examens à distance et en ligne. 
-             Il est adapté de deux billets de blog de David Smith.           
+            info: >
+              Ce document donne quelques pistes pour élaborer des questions d’examen engageant 
+              les étudiants dans des processus de haut niveau, et pas uniquement du rappel. 
+              Elles peuvent être notamment utiles pour les examens à distance et en ligne. 
+              Il est adapté de deux billets de blog de David Smith.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -321,12 +321,12 @@ years:
             volume: "1h30"
             url: "https://www.ecologie.gouv.fr/etablissements-denseignement-superieur-sous-tutelle-du-ministere"
             creationdate: "01/07/2026"
-            info: > 
-             Cette page présente le réseau des 12 établissements d'enseignement supérieur 
-             sous tutelle du ministère chargé du développement durable, leurs formations, 
-             les passerelles entre écoles, et leurs récentes recommandations communes sur 
-             l'usage de l'IA en pédagogie.     
-            licence:                           
+            info: >
+              Cette page présente le réseau des 12 établissements d'enseignement supérieur 
+              sous tutelle du ministère chargé du développement durable, leurs formations, 
+              les passerelles entre écoles, et leurs récentes recommandations communes sur 
+              l'usage de l'IA en pédagogie.
+            licence:
               - name: "Citer l'auteur"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "Évaluer à l'ère de l'IAg : coffre à outils pour le personnel enseignant."
@@ -334,24 +334,24 @@ years:
             volume: "1h30"
             url: "https://zenodo.org/records/20089705"
             creationdate: "01/05/2026"
-            info: > 
-             Ce coffre à outils rassemble des ressources pratiques pour accompagner 
-             le personnel enseignant universitaire dans l’adaptation des pratiques 
-             évaluatives à l’ère de l’intelligence artificielle générative (IAg)     
-            licence:                           
+            info: >
+              Ce coffre à outils rassemble des ressources pratiques pour accompagner 
+              le personnel enseignant universitaire dans l’adaptation des pratiques 
+              évaluatives à l’ère de l’intelligence artificielle générative (IAg)
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"         
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Appropriations disciplinaires de l’IA en Lettres et Langues"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-06-appropriations-disciplinaires-de-l-ia-en-lettres-et-langues"
             creationdate: "01/05/2026"
-            info: > 
-             Ce 6ème webinaire a exploré l'intégration de l'IA dans les formations en lettres, 
-             langues et sciences humaines, à travers les retours d'expérience de 
-             l'Université Sorbonne Nouvelle, du projet LinguIA de l'Université de Strasbourg, 
-             et de l'Inalco sur les usages de l'IA dans l'enseignement des langues et 
-             civilisations orientales.       
+            info: >
+              Ce 6ème webinaire a exploré l'intégration de l'IA dans les formations en lettres, 
+              langues et sciences humaines, à travers les retours d'expérience de 
+              l'Université Sorbonne Nouvelle, du projet LinguIA de l'Université de Strasbourg, 
+              et de l'Inalco sur les usages de l'IA dans l'enseignement des langues et 
+              civilisations orientales.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -360,10 +360,10 @@ years:
             volume: "15min"
             url: "https://ialliance.ch/charte-ia-classe/"
             creationdate: "01/01/2026"
-            info: > 
-             Une démarche guidée pour définir, avec clarté et en quelques étapes, 
-             la place de l'intelligence artificielle dans votre cours — et produire trois 
-             documents prêts à l'emploi : une charte d'usage, une déclaration sur l'honneur et un journal de bord pour les étudiant·e·s.          
+            info: >
+              Une démarche guidée pour définir, avec clarté et en quelques étapes, 
+              la place de l'intelligence artificielle dans votre cours — et produire trois 
+              documents prêts à l'emploi : une charte d'usage, une déclaration sur l'honneur et un journal de bord pour les étudiant·e·s.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -372,14 +372,14 @@ years:
             volume: "1h30"
             url: "https://pedagotheque.iutenligne.net/course/view.php?id=13"
             creationdate: "01/01/2026"
-            info: > 
-             La pédagothèque propose aux enseignants d'IUT un parcours de formation 
-             en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
-             d'IUT, pour comprendre le fonctionnement de l'intelligence 
-             artificielle générative, l'intégrer progressivement dans leurs 
-             pratiques pédagogiques et accompagner leurs étudiants vers un usage 
-             responsable et éclairé.      
-            licence:                           
+            info: >
+              La pédagothèque propose aux enseignants d'IUT un parcours de formation 
+              en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
+              d'IUT, pour comprendre le fonctionnement de l'intelligence 
+              artificielle générative, l'intégrer progressivement dans leurs 
+              pratiques pédagogiques et accompagner leurs étudiants vers un usage 
+              responsable et éclairé.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Guide d’usages de l’intelligence artificielle générative (IAg) pour des tâches pédagogiques en enseignement supérieur"
@@ -387,10 +387,10 @@ years:
             volume: "1h30"
             url: "https://boite-outils.bib.umontreal.ca/trouver-evaluer/iag"
             creationdate: "01/01/2026"
-            info: > 
-             Ce guide propose des repères pour une utilisation responsable des outils 
-             d’intelligence artificielle générative (IAg) en contexte académique.     
-            licence:                           
+            info: >
+              Ce guide propose des repères pour une utilisation responsable des outils 
+              d’intelligence artificielle générative (IAg) en contexte académique.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Enseigner avec l’Intelligence Artificielle Générative à l’Université"
@@ -398,26 +398,26 @@ years:
             volume: "1h30"
             url: "https://pedagogie.unicaen.fr/realisation/livre-blanc-enseigner-avec-lintelligence-artificielle-generative-a-luniversite/"
             creationdate: "01/12/2025"
-            info: > 
-             Ce livre blanc est à destination de toute personne en charge d'enseignement ou 
-             qui s'intéresse aux évolutions et aux grand enjeux de la pédagogie à l'heure 
-             des intelligences artificielles génératives.     
-            licence:                           
+            info: >
+              Ce livre blanc est à destination de toute personne en charge d'enseignement ou 
+              qui s'intéresse aux évolutions et aux grand enjeux de la pédagogie à l'heure 
+              des intelligences artificielles génératives.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Impact de l’IA sur les pratiques d’évaluation"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-03-impact-de-l-ia-sur-les-pratiques-d-evaluation"
             creationdate: "01/12/2025"
-            info: > 
-             Ce 3ème webinaire a porté sur l'évolution des pratiques d'évaluation à l'ère 
-             de l'IA générative, passant d'un cadrage punitif à un cadrage pédagogique, 
-             avec la présentation du modèle PRAX-IA (Université de Lausanne), des balises 
-             IA de l'Université de Sherbrooke, et des retours d'expérience sur 
-             l'appropriation disciplinaire de l'IA en sciences de gestion 
-             (IAE de Montpellier et d'Aix).   
-            licence:                           
+            info: >
+              Ce 3ème webinaire a porté sur l'évolution des pratiques d'évaluation à l'ère 
+              de l'IA générative, passant d'un cadrage punitif à un cadrage pédagogique, 
+              avec la présentation du modèle PRAX-IA (Université de Lausanne), des balises 
+              IA de l'Université de Sherbrooke, et des retours d'expérience sur 
+              l'appropriation disciplinaire de l'IA en sciences de gestion 
+              (IAE de Montpellier et d'Aix).
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Découverte de l’IA Générative pour la pédagogie dans l’enseignement supérieur"
@@ -425,9 +425,9 @@ years:
             volume: "1h"
             url: "https://reliam.ensam.eu/server/api/core/bitstreams/50bb6ee4-0b45-4221-8961-15cc5e253ccf/content"
             creationdate: "01/02/2025"
-            info: > 
-             Ce  guide détaille l'utilisation de l'Intelligence Artificielle 
-             Générative (IAG) dans l'enseignement supérieur.       
+            info: >
+              Ce  guide détaille l'utilisation de l'Intelligence Artificielle 
+              Générative (IAG) dans l'enseignement supérieur.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
@@ -436,11 +436,11 @@ years:
             volume: "1h"
             url: "https://ialliance.ch/prax-ia/"
             creationdate: "01/12/2024"
-            info: > 
-             L'outil PRAX-IA propose un cadre pour aider les enseignants à 
-             analyser les évaluations vulnérables, définir des règles d’usage de l’IA, 
-             développer les compétences nécessaires et élaborer des conditions adaptées.   
-            licence:                           
+            info: >
+              L'outil PRAX-IA propose un cadre pour aider les enseignants à 
+              analyser les évaluations vulnérables, définir des règles d’usage de l’IA, 
+              développer les compétences nécessaires et élaborer des conditions adaptées.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "IA générative et évaluation pédagogique"
@@ -448,21 +448,21 @@ years:
             volume: "1h"
             url: "https://edunumrech.hypotheses.org/13397"
             creationdate: "01/11/2024"
-            info: > 
-             Un webinaire destiné aux enseignants et acteurs de l’éducation, 
-             sur l’utilisation des IA génératives dans l’évaluation pédagogique.   
-            licence:                           
+            info: >
+              Un webinaire destiné aux enseignants et acteurs de l’éducation, 
+              sur l’utilisation des IA génératives dans l’évaluation pédagogique.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Repenser ses évaluations à l’heure des IA Génératives"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://sup-ubs.fr/documentation/ia-generatives-repenser-ses-evaluations-enseignement-superieur/"
             creationdate: "01/03/2024"
-            info: > 
-             Cet article aide les enseignants à comprendre les enjeux des intelligences artificielles 
-             génératives (IAGs) dans l’éducation et à repenser leurs évaluations.   
-            licence:                           
+            info: >
+              Cet article aide les enseignants à comprendre les enjeux des intelligences artificielles 
+              génératives (IAGs) dans l’éducation et à repenser leurs évaluations.
+            licence:
               - name: "Citer l'auteur - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-sa.svg"
           - name: "Petits déjeuners IA au service de la pédagogie"
@@ -470,10 +470,10 @@ years:
             volume: "1h"
             url: "https://aunege.fr/ressources/webinaires/"
             creationdate: "01/01/2024"
-            info: > 
-             Collection de webinaire organisés par L'Université Numérique Thématique 
-             Aunege sur la thématique de l'Intelligence artificielle au service de la pédagogie.       
-            licence: 
+            info: >
+              Collection de webinaire organisés par L'Université Numérique Thématique 
+              Aunege sur la thématique de l'Intelligence artificielle au service de la pédagogie.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Balises d’utilisation des outils d’Intelligence artificielle générative"
@@ -481,12 +481,12 @@ years:
             volume: "1h"
             url: "https://www.usherbrooke.ca/ssf/enseignement/intelligence-artificielle-ia/outils/balises-dutilisation-des-outils-diag"
             creationdate: "01/01/2024"
-            info: > 
-             Cet outil permet d'encadrer l’usage des outils d’intelligence 
-             artificielle générative (IAg) dans les cours.   
-            licence:                           
+            info: >
+              Cet outil permet d'encadrer l’usage des outils d’intelligence 
+              artificielle générative (IAg) dans les cours.
+            licence:
               - name: "Citer l'auteur"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"                                                                                 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
   - name: "Repenser son enseignement"
     ue:
       - name: "Repenser son enseignement"
@@ -496,22 +496,22 @@ years:
             volume: "1h"
             url: "https://enseigner.u-bordeaux.fr/outils-ressources-communaute/IAG"
             creationdate: "01/07/2026"
-            info: > 
-             L’Université de Bordeaux met à disposition , un ensemble de ressources pédagogiques, 
-             de formations et de contenus (guides, podcasts, replays) pour comprendre le fonctionnement 
-             de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
-             les pratiques d’enseignement et d’évaluation.        
+            info: >
+              L’Université de Bordeaux met à disposition , un ensemble de ressources pédagogiques, 
+              de formations et de contenus (guides, podcasts, replays) pour comprendre le fonctionnement 
+              de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
+              les pratiques d’enseignement et d’évaluation.
             licence:
           - name: "Formation des enseignants et des formateurs du supérieur et à l’accompagnement du geste enseignant"
             type: "Grain ou élément de cours"
             volume: "1h30"
             url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-07-formation-des-enseignants-et-des-formateurs-du-superieur-et-a-l"
             creationdate: "01/06/2026"
-            info: > 
-             Ce septième webinaire IA Sup a présenté les dispositifs de formation des enseignants du s
-             upérieur à l’IA, avec le MOOC national « Se former pour enseigner dans le supérieur », 
-             la construction de communs éducatifs en IA à l’Université Grenoble Alpes, et la nouvelle 
-             offre d’accompagnement pédagogique de l’Université de Bordeaux.         
+            info: >
+              Ce septième webinaire IA Sup a présenté les dispositifs de formation des enseignants du s
+              upérieur à l’IA, avec le MOOC national « Se former pour enseigner dans le supérieur », 
+              la construction de communs éducatifs en IA à l’Université Grenoble Alpes, et la nouvelle 
+              offre d’accompagnement pédagogique de l’Université de Bordeaux.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
@@ -520,9 +520,9 @@ years:
             volume: "7min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/genia-restruct-ens.html"
             creationdate: "01/04/2026"
-            info: > 
+            info: >
               Ce document détaille une procédure pour restructurer et repenser les 
-              enseignements à l’époque de l’IA générative, aux niveaux micro, meso et macro.            
+              enseignements à l’époque de l’IA générative, aux niveaux micro, meso et macro.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -531,9 +531,9 @@ years:
             volume: "10min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-peda.html"
             creationdate: "01/03/2026"
-            info: > 
-             Ce document décrit quelques usages pédagogiques de systèmes 
-             d’intelligence artificielle générative - GenIA - à l’université.          
+            info: >
+              Ce document décrit quelques usages pédagogiques de systèmes 
+              d’intelligence artificielle générative - GenIA - à l’université.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -542,8 +542,8 @@ years:
             volume: "10min"
             url: "https://inspe-sciedu.gricad-pages.univ-grenoble-alpes.fr/genia/ia-gen-id.html"
             creationdate: "01/03/2026"
-            info: > 
-             Ce document détaille l’utilisation de l’IA générative pour des tâches d’ingénierie pédagogique.          
+            info: >
+              Ce document détaille l’utilisation de l’IA générative pour des tâches d’ingénierie pédagogique.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -552,10 +552,10 @@ years:
             volume: "15min"
             url: "https://ialliance.ch/charte-ia-classe/"
             creationdate: "01/01/2026"
-            info: > 
-             Une démarche guidée pour définir, avec clarté et en quelques étapes, 
-             la place de l'intelligence artificielle dans votre cours — et produire trois 
-             documents prêts à l'emploi : une charte d'usage, une déclaration sur l'honneur et un journal de bord pour les étudiant·e·s.          
+            info: >
+              Une démarche guidée pour définir, avec clarté et en quelques étapes, 
+              la place de l'intelligence artificielle dans votre cours — et produire trois 
+              documents prêts à l'emploi : une charte d'usage, une déclaration sur l'honneur et un journal de bord pour les étudiant·e·s.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -564,9 +564,9 @@ years:
             volume: "15min"
             url: "https://consignes-ia.rochane.fr/"
             creationdate: "01/01/2026"
-            info: > 
-             Des activités conçues par des enseignant·es pour mener en classe une réflexion critique sur 
-             les capacités et les limites de l'IA générative, dans toutes les disciplines.          
+            info: >
+              Des activités conçues par des enseignant·es pour mener en classe une réflexion critique sur 
+              les capacités et les limites de l'IA générative, dans toutes les disciplines.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
@@ -575,14 +575,14 @@ years:
             volume: "1h30"
             url: "https://pedagotheque.iutenligne.net/course/view.php?id=13"
             creationdate: "01/01/2026"
-            info: > 
-             La pédagothèque propose aux enseignants d'IUT un parcours de formation 
-             en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
-             d'IUT, pour comprendre le fonctionnement de l'intelligence 
-             artificielle générative, l'intégrer progressivement dans leurs 
-             pratiques pédagogiques et accompagner leurs étudiants vers un usage 
-             responsable et éclairé.      
-            licence:                           
+            info: >
+              La pédagothèque propose aux enseignants d'IUT un parcours de formation 
+              en 4 ateliers, conçu par le réseau des ingénieurs et conseillers pédagogiques 
+              d'IUT, pour comprendre le fonctionnement de l'intelligence 
+              artificielle générative, l'intégrer progressivement dans leurs 
+              pratiques pédagogiques et accompagner leurs étudiants vers un usage 
+              responsable et éclairé.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Enseigner avec l’Intelligence Artificielle Générative à l’Université"
@@ -590,32 +590,32 @@ years:
             volume: "1h30"
             url: "https://pedagogie.unicaen.fr/realisation/livre-blanc-enseigner-avec-lintelligence-artificielle-generative-a-luniversite/"
             creationdate: "01/12/2025"
-            info: > 
-             Ce livre blanc est à destination de toute personne en charge d'enseignement ou 
-             qui s'intéresse aux évolutions et aux grand enjeux de la pédagogie à l'heure 
-             des intelligences artificielles génératives.     
-            licence:                           
+            info: >
+              Ce livre blanc est à destination de toute personne en charge d'enseignement ou 
+              qui s'intéresse aux évolutions et aux grand enjeux de la pédagogie à l'heure 
+              des intelligences artificielles génératives.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"         
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Découverte de l’IA Générative pour la pédagogie dans l’enseignement supérieur"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://reliam.ensam.eu/server/api/core/bitstreams/50bb6ee4-0b45-4221-8961-15cc5e253ccf/content"
             creationdate: "01/02/2025"
-            info: > 
-             Ce  guide détaille l'utilisation de l'Intelligence Artificielle 
-             Générative (IAG) dans l'enseignement supérieur.       
+            info: >
+              Ce  guide détaille l'utilisation de l'Intelligence Artificielle 
+              Générative (IAG) dans l'enseignement supérieur.
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Petits déjeuners IA au service de la pédagogie"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://aunege.fr/ressources/webinaires/"
             creationdate: "01/01/2024"
-            info: > 
-             Collection de webinaire organisés par L'Université Numérique Thématique 
-             Aunege sur la thématique de l'Intelligence artificielle au service de la pédagogie.       
-            licence: 
+            info: >
+              Collection de webinaire organisés par L'Université Numérique Thématique 
+              Aunege sur la thématique de l'Intelligence artificielle au service de la pédagogie.
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"

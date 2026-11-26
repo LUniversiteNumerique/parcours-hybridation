@@ -97,13 +97,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
       - name: "Arabe"
         resources:
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #     - name: "Consolidation des acquis en arabe littéral"
+      #       type: "Cours complet"
+      #       volume: "70h"
+      #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+      #       licence:
+      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Russe"
         resources:
           - name: "Grammaire pratique du russe"
@@ -194,4 +194,3 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-                

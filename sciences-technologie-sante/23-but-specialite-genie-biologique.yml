@@ -44,13 +44,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Chimie organique"
         resources:
-  #        - name: "Chimie organique"
-  #          type: "Cours complet"
-  #          volume: "21h"
-  #          url: "https://www.iutenligne.net/profile/4441/dominique-blondeau"
-  #          licence:
-  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #        - name: "Chimie organique"
+      #          type: "Cours complet"
+      #          volume: "21h"
+      #          url: "https://www.iutenligne.net/profile/4441/dominique-blondeau"
+      #          licence:
+      #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Chimie"
         resources:
           - name: "Bases de chimie"
@@ -60,13 +60,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Chimie des solutions"
-     #       type: "TP, exercice, quiz"
-     #       volume: "5h"
-     #       url: "https://www.iutenligne.net/catalog/quizs/equilibre-acide-base"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Chimie des solutions"
+          #       type: "TP, exercice, quiz"
+          #       volume: "5h"
+          #       url: "https://www.iutenligne.net/catalog/quizs/equilibre-acide-base"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Montage de TP de chimie"
             type: "TP, exercice, quiz"
             volume: "2h"
@@ -260,7 +260,7 @@ years:
             type: "Cours complet"
             volume: "20h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=929"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Algèbre 2"
@@ -370,27 +370,27 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Bureautique Excel et Word"
-   #         type: "TP, exercice, quiz"
-   #         volume: "1h"
-   #         url: "https://www.iutenligne.net/profile/5828/xavier-pumin"
-   #         licence:
-   #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-   #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #       - name: "Bureautique Excel et Word"
+          #         type: "TP, exercice, quiz"
+          #         volume: "1h"
+          #         url: "https://www.iutenligne.net/profile/5828/xavier-pumin"
+          #         licence:
+          #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Word"
             type: "Cours complet"
             volume: "60h"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=372"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-      #    - name: "Bureautique Excel et Word"
-      #      type: "Grain ou élément de cours"
-      #      volume: "4h"
-      #      url: "https://www.iutenligne.net/profile/9303/julien-morice"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #    - name: "Bureautique Excel et Word"
+          #      type: "Grain ou élément de cours"
+          #      volume: "4h"
+          #      url: "https://www.iutenligne.net/profile/9303/julien-morice"
+          #      licence:
+          #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "PowerPoint 2010"
             type: "Cours complet"
             volume: "5h"
@@ -412,8 +412,8 @@ years:
             volume: "8h"
             url: "https://public.iutenligne.net/stage/bezelgues/cours-stage/html/Cours_Stage/general/index.html"
             licence:
-             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Le CV et la lettre de motivation"
             type: "Module"
             volume: "3h"
@@ -442,13 +442,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Le téléphone, un outil professionnel : compléments"
-       #     type: "Grain ou élément de cours"
-       #     volume: "2h"
-       #     url: "https://prive.iutenligne.net/EH34UukHZxuln4i4/communication/breistroff/telephone-comp1/index.html"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #   - name: "Le téléphone, un outil professionnel : compléments"
+          #     type: "Grain ou élément de cours"
+          #     volume: "2h"
+          #     url: "https://prive.iutenligne.net/EH34UukHZxuln4i4/communication/breistroff/telephone-comp1/index.html"
+          #     licence:
+          #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Structurer son discours"
             type: "Module"
             volume: "5h"
@@ -477,29 +477,29 @@ years:
       #      licence:
       #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
       #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Le téléphone : un outil professionnel, progressez"
-     #       type: "Grain ou élément de cours"
-     #       volume: "1h30"
-     #       url: "https://prive.iutenligne.net/M7lHXCLOyyP3WV6I/communication/breistroff/telephone-progressez/index.html"
-     #       licence:
-     #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #     - name: "Le téléphone : un outil professionnel, progressez"
+      #       type: "Grain ou élément de cours"
+      #       volume: "1h30"
+      #       url: "https://prive.iutenligne.net/M7lHXCLOyyP3WV6I/communication/breistroff/telephone-progressez/index.html"
+      #       licence:
+      #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Professionnel Personnalisé"
         resources:
-    #      - name: "Projet professionnel personnalisé"
-    #        type: "Module"
-    #        volume: "2h"
-    #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Projet professionnel personnalisé : connaissance de soi"
-       #     type: "Module"
-       #     volume: "13h30"
-       #     url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #      - name: "Projet professionnel personnalisé"
+          #        type: "Module"
+          #        volume: "2h"
+          #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #   - name: "Projet professionnel personnalisé : connaissance de soi"
+          #     type: "Module"
+          #     volume: "13h30"
+          #     url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+          #     licence:
+          #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Savoir gérer un projet"
             type: "Module"
             volume: "2h"
@@ -615,7 +615,7 @@ years:
             type: "TP, exercice, quiz"
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
-            licence: 
+            licence:
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -637,13 +637,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-    #      - name: "Rechercher de l'information"
-    #        type: "Cours complet"
-    #        volume: "5h15"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #      - name: "Rechercher de l'information"
+          #        type: "Cours complet"
+          #        volume: "5h15"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -676,7 +676,7 @@ years:
             type: "Cours complet"
             volume: "4h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=13"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Préparer et passer ses examens"
@@ -711,7 +711,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
@@ -910,8 +910,8 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name : "Rédiger un compte-rendu de travaux pratiques scientifiques"
-            type : "Grain ou élèment de cours"
+          - name: "Rédiger un compte-rendu de travaux pratiques scientifiques"
+            type: "Grain ou élèment de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1084"
             licence:
@@ -921,7 +921,7 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1078"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
 
@@ -1139,13 +1139,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Gestion-Comptabilité"
         resources:
-     #     - name: "Cours de Gestion et Comptabilité"
-     #       type: "Cours complet"
-     #       volume: "20h"
-     #       url: "https://www.iutenligne.net/profile/4415/daniel-antraigue"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #     - name: "Cours de Gestion et Comptabilité"
+      #       type: "Cours complet"
+      #       volume: "20h"
+      #       url: "https://www.iutenligne.net/profile/4415/daniel-antraigue"
+      #       licence:
+      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Physique Électrotechnique"
         resources:
           - name: "Poutres Longues : Forces intérieures"
@@ -1227,13 +1227,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Professionnel Personnalisé"
         resources:
-   #       - name: "Projet professionnel personnalisé"
-   #         type: "Module"
-   #         volume: "2h"
-   #         url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-   #         licence:
-   #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-   #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #       - name: "Projet professionnel personnalisé"
+          #         type: "Module"
+          #         volume: "2h"
+          #         url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #         licence:
+          #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rapport ou mémoire de stage"
             type: "Cours complet"
             volume: "3h"
@@ -1262,13 +1262,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
-   #         type: "Module"
-   #         volume: "4h"
-   #         url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
-   #         licence:
-   #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-   #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #       - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
+          #         type: "Module"
+          #         volume: "4h"
+          #         url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
+          #         licence:
+          #           - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #             image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Collection « savoir dire pour savoir penser »"
             type: "Cours complet"
             volume: "12h"
@@ -1325,8 +1325,8 @@ years:
             volume: "10h"
             url: "https://www.fun-mooc.fr/fr/cours/conduite-de-reunion-en-anglais/"
             licence:
-                - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                  image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Unlock your english"
             type: "MOOC"
             volume: "15h"

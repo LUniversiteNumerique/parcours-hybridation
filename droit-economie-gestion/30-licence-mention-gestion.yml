@@ -1,13 +1,13 @@
 id: 30
 name: "Licence mention gestion"
 description: |
- Ce parcours type propre des ressources éducatives libres permettant de dispenser les enseignements fondamentaux de gestion,
- afin d’offrir aux étudiants les connaissances nécessaires pour comprendre la situation et les décisions de l’entreprise dans son environnement politique,
- juridique, économique et culturel, et aussi de connaître le fonctionnement des organisations et les outils de leur gestion.
- Les enseignements sont dispensés notamment par des UFR d’Economie-Gestion, dont les enseignements commencent en 1ère année de licence
- et par des Instituts d’Administration des Entreprises, dont les enseignements peuvent commencer en 1ère année de licence (quelques-uns),
- en 2ème année (peu), en 3ème année (beaucoup) ou en 1ère année de Master (très peu).
- La répartition des cours selon les années peut donc varier entre les différentes composantes des différentes universités.
+  Ce parcours type propre des ressources éducatives libres permettant de dispenser les enseignements fondamentaux de gestion,
+  afin d’offrir aux étudiants les connaissances nécessaires pour comprendre la situation et les décisions de l’entreprise dans son environnement politique,
+  juridique, économique et culturel, et aussi de connaître le fonctionnement des organisations et les outils de leur gestion.
+  Les enseignements sont dispensés notamment par des UFR d’Economie-Gestion, dont les enseignements commencent en 1ère année de licence
+  et par des Instituts d’Administration des Entreprises, dont les enseignements peuvent commencer en 1ère année de licence (quelques-uns),
+  en 2ème année (peu), en 3ème année (beaucoup) ou en 1ère année de Master (très peu).
+  La répartition des cours selon les années peut donc varier entre les différentes composantes des différentes universités.
 
 years:
   - name: "1ère année"
@@ -218,13 +218,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
@@ -267,13 +267,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-    #      - name: "Rechercher de l'information"
-    #        type: "Cours complet"
-    #        volume: "5h15"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #      - name: "Rechercher de l'information"
+          #        type: "Cours complet"
+          #        volume: "5h15"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -834,13 +834,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
