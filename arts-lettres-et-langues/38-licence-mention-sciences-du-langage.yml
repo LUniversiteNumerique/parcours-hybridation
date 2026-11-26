@@ -109,13 +109,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
@@ -158,13 +158,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-    #      - name: "Rechercher de l'information"
-    #        type: "Cours complet"
-    #        volume: "5h15"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #      - name: "Rechercher de l'information"
+          #        type: "Cours complet"
+          #        volume: "5h15"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -225,7 +225,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Se relire efficacement"
@@ -542,13 +542,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"
@@ -729,13 +729,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Textométrie pour le texte littéraire : le logiciel hyperbase"
-     #       type: "Cours complet"
-     #       volume: "60h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=a17612b3-8ef3-43c5-b5ad-d01dd52e97dc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #     - name: "Textométrie pour le texte littéraire : le logiciel hyperbase"
+      #       type: "Cours complet"
+      #       volume: "60h"
+      #       url: "https://uoh.fr/front/noticefr/?uuid=a17612b3-8ef3-43c5-b5ad-d01dd52e97dc"
+      #       licence:
+      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Langues étrangères"
         resources:
           - name: "Certif’langues – anglais"
@@ -794,13 +794,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Consolidation des acquis en arabe littéral"
-     #       type: "Cours complet"
-     #       volume: "70h"
-     #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Consolidation des acquis en arabe littéral"
+          #       type: "Cours complet"
+          #       volume: "70h"
+          #       url: "https://uoh.fr/front/noticefr/?uuid=2d736415-1f5b-4671-a1d2-80b7ceb727fc"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Grammaire pratique du russe"
             type: "Cours complet"
             volume: "30h"

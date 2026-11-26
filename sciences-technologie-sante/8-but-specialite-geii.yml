@@ -231,20 +231,20 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Électronique Numérique – électrotechnique – automatisme"
         resources:
-      #    - name: "Représentation de l’information en binaire : nombres entiers signés/non signés"
-      #      type: "Module"
-      #      volume: "1h"
-      #      url: "https://prive.iutenligne.net/xhi76e9lDyULJyag/informatique/architecture-systeme-d-exploitation/peuch/binaire/general/index.html"
-      #      licence:
-      #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-      #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-      #    - name: "Représentation de l'information en binaire : les nombres réels"
-     #       type: "Module"
-     #       volume: "1h"
-     #       url: "https://prive.iutenligne.net/xhi76e9lDyULJyag/informatique/architecture-systeme-d-exploitation/peuch/R2-STI/general/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #    - name: "Représentation de l’information en binaire : nombres entiers signés/non signés"
+          #      type: "Module"
+          #      volume: "1h"
+          #      url: "https://prive.iutenligne.net/xhi76e9lDyULJyag/informatique/architecture-systeme-d-exploitation/peuch/binaire/general/index.html"
+          #      licence:
+          #        - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #          image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #    - name: "Représentation de l'information en binaire : les nombres réels"
+          #       type: "Module"
+          #       volume: "1h"
+          #       url: "https://prive.iutenligne.net/xhi76e9lDyULJyag/informatique/architecture-systeme-d-exploitation/peuch/R2-STI/general/index.html"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Électronique numérique"
             type: "Cours complet"
             volume: "5h"
@@ -310,11 +310,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Simulateur de Microcontroleur PIC18 (version anglaise)"
             type: "TD, étude de cas"
             volume: "1h"
@@ -329,11 +324,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
           - name: "Programmation objet : premiers pas en Java"
             type: "MOOC"
             volume: "35h"
@@ -373,11 +363,6 @@ years:
             type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
-            licence:
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
           - name: "Cfacile : Introduction au langage C"
             type: "Cours complet"
@@ -450,13 +435,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-    #      - name: "Fondamentaux des réseaux"
-    #        type: "Cours complet"
-    #        volume: "5h"
-    #        url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/lohier/reseaux_fondamentaux/index.html"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #      - name: "Fondamentaux des réseaux"
+      #        type: "Cours complet"
+      #        volume: "5h"
+      #        url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/lohier/reseaux_fondamentaux/index.html"
+      #        licence:
+      #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Mathématiques"
         resources:
           - name: "Mathématiques 1"
@@ -837,7 +822,7 @@ years:
             url: "https://www.iutenligne.net/resources.html?text=analyser+pour+communiquer&diplome=All&domaines=38262&ct=1&title=analyser+pour+communiquer&resume=&keywords="
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"       
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Collection « savoir dire pour savoir penser »"
             type: "Cours complet"
             volume: "12h"
@@ -870,20 +855,20 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Professionnel Personnalisé"
         resources:
-    #      - name: "Projet professionnel personnalisé"
-    #        type: "Module"
-    #        volume: "2h"
-    #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Projet professionnel personnalisé : connaissance de soi"
-     #       type: "Module"
-     #       volume: "13h30"
-     #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #      - name: "Projet professionnel personnalisé"
+          #        type: "Module"
+          #        volume: "2h"
+          #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Projet professionnel personnalisé : connaissance de soi"
+          #       type: "Module"
+          #       volume: "13h30"
+          #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Savoir gérer un projet"
             type: "Module"
             volume: "2h"
@@ -1007,13 +992,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-    #      - name: "Rechercher de l'information"
-    #        type: "Cours complet"
-    #        volume: "5h15"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #      - name: "Rechercher de l'information"
+          #        type: "Cours complet"
+          #        volume: "5h15"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -1081,7 +1066,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
@@ -1287,8 +1272,8 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name : "Rédiger un compte-rendu de travaux pratiques scientifiques"
-            type : "Grain ou élèment de cours"
+          - name: "Rédiger un compte-rendu de travaux pratiques scientifiques"
+            type: "Grain ou élèment de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1084"
             licence:
@@ -1312,16 +1297,16 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1078"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rédiger une bibliographie (norme IEEE)"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1080"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
   - name: "2ème année"
     ue:
       - name: "Études et réalisation d’ensembles pluritechnologiques"
@@ -1450,14 +1435,14 @@ years:
             type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=992"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Introduction à Python"
             type: "Cours complet"
             volume: "30h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1019"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "Développement de pages web dynamiques et introduction aux bases de données"
@@ -1502,18 +1487,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
-    #      - name: "Réseaux de Communications Industriels"
-    #        type: "Cours complet"
-    #        volume: "21h"
-    #        url: "https://prive.iutenligne.net/ewMARhAJ9mPPzQqw/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #      - name: "Réseaux de Communications Industriels"
+          #        type: "Cours complet"
+          #        volume: "21h"
+          #        url: "https://prive.iutenligne.net/ewMARhAJ9mPPzQqw/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Interfaces utilisateur et rapports statistiques avec R et Sas"
             type: "Module"
             volume: "5h"
@@ -1542,11 +1522,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
           - name: "Cours et travaux pratiques de Langage C++"
             type: "Module"
             volume: "17h"
@@ -1818,13 +1793,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Expression-communication"
         resources:
-  #        - name: "Du bilan au stage ou à l'emploi : 4 étapes en formes de fiches"
-  #          type: "Module"
-  #          volume: "4h"
-  #          url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
-  #          licence:
-  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #        - name: "Du bilan au stage ou à l'emploi : 4 étapes en formes de fiches"
+          #          type: "Module"
+          #          volume: "4h"
+          #          url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
+          #          licence:
+          #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rapport ou mémoire de stage"
             type: "Cours complet"
             volume: "3h"

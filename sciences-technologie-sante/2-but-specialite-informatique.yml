@@ -26,16 +26,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Données et algorithmes"
             type: "MOOC"
             volume: "18h"
@@ -75,11 +65,6 @@ years:
             type: "Cours complet"
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
-            licence:
-          - name: "Analyse numérique"
-            type: "MOOC"
-            volume: "56h"
-            url: "https://www.fun-campus.fr/fr/cours/analyse-numerique/"
             licence:
           - name: "Cfacile : Introduction au langage C"
             type: "Cours complet"
@@ -145,20 +130,20 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-  #        - name: "Réseaux"
-  #          type: "Cours complet"
-  #          volume: "7h"
-  #          url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/roth/Rx-Reseaux/index.html"
-  #          licence:
-  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-  #        - name: "Fondamentaux des réseaux"
-  #          type: "Cours complet"
-  #          volume: "5h"
-  #          url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/lohier/reseaux_fondamentaux/index.html"
-  #          licence:
-  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #        - name: "Réseaux"
+      #          type: "Cours complet"
+      #          volume: "7h"
+      #          url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/roth/Rx-Reseaux/index.html"
+      #          licence:
+      #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #        - name: "Fondamentaux des réseaux"
+      #          type: "Cours complet"
+      #          volume: "5h"
+      #          url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/reseaux/lohier/reseaux_fondamentaux/index.html"
+      #          licence:
+      #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Architecture et mécanismes de base des systèmes informatiques"
         resources:
           - name: "L'obsolescence"
@@ -182,25 +167,20 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Représentation de l’information en binaire : les nombres réels"
-     #       type: "Grain ou élément de cours"
-     #       volume: "4h"
-     #       url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/architecture-systeme-d-exploitation/peuch/R2-STI/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-   #       - name: "Représentation de l’information en binaire : les nombres signés/non signés"
-  #          type: "TP, exercice, quiz"
-  #          volume: "4h"
-  #          url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/architecture-systeme-d-exploitation/peuch/binaire/index.html"
-  #          licence:
-  #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-  #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Exploiter sa machine avec Unix"
-            type: "MOOC"
-            volume: "50h"
-            url: "https://www.fun-campus.fr/fr/cours/unix-de-base/"
-            licence:
+      #     - name: "Représentation de l’information en binaire : les nombres réels"
+      #       type: "Grain ou élément de cours"
+      #       volume: "4h"
+      #       url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/architecture-systeme-d-exploitation/peuch/R2-STI/index.html"
+      #       licence:
+      #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+      #       - name: "Représentation de l’information en binaire : les nombres signés/non signés"
+      #          type: "TP, exercice, quiz"
+      #          volume: "4h"
+      #          url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/architecture-systeme-d-exploitation/peuch/binaire/index.html"
+      #          licence:
+      #            - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+      #              image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Conception et Bases de données"
         resources:
           - name: "Excel"
@@ -231,13 +211,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-       #   - name: "Langage UML"
-       #     type: "Grain ou élément de cours"
-       #     volume: "9h"
-       #     url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/langages/kettaf/UML/index.html"
-       #     licence:
-       #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-       #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #   - name: "Langage UML"
+          #     type: "Grain ou élément de cours"
+          #     volume: "9h"
+          #     url: "https://prive.iutenligne.net/c8vPeFPyxc0OvQ5Q/informatique/langages/kettaf/UML/index.html"
+          #     licence:
+          #       - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #         image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Bases de données relationnelles : apprendre pour utiliser"
             type: "MOOC"
             volume: "21h"
@@ -519,20 +499,20 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Projet Professionnel Personnalisé"
         resources:
-  #        - name: "Projet professionnel personnalisé"
-  #          type: "Module"
-  #          volume: "2h"
-  #          url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-  #          licence:
- #             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
- #               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-     #     - name: "Projet professionnel personnalisé : connaissance de soi"
-     #       type: "Module"
-     #       volume: "13h30"
-     #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #        - name: "Projet professionnel personnalisé"
+          #          type: "Module"
+          #          volume: "2h"
+          #          url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #          licence:
+          #             - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #               image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Projet professionnel personnalisé : connaissance de soi"
+          #       type: "Module"
+          #       volume: "13h30"
+          #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/detemple/ppp-connaissance-soi/seance-ppp-general/index.html"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Savoir gérer un projet"
             type: "Module"
             volume: "2h"
@@ -556,16 +536,6 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
       - name: "Économie, comptabilité, organisations"
         resources:
-          - name: "Introduction à l'analyse économique"
-            type: "MOOC"
-            volume: "30h"
-            url: "https://www.fun-campus.fr/fr/cours/introduction-a-lanalyse-economique/"
-            licence:
-          - name: "Comptabilité générale"
-            type: "MOOC"
-            volume: "40h"
-            url: "https://www.fun-campus.fr/fr/cours/comptabilite-generale/"
-            licence:
           - name: "Matériels informatiques et logiciels"
             type: "Module"
             volume: "4h"
@@ -703,13 +673,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-    #      - name: "Rechercher de l'information"
-    #        type: "Cours complet"
-    #        volume: "5h15"
-    #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
+          #      - name: "Rechercher de l'information"
+          #        type: "Cours complet"
+          #        volume: "5h15"
+          #        url: "https://uoh.fr/front/noticefr/?uuid=f017d670-b9f5-426e-86e2-52778712857c"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "Diffuser et valoriser mes travaux et publications (HAL, réseaux sociaux académiques,..)"
             type: "Cours complet"
             volume: "5h"
@@ -777,7 +747,7 @@ years:
             type: "Cous complet"
             volume: "1h"
             url: "https://aidealareussite.unistra.fr/course/view.php?id=17"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
           - name: "La gestion du temps"
@@ -994,9 +964,9 @@ years:
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=1080"
-            licence: 
+            licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg" 
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
 
   - name: "2ème année"
     ue:
@@ -1051,16 +1021,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Programmation en C"
-            type: "MOOC"
-            volume: "45h"
-            url: "https://www.fun-campus.fr/fr/cours/programmation-en-c/"
-            licence:
-          - name: "Bases du web"
-            type: "MOOC"
-            volume: "48h"
-            url: "https://www.fun-campus.fr/fr/cours/bases-du-web/"
-            licence:
           - name: "Décodeur RFID"
             type: "Module"
             volume: "12h"
@@ -1082,13 +1042,13 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
-     #     - name: "TP de Maths en C sur la résolution des équations du second degré à coefficients complexes"
-     #       type: "TP, exercice, quiz"
-     #       volume: "6h"
-     #       url: "https://www.iutenligne.net/ressources/tp-de-maths-en-c-sur-la-resolution-des-equations-du-second-degre-coefficients-complexes"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "TP de Maths en C sur la résolution des équations du second degré à coefficients complexes"
+          #       type: "TP, exercice, quiz"
+          #       volume: "6h"
+          #       url: "https://www.iutenligne.net/ressources/tp-de-maths-en-c-sur-la-resolution-des-equations-du-second-degre-coefficients-complexes"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Java pour l’informatique industrielle"
             type: "Module"
             volume: "5h"
@@ -1140,13 +1100,13 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Systèmes et réseaux"
         resources:
-    #      - name: "Réseau de communication industriel"
-    #        type: "Cours complet"
-    #        volume: "20h"
-    #        url: "https://prive.iutenligne.net/2WWd54tX7LVFHwrb/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #      - name: "Réseau de communication industriel"
+          #        type: "Cours complet"
+          #        volume: "20h"
+          #        url: "https://prive.iutenligne.net/2WWd54tX7LVFHwrb/informatique/informatique-industrielle/vrignat/reseauxpviutenligne/index.htm"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Défis et enjeux de la cybersécurité"
             type: "MOOC"
             volume: "11h"
@@ -1334,20 +1294,20 @@ years:
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
       - name: "Expression-communication"
         resources:
-     #     - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
-     #       type: "Module"
-     #       volume: "4h"
-     #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
-     #       licence:
-     #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-     #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-    #      - name: "Projet professionnel personnalisé"
-    #        type: "Module"
-    #        volume: "2h"
-    #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
-    #        licence:
-    #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
-    #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #     - name: "Du bilan au stage ou à l’emploi : 4 étapes en formes de fiches"
+          #       type: "Module"
+          #       volume: "4h"
+          #       url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/expression/dupuis/bilan_stage_emploi/index.html"
+          #       licence:
+          #         - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #           image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
+          #      - name: "Projet professionnel personnalisé"
+          #        type: "Module"
+          #        volume: "2h"
+          #        url: "https://prive.iutenligne.net/ZYhCNdZjX4tWQUvi/projet-personnel-et-professionnel/iquille_allonneau/ppp/index.html"
+          #        licence:
+          #          - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
+          #            image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
           - name: "Rapport ou mémoire de stage"
             type: "Cours complet"
             volume: "3h"

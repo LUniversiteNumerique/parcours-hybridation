@@ -13,20 +13,17 @@ years:
     ue:
       - name: "IA et disciplines"
         resources:
-
-
-
           - name: "Et l'IA pour ma discipline ?"
             type: "Grain ou élément de cours"
             volume: "1h"
             url: "https://univ-cotedazur.fr/efelia-cote-dazur/formation-initiale/competences-transversales-ia-1"
             creationdate: "01/09/2026"
-            info: > 
-             Le dernier chapitre de la compétence transversale « Grands défis sociétaux : 
-             Intelligence artificielle (IA) » (L2) se décline en 7 versions afin d'offrir une ouverture sur les applications 
-             de l’IA et les enjeux qu’elle soulève dans différents domaines disciplinaires : Santé (Psychologie, Médecine, STAPS) 
-             ; Droit et Science Politique ; Économie-Gestion ; Lettres, Langues, Art, Communication ; Sciences Humaines et Sociales (SHS) 
-             ; Sciences de la Vie (SV) ; Sciences et Technologies (ST).           
+            info: >
+              Le dernier chapitre de la compétence transversale « Grands défis sociétaux : 
+              Intelligence artificielle (IA) » (L2) se décline en 7 versions afin d'offrir une ouverture sur les applications 
+              de l’IA et les enjeux qu’elle soulève dans différents domaines disciplinaires : Santé (Psychologie, Médecine, STAPS) 
+              ; Droit et Science Politique ; Économie-Gestion ; Lettres, Langues, Art, Communication ; Sciences Humaines et Sociales (SHS) 
+              ; Sciences de la Vie (SV) ; Sciences et Technologies (ST).
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
