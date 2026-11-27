@@ -146,6 +146,8 @@ years:
             volume: "4min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1445"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Gestion de projet"
             type: "Cours complet"
             volume: "60h"
@@ -246,6 +248,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"
@@ -1038,6 +1042,8 @@ years:
             volume: "8min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1105"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Qu’est-ce qu’un leader ?"
             type: "Grain ou élément de cours"
             volume: "7min"
@@ -1064,6 +1070,8 @@ years:
             volume: "12min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1047"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Former et développer les compétences : innovation et pilotage"
             type: "MOOC"
             volume: "12h"
@@ -1115,6 +1123,8 @@ years:
             volume: "6h"
             url: "http://ressources.aunege.fr/notice/view/aunege-1177"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Stratégie d'entreprise"
             type: "Cours complet"
             volume: "30h"

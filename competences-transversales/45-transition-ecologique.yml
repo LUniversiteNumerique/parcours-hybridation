@@ -746,6 +746,8 @@ years:
             volume: "11min"
             url: "https://www.uved.fr/fiche/ressource/impacts-du-changement-climatique-sur-les-ecosystemes-et-la-biodiversite"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Peuples autochtones et communautés locales en prise avec le changement"
             type: "Grain ou élément de cours"
             volume: "12min"

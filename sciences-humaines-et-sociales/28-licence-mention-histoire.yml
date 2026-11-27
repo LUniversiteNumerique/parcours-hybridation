@@ -86,6 +86,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -628,6 +630,8 @@ years:
             volume: "1h"
             url: "https://uoh.fr/front/noticefr/?uuid=91a865a5-dcc0-4695-82e5-1a846c403675"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Guerre et Paix en Islam"
             type: "Cours complet"
             volume: "12h"

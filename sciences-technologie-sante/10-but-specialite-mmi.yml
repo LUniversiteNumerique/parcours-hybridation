@@ -195,6 +195,8 @@ years:
             volume: "35h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=5"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Algorithmique"
             type: "Cours complet"
             volume: "20h"
@@ -359,6 +361,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"

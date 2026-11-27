@@ -30,6 +30,8 @@ years:
             volume: "1h"
             url: "https://www.canal-u.tv/chaines/universite-paris-1/les-ruptures-de-l-epoque-moderne"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "18e siècle : le combat des Lumières"
             type: "MOOC"
             volume: "12h"
@@ -253,6 +255,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Identifier et Développer ses Compétences Transversales"
             type: "TP, exercice, quiz"
             volume: "1h"

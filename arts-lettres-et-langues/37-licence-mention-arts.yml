@@ -233,6 +233,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"
@@ -693,6 +695,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"

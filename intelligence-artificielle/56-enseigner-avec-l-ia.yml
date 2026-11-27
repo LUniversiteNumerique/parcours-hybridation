@@ -502,6 +502,8 @@ years:
               de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
               les pratiques d’enseignement et d’évaluation.
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Formation des enseignants et des formateurs du supérieur et à l’accompagnement du geste enseignant"
             type: "Grain ou élément de cours"
             volume: "1h30"

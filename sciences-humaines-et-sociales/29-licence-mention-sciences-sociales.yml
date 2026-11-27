@@ -209,6 +209,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -912,6 +914,8 @@ years:
             volume: "1h"
             url: "https://uoh.fr/ressources/?fiche=ee0b78ed-7c56-46e8-8bb6-4e687bae62cc"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Les acteurs de l’adaptation aux changements globaux"
             type: "Grain ou élément de cours"
             volume: "8min"
@@ -954,6 +958,8 @@ years:
             volume: "20min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1327?lightbox=true"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Une histoire de la finance"
             type: "Cours complet"
             volume: "4h"

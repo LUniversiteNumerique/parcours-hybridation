@@ -185,6 +185,8 @@ years:
             volume: "4h50"
             url: "https://moodle.luniversitenumerique.fr/course/index.php?categoryid=112"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Modèle d’un système : Introduction"
             type: "Grain ou élément de cours"
             volume: "10min"
@@ -384,6 +386,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"

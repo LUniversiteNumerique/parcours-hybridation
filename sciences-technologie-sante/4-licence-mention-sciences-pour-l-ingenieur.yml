@@ -129,16 +129,22 @@ years:
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=11"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Analyse 2"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=12"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Algèbre 1"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Algèbre linaire 1"
             type: "Cours complet"
             volume: "20h"
@@ -446,6 +452,8 @@ years:
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Socle en Mécanique"
             type: "MOOC"
             volume: "10h"
@@ -748,6 +756,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"
@@ -1212,11 +1222,15 @@ years:
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=17"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Le site à Sido : Mécanique des Solides et des Matériaux"
             type: "Cours complet"
             volume: "3h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-3335"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Physique à main levée – Mécanique des solides"
             type: "Grain ou élément de cours"
             volume: "24min"
@@ -1431,6 +1445,8 @@ years:
             volume: "24h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-741"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Eléments de Résistance Des Matériaux"
             type: "Cours complet"
             volume: "30h"
@@ -1557,6 +1573,8 @@ years:
             volume: "40h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=13"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Algorithmique et programmation"
             type: "Module"
             volume: "40h"
@@ -1662,6 +1680,8 @@ years:
             volume: "4h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=15"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Outils mathématiques pour la physique"
             type: "Module"
             volume: "24h"
@@ -1968,11 +1988,15 @@ years:
             volume: "7h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5397"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Méthodes d’intégration"
             type: "Module"
             volume: "5h"
             url: "http://www.unit.eu/moteur-ressources-educatives-libres/notice/view/unit-ori-wf-1-5385"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Outils mathématiques pour la physique"
             type: "Module"
             volume: "24h"

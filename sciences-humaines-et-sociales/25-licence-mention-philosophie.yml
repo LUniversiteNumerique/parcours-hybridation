@@ -114,6 +114,8 @@ years:
             volume: "12h"
             url: "https://www.fun-mooc.fr/fr/cours/18e-siecle-le-combat-des-lumieres/"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Lire Montesquieu. les enjeux d’une édition"
             type: "Cours complet"
             volume: "8h"
@@ -142,6 +144,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"
@@ -592,6 +596,8 @@ years:
             volume: "1h"
             url: "https://uoh.fr/ressources/?fiche=42256ca3-03c0-4368-974e-4265477c3a90"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Philosophie et développement durable"
             type: "Grain ou élément de cours"
             volume: "10min"
