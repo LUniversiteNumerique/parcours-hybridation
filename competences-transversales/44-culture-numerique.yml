@@ -312,6 +312,8 @@ years:
             volume: "15min"
             url: "https://ikigai.games/games/gameDetails/103"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "IA dans l'enseignement supérieur"
             type: "Cours complet"
             volume: "10h"

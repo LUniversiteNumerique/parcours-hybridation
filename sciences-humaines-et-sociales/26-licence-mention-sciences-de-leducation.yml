@@ -67,6 +67,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"
@@ -671,6 +673,8 @@ years:
             volume: "2h"
             url: "https://uoh.fr/ressources/?fiche=d6e59383-5539-4bc1-9c13-c444a6a89671"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Demain l’université"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -711,6 +715,8 @@ years:
             volume: "1h20"
             url: "https://uoh.fr/ressources/?fiche=ee0b78ed-7c56-46e8-8bb6-4e687bae62cc"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "L’école pour tous ? Les défis d’un système éducatif inclusif "
             type: "Grain ou élément de cours"
             volume: "40min"
@@ -725,6 +731,8 @@ years:
             volume: "15min"
             url: "https://ikigai.games/games/gameDetails/103"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Enseigner avec le numérique à l’école primaire"
             type: "Module"
             volume: "5h"
@@ -960,6 +968,8 @@ years:
             volume: "6h"
             url: "https://uoh.fr/ressources/?fiche=94c86612-f6ae-4feb-a2c8-1f33fb6fbbd8"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Les particularités de la communication"
             type: "Module"
             volume: "2h"
@@ -1011,6 +1021,8 @@ years:
             volume: "45min"
             url: "https://uoh.fr/ressources/?fiche=7bca3dc5-0561-4581-a3ab-67bfb1b5eab2"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Méthode notionnelle-fonctionnelle pour l’enseignement des langues"
             type: "Cours complet"
             volume: "1h"

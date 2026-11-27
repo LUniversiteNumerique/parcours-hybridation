@@ -30,6 +30,8 @@ years:
             volume: "20min"
             url: "http://ressources.aunege.fr/notice/view/aunege-1195"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "A quoi sert l'expérimentation en écomonie ? "
             type: "Grain ou élément de cours"
             volume: "5min"
@@ -86,6 +88,8 @@ years:
             volume: "4h"
             url: "http://ressources.aunege.fr/nuxeo/site/esupversions/e6188409-e1fc-474b-9db0-390d0ba451fa/co/PUBLICATION_web.html"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Marché et concurrence"
             type: "Grain ou élément de cours"
             volume: "1h14"
@@ -114,6 +118,8 @@ years:
             volume: "30h"
             url: "https://courlis-pf.univ-lorraine.fr/"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Traitement des données avec tableur appliqué à l'économie et la gestion"
             type: "Cours complet"
             volume: "30h"
@@ -163,11 +169,15 @@ years:
             volume: "1h15"
             url: "https://www.canal-u.tv/chaines/utls/perspectives-sur-les-mathematiques-actuelles/economie-et-mathematiques"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Statistiques"
             type: "Cours complet"
             volume: "30h"
             url: "https://courlis-pf.univ-lorraine.fr/"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Traitement des données avec tableur appliqué à l'économie et la gestion"
             type: "Cours complet"
             volume: "30h"
@@ -229,21 +239,29 @@ years:
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-955"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "S'approprier l'innovation et la protéger"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-957"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Les structures industrielles et l'innovation"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-959"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Diffusion de l'innovation, espace et échelles territoriales des politiques d'innovation"
             type: "Module"
             volume: "5h"
             url: "http://ressources.aunege.fr/notice/view/aunege-961"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "L'économie de la connaissance"
             type: "Grain ou élément de cours"
             volume: "10min"
@@ -287,6 +305,8 @@ years:
             volume: "7h"
             url: "http://ressources.aunege.fr/notice/view/aunege-699"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Introduction à la psycho-économie: étude des comportements sociaux"
             type: "Module"
             volume: "3h30"

@@ -20,6 +20,8 @@ years:
               de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
               les pratiques d’enseignement et d’évaluation.
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"
           - name: "Appropriations disciplinaires de l’IA en Lettres et Langues"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -113,6 +115,8 @@ years:
               pédagogiques à mobiliser pour aborder la thématique de 
               l'intelligence artificielle (IA) avec les personnes étudiantes.
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"            
           - name: "Enseignant : comment utiliser un système d’IA dans le cadre de vos missions ?"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -172,6 +176,8 @@ years:
               l'utilisation de l'intelligence artificielle dans l'enseignement et 
               l'apprentissage.
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"            
           - name: "Une IA par jour"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -231,17 +237,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Déclaration de Dubaï sur les Ressources Éducatives Libres (REL) : les biens publics numériques et les technologies numériques au service d’un accès équitable et inclusif à la connaissance"
-            type: "Grain ou élément de cours"
-            volume: "1h"
-            url: "https://unesdoc.unesco.org/ark:/48223/pf0000392271_fre"
-            creationdate: "01/01/2024"
-            info: >
-              Cette déclaration de l'UNESCO démontre comment les technologies émergentes, 
-              comme l'IA, peuvent transformer l'accès à l'éducation.
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-sa.eu.svg"
   - name: "S'initier à la conception de modèles"
     ue:
       - name: "S'initier à la conception de modèles"
@@ -279,6 +274,8 @@ years:
               de l’IA générative, en cerner les apports et limites, et l’intégrer de façon cohérente dans 
               les pratiques d’enseignement et d’évaluation.
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Appropriations disciplinaires de l’IA en Lettres et Langues"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -293,18 +290,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Référentiel de compétence de l'agir critique"
-            type: "Grain ou élément de cours"
-            volume: "1h"
-            url: "https://zenodo.org/records/17872359"
-            creationdate: "01/01/2026"
-            info: >
-              Ce référentiel offre un cadre rigoureux et ouvert, ancré dans les 
-              compétences essentielles aux études postsecondaires afin de permettre 
-              aux apprenants d'exercer leur jugement.
-            licence:
-              - name: "Citer l'auteur"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by.svg"
           - name: "La Forge du Tuteur IA"
             type: "Grain ou élément de cours"
             volume: "1h"
@@ -331,34 +316,6 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Impact de l’IA sur les pratiques d’évaluation"
-            type: "Grain ou élément de cours"
-            volume: "1h30"
-            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-03-impact-de-l-ia-sur-les-pratiques-d-evaluation"
-            creationdate: "01/12/2025"
-            info: >
-              Ce 3ème webinaire a porté sur l'évolution des pratiques d'évaluation à l'ère 
-              de l'IA générative, passant d'un cadrage punitif à un cadrage pédagogique, 
-              avec la présentation du modèle PRAX-IA (Université de Lausanne), des balises 
-              IA de l'Université de Sherbrooke, et des retours d'expérience sur 
-              l'appropriation disciplinaire de l'IA en sciences de gestion 
-              (IAE de Montpellier et d'Aix).
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
-          - name: "Développer les compétences transversales des étudiants pour des usages éthiques et responsables de l’IA."
-            type: "Grain ou élément de cours"
-            volume: "1h30"
-            url: "https://www.canal-u.tv/chaines/dgesip/ia-sup-webinaire-02-developper-les-competences-transversales-des-etudiants-pour-des"
-            creationdate: "01/11/2025"
-            info: >
-              2ème webinaire de la série IA SUP, cette présentation a mis en avant plusieurs initiatives de 
-              formation à l’IA : le référentiel de compétences de Pix, le module d’autoformation de 
-              l’Université de Strasbourg, le dispositif « Brevet AI » de l’Université Paris-Saclay et 
-              la plateforme « MetropédIA » de l’UCLouvain destinée à former les enseignants.
-            licence:
-              - name: "Citer l'auteur - Pas d’Utilisation Commerciale"
-                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc.eu.svg"
           - name: "BrevetAI niveau avancé"
             type: "MOOC"
             volume: "20h"
@@ -373,13 +330,3 @@ years:
             licence:
               - name: "Citer l'auteur - Pas d’Utilisation Commerciale - Pas de Modification"
                 image: "https://luniversitenumerique.fr/cc-licenses/images/badges/by-nc-nd.eu.svg"
-          - name: "Metropedia"
-            type: "Grain ou élément de cours"
-            volume: "1h"
-            url: "https://view.genially.com/68b15ef95d61ac2fc43c037c"
-            creationdate: "01/09/2025"
-            info: >
-              MétropédIA est une plateforme d’activités et de ressources 
-              pédagogiques à mobiliser pour aborder la thématique de 
-              l'intelligence artificielle (IA) avec les personnes étudiantes.
-            licence:

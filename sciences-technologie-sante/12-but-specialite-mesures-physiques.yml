@@ -365,16 +365,22 @@ years:
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=11"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Analyse 2"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=12"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Algèbre 1"
             type: "TP, exercice, quiz"
             volume: "1h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=9"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Algèbre linaire 1"
             type: "Cours complet"
             volume: "20h"
@@ -803,6 +809,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Le commentaire de source : méthodologie"
             type: "Module"
             volume: "2h"
@@ -1235,6 +1243,8 @@ years:
             volume: "10h"
             url: "https://moodle.luniversitenumerique.fr/course/view.php?id=14"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Séries de Fourier"
             type: "TP, exercice, quiz"
             volume: "20min"

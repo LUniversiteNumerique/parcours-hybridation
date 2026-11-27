@@ -212,6 +212,8 @@ years:
             volume: "30h"
             url: "https://cel.hal.science/cel-00607411"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La psychologie économique"
             type: "Grain ou élément de cours"
             volume: "5min"

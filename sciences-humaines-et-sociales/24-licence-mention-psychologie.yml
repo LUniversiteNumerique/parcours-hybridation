@@ -139,6 +139,8 @@ years:
             volume: "30min"
             url: "https://ikigai.games/games/gameDetails/107"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "La méthodologie documentaire avec le tutoriel CERISE"
             type: "Cours complet"
             volume: "4h"
@@ -709,11 +711,15 @@ years:
             volume: "20h"
             url: "https://uoh.fr/ressources/?fiche=a4e7fab1-f0df-4306-8021-4883d57513f3"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Introduction à la psychologie positive"
             type: "Cours complet"
             volume: "10h"
             url: "https://uoh.fr/ressources/?fiche=82de813c-b9be-431f-b4f3-80823a92316b"
             licence:
+              - name: "Tous droits réservés"
+                image: "https://luniversitenumerique.fr/cc-licenses/images/badges/tous-droits-reserves.svg"   
           - name: "Jack Goody et l’empire de la littéracie"
             type: "Cours complet"
             volume: "4h"
